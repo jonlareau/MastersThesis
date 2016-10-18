@@ -1,0 +1,27 @@
+70 nlang native yes
+70 clang instructions yes
+70 clang useful yes
+70 dowk complete yes
+70 nums complete no
+70 nums partial yes
+70 htl instructions yes
+70 htl useful yes
+70 htc instructions yes
+70 htc useful yes
+70 room instructions yes
+70 room useful yes
+70 meal instructions yes
+70 meal useful yes
+70 story-bt speech_type extemp
+70 story-bt topic studies in southeast of US.
+70 story-at speech_type extemp
+70 story-at topic four weeks in germany, how did things change there
+70 general native yes
+70 general dialect standard
+70 general accent none
+70 general background speech none
+70 general environmental noise none
+70 general gender male
+70 general age adult
+70 general intelligibility ok
+70 general connection average

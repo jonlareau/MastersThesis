@@ -1,0 +1,27 @@
+119 nlang native no
+119 nlang useful yes
+119 clang instructions yes
+119 clang useful yes
+119 dowk complete yes
+119 nums complete yes
+119 htl instructions yes
+119 htl useful yes
+119 htc instructions yes
+119 htc useful yes
+119 room instructions yes
+119 room useful yes
+119 meal instructions yes
+119 meal useful yes
+119 story-bt speech_type extemp
+119 story-bt topic Description of her new car.
+119 story-at speech_type extemp
+119 story-at topic "my old car was not as comfortable as ny new one'
+119 general native no
+119 general dialect standard
+119 general accent none
+119 general background speech none
+119 general environmental noise none
+119 general gender female
+119 general age adult
+119 general intelligibility ok
+119 general connection average

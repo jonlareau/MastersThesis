@@ -1,0 +1,27 @@
+182 nlang native yes
+182 clang instructions yes
+182 clang useful yes
+182 dowk complete no
+182 dowk partial yes
+182 nums complete yes
+182 htl instructions yes
+182 htl useful yes
+182 htc instructions yes
+182 htc useful yes
+182 room instructions yes
+182 room useful yes
+182 meal instructions yes
+182 meal useful yes
+182 story-bt speech_type extemp
+182 story-bt topic He complains about the college and the TV programmes in Spanish
+182 story-at speech_type extemp
+182 story-at topic <can't understand>
+182 general native yes
+182 general dialect standard
+182 general accent none
+182 general background speech none
+182 general environmental noise strong noise
+182 general gender male
+182 general age adult
+182 general intelligibility ok
+182 general connection average

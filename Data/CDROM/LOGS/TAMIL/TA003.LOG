@@ -1,0 +1,74 @@
+3 labeler yeshwant
+3 label_date Sun Jul  7 16:25:08 PDT 1991
+3 nlang missing nothing
+3 nlang duration_sec 1.1
+3 nlang dc_offset 42
+3 nlang min_samp -1610
+3 nlang max_samp 2354
+3 nlang min_power10 16.5
+3 nlang max_power90 54.4
+3 clang comments CE ES SNL  
+3 clang missing CS
+3 clang duration_sec 1.8
+3 clang dc_offset 42
+3 clang min_samp -1666
+3 clang max_samp 2150
+3 clang min_power10 19.0
+3 clang max_power90 52.5
+3 dowk missing nothing
+3 dowk duration_sec 3.8
+3 dowk dc_offset 42
+3 dowk min_samp -2074
+3 dowk max_samp 2178
+3 dowk min_power10 19.5
+3 dowk max_power90 54.5
+3 nums comments NI SNL  
+3 nums missing 0 10
+3 nums duration_sec 4.7
+3 nums dc_offset 42
+3 nums min_samp -1530
+3 nums max_samp 1966
+3 nums min_power10 21.6
+3 nums max_power90 53.9
+3 htl comments SNL  
+3 htl missing nothing
+3 htl duration_sec 3.0
+3 htl dc_offset 42
+3 htl min_samp -2314
+3 htl max_samp 2870
+3 htl min_power10 17.6
+3 htl max_power90 56.4
+3 htc missing nothing
+3 htc duration_sec 1.9
+3 htc dc_offset 42
+3 htc min_samp -2974
+3 htc max_samp 4382
+3 htc min_power10 17.3
+3 htc max_power90 55.6
+3 room missing nothing
+3 room duration_sec 8.8
+3 room dc_offset 42
+3 room min_samp -4186
+3 room max_samp 3494
+3 room min_power10 17.6
+3 room max_power90 54.4
+3 meal comments SNL  
+3 meal missing nothing
+3 meal duration_sec 5.3
+3 meal dc_offset 42
+3 meal min_samp -1846
+3 meal max_samp 1662
+3 meal min_power10 19.0
+3 meal max_power90 50.7
+3 story-bt comments BN CE SS SNL  
+3 story-bt missing CS
+3 story-bt duration_sec 46.2
+3 story-bt dc_offset 42
+3 story-bt min_samp -3962
+3 story-bt max_samp 3874
+3 story-bt min_power10 18.9
+3 story-bt max_power90 56.4
+3 gender male
+3 age adult
+3 connection average
+3 intelligibility ok

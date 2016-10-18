@@ -1,0 +1,57 @@
+80 labeler khoward
+80 label_date Fri Nov 29 15:42:31 PST 1991
+80 dowk missing nothing
+80 dowk duration_sec 5.8
+80 dowk dc_offset 43
+80 dowk min_samp -6551
+80 dowk max_samp 5473
+80 dowk min_power10 21.8
+80 dowk max_power90 56.2
+80 nums missing nothing
+80 nums duration_sec 9.1
+80 nums dc_offset 43
+80 nums min_samp -7691
+80 nums max_samp 7041
+80 nums min_power10 23.1
+80 nums max_power90 59.2
+80 htl missing nothing
+80 htl duration_sec 6.3
+80 htl dc_offset 43
+80 htl min_samp -5451
+80 htl max_samp 4041
+80 htl min_power10 25.0
+80 htl max_power90 58.7
+80 htc missing nothing
+80 htc duration_sec 7.5
+80 htc dc_offset 43
+80 htc min_samp -6891
+80 htc max_samp 5277
+80 htc min_power10 19.4
+80 htc max_power90 55.7
+80 room comments CE EN  
+80 room missing CS
+80 room duration_sec 11.3
+80 room dc_offset 43
+80 room min_samp -7079
+80 room max_samp 7013
+80 room min_power10 23.5
+80 room max_power90 62.3
+80 meal missing nothing
+80 meal duration_sec 8.7
+80 meal dc_offset 43
+80 meal min_samp -4855
+80 meal max_samp 4729
+80 meal min_power10 16.0
+80 meal max_power90 58.7
+80 story-bt comments BN EN CE SS  
+80 story-bt missing CS
+80 story-bt duration_sec 48.3
+80 story-bt dc_offset 43
+80 story-bt min_samp -6823
+80 story-bt max_samp 7853
+80 story-bt min_power10 15.8
+80 story-bt max_power90 60.1
+80 gender male
+80 age adult
+80 connection average
+80 intelligibility ok

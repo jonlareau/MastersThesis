@@ -1,0 +1,48 @@
+56 nlang native yes
+56 clang instructions yes
+56 clang useful yes
+56 hlang instructions yes
+56 hlang useful yes
+56 age instructions yes
+56 age useful yes
+56 bdate instructions yes
+56 bdate useful yes
+56 morf instructions yes
+56 morf useful yes
+56 US instructions yes
+56 US useful yes
+56 child instructions yes
+56 child useful yes
+56 zipcode instructions yes
+56 zipcode useful yes
+56 day instructions no
+56 day useful yes
+56 route instructions yes
+56 route useful yes
+56 hometown instructions yes
+56 hometown useful yes
+56 climate instructions yes
+56 climate useful yes
+56 room instructions yes
+56 room useful yes
+56 meal instructions yes
+56 meal useful yes
+56 story-bt speech_type extemp
+56 story-bt topic His hindi
+56 story-at speech_type extemp
+56 story-at topic He communicates a lot through the computer
+56 tone instructions yes
+56 tone useful yes
+56 yorn instructions yes
+56 yorn useful yes
+56 address instructions yes
+56 address useful yes
+56 general native yes
+56 general dialect standard
+56 general accent bomabay accent, lot of english words used
+56 general background speech none
+56 general environmental noise none
+56 general gender male
+56 general age adult
+56 general intelligibility ok
+56 general connection average

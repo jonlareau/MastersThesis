@@ -1,0 +1,26 @@
+38 nlang native yes
+38 clang instructions yes
+38 clang useful yes
+38 dowk complete yes
+38 nums complete yes
+38 htl instructions yes
+38 htl useful yes
+38 htc instructions yes
+38 htc useful yes
+38 room instructions yes
+38 room useful yes
+38 meal instructions yes
+38 meal useful yes
+38 story-bt speech_type extemp
+38 story-bt topic talk about himself (bavarian, working in the US)
+38 story-at speech_type extemp
+38 story-at topic visit parents in munich
+38 general native yes
+38 general dialect standard
+38 general accent none
+38 general background speech none
+38 general environmental noise none
+38 general gender male
+38 general age adult
+38 general intelligibility ok
+38 general connection average

@@ -1,0 +1,84 @@
+31 labeler khoward
+31 label_date Thu Aug  8 15:02:13 PDT 1991
+31 nlang comments CE  
+31 nlang missing CS
+31 nlang duration_sec 0.9
+31 nlang dc_offset 42
+31 nlang min_samp -3030
+31 nlang max_samp 3102
+31 nlang min_power10 21.3
+31 nlang max_power90 56.0
+31 clang missing nothing
+31 clang duration_sec 1.3
+31 clang dc_offset 42
+31 clang min_samp -3346
+31 clang max_samp 3574
+31 clang min_power10 21.4
+31 clang max_power90 57.3
+31 dowk missing nothing
+31 dowk duration_sec 6.9
+31 dowk dc_offset 42
+31 dowk min_samp -3602
+31 dowk max_samp 4838
+31 dowk min_power10 21.4
+31 dowk max_power90 57.3
+31 nums comments CE  
+31 nums missing 9 10
+31 nums duration_sec 9.1
+31 nums dc_offset 42
+31 nums min_samp -3062
+31 nums max_samp 3478
+31 nums min_power10 20.9
+31 nums max_power90 57.1
+31 htl comments CE  
+31 htl missing CS
+31 htl duration_sec 8.7
+31 htl dc_offset 42
+31 htl min_samp -3598
+31 htl max_samp 5046
+31 htl min_power10 21.9
+31 htl max_power90 57.4
+31 htc comments CE  
+31 htc missing CS
+31 htc duration_sec 7.9
+31 htc dc_offset 42
+31 htc min_samp -4194
+31 htc max_samp 5682
+31 htc min_power10 21.8
+31 htc max_power90 61.7
+31 room comments SNL  
+31 room missing nothing
+31 room duration_sec 10.2
+31 room dc_offset 42
+31 room min_samp -3714
+31 room max_samp 4270
+31 room min_power10 21.2
+31 room max_power90 58.9
+31 meal comments SNL  
+31 meal missing nothing
+31 meal duration_sec 6.8
+31 meal dc_offset 42
+31 meal min_samp -3666
+31 meal max_samp 4470
+31 meal min_power10 20.9
+31 meal max_power90 59.2
+31 story-bt comments CE SS  
+31 story-bt missing CS
+31 story-bt duration_sec 49.0
+31 story-bt dc_offset 42
+31 story-bt min_samp -4282
+31 story-bt max_samp 5086
+31 story-bt min_power10 23.1
+31 story-bt max_power90 59.5
+31 story-at comments CE SS  
+31 story-at missing CS
+31 story-at duration_sec 8.9
+31 story-at dc_offset 42
+31 story-at min_samp -3946
+31 story-at max_samp 4738
+31 story-at min_power10 21.9
+31 story-at max_power90 57.3
+31 gender male
+31 age adult
+31 connection average
+31 intelligibility ok

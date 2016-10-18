@@ -1,0 +1,25 @@
+93 nlang native yes
+93 clang instructions yes
+93 clang useful yes
+93 dowk complete yes
+93 nums complete no
+93 nums partial yes
+93 htl instructions yes
+93 htl useful yes
+93 htc instructions yes
+93 htc useful yes
+93 room instructions yes
+93 room useful yes
+93 meal instructions yes
+93 meal useful yes
+93 story-bt speech_type extemp
+93 story-bt topic what he likes, where he lives
+93 general native yes
+93 general dialect Puerto Rican
+93 general accent none
+93 general background speech none
+93 general environmental noise none
+93 general gender male
+93 general age adult
+93 general intelligibility ok
+93 general connection poor

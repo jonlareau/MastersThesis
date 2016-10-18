@@ -1,0 +1,64 @@
+22 labeler khoward
+22 label_date Fri Jul 12 14:21:21 PDT 1991
+22 clang missing nothing
+22 clang duration_sec 0.6
+22 clang dc_offset 42
+22 clang min_samp -4726
+22 clang max_samp 4558
+22 clang min_power10 13.8
+22 clang max_power90 60.5
+22 dowk missing nothing
+22 dowk duration_sec 4.0
+22 dowk dc_offset 42
+22 dowk min_samp -6046
+22 dowk max_samp 3686
+22 dowk min_power10 17.6
+22 dowk max_power90 59.8
+22 nums missing nothing
+22 nums duration_sec 4.9
+22 nums dc_offset 42
+22 nums min_samp -5366
+22 nums max_samp 3158
+22 nums min_power10 20.5
+22 nums max_power90 56.9
+22 htl missing nothing
+22 htl duration_sec 1.9
+22 htl dc_offset 42
+22 htl min_samp -5302
+22 htl max_samp 3222
+22 htl min_power10 14.3
+22 htl max_power90 60.0
+22 room missing nothing
+22 room duration_sec 2.7
+22 room dc_offset 42
+22 room min_samp -7398
+22 room max_samp 4410
+22 room min_power10 24.6
+22 room max_power90 61.8
+22 meal missing nothing
+22 meal duration_sec 2.0
+22 meal dc_offset 42
+22 meal min_samp -5094
+22 meal max_samp 3766
+22 meal min_power10 17.0
+22 meal max_power90 60.1
+22 story-bt comments CE SS  
+22 story-bt missing CS
+22 story-bt duration_sec 45.1
+22 story-bt dc_offset 42
+22 story-bt min_samp -7414
+22 story-bt max_samp 5138
+22 story-bt min_power10 14.9
+22 story-bt max_power90 58.7
+22 story-at comments CE  
+22 story-at missing CS
+22 story-at duration_sec 9.7
+22 story-at dc_offset 42
+22 story-at min_samp -7190
+22 story-at max_samp 4278
+22 story-at min_power10 16.4
+22 story-at max_power90 60.0
+22 gender male
+22 age adult
+22 connection good
+22 intelligibility ok

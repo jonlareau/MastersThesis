@@ -1,0 +1,54 @@
+74 labeler ames
+74 label_date Wed Dec 18 10:43:59 PST 1991
+74 clang comments EN  
+74 clang missing nothing
+74 clang duration_sec 2.1
+74 clang dc_offset 42
+74 clang min_samp -2682
+74 clang max_samp 3634
+74 clang min_power10 19.6
+74 clang max_power90 52.9
+74 dowk comments EN  
+74 dowk missing nothing
+74 dowk duration_sec 4.1
+74 dowk dc_offset 42
+74 dowk min_samp -2126
+74 dowk max_samp 3070
+74 dowk min_power10 20.9
+74 dowk max_power90 55.4
+74 nums comments EN  
+74 nums missing nothing
+74 nums duration_sec 9.5
+74 nums dc_offset 42
+74 nums min_samp -3606
+74 nums max_samp 3170
+74 nums min_power10 19.5
+74 nums max_power90 47.1
+74 htl comments CE EN  
+74 htl missing cs
+74 htl duration_sec 8.1
+74 htl dc_offset 42
+74 htl min_samp -2734
+74 htl max_samp 3070
+74 htl min_power10 20.0
+74 htl max_power90 54.0
+74 htc comments EN  
+74 htc missing nothing
+74 htc duration_sec 6.3
+74 htc dc_offset 42
+74 htc min_samp -3866
+74 htc max_samp 3418
+74 htc min_power10 20.8
+74 htc max_power90 56.6
+74 room comments EN SNL  
+74 room missing nothing
+74 room duration_sec 8.0
+74 room dc_offset 42
+74 room min_samp -3206
+74 room max_samp 3150
+74 room min_power10 20.6
+74 room max_power90 53.8
+74 gender male
+74 age adult
+74 connection average
+74 intelligibility ok

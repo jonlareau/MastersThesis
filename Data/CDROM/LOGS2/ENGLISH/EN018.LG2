@@ -1,0 +1,25 @@
+18 nlang native yes
+18 clang instructions yes
+18 clang useful yes
+18 dowk complete yes
+18 nums complete no
+18 nums partial yes
+18 htl instructions yes
+18 htl useful yes
+18 htc instructions yes
+18 htc useful yes
+18 room instructions yes
+18 room useful yes
+18 story-bt speech_type read
+18 story-bt topic tektronix survey
+18 story-at speech_type extemp
+18 story-at topic tektronix survey
+18 general native yes
+18 general dialect standard
+18 general accent none
+18 general background speech none
+18 general environmental noise none
+18 general gender male
+18 general age adult
+18 general intelligibility ok
+18 general connection average

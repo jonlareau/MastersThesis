@@ -1,0 +1,24 @@
+58 nlang native yes
+58 clang instructions yes
+58 clang useful yes
+58 dowk complete yes
+58 nums complete yes
+58 htl instructions no
+58 htl useful yes
+58 htc instructions yes
+58 htc useful yes
+58 room instructions yes
+58 room useful yes
+58 meal instructions yes
+58 meal useful yes
+58 story-bt speech_type extemp
+58 story-bt topic My education, family, occupation, hobby and church.
+58 general native yes
+58 general dialect standard
+58 general accent A little bit of North Korean accent.
+58 general background speech none
+58 general environmental noise none
+58 general gender male
+58 general age adult
+58 general intelligibility ok
+58 general connection average

@@ -1,0 +1,27 @@
+218 nlang native yes
+218 clang instructions yes
+218 clang useful yes
+218 dowk complete yes
+218 nums complete no
+218 nums partial yes
+218 htl instructions yes
+218 htl useful yes
+218 htc instructions yes
+218 htc useful yes
+218 room instructions yes
+218 room useful yes
+218 meal instructions yes
+218 meal useful yes
+218 story-bt speech_type extemp
+218 story-bt topic a recent bicycle trip
+218 story-at speech_type extemp
+218 story-at topic few people finished the whole route
+218 general native yes
+218 general dialect standard
+218 general accent none
+218 general background speech none
+218 general environmental noise none
+218 general gender male
+218 general age adult
+218 general intelligibility ok
+218 general connection average

@@ -1,0 +1,82 @@
+59 labeler khoward
+59 label_date Sun Nov 17 14:12:41 PST 1991
+59 nlang missing nothing
+59 nlang duration_sec 1.6
+59 nlang dc_offset 43
+59 nlang min_samp -3139
+59 nlang max_samp 2725
+59 nlang min_power10 19.5
+59 nlang max_power90 54.2
+59 clang comments CB CE ES  
+59 clang missing CS
+59 clang duration_sec 1.8
+59 clang dc_offset 43
+59 clang min_samp -2839
+59 clang max_samp 2141
+59 clang min_power10 22.7
+59 clang max_power90 57.6
+59 dowk missing nothing
+59 dowk duration_sec 7.1
+59 dowk dc_offset 43
+59 dowk min_samp -4987
+59 dowk max_samp 6741
+59 dowk min_power10 18.7
+59 dowk max_power90 59.1
+59 nums comments CE  
+59 nums missing 7 8 9 10
+59 nums duration_sec 8.4
+59 nums dc_offset 42
+59 nums min_samp -4430
+59 nums max_samp 4610
+59 nums min_power10 18.5
+59 nums max_power90 58.0
+59 htl comments CE  
+59 htl missing CS
+59 htl duration_sec 4.2
+59 htl dc_offset 42
+59 htl min_samp -3602
+59 htl max_samp 3878
+59 htl min_power10 21.8
+59 htl max_power90 58.3
+59 htc missing nothing
+59 htc duration_sec 6.0
+59 htc dc_offset 42
+59 htc min_samp -2910
+59 htc max_samp 3510
+59 htc min_power10 22.3
+59 htc max_power90 55.4
+59 room comments CE  
+59 room missing CS
+59 room duration_sec 10.7
+59 room dc_offset 43
+59 room min_samp -2523
+59 room max_samp 2749
+59 room min_power10 23.6
+59 room max_power90 54.0
+59 meal missing nothing
+59 meal duration_sec 6.3
+59 meal dc_offset 42
+59 meal min_samp -4494
+59 meal max_samp 3990
+59 meal min_power10 22.6
+59 meal max_power90 55.8
+59 story-bt comments CE SNL SS  
+59 story-bt missing CS
+59 story-bt duration_sec 43.4
+59 story-bt dc_offset 43
+59 story-bt min_samp -3207
+59 story-bt max_samp 3377
+59 story-bt min_power10 20.8
+59 story-bt max_power90 52.3
+59 story-at comments SS  
+59 story-at missing nothing
+59 story-at duration_sec 8.7
+59 story-at dc_offset 43
+59 story-at min_samp -2807
+59 story-at max_samp 2385
+59 story-at min_power10 21.8
+59 story-at max_power90 51.4
+59 gender female
+59 age adult
+59 connection average
+59 intelligibility ok

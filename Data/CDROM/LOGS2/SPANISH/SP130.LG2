@@ -1,0 +1,28 @@
+130 nlang native yes
+130 clang instructions yes
+130 clang useful yes
+130 dowk complete no
+130 dowk partial no
+130 dowk useful yes
+130 nums complete yes
+130 htl instructions yes
+130 htl useful yes
+130 htc instructions yes
+130 htc useful yes
+130 room instructions no
+130 room useful yes
+130 meal instructions yes
+130 meal useful yes
+130 story-bt speech_type extemp
+130 story-bt topic what he likes to do, his language of Mexican/American will dominate in the U.S.
+130 story-at speech_type extemp
+130 story-at topic everyone should learn at least two languages
+130 general native no
+130 general dialect standard
+130 general accent very faint American, he is Mexican but has never been to M.
+130 general background speech none
+130 general environmental noise none
+130 general gender male
+130 general age adult
+130 general intelligibility poor
+130 general connection average

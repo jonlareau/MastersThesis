@@ -1,0 +1,28 @@
+11 nlang native yes
+11 clang instructions yes
+11 clang useful yes
+11 dowk complete no
+11 dowk partial yes
+11 nums complete no
+11 nums partial yes
+11 htl instructions no
+11 htl useful yes
+11 htc instructions yes
+11 htc useful yes
+11 room instructions yes
+11 room useful yes
+11 meal instructions yes
+11 meal useful yes
+11 story-bt speech_type extemp
+11 story-bt topic His daily life and works.
+11 story-at speech_type extemp
+11 story-at topic No more to say.
+11 general native yes
+11 general dialect southern
+11 general accent none
+11 general background speech none
+11 general environmental noise none
+11 general gender male
+11 general age adult
+11 general intelligibility ok
+11 general connection average

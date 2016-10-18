@@ -1,0 +1,59 @@
+47 labeler khoward
+47 label_date Wed Aug 28 11:48:13 PDT 1991
+47 clang missing nothing
+47 clang duration_sec 1.9
+47 clang dc_offset 42
+47 clang min_samp -2698
+47 clang max_samp 2522
+47 clang min_power10 20.4
+47 clang max_power90 54.6
+47 dowk comments CE ES  
+47 dowk missing Thursday Friday Saturday Sunday
+47 dowk duration_sec 6.5
+47 dowk dc_offset 42
+47 dowk min_samp -5206
+47 dowk max_samp 4126
+47 dowk min_power10 19.7
+47 dowk max_power90 56.6
+47 nums missing nothing
+47 nums duration_sec 3.8
+47 nums dc_offset 42
+47 nums min_samp -4410
+47 nums max_samp 4054
+47 nums min_power10 23.4
+47 nums max_power90 61.0
+47 htc comments EN  
+47 htc missing nothing
+47 htc duration_sec 2.3
+47 htc dc_offset 42
+47 htc min_samp -3958
+47 htc max_samp 2654
+47 htc min_power10 22.5
+47 htc max_power90 52.5
+47 room missing nothing
+47 room duration_sec 2.8
+47 room dc_offset 42
+47 room min_samp -3358
+47 room max_samp 2606
+47 room min_power10 21.0
+47 room max_power90 58.8
+47 meal comments BN  
+47 meal missing nothing
+47 meal duration_sec 3.3
+47 meal dc_offset 42
+47 meal min_samp -3806
+47 meal max_samp 3526
+47 meal min_power10 19.5
+47 meal max_power90 56.8
+47 story-bt comments BN SS  
+47 story-bt missing nothing
+47 story-bt duration_sec 48.0
+47 story-bt dc_offset 42
+47 story-bt min_samp -4538
+47 story-bt max_samp 3818
+47 story-bt min_power10 20.0
+47 story-bt max_power90 54.5
+47 gender female
+47 age adult
+47 connection average
+47 intelligibility ok

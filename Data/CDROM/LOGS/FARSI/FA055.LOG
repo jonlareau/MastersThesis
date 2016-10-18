@@ -1,0 +1,82 @@
+55 labeler khoward
+55 label_date Sun Nov 17 14:26:49 PST 1991
+55 nlang missing nothing
+55 nlang duration_sec 0.9
+55 nlang dc_offset 43
+55 nlang min_samp -2079
+55 nlang max_samp 2969
+55 nlang min_power10 15.8
+55 nlang max_power90 52.6
+55 clang missing nothing
+55 clang duration_sec 1.4
+55 clang dc_offset 43
+55 clang min_samp -1071
+55 clang max_samp 961
+55 clang min_power10 14.9
+55 clang max_power90 45.2
+55 dowk comments BN  
+55 dowk missing nothing
+55 dowk duration_sec 7.6
+55 dowk dc_offset 43
+55 dowk min_samp -1431
+55 dowk max_samp 1565
+55 dowk min_power10 15.9
+55 dowk max_power90 46.3
+55 nums comments BN CE  
+55 nums missing 9 10?
+55 nums duration_sec 8.8
+55 nums dc_offset 43
+55 nums min_samp -1407
+55 nums max_samp 1181
+55 nums min_power10 15.5
+55 nums max_power90 46.3
+55 htl comments CE  
+55 htl missing CS
+55 htl duration_sec 8.2
+55 htl dc_offset 43
+55 htl min_samp -1095
+55 htl max_samp 1037
+55 htl min_power10 15.6
+55 htl max_power90 46.3
+55 htc missing nothing
+55 htc duration_sec 5.0
+55 htc dc_offset 43
+55 htc min_samp -2075
+55 htc max_samp 1785
+55 htc min_power10 16.3
+55 htc max_power90 50.5
+55 room comments SNL CE  
+55 room missing CS
+55 room duration_sec 11.1
+55 room dc_offset 43
+55 room min_samp -1355
+55 room max_samp 1161
+55 room min_power10 15.9
+55 room max_power90 44.7
+55 meal comments EN  
+55 meal missing nothing
+55 meal duration_sec 1.7
+55 meal dc_offset 43
+55 meal min_samp -999
+55 meal max_samp 785
+55 meal min_power10 16.0
+55 meal max_power90 45.2
+55 story-bt comments BN SS SNL  
+55 story-bt missing nothing
+55 story-bt duration_sec 48.9
+55 story-bt dc_offset 43
+55 story-bt min_samp -1931
+55 story-bt max_samp 2017
+55 story-bt min_power10 16.0
+55 story-bt max_power90 46.2
+55 story-at missing nothing
+55 story-at duration_sec 6.0
+55 story-at dc_offset 43
+55 story-at min_samp -1619
+55 story-at max_samp 1405
+55 story-at min_power10 17.3
+55 story-at max_power90 47.5
+55 gender male
+55 age adult
+55 connection average
+55 intelligibility ok

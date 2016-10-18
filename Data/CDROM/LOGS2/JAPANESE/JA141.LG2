@@ -1,0 +1,26 @@
+141 nlang native yes
+141 clang instructions yes
+141 clang useful yes
+141 dowk complete yes
+141 nums complete yes
+141 htl instructions yes
+141 htl useful yes
+141 htc instructions no
+141 htc useful yes
+141 room instructions yes
+141 room useful yes
+141 meal instructions yes
+141 meal useful yes
+141 story-bt speech_type extemp
+141 story-bt topic His favourite city, Boston, and interests of United States
+141 story-at speech_type extemp
+141 story-at topic His return to Japan
+141 general native yes
+141 general dialect standard
+141 general accent none
+141 general background speech none
+141 general environmental noise none
+141 general gender male
+141 general age adult
+141 general intelligibility ok
+141 general connection average

@@ -1,0 +1,63 @@
+74 labeler khoward
+74 label_date Fri Jan  3 10:58:02 PST 1992
+74 nlang missing nothing
+74 nlang duration_sec 1.1
+74 nlang dc_offset 42
+74 nlang min_samp -1530
+74 nlang max_samp 1662
+74 nlang min_power10 24.5
+74 nlang max_power90 49.9
+74 clang missing nothing
+74 clang duration_sec 1.2
+74 clang dc_offset 42
+74 clang min_samp -1034
+74 clang max_samp 1594
+74 clang min_power10 23.8
+74 clang max_power90 47.3
+74 dowk missing nothing
+74 dowk duration_sec 4.2
+74 dowk dc_offset 42
+74 dowk min_samp -1446
+74 dowk max_samp 1590
+74 dowk min_power10 27.8
+74 dowk max_power90 52.3
+74 nums missing nothing
+74 nums duration_sec 7.6
+74 nums dc_offset 42
+74 nums min_samp -1422
+74 nums max_samp 2030
+74 nums min_power10 25.1
+74 nums max_power90 52.7
+74 htl missing nothing
+74 htl duration_sec 5.3
+74 htl dc_offset 42
+74 htl min_samp -1814
+74 htl max_samp 1986
+74 htl min_power10 28.2
+74 htl max_power90 51.4
+74 htc missing nothing
+74 htc duration_sec 6.7
+74 htc dc_offset 42
+74 htc min_samp -1698
+74 htc max_samp 1798
+74 htc min_power10 24.2
+74 htc max_power90 49.0
+74 room missing nothing
+74 room duration_sec 8.9
+74 room dc_offset 42
+74 room min_samp -1402
+74 room max_samp 1758
+74 room min_power10 24.9
+74 room max_power90 48.8
+74 meal comments SNL  
+74 meal missing nothing
+74 meal duration_sec 1.8
+74 meal dc_offset 42
+74 meal min_samp -946
+74 meal max_samp 1250
+74 meal min_power10 23.7
+74 meal max_power90 44.8
+74 gender female
+74 age adult
+74 connection poor
+74 intelligibility ok

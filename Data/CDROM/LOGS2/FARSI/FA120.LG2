@@ -1,0 +1,28 @@
+120 nlang native yes
+120 clang instructions yes
+120 clang useful yes
+120 dowk complete no
+120 dowk partial yes
+120 nums complete no
+120 nums partial yes
+120 htl instructions yes
+120 htl useful yes
+120 htc instructions yes
+120 htc useful yes
+120 room instructions yes
+120 room useful yes
+120 meal instructions yes
+120 meal useful yes
+120 story-bt speech_type extemp
+120 story-bt topic Hope to see research results in journals; current weather
+120 story-at speech_type extemp
+120 story-at topic ?
+120 general native yes
+120 general dialect standard
+120 general accent none
+120 general background speech none
+120 general environmental noise none
+120 general gender male
+120 general age adult
+120 general intelligibility ok
+120 general connection average

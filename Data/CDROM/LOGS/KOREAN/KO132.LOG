@@ -1,0 +1,62 @@
+132 labeler ames
+132 label_date Fri May  8 08:46:45 PDT 1992
+132 nlang comments BN EN  
+132 nlang missing nothing
+132 nlang duration_sec 1.4
+132 nlang dc_offset 42
+132 nlang min_samp -14018
+132 nlang max_samp 14806
+132 nlang min_power10 20.6
+132 nlang max_power90 62.2
+132 clang comments BN EN  
+132 clang missing nothing
+132 clang duration_sec 2.4
+132 clang dc_offset 42
+132 clang min_samp -15002
+132 clang max_samp 16358
+132 clang min_power10 20.6
+132 clang max_power90 68.8
+132 dowk comments BN EN  
+132 dowk missing nothing
+132 dowk duration_sec 6.3
+132 dowk dc_offset 42
+132 dowk min_samp -14998
+132 dowk max_samp 13830
+132 dowk min_power10 20.8
+132 dowk max_power90 69.3
+132 nums comments BN EN  
+132 nums missing nothing
+132 nums duration_sec 6.0
+132 nums dc_offset 42
+132 nums min_samp -16294
+132 nums max_samp 17886
+132 nums min_power10 21.0
+132 nums max_power90 67.9
+132 room comments BN CE EN ES SNL  
+132 room missing cs
+132 room duration_sec 9.9
+132 room dc_offset 42
+132 room min_samp -17106
+132 room max_samp 18478
+132 room min_power10 24.5
+132 room max_power90 65.4
+132 story-bt comments CE EN SS ES SNL  
+132 story-bt missing cs
+132 story-bt duration_sec 39.5
+132 story-bt dc_offset 42
+132 story-bt min_samp -14742
+132 story-bt max_samp 19326
+132 story-bt min_power10 22.7
+132 story-bt max_power90 64.8
+132 story-at comments BN CB EN SS  
+132 story-at missing cs
+132 story-at duration_sec 4.4
+132 story-at dc_offset 42
+132 story-at min_samp -4714
+132 story-at max_samp 5718
+132 story-at min_power10 23.6
+132 story-at max_power90 60.4
+132 gender male
+132 age adult
+132 connection average
+132 intelligibility ok

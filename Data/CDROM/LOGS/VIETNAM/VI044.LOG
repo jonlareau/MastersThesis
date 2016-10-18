@@ -1,0 +1,84 @@
+44 labeler ames
+44 label_date Mon Oct 21 09:17:15 PDT 1991
+44 nlang missing nothing
+44 nlang duration_sec 1.0
+44 nlang dc_offset 43
+44 nlang min_samp -2075
+44 nlang max_samp 2965
+44 nlang min_power10 16.7
+44 nlang max_power90 57.1
+44 clang missing nothing
+44 clang duration_sec 1.0
+44 clang dc_offset 43
+44 clang min_samp -1559
+44 clang max_samp 3085
+44 clang min_power10 15.6
+44 clang max_power90 54.4
+44 dowk comments EN  
+44 dowk missing nothing
+44 dowk duration_sec 4.6
+44 dowk dc_offset 43
+44 dowk min_samp -1291
+44 dowk max_samp 1685
+44 dowk min_power10 17.2
+44 dowk max_power90 49.1
+44 nums comments CB EN  
+44 nums missing zero
+44 nums duration_sec 7.9
+44 nums dc_offset 43
+44 nums min_samp -1275
+44 nums max_samp 1705
+44 nums min_power10 16.0
+44 nums max_power90 46.9
+44 htl comments CE EN ES  
+44 htl missing cs
+44 htl duration_sec 7.1
+44 htl dc_offset 43
+44 htl min_samp -967
+44 htl max_samp 1377
+44 htl min_power10 16.7
+44 htl max_power90 47.6
+44 htc comments CE EN  
+44 htc missing cs
+44 htc duration_sec 9.5
+44 htc dc_offset 43
+44 htc min_samp -1171
+44 htc max_samp 1629
+44 htc min_power10 21.2
+44 htc max_power90 47.1
+44 room comments CE EN ES SNL  
+44 room missing cs
+44 room duration_sec 10.8
+44 room dc_offset 43
+44 room min_samp -1151
+44 room max_samp 1333
+44 room min_power10 17.4
+44 room max_power90 47.4
+44 meal comments EN  
+44 meal missing nothing
+44 meal duration_sec 8.2
+44 meal dc_offset 43
+44 meal min_samp -1087
+44 meal max_samp 1593
+44 meal min_power10 18.0
+44 meal max_power90 48.6
+44 story-bt comments CE EN SS ES  
+44 story-bt missing cs
+44 story-bt duration_sec 48.6
+44 story-bt dc_offset 43
+44 story-bt min_samp -1599
+44 story-bt max_samp 2773
+44 story-bt min_power10 16.9
+44 story-bt max_power90 47.9
+44 story-at comments CB CE EN SS  
+44 story-at missing cs
+44 story-at duration_sec 8.6
+44 story-at dc_offset 43
+44 story-at min_samp -1723
+44 story-at max_samp 1945
+44 story-at min_power10 16.0
+44 story-at max_power90 46.3
+44 gender female
+44 age adult
+44 connection average
+44 intelligibility ok

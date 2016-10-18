@@ -1,0 +1,22 @@
+30 nlang native yes
+30 clang instructions yes
+30 clang useful yes
+30 dowk complete yes
+30 nums complete yes
+30 htl instructions yes
+30 htl useful yes
+30 htc instructions no
+30 htc useful yes
+30 meal instructions yes
+30 meal useful yes
+30 story-bt speech_type extemp
+30 story-bt topic the sports that he likes
+30 general native yes
+30 general dialect standard
+30 general accent none
+30 general background speech none
+30 general environmental noise breath noise during nums, laughter during story-bt
+30 general gender male
+30 general age adult
+30 general intelligibility ok
+30 general connection average

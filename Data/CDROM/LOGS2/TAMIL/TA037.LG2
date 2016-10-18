@@ -1,0 +1,23 @@
+37 nlang native yes
+37 clang instructions yes
+37 clang useful yes
+37 dowk complete no
+37 dowk partial yes
+37 nums complete yes
+37 htl instructions yes
+37 htl useful yes
+37 htc instructions no
+37 htc useful yes
+37 room instructions yes
+37 room useful yes
+37 meal instructions yes
+37 meal useful yes
+37 general native yes
+37 general dialect standard
+37 general accent none
+37 general background speech none
+37 general environmental noise none
+37 general gender male
+37 general age adult
+37 general intelligibility ok
+37 general connection average

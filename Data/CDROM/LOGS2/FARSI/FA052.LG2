@@ -1,0 +1,26 @@
+52 nlang native yes
+52 clang instructions yes
+52 clang useful yes
+52 dowk complete yes
+52 nums complete yes
+52 htl instructions yes
+52 htl useful yes
+52 htc instructions yes
+52 htc useful yes
+52 room instructions no
+52 room useful yes
+52 meal instructions yes
+52 meal useful yes
+52 story-bt speech_type extemp
+52 story-bt topic good luck & bad luck
+52 story-at speech_type extemp
+52 story-at topic luck, cont'd
+52 general native yes
+52 general dialect standard
+52 general accent none
+52 general background speech none
+52 general environmental noise some static
+52 general gender male
+52 general age adult
+52 general intelligibility ok
+52 general connection average

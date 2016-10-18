@@ -1,0 +1,51 @@
+97 nlang native no
+97 nlang useful yes
+97 clang instructions yes
+97 clang useful yes
+97 hlang instructions yes
+97 hlang useful yes
+97 age instructions yes
+97 age useful yes
+97 bdate instructions yes
+97 bdate useful yes
+97 morf instructions yes
+97 morf useful yes
+97 US instructions yes
+97 US useful yes
+97 child instructions yes
+97 child useful yes
+97 zipcode instructions yes
+97 zipcode useful yes
+97 day instructions no
+97 day useful yes
+97 time instructions yes
+97 time useful yes
+97 route instructions yes
+97 route useful yes
+97 hometown instructions yes
+97 hometown useful yes
+97 climate instructions yes
+97 climate useful yes
+97 room instructions yes
+97 room useful yes
+97 meal instructions yes
+97 meal useful yes
+97 story-bt speech_type extemp
+97 story-bt topic Hyderabad - a city in India
+97 story-at speech_type extemp
+97 story-at topic He can't think of anything else to talk about
+97 tone instructions yes
+97 tone useful yes
+97 yorn instructions yes
+97 yorn useful yes
+97 address instructions yes
+97 address useful yes
+97 general native no
+97 general dialect standard
+97 general accent slightly south indian
+97 general background speech none
+97 general environmental noise none
+97 general gender male
+97 general age adult
+97 general intelligibility ok
+97 general connection average

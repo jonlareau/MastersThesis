@@ -1,0 +1,27 @@
+184 nlang native yes
+184 clang instructions yes
+184 clang useful yes
+184 dowk complete no
+184 dowk partial yes
+184 nums complete yes
+184 htl instructions yes
+184 htl useful yes
+184 htc instructions yes
+184 htc useful yes
+184 room instructions yes
+184 room useful yes
+184 meal instructions yes
+184 meal useful yes
+184 story-bt speech_type extemp
+184 story-bt topic piano, travelling, and dancing
+184 story-at speech_type extemp
+184 story-at topic likes sewing and speaking foreign languages
+184 general native yes
+184 general dialect standard
+184 general accent none
+184 general background speech none
+184 general environmental noise none
+184 general gender female
+184 general age adult
+184 general intelligibility ok
+184 general connection average

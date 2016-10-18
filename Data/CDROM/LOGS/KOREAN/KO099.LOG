@@ -1,0 +1,70 @@
+99 labeler ames
+99 label_date Sat Dec 28 17:59:23 PST 1991
+99 dowk comments EN  
+99 dowk missing nothing
+99 dowk duration_sec 2.4
+99 dowk dc_offset 42
+99 dowk min_samp -774
+99 dowk max_samp 490
+99 dowk min_power10 18.2
+99 dowk max_power90 38.0
+99 nums comments EN  
+99 nums missing nothing
+99 nums duration_sec 5.2
+99 nums dc_offset 42
+99 nums min_samp -1426
+99 nums max_samp 1046
+99 nums min_power10 18.6
+99 nums max_power90 44.2
+99 htl comments BN CE EN ES  
+99 htl missing cs
+99 htl duration_sec 8.0
+99 htl dc_offset 42
+99 htl min_samp -1878
+99 htl max_samp 1282
+99 htl min_power10 18.2
+99 htl max_power90 46.5
+99 htc comments BN CB EN ES  
+99 htc missing cs
+99 htc duration_sec 7.1
+99 htc dc_offset 42
+99 htc min_samp -2474
+99 htc max_samp 1826
+99 htc min_power10 18.6
+99 htc max_power90 50.6
+99 room comments CE EN ES  
+99 room missing cs
+99 room duration_sec 9.6
+99 room dc_offset 42
+99 room min_samp -2738
+99 room max_samp 2334
+99 room min_power10 18.4
+99 room max_power90 50.9
+99 meal comments EN ES  
+99 meal missing nothing
+99 meal duration_sec 7.6
+99 meal dc_offset 42
+99 meal min_samp -2582
+99 meal max_samp 2166
+99 meal min_power10 18.2
+99 meal max_power90 48.8
+99 story-bt comments BN EN SS ES SNL  
+99 story-bt missing nothing
+99 story-bt duration_sec 28.0
+99 story-bt dc_offset 42
+99 story-bt min_samp -2562
+99 story-bt max_samp 2194
+99 story-bt min_power10 18.3
+99 story-bt max_power90 48.6
+99 story-at comments BN EN SS  
+99 story-at missing nothing
+99 story-at duration_sec 6.5
+99 story-at dc_offset 42
+99 story-at min_samp -1950
+99 story-at max_samp 1230
+99 story-at min_power10 18.4
+99 story-at max_power90 46.9
+99 gender female
+99 age adult
+99 connection poor
+99 intelligibility ok

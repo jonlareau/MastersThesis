@@ -1,0 +1,28 @@
+141 nlang native yes
+141 clang instructions yes
+141 clang useful yes
+141 dowk complete no
+141 dowk partial yes
+141 nums complete no
+141 nums partial yes
+141 htl instructions no
+141 htl useful yes
+141 htc instructions yes
+141 htc useful yes
+141 room instructions yes
+141 room useful yes
+141 meal instructions yes
+141 meal useful yes
+141 story-bt speech_type extemp
+141 story-bt topic I am living in Boston.  This place is similar to the city of Chunjoo in Korea.  My family seems also to be satified living here.
+141 story-at speech_type extemp
+141 story-at topic I am having a satisfied living here.
+141 general native yes
+141 general dialect standard
+141 general accent none
+141 general background speech none
+141 general environmental noise a bad phone-line connection
+141 general gender male
+141 general age adult
+141 general intelligibility ok
+141 general connection average

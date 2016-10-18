@@ -1,0 +1,25 @@
+102 nlang native yes
+102 dowk complete yes
+102 nums complete no
+102 nums partial yes
+102 htl instructions yes
+102 htl useful yes
+102 htc instructions yes
+102 htc useful yes
+102 room instructions yes
+102 room useful yes
+102 meal instructions yes
+102 meal useful yes
+102 story-bt speech_type extemp
+102 story-bt topic description of his forthcoming trip to India: #stops, ticket price
+102 story-at speech_type extemp
+102 story-at topic 3 places in India he plans to visit: Srirangam, Bombay and Bangalore
+102 general native yes
+102 general dialect standard
+102 general accent none
+102 general background speech none
+102 general environmental noise none
+102 general gender male
+102 general age adult
+102 general intelligibility ok
+102 general connection average

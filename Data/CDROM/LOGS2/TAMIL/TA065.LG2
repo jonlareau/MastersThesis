@@ -1,0 +1,27 @@
+65 nlang native yes
+65 clang instructions yes
+65 clang useful yes
+65 dowk complete yes
+65 nums complete no
+65 nums partial yes
+65 htl instructions yes
+65 htl useful yes
+65 htc instructions yes
+65 htc useful yes
+65 room instructions yes
+65 room useful yes
+65 meal instructions yes
+65 meal useful yes
+65 story-bt speech_type extemp
+65 story-bt topic sadness at being away from home (Sri Lanka) and the plight of Tamils there
+65 story-at speech_type extemp
+65 story-at topic Lack of a separate Tamil state in Sri Lanka creates a lot of problems
+65 general native yes
+65 general dialect standard
+65 general accent none
+65 general background speech none
+65 general environmental noise slight line noise
+65 general gender male
+65 general age adult
+65 general intelligibility ok
+65 general connection average

@@ -1,0 +1,82 @@
+26 labeler khoward
+26 label_date Mon Aug  5 13:17:57 PDT 1991
+26 nlang missing nothing
+26 nlang duration_sec 1.2
+26 nlang dc_offset 42
+26 nlang min_samp -2094
+26 nlang max_samp 2754
+26 nlang min_power10 12.4
+26 nlang max_power90 50.4
+26 clang missing nothing
+26 clang duration_sec 1.3
+26 clang dc_offset 42
+26 clang min_samp -2426
+26 clang max_samp 2950
+26 clang min_power10 12.5
+26 clang max_power90 50.7
+26 dowk comments CE  
+26 dowk missing Friday Saturday
+26 dowk duration_sec 6.4
+26 dowk dc_offset 42
+26 dowk min_samp -2782
+26 dowk max_samp 2878
+26 dowk min_power10 11.4
+26 dowk max_power90 53.2
+26 nums comments CE  
+26 nums missing 7 8 9 10
+26 nums duration_sec 8.4
+26 nums dc_offset 42
+26 nums min_samp -3110
+26 nums max_samp 3290
+26 nums min_power10 12.2
+26 nums max_power90 51.6
+26 htl comments CE  
+26 htl missing CS
+26 htl duration_sec 9.1
+26 htl dc_offset 42
+26 htl min_samp -4962
+26 htl max_samp 2742
+26 htl min_power10 12.6
+26 htl max_power90 54.1
+26 htc missing nothing
+26 htc duration_sec 6.4
+26 htc dc_offset 42
+26 htc min_samp -2646
+26 htc max_samp 2206
+26 htc min_power10 13.2
+26 htc max_power90 51.0
+26 room comments CE  
+26 room missing CS
+26 room duration_sec 9.7
+26 room dc_offset 42
+26 room min_samp -5294
+26 room max_samp 3218
+26 room min_power10 14.5
+26 room max_power90 54.6
+26 meal missing nothing
+26 meal duration_sec 9.3
+26 meal dc_offset 42
+26 meal min_samp -2782
+26 meal max_samp 4098
+26 meal min_power10 14.6
+26 meal max_power90 52.4
+26 story-bt comments EN SS  
+26 story-bt missing nothing
+26 story-bt duration_sec 49.1
+26 story-bt dc_offset 42
+26 story-bt min_samp -6614
+26 story-bt max_samp 6718
+26 story-bt min_power10 19.6
+26 story-bt max_power90 54.5
+26 story-at comments SS  
+26 story-at missing nothing
+26 story-at duration_sec 3.3
+26 story-at dc_offset 42
+26 story-at min_samp -2174
+26 story-at max_samp 2438
+26 story-at min_power10 17.0
+26 story-at max_power90 52.8
+26 gender male
+26 age adult
+26 connection good
+26 intelligibility ok

@@ -1,0 +1,29 @@
+1 nlang instructions yes
+1 nlang useful yes
+1 clang instructions yes
+1 clang useful yes
+1 dowk instructions yes
+1 dowk useful yes
+1 nums instructions yes
+1 nums useful yes
+1 htl instructions yes
+1 htl useful yes
+1 htc instructions no
+1 htc useful yes
+1 room instructions yes
+1 room useful yes
+1 meal instructions yes
+1 meal useful yes
+1 story-bt speech_type extemp
+1 story-bt topic his friend meeting the girl of his dreams
+1 story-at speech_type extemp
+1 story-at topic counting down the 10 seconds starting from 10
+1 general native yes
+1 general dialect formal as in written Tamil
+1 general accent none
+1 general background speech none
+1 general environmental noise none
+1 general gender male
+1 general age adult
+1 general intelligibility ok
+1 general connection average

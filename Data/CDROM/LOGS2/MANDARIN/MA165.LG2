@@ -1,0 +1,28 @@
+165 nlang native yes
+165 clang instructions yes
+165 clang useful yes
+165 dowk complete no
+165 dowk partial yes
+165 nums complete no
+165 nums partial yes
+165 htl instructions no
+165 htl useful no
+165 htc instructions no
+165 htc useful yes
+165 room instructions no
+165 room useful yes
+165 meal instructions yes
+165 meal useful yes
+165 story-bt speech_type extemp
+165 story-bt topic Her two hometowns, Dalian and Wuhan
+165 story-at speech_type extemp
+165 story-at topic Weather in Wuhan is very hot
+165 general native yes
+165 general dialect standard
+165 general accent none
+165 general background speech none
+165 general environmental noise none
+165 general gender female
+165 general age adult
+165 general intelligibility ok
+165 general connection average

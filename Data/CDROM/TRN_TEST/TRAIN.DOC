@@ -1,0 +1,108 @@
+				TRAIN
+				-----
+
+ENGLISH:
+	  3m   4m   5m   6f   8m   9m  11f  12f  13m  17m  18m  19f  20f 
+	 21m  22m  23f  24m  25f  26m  27m  28m  29m  30m  31f  32f  33f 
+	 34m  35m  37m  38m  39f  40m  41f  42m  43m  44m  45m  47f  48f 
+	 50f  51f  52m  53m  54m  56f  57m  58m  59m  60m  61m 
+
+	  50 calls (m 33 f 17)
+	 465 uttrs (nlg 46 clg 46 dow 49 num 45 htl 49 htc 47 roo 47 mea 47
+	            stb 44 sta 45)
+
+FRENCH:
+	  1m   2m   5m   6m   7m   9m  11f  12m  13m  15m  16f  17m  18m 
+	 20m  21m  22f  23m  25f  26m  29m  30m  32m  33m  34m  35f  37m 
+	 38m  40m  41f  42f  43m  44m  45f  46m  47m  48m  51f  52m  53m 
+	 55m  56m  57m  58f  59m  61m  62m  64m  65m  66m  67m 
+
+	  50 calls (m 40 f 10)
+	 482 uttrs (nlg 50 clg 48 dow 50 num 50 htl 50 htc 50 roo 48 mea 48
+	            stb 47 sta 41)
+
+FARSI:
+	  5m   6m   8m   9f  10f  12m  16m  17m  20f  22f  24f  26m  27m 
+	 28f  29m  30m  31m  35f  36m  37m  39f  40m  41f  42m  43m  44m 
+	 45m  46m  47m  51m  52m  53m  55m  56m  59m  62m  63m  66m  67m 
+	 70m  72m  74m  77m  78m  82m  83f  84m  85u  86m  88m 
+
+	  50 calls (m 39 f 10 u 1 )
+	 459 uttrs (nlg 48 clg 47 dow 50 num 50 htl 48 htc 49 roo 48 mea 43
+	            stb 46 sta 30)
+
+GERMAN:
+	  1f   2m   3m   4f   5f   6f   7m   9f  10f  11f  12f  13f  14m 
+	 15f  16f  18m  19f  22f  23f  24m  26m  27m  28m  31m  32m  33m 
+	 34m  36f  37m  38m  39m  40m  41m  42f  44f  45f  46f  47m  50f 
+	 51m  52m  53f  56f  57f  58m  59f  60m  61m  63f  68m 
+
+	  50 calls (m 25 f 25)
+	 478 uttrs (nlg 48 clg 48 dow 49 num 50 htl 49 htc 49 roo 49 mea 48
+	            stb 46 sta 42)
+
+JAPANESE:
+	  1m   2f   3m   6m   7m  13m  15m  17f  19f  20m  22m  23m  24m 
+	 25f  26f  27m  29m  35f  36m  37m  38m  40m  47f  48m  50f  51m 
+	 53f  54m  55f  57m  58m  60f  61m  62m  65m  66m  67f  68f  69m 
+	 71f  72f  73f  75m  80m  82f  83m  85f  86f  88m  90f 
+
+	  50 calls (m 30 f 20)
+	 474 uttrs (nlg 48 clg 49 dow 48 num 50 htl 47 htc 46 roo 48 mea 48
+	            stb 48 sta 42)
+
+KOREAN:
+	  1f   3f   4m   7f   9m  14m  15m  16f  17m  18m  19f  20m  22f 
+	 23f  24f  25m  26m  30f  34m  35m  36m  37m  38m  39m  40m  41m 
+	 42m  43m  46f  48f  49m  51f  53m  54m  55m  56m  58m  59f  60m 
+	 61m  62m  63f  64m  65u  67f  68m  69f  70m  71f  72m 
+
+	  50 calls (m 32 f 17 u 1 )
+	 446 uttrs (nlg 44 clg 46 dow 50 num 49 htl 47 htc 49 roo 49 mea 49
+	            stb 42 sta 21)
+
+MANDARIN:
+	  1m   8m   9m  10m  11m  12m  13m  14f  15m  16f  18m  21m  23m 
+	 24m  27m  30f  31f  32f  33f  34m  35m  36m  37f  39m  40u  41m 
+	 42f  43m  44f  46m  48m  49m  51f  52m  53m  55m  56m  57m  58m 
+	 59f  60m  61m  65f  67f  68f  69m  73f  76m  77m  78m 
+
+	  50 calls (m 34 f 15 u 1 )
+	 462 uttrs (nlg 49 clg 48 dow 46 num 50 htl 47 htc 50 roo 49 mea 48
+	            stb 45 sta 30)
+
+SPANISH:
+	  1m   2f   3m   4m   5m   6m   8m   9m  10f  12m  13m  14m  15f 
+	 16f  17m  18m  19m  20m  22m  23m  24m  25f  26m  27m  28m  29m 
+	 30f  31m  32f  33f  35f  36m  37f  38f  39m  40f  41m  44f  46m 
+	 47f  48m  49m  50m  51m  52f  53m  54m  55m  56f  57m 
+
+	  50 calls (m 34 f 16)
+	 477 uttrs (nlg 46 clg 48 dow 49 num 50 htl 49 htc 50 roo 48 mea 49
+	            stb 48 sta 40)
+
+TAMIL:
+	  1m   3m   4m   7m   8m   9f  11m  12m  14m  15m  16m  17m  18m 
+	 21m  23m  24m  26m  27m  29f  30m  32m  33m  34m  35m  36m  37m 
+	 38m  39m  40m  41m  43m  44m  45f  48f  50m  51m  56m  57m  59m 
+	 60m  61f  63f  65m  66m  67m  68m  69m  71f  73m  74m 
+
+	  50 calls (m 43 f 7)
+	 458 uttrs (nlg 49 clg 49 dow 48 num 49 htl 49 htc 46 roo 46 mea 47
+	            stb 43 sta 32)
+
+VIETNAMESE:
+	  1m   2f   3m   8f  11m  12m  13m  14f  16m  18f  21f  25f  26m 
+	 27m  29f  30f  31m  32f  33m  34f  35f  37m  38m  39m  40m  41f 
+	 42m  43f  44f  45f  46m  47m  49f  52m  53m  55m  56m  57m  58m 
+	 63m  64m  65m  68f  69m  70f  71m  72f  74m  75m  76m 
+
+	  50 calls (m 31 f 19)
+	 449 uttrs (nlg 47 clg 49 dow 50 num 50 htl 45 htc 49 roo 49 mea 48
+	            stb 40 sta 22)
+
+
+GRAND TOTAL:
+	 500 Calls (m 341 f 156 u 3)
+	4650 Uttrs (nlg 475 clg 478 dow 489 num 493 htl 480 htc 485 roo 481
+	            mea 475 stb 449 sta 345)

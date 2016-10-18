@@ -1,0 +1,83 @@
+95 labeler khoward
+95 label_date Sat Mar 14 15:58:54 PST 1992
+95 nlang comments ES  
+95 nlang missing nothing
+95 nlang duration_sec 1.9
+95 nlang dc_offset 43
+95 nlang min_samp -1955
+95 nlang max_samp 1741
+95 nlang min_power10 22.3
+95 nlang max_power90 52.7
+95 clang comments ES  
+95 clang missing nothing
+95 clang duration_sec 2.0
+95 clang dc_offset 43
+95 clang min_samp -2187
+95 clang max_samp 2429
+95 clang min_power10 22.2
+95 clang max_power90 53.9
+95 dowk comments ES  
+95 dowk missing nothing
+95 dowk duration_sec 5.0
+95 dowk dc_offset 43
+95 dowk min_samp -1815
+95 dowk max_samp 1653
+95 dowk min_power10 22.2
+95 dowk max_power90 50.5
+95 nums missing nothing
+95 nums duration_sec 7.7
+95 nums dc_offset 43
+95 nums min_samp -1403
+95 nums max_samp 1965
+95 nums min_power10 22.0
+95 nums max_power90 48.0
+95 htl missing nothing
+95 htl duration_sec 6.7
+95 htl dc_offset 43
+95 htl min_samp -3199
+95 htl max_samp 2409
+95 htl min_power10 21.7
+95 htl max_power90 52.5
+95 htc missing nothing
+95 htc duration_sec 7.8
+95 htc dc_offset 43
+95 htc min_samp -3123
+95 htc max_samp 2409
+95 htc min_power10 21.9
+95 htc max_power90 52.3
+95 room comments SNL  
+95 room missing nothing
+95 room duration_sec 10.3
+95 room dc_offset 43
+95 room min_samp -2563
+95 room max_samp 2677
+95 room min_power10 22.2
+95 room max_power90 52.9
+95 meal comments CE SNL  
+95 meal missing CS
+95 meal duration_sec 7.5
+95 meal dc_offset 43
+95 meal min_samp -2951
+95 meal max_samp 2529
+95 meal min_power10 21.6
+95 meal max_power90 52.1
+95 story-bt comments CE SS  
+95 story-bt missing CS
+95 story-bt duration_sec 48.7
+95 story-bt dc_offset 43
+95 story-bt min_samp -4559
+95 story-bt max_samp 3729
+95 story-bt min_power10 22.3
+95 story-bt max_power90 53.4
+95 story-at comments SS  
+95 story-at missing nothing
+95 story-at duration_sec 4.6
+95 story-at dc_offset 43
+95 story-at min_samp -1735
+95 story-at max_samp 1445
+95 story-at min_power10 22.5
+95 story-at max_power90 49.8
+95 gender male
+95 age adult
+95 connection average
+95 intelligibility ok

@@ -1,0 +1,26 @@
+110 nlang native yes
+110 clang instructions yes
+110 clang useful yes
+110 dowk complete yes
+110 nums complete yes
+110 htl instructions yes
+110 htl useful yes
+110 htc instructions no
+110 htc useful no
+110 room instructions yes
+110 room useful yes
+110 meal instructions yes
+110 meal useful yes
+110 story-bt speech_type extemp
+110 story-bt topic Story of the buildind of Washington City
+110 story-at speech_type extemp
+110 story-at topic incomprehensible
+110 general native yes
+110 general dialect standard
+110 general accent 
+110 general background speech none
+110 general environmental noise none
+110 general gender male
+110 general age adult
+110 general intelligibility ok
+110 general connection average

@@ -1,0 +1,26 @@
+35 nlang native yes
+35 clang instructions yes
+35 clang useful yes
+35 dowk complete yes
+35 nums complete yes
+35 htl instructions yes
+35 htl useful yes
+35 htc instructions yes
+35 htc useful yes
+35 room instructions yes
+35 room useful yes
+35 meal instructions yes
+35 meal useful yes
+35 story-bt speech_type extemp
+35 story-bt topic Moving to Italy in next year and Italian people
+35 story-at speech_type extemp
+35 story-at topic Her feeling about moving to Italy
+35 general native yes
+35 general dialect standard
+35 general accent none
+35 general background speech speech from TV?
+35 general environmental noise none
+35 general gender female
+35 general age adult
+35 general intelligibility ok
+35 general connection average

@@ -1,0 +1,26 @@
+241 nlang native yes
+241 clang instructions yes
+241 clang useful yes
+241 dowk complete yes
+241 nums complete yes
+241 htl instructions yes
+241 htl useful yes
+241 htc instructions yes
+241 htc useful yes
+241 room instructions yes
+241 room useful yes
+241 meal instructions yes
+241 meal useful yes
+241 story-bt speech_type extemp
+241 story-bt topic job and climate
+241 story-at speech_type extemp
+241 story-at topic wants results of this project
+241 general native yes
+241 general dialect standard
+241 general accent none
+241 general background speech none
+241 general environmental noise none
+241 general gender male
+241 general age adult
+241 general intelligibility ok
+241 general connection average

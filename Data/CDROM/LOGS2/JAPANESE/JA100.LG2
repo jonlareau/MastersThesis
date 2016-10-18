@@ -1,0 +1,28 @@
+100 nlang native yes
+100 clang instructions yes
+100 clang useful yes
+100 dowk complete no
+100 dowk partial yes
+100 nums complete no
+100 nums partial yes
+100 htl instructions yes
+100 htl useful yes
+100 htc instructions yes
+100 htc useful yes
+100 room instructions yes
+100 room useful yes
+100 meal instructions yes
+100 meal useful yes
+100 story-bt speech_type extemp
+100 story-bt topic Watching the cluster and moon with his telescope
+100 story-at speech_type extemp
+100 story-at topic Conclusion of his story about looking stars
+100 general native yes
+100 general dialect Osaka
+100 general accent none
+100 general background speech none
+100 general environmental noise none
+100 general gender male
+100 general age adult
+100 general intelligibility ok
+100 general connection average

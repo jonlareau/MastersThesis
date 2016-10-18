@@ -1,0 +1,24 @@
+123 nlang native yes
+123 clang instructions yes
+123 clang useful yes
+123 dowk complete no
+123 dowk partial yes
+123 nums complete no
+123 nums partial yes
+123 htl instructions yes
+123 htl useful yes
+123 htc instructions yes
+123 htc useful yes
+123 meal instructions yes
+123 meal useful yes
+123 story-bt speech_type extemp
+123 story-bt topic her life;her profession
+123 general native no
+123 general dialect unknown
+123 general accent spanish
+123 general background speech none
+123 general environmental noise none
+123 general gender female
+123 general age adult
+123 general intelligibility ok
+123 general connection average

@@ -1,0 +1,68 @@
+49 labeler khoward
+49 label_date Fri Dec 13 21:36:45 PST 1991
+49 nlang missing nothing
+49 nlang duration_sec 1.3
+49 nlang dc_offset 42
+49 nlang min_samp -15622
+49 nlang max_samp 12646
+49 nlang min_power10 18.0
+49 nlang max_power90 66.2
+49 dowk comments BN  
+49 dowk missing nothing
+49 dowk duration_sec 4.2
+49 dowk dc_offset 42
+49 dowk min_samp -14046
+49 dowk max_samp 13262
+49 dowk min_power10 21.8
+49 dowk max_power90 71.3
+49 nums comments BN  
+49 nums missing nothing
+49 nums duration_sec 7.0
+49 nums dc_offset 42
+49 nums min_samp -12814
+49 nums max_samp 9102
+49 nums min_power10 19.0
+49 nums max_power90 66.9
+49 htl missing nothing
+49 htl duration_sec 8.9
+49 htl dc_offset 42
+49 htl min_samp -13306
+49 htl max_samp 13534
+49 htl min_power10 21.2
+49 htl max_power90 70.1
+49 htc comments BN  
+49 htc missing nothing
+49 htc duration_sec 9.2
+49 htc dc_offset 42
+49 htc min_samp -9166
+49 htc max_samp 10614
+49 htc min_power10 19.8
+49 htc max_power90 66.4
+49 room comments BN CE  
+49 room missing CS
+49 room duration_sec 9.8
+49 room dc_offset 42
+49 room min_samp -6498
+49 room max_samp 7374
+49 room min_power10 18.5
+49 room max_power90 63.3
+49 meal comments BN CE  
+49 meal missing CS
+49 meal duration_sec 8.4
+49 meal dc_offset 42
+49 meal min_samp -6970
+49 meal max_samp 8146
+49 meal min_power10 19.8
+49 meal max_power90 66.1
+49 story-bt comments BN CE SNL SS  
+49 story-bt missing CS
+49 story-bt duration_sec 49.1
+49 story-bt dc_offset 42
+49 story-bt min_samp -10942
+49 story-bt max_samp 10174
+49 story-bt min_power10 22.5
+49 story-bt max_power90 66.2
+49 gender male
+49 age adult
+49 connection average
+49 intelligibility ok

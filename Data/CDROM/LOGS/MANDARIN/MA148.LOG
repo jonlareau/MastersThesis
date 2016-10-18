@@ -1,0 +1,83 @@
+148 labeler khoward
+148 label_date Wed Mar 25 09:12:40 PST 1992
+148 nlang missing nothing
+148 nlang duration_sec 0.6
+148 nlang dc_offset 42
+148 nlang min_samp -2434
+148 nlang max_samp 2158
+148 nlang min_power10 14.2
+148 nlang max_power90 57.4
+148 clang missing nothing
+148 clang duration_sec 0.7
+148 clang dc_offset 42
+148 clang min_samp -2602
+148 clang max_samp 2022
+148 clang min_power10 14.2
+148 clang max_power90 56.4
+148 dowk missing nothing
+148 dowk duration_sec 4.1
+148 dowk dc_offset 42
+148 dowk min_samp -4742
+148 dowk max_samp 3730
+148 dowk min_power10 14.8
+148 dowk max_power90 53.5
+148 nums comments CB  
+148 nums missing 0 1 2 3 4 5 6 7?
+148 nums duration_sec 0.9
+148 nums dc_offset 42
+148 nums min_samp -3478
+148 nums max_samp 2846
+148 nums min_power10 12.8
+148 nums max_power90 52.8
+148 htl comments CE  
+148 htl missing CS
+148 htl duration_sec 4.2
+148 htl dc_offset 42
+148 htl min_samp -5154
+148 htl max_samp 4730
+148 htl min_power10 25.5
+148 htl max_power90 58.6
+148 htc comments CB CE EN  
+148 htc missing CS
+148 htc duration_sec 5.3
+148 htc dc_offset 42
+148 htc min_samp -3726
+148 htc max_samp 2558
+148 htc min_power10 13.8
+148 htc max_power90 51.5
+148 room comments CE EN  
+148 room missing CS
+148 room duration_sec 10.0
+148 room dc_offset 42
+148 room min_samp -3634
+148 room max_samp 3038
+148 room min_power10 15.6
+148 room max_power90 51.7
+148 meal comments CE  
+148 meal missing CS
+148 meal duration_sec 5.6
+148 meal dc_offset 42
+148 meal min_samp -1806
+148 meal max_samp 1378
+148 meal min_power10 14.3
+148 meal max_power90 49.3
+148 story-bt comments BN EN SS  
+148 story-bt missing nothing
+148 story-bt duration_sec 44.7
+148 story-bt dc_offset 42
+148 story-bt min_samp -3462
+148 story-bt max_samp 2998
+148 story-bt min_power10 14.0
+148 story-bt max_power90 49.5
+148 story-at comments SS  
+148 story-at missing nothing
+148 story-at duration_sec 4.5
+148 story-at dc_offset 42
+148 story-at min_samp -2862
+148 story-at max_samp 2298
+148 story-at min_power10 15.0
+148 story-at max_power90 54.6
+148 gender male
+148 age adult
+148 connection average
+148 intelligibility ok

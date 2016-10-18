@@ -1,0 +1,26 @@
+72 nlang native yes
+72 clang instructions yes
+72 clang useful yes
+72 dowk complete yes
+72 nums complete yes
+72 htl instructions yes
+72 htl useful yes
+72 htc instructions yes
+72 htc useful yes
+72 room instructions yes
+72 room useful yes
+72 meal instructions yes
+72 meal useful yes
+72 story-bt speech_type extemp
+72 story-bt topic Physic topic about materials (red)
+72 story-at speech_type read
+72 story-at topic Physic topic about materials
+72 general native yes
+72 general dialect standard
+72 general accent none
+72 general background speech none
+72 general environmental noise none
+72 general gender male
+72 general age adult
+72 general intelligibility ok
+72 general connection average

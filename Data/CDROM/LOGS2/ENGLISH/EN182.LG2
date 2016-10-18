@@ -1,0 +1,27 @@
+182 nlang native yes
+182 clang instructions yes
+182 clang useful yes
+182 dowk complete yes
+182 nums complete no
+182 nums partial yes
+182 htl instructions yes
+182 htl useful yes
+182 htc instructions yes
+182 htc useful yes
+182 room instructions yes
+182 room useful yes
+182 meal instructions yes
+182 meal useful yes
+182 story-bt speech_type extemp
+182 story-bt topic hobby of antique collecting
+182 story-at speech_type extemp
+182 story-at topic lucky to unwrap sale items
+182 general native yes
+182 general dialect standard
+182 general accent none
+182 general background speech faint women's voice
+182 general environmental noise none
+182 general gender female
+182 general age adult
+182 general intelligibility ok
+182 general connection average

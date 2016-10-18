@@ -1,0 +1,26 @@
+4 nlang native yes
+4 clang instructions yes
+4 clang useful yes
+4 dowk complete yes
+4 nums complete yes
+4 htl instructions yes
+4 htl useful yes
+4 htc instructions yes
+4 htc useful yes
+4 room instructions yes
+4 room useful yes
+4 meal instructions yes
+4 meal useful yes
+4 story-bt speech_type extemp
+4 story-bt topic My hobby:  music and sports.
+4 story-at speech_type extemp
+4 story-at topic None
+4 general native yes
+4 general dialect standard
+4 general accent none
+4 general background speech none
+4 general environmental noise sound of running computer
+4 general gender male
+4 general age adult
+4 general intelligibility ok
+4 general connection average

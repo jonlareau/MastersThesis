@@ -1,0 +1,68 @@
+137 labeler ames
+137 label_date Wed Mar 25 08:36:58 PST 1992
+137 nlang comments EN  
+137 nlang missing nothing
+137 nlang duration_sec 0.7
+137 nlang dc_offset 42
+137 nlang min_samp -5014
+137 nlang max_samp 5602
+137 nlang min_power10 21.7
+137 nlang max_power90 51.4
+137 clang comments EN SNL 
+137 clang missing nothing
+137 clang duration_sec 1.3
+137 clang dc_offset 42
+137 clang min_samp -3398
+137 clang max_samp 3266
+137 clang min_power10 21.7
+137 clang max_power90 55.1
+137 dowk comments EN NI  
+137 dowk missing nothing; did not complete dowk
+137 dowk duration_sec 4.0
+137 dowk dc_offset 42
+137 dowk min_samp -3786
+137 dowk max_samp 2794
+137 dowk min_power10 21.8
+137 dowk max_power90 52.2
+137 nums comments EN  
+137 nums missing 10
+137 nums duration_sec 4.1
+137 nums dc_offset 42
+137 nums min_samp -1566
+137 nums max_samp 1422
+137 nums min_power10 22.7
+137 nums max_power90 49.9
+137 htl missing nothing
+137 htl duration_sec 1.0
+137 htl dc_offset 42
+137 htl min_samp -10722
+137 htl max_samp 12894
+137 htl min_power10 21.7
+137 htl max_power90 66.0
+137 htc missing nothing
+137 htc duration_sec 1.8
+137 htc dc_offset 42
+137 htc min_samp -6770
+137 htc max_samp 5802
+137 htc min_power10 22.0
+137 htc max_power90 58.5
+137 meal comments EN  
+137 meal missing nothing
+137 meal duration_sec 5.4
+137 meal dc_offset 42
+137 meal min_samp -2410
+137 meal max_samp 2406
+137 meal min_power10 21.8
+137 meal max_power90 51.4
+137 story-bt comments EN SS ES SNL  
+137 story-bt missing nothing
+137 story-bt duration_sec 26.5
+137 story-bt dc_offset 42
+137 story-bt min_samp -4878
+137 story-bt max_samp 5166
+137 story-bt min_power10 21.8
+137 story-bt max_power90 51.0
+137 gender male
+137 age adult
+137 connection average
+137 intelligibility ok

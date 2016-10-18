@@ -1,0 +1,53 @@
+51 labeler khoward
+51 label_date Fri Oct 18 18:52:07 PDT 1991
+51 nlang missing nothing
+51 nlang duration_sec 1.2
+51 nlang dc_offset 43
+51 nlang min_samp -1143
+51 nlang max_samp 1977
+51 nlang min_power10 18.7
+51 nlang max_power90 53.2
+51 clang comments ES  
+51 clang missing nothing
+51 clang duration_sec 1.4
+51 clang dc_offset 43
+51 clang min_samp -691
+51 clang max_samp 1125
+51 clang min_power10 20.2
+51 clang max_power90 50.0
+51 dowk comments CB  
+51 dowk missing Monday Tuesday?
+51 dowk duration_sec 2.1
+51 dowk dc_offset 43
+51 dowk min_samp -1171
+51 dowk max_samp 1149
+51 dowk min_power10 20.1
+51 dowk max_power90 51.7
+51 nums comments CB  
+51 nums missing 0
+51 nums duration_sec 6.6
+51 nums dc_offset 42
+51 nums min_samp -1290
+51 nums max_samp 1242
+51 nums min_power10 19.8
+51 nums max_power90 50.9
+51 htl comments ES  
+51 htl missing nothing
+51 htl duration_sec 4.1
+51 htl dc_offset 42
+51 htl min_samp -1538
+51 htl max_samp 1886
+51 htl min_power10 20.0
+51 htl max_power90 51.8
+51 htc comments CE  
+51 htc missing CS
+51 htc duration_sec 7.2
+51 htc dc_offset 43
+51 htc min_samp -2907
+51 htc max_samp 3005
+51 htc min_power10 19.9
+51 htc max_power90 54.6
+51 gender female
+51 age adult
+51 connection average
+51 intelligibility ok

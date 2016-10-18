@@ -1,0 +1,26 @@
+187 nlang native yes
+187 clang instructions yes
+187 clang useful yes
+187 dowk complete yes
+187 nums complete yes
+187 htl instructions yes
+187 htl useful yes
+187 htc instructions yes
+187 htc useful yes
+187 room instructions yes
+187 room useful yes
+187 meal instructions yes
+187 meal useful yes
+187 story-bt speech_type extemp
+187 story-bt topic student now, was in armed forces and lived in Germany
+187 story-at speech_type extemp
+187 story-at topic stationed at Marx air force base
+187 general native yes
+187 general dialect standard
+187 general accent none
+187 general background speech none
+187 general environmental noise none
+187 general gender male
+187 general age adult
+187 general intelligibility ok
+187 general connection average

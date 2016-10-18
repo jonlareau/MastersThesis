@@ -1,0 +1,78 @@
+134 labeler ames
+134 label_date Fri Mar 20 12:04:30 PST 1992
+134 nlang comments EN NN  
+134 nlang missing nothing; MAY not be a native speaker
+134 nlang duration_sec 0.9
+134 nlang dc_offset 42
+134 nlang min_samp -2542
+134 nlang max_samp 4982
+134 nlang min_power10 29.7
+134 nlang max_power90 60.1
+134 clang comments CB EN  
+134 clang missing cs
+134 clang duration_sec 0.6
+134 clang dc_offset 42
+134 clang min_samp -2446
+134 clang max_samp 3166
+134 clang min_power10 29.2
+134 clang max_power90 58.9
+134 dowk comments EN ES  
+134 dowk missing nothing
+134 dowk duration_sec 6.8
+134 dowk dc_offset 42
+134 dowk min_samp -3706
+134 dowk max_samp 7270
+134 dowk min_power10 29.5
+134 dowk max_power90 59.4
+134 nums comments EN  
+134 nums missing 0
+134 nums duration_sec 7.0
+134 nums dc_offset 42
+134 nums min_samp -4598
+134 nums max_samp 9926
+134 nums min_power10 28.0
+134 nums max_power90 59.4
+134 htl comments CE EN ES  
+134 htl missing cs
+134 htl duration_sec 7.2
+134 htl dc_offset 42
+134 htl min_samp -3290
+134 htl max_samp 6766
+134 htl min_power10 30.1
+134 htl max_power90 60.5
+134 htc comments EN ES  
+134 htc missing nothing
+134 htc duration_sec 6.5
+134 htc dc_offset 42
+134 htc min_samp -3814
+134 htc max_samp 6674
+134 htc min_power10 28.8
+134 htc max_power90 60.0
+134 room comments CE EN ES  
+134 room missing cs
+134 room duration_sec 10.5
+134 room dc_offset 42
+134 room min_samp -4942
+134 room max_samp 9390
+134 room min_power10 29.2
+134 room max_power90 61.1
+134 meal comments CB CE EN ES  
+134 meal missing cs
+134 meal duration_sec 7.8
+134 meal dc_offset 42
+134 meal min_samp -3166
+134 meal max_samp 5734
+134 meal min_power10 27.5
+134 meal max_power90 54.6
+134 story-bt comments CE EN RS  
+134 story-bt missing cs
+134 story-bt duration_sec 45.8
+134 story-bt dc_offset 43
+134 story-bt min_samp -4483
+134 story-bt max_samp 9001
+134 story-bt min_power10 28.0
+134 story-bt max_power90 60.4
+134 gender male
+134 age adult
+134 connection average
+134 intelligibility ok

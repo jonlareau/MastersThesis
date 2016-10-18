@@ -1,0 +1,84 @@
+12 labeler khoward
+12 label_date Wed Jul 10 11:04:10 PDT 1991
+12 nlang missing nothing
+12 nlang duration_sec 0.7
+12 nlang dc_offset 42
+12 nlang min_samp -734
+12 nlang max_samp 434
+12 nlang min_power10 19.0
+12 nlang max_power90 42.8
+12 clang comments EN ES  
+12 clang missing nothing
+12 clang duration_sec 1.5
+12 clang dc_offset 42
+12 clang min_samp -962
+12 clang max_samp 722
+12 clang min_power10 16.4
+12 clang max_power90 42.6
+12 dowk comments BN CE  
+12 dowk missing Sunday
+12 dowk duration_sec 7.3
+12 dowk dc_offset 42
+12 dowk min_samp -1182
+12 dowk max_samp 806
+12 dowk min_power10 14.5
+12 dowk max_power90 41.4
+12 nums comments EN  
+12 nums missing 8 9 10
+12 nums duration_sec 9.6
+12 nums dc_offset 42
+12 nums min_samp -1302
+12 nums max_samp 906
+12 nums min_power10 14.3
+12 nums max_power90 41.7
+12 htl comments BN CE  
+12 htl missing CS
+12 htl duration_sec 9.1
+12 htl dc_offset 42
+12 htl min_samp -1366
+12 htl max_samp 846
+12 htl min_power10 15.8
+12 htl max_power90 44.3
+12 htc comments EN  
+12 htc missing nothing
+12 htc duration_sec 7.4
+12 htc dc_offset 42
+12 htc min_samp -1106
+12 htc max_samp 946
+12 htc min_power10 16.2
+12 htc max_power90 46.1
+12 room comments CE  
+12 room missing CS
+12 room duration_sec 11.2
+12 room dc_offset 42
+12 room min_samp -1126
+12 room max_samp 1114
+12 room min_power10 14.9
+12 room max_power90 45.0
+12 meal missing nothing
+12 meal duration_sec 9.4
+12 meal dc_offset 42
+12 meal min_samp -1122
+12 meal max_samp 718
+12 meal min_power10 14.9
+12 meal max_power90 41.7
+12 story-bt comments SS CE 
+12 story-bt missing CS
+12 story-bt duration_sec 43.4
+12 story-bt dc_offset 42
+12 story-bt min_samp -2130
+12 story-bt max_samp 1422
+12 story-bt min_power10 15.0
+12 story-bt max_power90 45.2
+12 story-at comments EN  
+12 story-at missing nothing
+12 story-at duration_sec 4.4
+12 story-at dc_offset 42
+12 story-at min_samp -1626
+12 story-at max_samp 918
+12 story-at min_power10 15.8
+12 story-at max_power90 43.1
+12 gender female
+12 age adult
+12 connection average
+12 intelligibility ok

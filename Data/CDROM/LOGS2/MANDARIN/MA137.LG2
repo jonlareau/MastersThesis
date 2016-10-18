@@ -1,0 +1,28 @@
+137 nlang native yes
+137 clang instructions yes
+137 clang useful yes
+137 dowk complete no
+137 dowk partial yes
+137 nums complete no
+137 nums partial yes
+137 htl instructions no
+137 htl useful yes
+137 htc instructions yes
+137 htc useful yes
+137 room instructions yes
+137 room useful yes
+137 meal instructions no
+137 meal useful yes
+137 story-bt speech_type extemp
+137 story-bt topic Something about Baltimore
+137 story-at speech_type extemp
+137 story-at topic She hope to get Ph.D. degree within a year
+137 general native yes
+137 general dialect standard
+137 general accent none
+137 general background speech none
+137 general environmental noise none
+137 general gender female
+137 general age adult
+137 general intelligibility ok
+137 general connection average

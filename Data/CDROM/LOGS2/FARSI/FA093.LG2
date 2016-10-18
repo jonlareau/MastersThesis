@@ -1,0 +1,28 @@
+93 nlang native yes
+93 clang instructions yes
+93 clang useful yes
+93 dowk complete no
+93 dowk partial yes
+93 nums complete no
+93 nums partial yes
+93 htl instructions yes
+93 htl useful yes
+93 htc instructions yes
+93 htc useful yes
+93 room instructions yes
+93 room useful yes
+93 meal instructions yes
+93 meal useful yes
+93 story-bt speech_type extemp
+93 story-bt topic Autobiog: Coming to America; life since then
+93 story-at speech_type extemp
+93 story-at topic Life since coming to USA, cont'd
+93 general native yes
+93 general dialect standard
+93 general accent none
+93 general background speech none
+93 general environmental noise none
+93 general gender female
+93 general age adult
+93 general intelligibility ok
+93 general connection average

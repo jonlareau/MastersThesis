@@ -1,0 +1,27 @@
+105 nlang native yes
+105 clang instructions no
+105 clang useful yes
+105 dowk complete yes
+105 nums complete no
+105 nums partial yes
+105 htl instructions yes
+105 htl useful yes
+105 htc instructions no
+105 htc useful yes
+105 room instructions yes
+105 room useful yes
+105 meal instructions yes
+105 meal useful yes
+105 story-bt speech_type extemp
+105 story-bt topic thinks this project and the database will be very useful; likes talking in Tamil
+105 story-at speech_type extemp
+105 story-at topic hopes his speech will be useful for our research
+105 general native yes
+105 general dialect mix of spoken and written Tamil
+105 general accent none
+105 general background speech none
+105 general environmental noise line noise
+105 general gender male
+105 general age adult
+105 general intelligibility ok
+105 general connection average

@@ -1,0 +1,27 @@
+212 nlang native yes
+212 clang instructions yes
+212 clang useful yes
+212 dowk complete yes
+212 nums complete no
+212 nums partial yes
+212 htl instructions yes
+212 htl useful yes
+212 htc instructions yes
+212 htc useful yes
+212 room instructions yes
+212 room useful yes
+212 meal instructions yes
+212 meal useful yes
+212 story-bt speech_type extemp
+212 story-bt topic tells story of finding a stray kitten
+212 story-at speech_type extemp
+212 story-at topic husband, wife, and cat are happy
+212 general native yes
+212 general dialect standard
+212 general accent none
+212 general background speech none
+212 general environmental noise none
+212 general gender male
+212 general age adult
+212 general intelligibility ok
+212 general connection average

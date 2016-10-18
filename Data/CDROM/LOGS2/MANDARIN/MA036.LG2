@@ -1,0 +1,26 @@
+36 nlang native yes
+36 clang instructions yes
+36 clang useful yes
+36 dowk complete yes
+36 nums complete yes
+36 htl instructions yes
+36 htl useful yes
+36 htc instructions yes
+36 htc useful yes
+36 room instructions yes
+36 room useful yes
+36 meal instructions yes
+36 meal useful yes
+36 story-bt speech_type extemp
+36 story-bt topic He is interested in this program.
+36 story-at speech_type extemp
+36 story-at topic His work in China.
+36 general native yes
+36 general dialect standard
+36 general accent none
+36 general background speech none
+36 general environmental noise none
+36 general gender male
+36 general age adult
+36 general intelligibility ok
+36 general connection average

@@ -1,0 +1,27 @@
+139 nlang native yes
+139 clang instructions yes
+139 clang useful yes
+139 dowk complete yes
+139 nums complete no
+139 nums partial yes
+139 htl instructions yes
+139 htl useful yes
+139 htc instructions yes
+139 htc useful yes
+139 room instructions yes
+139 room useful yes
+139 meal instructions yes
+139 meal useful yes
+139 story-bt speech_type extemp
+139 story-bt topic his schools of education; his intense curiosity about this research
+139 story-at speech_type extemp
+139 story-at topic says he will end his speech
+139 general native yes
+139 general dialect standard
+139 general accent none
+139 general background speech none
+139 general environmental noise strong line noise; story-at useless
+139 general gender male
+139 general age adult
+139 general intelligibility ok
+139 general connection poor

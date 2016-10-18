@@ -1,0 +1,82 @@
+62 labeler khoward
+62 label_date Mon Aug 26 14:17:41 PDT 1991
+62 ALL FILES DISCARDED
+62 nlang comments BN  
+62 nlang missing nothing
+62 nlang duration_sec 1.0
+62 nlang dc_offset 42
+62 nlang min_samp -2194
+62 nlang max_samp 2214
+62 nlang min_power10 18.0
+62 nlang max_power90 47.0
+62 clang comments BN  
+62 clang missing nothing
+62 clang duration_sec 1.0
+62 clang dc_offset 42
+62 clang min_samp -1862
+62 clang max_samp 1974
+62 clang min_power10 17.8
+62 clang max_power90 45.4
+62 dowk missing nothing
+62 dowk duration_sec 5.3
+62 dowk dc_offset 42
+62 dowk min_samp -3906
+62 dowk max_samp 4046
+62 dowk min_power10 18.4
+62 dowk max_power90 57.0
+62 nums missing nothing
+62 nums duration_sec 8.2
+62 nums dc_offset 42
+62 nums min_samp -2930
+62 nums max_samp 2814
+62 nums min_power10 18.0
+62 nums max_power90 54.1
+62 htl missing nothing
+62 htl duration_sec 7.7
+62 htl dc_offset 42
+62 htl min_samp -2126
+62 htl max_samp 2102
+62 htl min_power10 18.5
+62 htl max_power90 49.4
+62 htc comments BN  
+62 htc missing nothing
+62 htc duration_sec 8.7
+62 htc dc_offset 42
+62 htc min_samp -2926
+62 htc max_samp 3278
+62 htc min_power10 18.6
+62 htc max_power90 51.0
+62 room missing nothing
+62 room duration_sec 10.1
+62 room dc_offset 42
+62 room min_samp -2714
+62 room max_samp 2602
+62 room min_power10 17.6
+62 room max_power90 51.6
+62 meal missing nothing
+62 meal duration_sec 3.6
+62 meal dc_offset 42
+62 meal min_samp -2214
+62 meal max_samp 1750
+62 meal min_power10 18.3
+62 meal max_power90 48.4
+62 story-bt comments EN SS  
+62 story-bt missing nothing
+62 story-bt duration_sec 48.3
+62 story-bt dc_offset 42
+62 story-bt min_samp -2982
+62 story-bt max_samp 2454
+62 story-bt min_power10 18.3
+62 story-bt max_power90 49.0
+62 story-at comments BN EN SS  
+62 story-at missing nothing
+62 story-at duration_sec 6.1
+62 story-at dc_offset 42
+62 story-at min_samp -2502
+62 story-at max_samp 1730
+62 story-at min_power10 18.7
+62 story-at max_power90 48.3
+62 gender male
+62 age adult
+62 connection average
+62 intelligibility ok

@@ -1,0 +1,81 @@
+124 labeler khoward
+124 label_date Fri Jan 17 21:47:30 PST 1992
+124 nlang missing nothing
+124 nlang duration_sec 0.9
+124 nlang dc_offset 43
+124 nlang min_samp -1927
+124 nlang max_samp 1633
+124 nlang min_power10 11.1
+124 nlang max_power90 48.5
+124 clang comments CE  
+124 clang missing CS
+124 clang duration_sec 1.0
+124 clang dc_offset 43
+124 clang min_samp -1619
+124 clang max_samp 1261
+124 clang min_power10 12.0
+124 clang max_power90 46.1
+124 dowk missing nothing
+124 dowk duration_sec 5.4
+124 dowk dc_offset 43
+124 dowk min_samp -1775
+124 dowk max_samp 1453
+124 dowk min_power10 11.7
+124 dowk max_power90 49.3
+124 nums missing nothing
+124 nums duration_sec 8.5
+124 nums dc_offset 43
+124 nums min_samp -1619
+124 nums max_samp 1101
+124 nums min_power10 12.3
+124 nums max_power90 43.9
+124 htl comments BN CE  
+124 htl missing CS
+124 htl duration_sec 6.6
+124 htl dc_offset 42
+124 htl min_samp -2566
+124 htl max_samp 1890
+124 htl min_power10 14.9
+124 htl max_power90 49.9
+124 htc missing nothing
+124 htc duration_sec 6.8
+124 htc dc_offset 42
+124 htc min_samp -2282
+124 htc max_samp 1606
+124 htc min_power10 12.0
+124 htc max_power90 51.9
+124 room comments CE  
+124 room missing CS
+124 room duration_sec 11.2
+124 room dc_offset 42
+124 room min_samp -2378
+124 room max_samp 1870
+124 room min_power10 12.6
+124 room max_power90 49.3
+124 meal missing nothing
+124 meal duration_sec 8.0
+124 meal dc_offset 42
+124 meal min_samp -1762
+124 meal max_samp 1310
+124 meal min_power10 12.1
+124 meal max_power90 44.2
+124 story-bt comments CE SNL SS  
+124 story-bt missing CS
+124 story-bt duration_sec 46.3
+124 story-bt dc_offset 42
+124 story-bt min_samp -3166
+124 story-bt max_samp 2338
+124 story-bt min_power10 13.6
+124 story-bt max_power90 49.9
+124 story-at comments SS  
+124 story-at missing nothing
+124 story-at duration_sec 3.8
+124 story-at dc_offset 42
+124 story-at min_samp -1798
+124 story-at max_samp 1642
+124 story-at min_power10 12.7
+124 story-at max_power90 45.4
+124 gender female
+124 age adult
+124 connection average
+124 intelligibility ok

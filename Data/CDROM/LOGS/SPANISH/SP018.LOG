@@ -1,0 +1,82 @@
+18 labeler khoward
+18 label_date Wed Jul 31 11:22:33 PDT 1991
+18 nlang missing nothing
+18 nlang duration_sec 1.0
+18 nlang dc_offset 42
+18 nlang min_samp -1310
+18 nlang max_samp 838
+18 nlang min_power10 11.3
+18 nlang max_power90 44.8
+18 clang missing nothing
+18 clang duration_sec 1.0
+18 clang dc_offset 42
+18 clang min_samp -886
+18 clang max_samp 834
+18 clang min_power10 10.7
+18 clang max_power90 46.3
+18 dowk missing nothing
+18 dowk duration_sec 4.0
+18 dowk dc_offset 42
+18 dowk min_samp -1030
+18 dowk max_samp 886
+18 dowk min_power10 12.7
+18 dowk max_power90 45.9
+18 nums missing nothing
+18 nums duration_sec 6.4
+18 nums dc_offset 42
+18 nums min_samp -574
+18 nums max_samp 566
+18 nums min_power10 11.4
+18 nums max_power90 41.9
+18 htl comments CE  
+18 htl missing CS
+18 htl duration_sec 8.0
+18 htl dc_offset 42
+18 htl min_samp -1562
+18 htl max_samp 1554
+18 htl min_power10 11.5
+18 htl max_power90 47.7
+18 htc comments CE  
+18 htc missing CS
+18 htc duration_sec 8.4
+18 htc dc_offset 42
+18 htc min_samp -1510
+18 htc max_samp 1178
+18 htc min_power10 12.3
+18 htc max_power90 49.2
+18 room comments CE  
+18 room missing CS
+18 room duration_sec 10.6
+18 room dc_offset 42
+18 room min_samp -1778
+18 room max_samp 1870
+18 room min_power10 13.0
+18 room max_power90 46.3
+18 meal comments BN  
+18 meal missing nothing
+18 meal duration_sec 7.1
+18 meal dc_offset 42
+18 meal min_samp -1634
+18 meal max_samp 1282
+18 meal min_power10 12.2
+18 meal max_power90 46.8
+18 story-bt comments CE SS  
+18 story-bt missing CS
+18 story-bt duration_sec 48.2
+18 story-bt dc_offset 42
+18 story-bt min_samp -1702
+18 story-bt max_samp 1698
+18 story-bt min_power10 12.0
+18 story-bt max_power90 46.2
+18 story-at comments CB SS  
+18 story-at missing CS
+18 story-at duration_sec 4.7
+18 story-at dc_offset 42
+18 story-at min_samp -1058
+18 story-at max_samp 778
+18 story-at min_power10 11.2
+18 story-at max_power90 44.5
+18 gender male
+18 age adult
+18 connection average
+18 intelligibility ok

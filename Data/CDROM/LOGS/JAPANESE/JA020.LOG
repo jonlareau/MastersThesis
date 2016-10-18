@@ -1,0 +1,83 @@
+20 labeler khoward
+20 label_date Mon Jul 29 12:09:04 PDT 1991
+20 nlang missing nothing
+20 nlang duration_sec 1.3
+20 nlang dc_offset 42
+20 nlang min_samp -2418
+20 nlang max_samp 2806
+20 nlang min_power10 10.6
+20 nlang max_power90 55.7
+20 clang comments CE ES  
+20 clang missing CS
+20 clang duration_sec 2.4
+20 clang dc_offset 42
+20 clang min_samp -1774
+20 clang max_samp 1678
+20 clang min_power10 10.1
+20 clang max_power90 49.9
+20 dowk comments CE  
+20 dowk missing Saturday Sunday?
+20 dowk duration_sec 6.3
+20 dowk dc_offset 42
+20 dowk min_samp -2150
+20 dowk max_samp 1902
+20 dowk min_power10 10.4
+20 dowk max_power90 52.8
+20 nums comments BN  
+20 nums missing nothing
+20 nums duration_sec 7.4
+20 nums dc_offset 42
+20 nums min_samp -2894
+20 nums max_samp 3906
+20 nums min_power10 10.4
+20 nums max_power90 43.8
+20 htl missing nothing
+20 htl duration_sec 3.0
+20 htl dc_offset 42
+20 htl min_samp -2510
+20 htl max_samp 1990
+20 htl min_power10 10.1
+20 htl max_power90 47.8
+20 htc comments BN  
+20 htc missing nothing
+20 htc duration_sec 6.0
+20 htc dc_offset 42
+20 htc min_samp -2262
+20 htc max_samp 1774
+20 htc min_power10 10.0
+20 htc max_power90 39.6
+20 room missing nothing
+20 room duration_sec 10.7
+20 room dc_offset 42
+20 room min_samp -2626
+20 room max_samp 1610
+20 room min_power10 10.6
+20 room max_power90 43.3
+20 meal comments BN  
+20 meal missing nothing
+20 meal duration_sec 8.9
+20 meal dc_offset 42
+20 meal min_samp -2110
+20 meal max_samp 1494
+20 meal min_power10 10.4
+20 meal max_power90 44.4
+20 story-bt comments BN CE EN SS  
+20 story-bt missing CS
+20 story-bt duration_sec 48.4
+20 story-bt dc_offset 42
+20 story-bt min_samp -2906
+20 story-bt max_samp 2450
+20 story-bt min_power10 10.6
+20 story-bt max_power90 41.5
+20 story-at comments SS  
+20 story-at missing nothing
+20 story-at duration_sec 5.7
+20 story-at dc_offset 42
+20 story-at min_samp -2242
+20 story-at max_samp 1222
+20 story-at min_power10 10.9
+20 story-at max_power90 46.6
+20 gender male
+20 age adult
+20 connection average
+20 intelligibility ok

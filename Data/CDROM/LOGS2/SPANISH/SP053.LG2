@@ -1,0 +1,26 @@
+53 nlang native yes
+53 clang instructions yes
+53 clang useful yes
+53 dowk complete yes
+53 nums complete yes
+53 htl instructions yes
+53 htl useful yes
+53 htc instructions yes
+53 htc useful yes
+53 room instructions yes
+53 room useful yes
+53 meal instructions yes
+53 meal useful yes
+53 story-bt speech_type extemp
+53 story-bt topic where he lives, works
+53 story-at speech_type extemp
+53 story-at topic his wifes studies
+53 general native yes
+53 general dialect Venezuelan
+53 general accent none
+53 general background speech none
+53 general environmental noise none
+53 general gender male
+53 general age adult
+53 general intelligibility ok
+53 general connection poor

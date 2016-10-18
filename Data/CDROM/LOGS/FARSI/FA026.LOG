@@ -1,0 +1,77 @@
+26 labeler yeshwant
+26 label_date Sun Aug  4 14:17:06 PDT 1991
+26 nlang comments BN  
+26 nlang missing nothing
+26 nlang duration_sec 1.0
+26 nlang dc_offset 42
+26 nlang min_samp -7506
+26 nlang max_samp 6170
+26 nlang min_power10 17.1
+26 nlang max_power90 60.1
+26 clang comments BN  
+26 clang missing nothing
+26 clang duration_sec 1.6
+26 clang dc_offset 42
+26 clang min_samp -4598
+26 clang max_samp 4158
+26 clang min_power10 20.3
+26 clang max_power90 56.5
+26 dowk missing nothing
+26 dowk duration_sec 5.0
+26 dowk dc_offset 42
+26 dowk min_samp -3362
+26 dowk max_samp 2694
+26 dowk min_power10 20.4
+26 dowk max_power90 51.7
+26 nums comments BN  
+26 nums missing nothing
+26 nums duration_sec 6.6
+26 nums dc_offset 42
+26 nums min_samp -2926
+26 nums max_samp 2802
+26 nums min_power10 19.2
+26 nums max_power90 50.6
+26 htl comments BN CE  
+26 htl missing cs
+26 htl duration_sec 9.1
+26 htl dc_offset 42
+26 htl min_samp -4362
+26 htl max_samp 4630
+26 htl min_power10 21.5
+26 htl max_power90 52.6
+26 htc comments BN  
+26 htc missing nothing
+26 htc duration_sec 4.3
+26 htc dc_offset 42
+26 htc min_samp -2402
+26 htc max_samp 2270
+26 htc min_power10 19.0
+26 htc max_power90 51.4
+26 room comments BN CE  
+26 room missing cs
+26 room duration_sec 11.4
+26 room dc_offset 42
+26 room min_samp -2790
+26 room max_samp 2846
+26 room min_power10 21.7
+26 room max_power90 53.3
+26 meal comments BN  
+26 meal missing nothing
+26 meal duration_sec 1.4
+26 meal dc_offset 42
+26 meal min_samp -2006
+26 meal max_samp 2054
+26 meal min_power10 17.2
+26 meal max_power90 50.8
+26 story-bt comments BN SS ES  
+26 story-bt missing nothing
+26 story-bt duration_sec 46.2
+26 story-bt dc_offset 42
+26 story-bt min_samp -6266
+26 story-bt max_samp 6574
+26 story-bt min_power10 18.3
+26 story-bt max_power90 50.9
+26 gender male
+26 age adult
+26 connection average
+26 intelligibility ok

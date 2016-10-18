@@ -1,0 +1,86 @@
+41 labeler yeshwant
+41 label_date Thu Aug 22 18:52:09 PDT 1991
+41 nlang comments EN  
+41 nlang missing nothing
+41 nlang duration_sec 0.8
+41 nlang dc_offset 42
+41 nlang min_samp -2982
+41 nlang max_samp 2610
+41 nlang min_power10 14.9
+41 nlang max_power90 59.2
+41 clang comments BN EN ES 
+41 clang missing nothing
+41 clang duration_sec 1.0
+41 clang dc_offset 42
+41 clang min_samp -2622
+41 clang max_samp 2014
+41 clang min_power10 18.2
+41 clang max_power90 56.2
+41 dowk comments BN EN  
+41 dowk missing nothing
+41 dowk duration_sec 5.2
+41 dowk dc_offset 42
+41 dowk min_samp -1870
+41 dowk max_samp 1654
+41 dowk min_power10 22.3
+41 dowk max_power90 50.6
+41 nums comments BN EN  
+41 nums missing nothing
+41 nums duration_sec 9.6
+41 nums dc_offset 42
+41 nums min_samp -3198
+41 nums max_samp 2766
+41 nums min_power10 15.1
+41 nums max_power90 54.4
+41 htl comments BN EN ES  
+41 htl missing nothing
+41 htl duration_sec 3.3
+41 htl dc_offset 42
+41 htl min_samp -3362
+41 htl max_samp 4566
+41 htl min_power10 23.1
+41 htl max_power90 58.1
+41 htc comments BN CB CE NI SS ES  
+41 htc missing nothing
+41 htc duration_sec 7.4
+41 htc dc_offset 42
+41 htc min_samp -6326
+41 htc max_samp 8198
+41 htc min_power10 15.8
+41 htc max_power90 57.2
+41 room comments BN CE SNL  
+41 room missing cs
+41 room duration_sec 11.7
+41 room dc_offset 42
+41 room min_samp -5582
+41 room max_samp 3966
+41 room min_power10 18.2
+41 room max_power90 57.9
+41 meal comments BN CE EN ES SNL  
+41 meal missing cs
+41 meal duration_sec 8.4
+41 meal dc_offset 42
+41 meal min_samp -5362
+41 meal max_samp 5974
+41 meal min_power10 15.8
+41 meal max_power90 60.8
+41 story-bt comments BN CE SS ES  
+41 story-bt missing cs
+41 story-bt duration_sec 44.0
+41 story-bt dc_offset 42
+41 story-bt min_samp -5694
+41 story-bt max_samp 5202
+41 story-bt min_power10 17.1
+41 story-bt max_power90 57.2
+41 story-at comments BN CE EN SS  
+41 story-at missing cs
+41 story-at duration_sec 7.4
+41 story-at dc_offset 42
+41 story-at min_samp -3774
+41 story-at max_samp 3982
+41 story-at min_power10 17.8
+41 story-at max_power90 59.3
+41 gender female
+41 age adult
+41 connection good
+41 intelligibility ok

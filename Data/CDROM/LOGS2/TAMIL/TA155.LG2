@@ -1,0 +1,27 @@
+155 nlang native yes
+155 clang instructions yes
+155 clang useful yes
+155 dowk complete yes
+155 nums complete no
+155 nums partial yes
+155 htl instructions yes
+155 htl useful yes
+155 htc instructions no
+155 htc useful yes
+155 room instructions yes
+155 room useful yes
+155 meal instructions yes
+155 meal useful yes
+155 story-bt speech_type extemp
+155 story-bt topic the wonders and advantages of electronic mail
+155 story-at speech_type extemp
+155 story-at topic there are a lot of ------- at home and work for Indian professional women (incomplete)
+155 general native yes
+155 general dialect unknown
+155 general accent none
+155 general background speech none
+155 general environmental noise strong line noise
+155 general gender female
+155 general age adult
+155 general intelligibility ok
+155 general connection poor

@@ -1,0 +1,27 @@
+18 nlang native yes
+18 clang instructions yes
+18 clang useful yes
+18 dowk complete no
+18 dowk partial no
+18 nums complete yes
+18 htl instructions yes
+18 htl useful yes
+18 htc instructions yes
+18 htc useful yes
+18 room instructions yes
+18 room useful yes
+18 meal instructions yes
+18 meal useful yes
+18 story-bt speech_type extemp
+18 story-bt topic His coming to U.S.
+18 story-at speech_type extemp
+18 story-at topic American life
+18 general native yes
+18 general dialect southern
+18 general accent none
+18 general background speech none
+18 general environmental noise none
+18 general gender male
+18 general age adult
+18 general intelligibility ok
+18 general connection average

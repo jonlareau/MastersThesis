@@ -1,0 +1,26 @@
+92 nlang native yes
+92 clang instructions yes
+92 clang useful yes
+92 dowk complete yes
+92 nums complete yes
+92 htl instructions yes
+92 htl useful yes
+92 htc instructions yes
+92 htc useful yes
+92 room instructions yes
+92 room useful yes
+92 meal instructions no
+92 meal useful yes
+92 story-bt speech_type extemp
+92 story-bt topic describing her commute from her house to her place of work
+92 story-at speech_type extemp
+92 story-at topic felt rather strange telling this story
+92 general native yes
+92 general dialect standard
+92 general accent none
+92 general background speech none
+92 general environmental noise none
+92 general gender female
+92 general age adult
+92 general intelligibility ok
+92 general connection average

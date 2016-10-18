@@ -1,0 +1,26 @@
+114 nlang native yes
+114 clang instructions yes
+114 clang useful yes
+114 dowk complete yes
+114 nums complete yes
+114 htl instructions yes
+114 htl useful yes
+114 htc instructions yes
+114 htc useful yes
+114 room instructions yes
+114 room useful yes
+114 meal instructions yes
+114 meal useful yes
+114 story-bt speech_type recite
+114 story-bt topic Poem
+114 story-at speech_type recite
+114 story-at topic Poem
+114 general native yes
+114 general dialect standard
+114 general accent none
+114 general background speech none
+114 general environmental noise none
+114 general gender female
+114 general age adult
+114 general intelligibility ok
+114 general connection average

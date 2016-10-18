@@ -1,0 +1,75 @@
+27 labeler yeshwant
+27 label_date Sun Aug  4 14:37:57 PDT 1991
+27 nlang comments BN  
+27 nlang missing nothing
+27 nlang duration_sec 2.9
+27 nlang dc_offset 42
+27 nlang min_samp -7598
+27 nlang max_samp 7998
+27 nlang min_power10 24.7
+27 nlang max_power90 64.6
+27 dowk missing nothing
+27 dowk duration_sec 6.8
+27 dowk dc_offset 42
+27 dowk min_samp -9126
+27 dowk max_samp 11086
+27 dowk min_power10 31.8
+27 dowk max_power90 61.6
+27 nums missing nothing
+27 nums duration_sec 6.4
+27 nums dc_offset 42
+27 nums min_samp -8774
+27 nums max_samp 12434
+27 nums min_power10 24.4
+27 nums max_power90 64.1
+27 htl comments CE  
+27 htl missing cs
+27 htl duration_sec 8.3
+27 htl dc_offset 42
+27 htl min_samp -6410
+27 htl max_samp 7614
+27 htl min_power10 31.3
+27 htl max_power90 63.3
+27 htc missing nothing
+27 htc duration_sec 8.0
+27 htc dc_offset 42
+27 htc min_samp -7126
+27 htc max_samp 10494
+27 htc min_power10 29.4
+27 htc max_power90 61.9
+27 room comments CE ES SNL  
+27 room missing cs
+27 room duration_sec 11.0
+27 room dc_offset 42
+27 room min_samp -5854
+27 room max_samp 6926
+27 room min_power10 26.1
+27 room max_power90 61.3
+27 meal comments BN  
+27 meal missing nothing
+27 meal duration_sec 3.1
+27 meal dc_offset 42
+27 meal min_samp -5222
+27 meal max_samp 5882
+27 meal min_power10 24.6
+27 meal max_power90 60.1
+27 story-bt comments BN CE SS ES SNL  
+27 story-bt missing cs
+27 story-bt duration_sec 48.1
+27 story-bt dc_offset 42
+27 story-bt min_samp -5214
+27 story-bt max_samp 7606
+27 story-bt min_power10 28.8
+27 story-bt max_power90 57.6
+27 story-at comments BN SS ES  
+27 story-at missing nothing
+27 story-at duration_sec 7.4
+27 story-at dc_offset 42
+27 story-at min_samp -4362
+27 story-at max_samp 4646
+27 story-at min_power10 26.9
+27 story-at max_power90 59.0
+27 gender male
+27 age adult
+27 connection good
+27 intelligibility ok

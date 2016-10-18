@@ -1,0 +1,26 @@
+50 nlang native yes
+50 clang instructions yes
+50 clang useful yes
+50 dowk complete yes
+50 nums complete yes
+50 htl instructions yes
+50 htl useful yes
+50 htc instructions yes
+50 htc useful yes
+50 room instructions yes
+50 room useful yes
+50 meal instructions yes
+50 meal useful yes
+50 story-bt speech_type extemp
+50 story-bt topic her dog glide
+50 story-at speech_type extemp
+50 story-at topic dog watching her in the shower
+50 general native yes
+50 general dialect standard
+50 general accent none
+50 general background speech none
+50 general environmental noise none
+50 general gender female
+50 general age adult
+50 general intelligibility ok
+50 general connection average

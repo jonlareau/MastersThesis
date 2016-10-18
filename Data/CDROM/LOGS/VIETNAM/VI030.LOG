@@ -1,0 +1,60 @@
+30 labeler khoward
+30 label_date Fri Aug  2 13:41:27 PDT 1991
+30 nlang missing nothing
+30 nlang duration_sec 1.7
+30 nlang dc_offset 42
+30 nlang min_samp -1830
+30 nlang max_samp 1362
+30 nlang min_power10 14.8
+30 nlang max_power90 45.6
+30 clang missing nothing
+30 clang duration_sec 1.6
+30 clang dc_offset 42
+30 clang min_samp -874
+30 clang max_samp 1538
+30 clang min_power10 15.0
+30 clang max_power90 45.3
+30 dowk comments EN  
+30 dowk missing nothing
+30 dowk duration_sec 6.5
+30 dowk dc_offset 42
+30 dowk min_samp -1366
+30 dowk max_samp 1202
+30 dowk min_power10 15.1
+30 dowk max_power90 42.2
+30 nums comments EN CE  
+30 nums missing 9 10?
+30 nums duration_sec 8.8
+30 nums dc_offset 42
+30 nums min_samp -1154
+30 nums max_samp 1722
+30 nums min_power10 14.6
+30 nums max_power90 42.7
+30 htc comments EN  
+30 htc missing nothing
+30 htc duration_sec 3.0
+30 htc dc_offset 42
+30 htc min_samp -538
+30 htc max_samp 686
+30 htc min_power10 15.1
+30 htc max_power90 43.9
+30 room comments SNL EN  
+30 room missing nothing
+30 room duration_sec 10.9
+30 room dc_offset 42
+30 room min_samp -422
+30 room max_samp 702
+30 room min_power10 15.5
+30 room max_power90 38.7
+30 meal comments EN  
+30 meal missing nothing
+30 meal duration_sec 4.9
+30 meal dc_offset 42
+30 meal min_samp -482
+30 meal max_samp 710
+30 meal min_power10 15.2
+30 meal max_power90 39.9
+30 gender female
+30 age adult
+30 connection poor
+30 intelligibility ok

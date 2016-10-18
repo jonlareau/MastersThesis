@@ -1,0 +1,28 @@
+235 nlang native yes
+235 clang instructions yes
+235 clang useful yes
+235 dowk complete no
+235 dowk partial yes
+235 nums complete no
+235 nums partial yes
+235 htl instructions yes
+235 htl useful yes
+235 htc instructions yes
+235 htc useful yes
+235 room instructions yes
+235 room useful yes
+235 meal instructions yes
+235 meal useful yes
+235 story-bt speech_type extemp
+235 story-bt topic going on a flight and then to a meeting
+235 story-at speech_type extemp
+235 story-at topic go to Omaha for the rest of the business week
+235 general native yes
+235 general dialect southern, Georgia
+235 general accent none
+235 general background speech none
+235 general environmental noise none
+235 general gender male
+235 general age adult
+235 general intelligibility ok
+235 general connection average

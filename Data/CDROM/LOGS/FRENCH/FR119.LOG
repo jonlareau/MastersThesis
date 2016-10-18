@@ -1,0 +1,86 @@
+119 labeler ames
+119 label_date Sun Mar  8 09:58:16 PST 1992
+119 nlang comments EN NN  
+119 nlang missing nothing
+119 nlang duration_sec 1.2
+119 nlang dc_offset 42
+119 nlang min_samp -3598
+119 nlang max_samp 3310
+119 nlang min_power10 17.0
+119 nlang max_power90 55.0
+119 clang comments BN EN  
+119 clang missing nothing
+119 clang duration_sec 1.2
+119 clang dc_offset 42
+119 clang min_samp -2602
+119 clang max_samp 2054
+119 clang min_power10 15.9
+119 clang max_power90 51.9
+119 dowk comments EN NN  
+119 dowk missing nothing
+119 dowk duration_sec 5.1
+119 dowk dc_offset 42
+119 dowk min_samp -1498
+119 dowk max_samp 1558
+119 dowk min_power10 16.3
+119 dowk max_power90 48.3
+119 nums comments EN NN  
+119 nums missing nothing
+119 nums duration_sec 5.6
+119 nums dc_offset 42
+119 nums min_samp -2582
+119 nums max_samp 2030
+119 nums min_power10 15.9
+119 nums max_power90 50.8
+119 htl comments CE EN NN ES  
+119 htl missing cs
+119 htl duration_sec 8.4
+119 htl dc_offset 42
+119 htl min_samp -2510
+119 htl max_samp 2550
+119 htl min_power10 16.1
+119 htl max_power90 52.5
+119 htc comments CE EN NN ES  
+119 htc missing cs
+119 htc duration_sec 9.0
+119 htc dc_offset 42
+119 htc min_samp -3210
+119 htc max_samp 3406
+119 htc min_power10 16.3
+119 htc max_power90 53.1
+119 room comments BN CE EN NN  
+119 room missing cs
+119 room duration_sec 11.4
+119 room dc_offset 42
+119 room min_samp -3498
+119 room max_samp 3838
+119 room min_power10 17.0
+119 room max_power90 56.1
+119 meal comments EN NN SNL  
+119 meal missing nothing
+119 meal duration_sec 9.9
+119 meal dc_offset 42
+119 meal min_samp -2778
+119 meal max_samp 3714
+119 meal min_power10 15.7
+119 meal max_power90 43.9
+119 story-bt comments CE EN NN SS ES SNL  
+119 story-bt missing cs
+119 story-bt duration_sec 48.6
+119 story-bt dc_offset 42
+119 story-bt min_samp -3434
+119 story-bt max_samp 3862
+119 story-bt min_power10 17.0
+119 story-bt max_power90 51.4
+119 story-at comments CB CE EN NN SS ES  
+119 story-at missing cs
+119 story-at duration_sec 8.6
+119 story-at dc_offset 42
+119 story-at min_samp -3110
+119 story-at max_samp 4006
+119 story-at min_power10 17.2
+119 story-at max_power90 52.7
+119 gender female
+119 age adult
+119 connection good
+119 intelligibility ok

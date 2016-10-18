@@ -1,0 +1,26 @@
+44 nlang native yes
+44 clang instructions yes
+44 clang useful yes
+44 nums complete no
+44 nums partial yes
+44 htl instructions yes
+44 htl useful yes
+44 htc instructions yes
+44 htc useful yes
+44 room instructions yes
+44 room useful yes
+44 meal instructions yes
+44 meal useful yes
+44 story-bt speech_type extemp
+44 story-bt topic Her feeling about moving to Berkley from New York.
+44 story-at speech_type extemp
+44 story-at topic Tireness in the terms and leisure in the vacation.
+44 general native yes
+44 general dialect standard
+44 general accent none
+44 general background speech none
+44 general environmental noise none
+44 general gender female
+44 general age adult
+44 general intelligibility ok
+44 general connection average

@@ -1,0 +1,26 @@
+176 nlang native yes
+176 clang instructions yes
+176 clang useful yes
+176 dowk complete yes
+176 nums complete yes
+176 htl instructions yes
+176 htl useful yes
+176 htc instructions yes
+176 htc useful yes
+176 room instructions yes
+176 room useful yes
+176 meal instructions yes
+176 meal useful yes
+176 story-bt speech_type extemp
+176 story-bt topic difficult to talk for more than one minute
+176 story-at speech_type extemp
+176 story-at topic heard beep and finished
+176 general native yes
+176 general dialect standard
+176 general accent none
+176 general background speech none
+176 general environmental noise none
+176 general gender male
+176 general age adult
+176 general intelligibility ok
+176 general connection average

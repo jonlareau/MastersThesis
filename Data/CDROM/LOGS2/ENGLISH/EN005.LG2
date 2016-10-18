@@ -1,0 +1,26 @@
+5 nlang native yes
+5 clang instructions yes
+5 clang useful yes
+5 dowk complete yes
+5 nums complete yes
+5 htl instructions yes
+5 htl useful yes
+5 htc instructions yes
+5 htc useful yes
+5 room instructions yes
+5 room useful yes
+5 meal instructions yes
+5 meal useful yes
+5 story-bt speech_type extemp
+5 story-bt topic this guy was talking about his research
+5 story-at speech_type extemp
+5 story-at topic interaction of lipids
+5 general native yes
+5 general dialect standard
+5 general accent none
+5 general background speech none
+5 general environmental noise none
+5 general gender male
+5 general age adult
+5 general intelligibility ok
+5 general connection average

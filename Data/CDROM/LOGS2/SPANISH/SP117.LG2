@@ -1,0 +1,26 @@
+117 nlang native yes
+117 clang instructions yes
+117 clang useful yes
+117 dowk complete yes
+117 nums complete yes
+117 htl instructions yes
+117 htl useful yes
+117 htc instructions yes
+117 htc useful yes
+117 room instructions yes
+117 room useful yes
+117 meal instructions yes
+117 meal useful yes
+117 story-bt speech_type extemp
+117 story-bt topic herself, the city she lives in
+117 story-at speech_type extemp
+117 story-at topic herself
+117 general native yes
+117 general dialect standard
+117 general accent none
+117 general background speech none
+117 general environmental noise none
+117 general gender female
+117 general age adult
+117 general intelligibility ok
+117 general connection average

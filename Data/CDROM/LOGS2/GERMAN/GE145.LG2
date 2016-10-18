@@ -1,0 +1,25 @@
+145 nlang native yes
+145 clang instructions yes
+145 clang useful yes
+145 dowk complete yes
+145 nums complete no
+145 nums partial yes
+145 htl instructions yes
+145 htl useful yes
+145 htc instructions yes
+145 htc useful yes
+145 room instructions yes
+145 room useful yes
+145 meal instructions yes
+145 meal useful yes
+145 story-bt speech_type extemp
+145 story-bt topic study in Pittsburg, biking, classical music, works a lot
+145 general native yes
+145 general dialect standard
+145 general accent none
+145 general background speech none
+145 general environmental noise none
+145 general gender male
+145 general age adult
+145 general intelligibility ok
+145 general connection average

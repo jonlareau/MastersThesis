@@ -1,0 +1,26 @@
+129 nlang native yes
+129 clang instructions yes
+129 clang useful yes
+129 dowk complete yes
+129 nums complete yes
+129 htl instructions yes
+129 htl useful yes
+129 htc instructions yes
+129 htc useful yes
+129 room instructions yes
+129 room useful yes
+129 meal instructions yes
+129 meal useful yes
+129 story-bt speech_type extemp
+129 story-bt topic Winter skiing
+129 story-at speech_type extemp
+129 story-at topic fragment
+129 general native yes
+129 general dialect standard
+129 general accent none
+129 general background speech none
+129 general environmental noise none
+129 general gender male
+129 general age adult
+129 general intelligibility ok
+129 general connection average

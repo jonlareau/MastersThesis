@@ -1,0 +1,67 @@
+106 labeler khoward
+106 label_date Sat Mar 14 14:09:02 PST 1992
+106 nlang missing nothing
+106 nlang duration_sec 0.8
+106 nlang dc_offset 42
+106 nlang min_samp -1266
+106 nlang max_samp 1654
+106 nlang min_power10 20.9
+106 nlang max_power90 51.0
+106 clang comments CE  
+106 clang missing CS
+106 clang duration_sec 0.6
+106 clang dc_offset 42
+106 clang min_samp -1138
+106 clang max_samp 854
+106 clang min_power10 21.8
+106 clang max_power90 46.2
+106 dowk comments CE  
+106 dowk missing Saturday?
+106 dowk duration_sec 6.1
+106 dowk dc_offset 42
+106 dowk min_samp -1854
+106 dowk max_samp 2010
+106 dowk min_power10 20.8
+106 dowk max_power90 44.5
+106 nums missing nothing
+106 nums duration_sec 6.7
+106 nums dc_offset 42
+106 nums min_samp -2902
+106 nums max_samp 4166
+106 nums min_power10 20.8
+106 nums max_power90 47.5
+106 htc missing nothing
+106 htc duration_sec 5.2
+106 htc dc_offset 42
+106 htc min_samp -1970
+106 htc max_samp 1682
+106 htc min_power10 20.5
+106 htc max_power90 42.6
+106 room comments BN  
+106 room missing nothing
+106 room duration_sec 6.5
+106 room dc_offset 42
+106 room min_samp -2022
+106 room max_samp 1982
+106 room min_power10 20.6
+106 room max_power90 48.9
+106 meal comments SNL  
+106 meal missing nothing
+106 meal duration_sec 2.2
+106 meal dc_offset 42
+106 meal min_samp -642
+106 meal max_samp 822
+106 meal min_power10 20.4
+106 meal max_power90 41.8
+106 story-bt comments EN SS  
+106 story-bt missing nothing
+106 story-bt duration_sec 21.5
+106 story-bt dc_offset 42
+106 story-bt min_samp -2118
+106 story-bt max_samp 1998
+106 story-bt min_power10 20.5
+106 story-bt max_power90 40.0
+106 gender male
+106 age adult
+106 connection poor
+106 intelligibility ok

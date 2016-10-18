@@ -1,0 +1,24 @@
+10 nlang native yes
+10 clang instructions yes
+10 clang useful yes
+10 dowk complete yes
+10 nums complete yes
+10 htc instructions yes
+10 htc useful yes
+10 room instructions yes
+10 room useful yes
+10 meal instructions yes
+10 meal useful yes
+10 story-bt speech_type extemp
+10 story-bt topic Hobbies
+10 story-at speech_type extemp
+10 story-at topic Future plans, what she is doing in this instant
+10 general native yes
+10 general dialect Puerto Rican or Dominican
+10 general accent none
+10 general background speech none
+10 general environmental noise TV and possibly somebody talking
+10 general gender female
+10 general age adult
+10 general intelligibility ok
+10 general connection average

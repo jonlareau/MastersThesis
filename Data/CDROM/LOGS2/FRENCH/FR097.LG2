@@ -1,0 +1,26 @@
+97 nlang native yes
+97 clang instructions yes
+97 clang useful yes
+97 dowk complete yes
+97 nums complete yes
+97 htl instructions no
+97 htl useful yes
+97 htc instructions yes
+97 htc useful yes
+97 room instructions yes
+97 room useful yes
+97 meal instructions yes
+97 meal useful yes
+97 story-bt speech_type extemp
+97 story-bt topic He is preparing a special data-processing program for teachers
+97 story-at speech_type extemp
+97 story-at topic 
+97 general native yes
+97 general dialect standard
+97 general accent none
+97 general background speech none
+97 general environmental noise none
+97 general gender female
+97 general age adult
+97 general intelligibility ok
+97 general connection average

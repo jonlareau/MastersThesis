@@ -1,0 +1,27 @@
+203 nlang native yes
+203 clang instructions yes
+203 clang useful yes
+203 dowk complete yes
+203 nums complete no
+203 nums partial yes
+203 htl instructions yes
+203 htl useful yes
+203 htc instructions yes
+203 htc useful yes
+203 room instructions yes
+203 room useful yes
+203 meal instructions yes
+203 meal useful yes
+203 story-bt speech_type read
+203 story-bt topic the experiment advertisement
+203 story-at speech_type read
+203 story-at topic the experiment advertisement
+203 general native yes
+203 general dialect standard
+203 general accent none
+203 general background speech none
+203 general environmental noise none
+203 general gender male
+203 general age adult
+203 general intelligibility ok
+203 general connection average

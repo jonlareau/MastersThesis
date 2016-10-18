@@ -1,0 +1,26 @@
+138 nlang native yes
+138 clang instructions yes
+138 clang useful yes
+138 dowk complete yes
+138 nums complete yes
+138 htl instructions yes
+138 htl useful yes
+138 htc instructions yes
+138 htc useful yes
+138 room instructions yes
+138 room useful yes
+138 meal instructions yes
+138 meal useful yes
+138 story-bt speech_type extemp
+138 story-bt topic his favorite school, Royal College in Colombo; his friends from there are all over the world
+138 story-at speech_type extemp
+138 story-at topic after graduating from that school; he went to Engineering school in the US
+138 general native yes
+138 general dialect Sri Lankan
+138 general accent heavy Sinhalese accent
+138 general background speech none
+138 general environmental noise line noise; lots of ums and ahs in story-bt
+138 general gender male
+138 general age adult
+138 general intelligibility ok
+138 general connection average

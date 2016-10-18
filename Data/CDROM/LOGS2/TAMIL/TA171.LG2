@@ -1,0 +1,26 @@
+171 nlang native yes
+171 clang instructions yes
+171 clang useful yes
+171 dowk complete yes
+171 nums complete yes
+171 htl instructions yes
+171 htl useful yes
+171 htc instructions yes
+171 htc useful yes
+171 room instructions yes
+171 room useful yes
+171 meal instructions yes
+171 meal useful yes
+171 story-bt speech_type extemp
+171 story-bt topic story about an exceptionally bright and intelligent engineer
+171 story-at speech_type extemp
+171 story-at topic story about an exceptionally bright and intelligent engineer
+171 general native yes
+171 general dialect written, formal Tamil
+171 general accent none
+171 general background speech none
+171 general environmental noise line noise
+171 general gender male
+171 general age adult
+171 general intelligibility ok
+171 general connection average

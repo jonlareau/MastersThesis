@@ -1,0 +1,78 @@
+125 labeler ames
+125 label_date Wed Mar  4 12:05:55 PST 1992
+125 nlang comments CE EN  
+125 nlang missing nothing
+125 nlang duration_sec 1.1
+125 nlang dc_offset 42
+125 nlang min_samp -2142
+125 nlang max_samp 3142
+125 nlang min_power10 28.2
+125 nlang max_power90 50.5
+125 clang comments EN  
+125 clang missing nothing; background speech
+125 clang duration_sec 2.0
+125 clang dc_offset 42
+125 clang min_samp -2066
+125 clang max_samp 3374
+125 clang min_power10 29.3
+125 clang max_power90 53.7
+125 dowk comments EN  
+125 dowk missing nothing; background speech
+125 dowk duration_sec 1.9
+125 dowk dc_offset 42
+125 dowk min_samp -1994
+125 dowk max_samp 2254
+125 dowk min_power10 27.5
+125 dowk max_power90 51.7
+125 nums comments EN  
+125 nums missing nothing
+125 nums duration_sec 3.8
+125 nums dc_offset 42
+125 nums min_samp -4910
+125 nums max_samp 6190
+125 nums min_power10 28.0
+125 nums max_power90 54.2
+125 htl comments CE EN ES  
+125 htl missing cs
+125 htl duration_sec 3.0
+125 htl dc_offset 42
+125 htl min_samp -7254
+125 htl max_samp 6698
+125 htl min_power10 20.8
+125 htl max_power90 56.5
+125 htc comments CE EN ES  
+125 htc missing cs
+125 htc duration_sec 8.5
+125 htc dc_offset 42
+125 htc min_samp -2306
+125 htc max_samp 3126
+125 htc min_power10 17.6
+125 htc max_power90 45.5
+125 room comments CE EN ES SNL  
+125 room missing cs
+125 room duration_sec 10.1
+125 room dc_offset 42
+125 room min_samp -2718
+125 room max_samp 2566
+125 room min_power10 19.0
+125 room max_power90 51.2
+125 meal comments EN ES  
+125 meal missing nothing
+125 meal duration_sec 6.5
+125 meal dc_offset 42
+125 meal min_samp -2950
+125 meal max_samp 3342
+125 meal min_power10 20.7
+125 meal max_power90 50.9
+125 story-bt comments CE EN SS ES  
+125 story-bt missing cs
+125 story-bt duration_sec 46.2
+125 story-bt dc_offset 42
+125 story-bt min_samp -7182
+125 story-bt max_samp 6654
+125 story-bt min_power10 17.7
+125 story-bt max_power90 46.7
+125 gender male
+125 age adult
+125 connection average
+125 intelligibility ok

@@ -1,0 +1,61 @@
+8 labeler khoward
+8 label_date Wed Jul 10 09:15:39 PDT 1991
+8 nlang missing nothing
+8 nlang duration_sec 1.2
+8 nlang dc_offset 42
+8 nlang min_samp -5714
+8 nlang max_samp 4322
+8 nlang min_power10 22.5
+8 nlang max_power90 61.5
+8 clang comments EN  
+8 clang missing nothing
+8 clang duration_sec 1.1
+8 clang dc_offset 42
+8 clang min_samp -4790
+8 clang max_samp 3902
+8 clang min_power10 24.2
+8 clang max_power90 55.5
+8 dowk comments BN ES  
+8 dowk missing nothing
+8 dowk duration_sec 7.4
+8 dowk dc_offset 42
+8 dowk min_samp -2342
+8 dowk max_samp 2110
+8 dowk min_power10 24.9
+8 dowk max_power90 49.7
+8 nums comments BN CB  
+8 nums missing 0
+8 nums duration_sec 4.4
+8 nums dc_offset 42
+8 nums min_samp -2662
+8 nums max_samp 2622
+8 nums min_power10 24.9
+8 nums max_power90 52.3
+8 htc comments EN  
+8 htc missing nothing
+8 htc duration_sec 1.1
+8 htc dc_offset 42
+8 htc min_samp -2654
+8 htc max_samp 2226
+8 htc min_power10 25.3
+8 htc max_power90 55.3
+8 room comments EN  
+8 room missing nothing
+8 room duration_sec 2.7
+8 room dc_offset 42
+8 room min_samp -2538
+8 room max_samp 1882
+8 room min_power10 26.6
+8 room max_power90 51.3
+8 meal comments EN  
+8 meal missing nothing
+8 meal duration_sec 7.6
+8 meal dc_offset 42
+8 meal min_samp -2658
+8 meal max_samp 2786
+8 meal min_power10 24.4
+8 meal max_power90 46.3
+8 gender male
+8 age adult
+8 connection average
+8 intelligibility ok

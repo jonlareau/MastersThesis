@@ -1,0 +1,24 @@
+15 nlang native yes
+15 clang instructions yes
+15 clang useful yes
+15 dowk complete yes
+15 nums complete yes
+15 htl instructions yes
+15 htl useful yes
+15 htc instructions yes
+15 htc useful yes
+15 room instructions yes
+15 room useful yes
+15 meal instructions yes
+15 meal useful yes
+15 story-bt speech_type extemp
+15 story-bt topic travel through alaska .. solitary
+15 general native yes
+15 general dialect saechsisch
+15 general accent none
+15 general background speech none
+15 general environmental noise none
+15 general gender female
+15 general age adult
+15 general intelligibility ok
+15 general connection average

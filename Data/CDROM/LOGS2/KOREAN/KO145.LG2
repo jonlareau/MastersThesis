@@ -1,0 +1,26 @@
+145 nlang native yes
+145 clang instructions yes
+145 clang useful yes
+145 dowk complete yes
+145 nums complete yes
+145 htl instructions yes
+145 htl useful yes
+145 htc instructions yes
+145 htc useful yes
+145 room instructions yes
+145 room useful yes
+145 meal instructions yes
+145 meal useful yes
+145 story-bt speech_type extemp
+145 story-bt topic I finished two years of college in Korea while studying English.  After Icame to the United States, I felt that science was easy so I started to study   those area.  I was in a chorus, and I like classical music.
+145 story-at speech_type extemp
+145 story-at topic I don't yet know well about the U.S.
+145 general native yes
+145 general dialect Kyungsang-do dialect
+145 general accent A typical high and low accent of Kyungsang-do dialect
+145 general background speech none
+145 general environmental noise a bad phone-line quality
+145 general gender female
+145 general age adult
+145 general intelligibility ok
+145 general connection average

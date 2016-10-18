@@ -1,0 +1,73 @@
+20 labeler khoward
+20 label_date Fri Jul 12 13:26:07 PDT 1991
+20 nlang missing nothing
+20 nlang duration_sec 0.6
+20 nlang dc_offset 42
+20 nlang min_samp -3926
+20 nlang max_samp 3670
+20 nlang min_power10 15.7
+20 nlang max_power90 61.7
+20 clang missing nothing
+20 clang duration_sec 0.6
+20 clang dc_offset 42
+20 clang min_samp -2786
+20 clang max_samp 2442
+20 clang min_power10 12.5
+20 clang max_power90 58.7
+20 dowk missing nothing
+20 dowk duration_sec 5.9
+20 dowk dc_offset 42
+20 dowk min_samp -5294
+20 dowk max_samp 4754
+20 dowk min_power10 12.4
+20 dowk max_power90 58.4
+20 htl comments CE  
+20 htl missing CS
+20 htl duration_sec 8.0
+20 htl dc_offset 42
+20 htl min_samp -5694
+20 htl max_samp 3682
+20 htl min_power10 16.2
+20 htl max_power90 57.7
+20 htc missing nothing
+20 htc duration_sec 7.1
+20 htc dc_offset 42
+20 htc min_samp -5698
+20 htc max_samp 4146
+20 htc min_power10 11.2
+20 htc max_power90 55.2
+20 room comments CE  
+20 room missing CS
+20 room duration_sec 11.2
+20 room dc_offset 42
+20 room min_samp -5606
+20 room max_samp 4462
+20 room min_power10 14.4
+20 room max_power90 57.7
+20 meal comments EN  
+20 meal missing nothing
+20 meal duration_sec 4.4
+20 meal dc_offset 42
+20 meal min_samp -4506
+20 meal max_samp 4314
+20 meal min_power10 12.6
+20 meal max_power90 56.1
+20 story-bt comments BN SS  
+20 story-bt missing nothing
+20 story-bt duration_sec 47.8
+20 story-bt dc_offset 42
+20 story-bt min_samp -12126
+20 story-bt max_samp 7350
+20 story-bt min_power10 12.8
+20 story-bt max_power90 57.9
+20 story-at missing nothing
+20 story-at duration_sec 8.5
+20 story-at dc_offset 42
+20 story-at min_samp -7838
+20 story-at max_samp 5646
+20 story-at min_power10 10.7
+20 story-at max_power90 56.3
+20 gender female
+20 age adult
+20 connection average
+20 intelligibility ok

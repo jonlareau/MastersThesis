@@ -1,0 +1,86 @@
+2 labeler yeshwant
+2 label_date Sun Jul  7 18:12:41 PDT 1991
+2 nlang comments BN  
+2 nlang missing nothing
+2 nlang duration_sec 0.9
+2 nlang dc_offset 42
+2 nlang min_samp -2214
+2 nlang max_samp 2466
+2 nlang min_power10 18.0
+2 nlang max_power90 56.0
+2 clang comments BN ES  
+2 clang missing nothing
+2 clang duration_sec 1.6
+2 clang dc_offset 42
+2 clang min_samp -2326
+2 clang max_samp 3422
+2 clang min_power10 24.1
+2 clang max_power90 57.5
+2 dowk comments BN  
+2 dowk missing nothing
+2 dowk duration_sec 3.1
+2 dowk dc_offset 42
+2 dowk min_samp -2078
+2 dowk max_samp 2006
+2 dowk min_power10 21.9
+2 dowk max_power90 56.6
+2 nums comments BN  
+2 nums missing nothing
+2 nums duration_sec 4.4
+2 nums dc_offset 42
+2 nums min_samp -1670
+2 nums max_samp 1962
+2 nums min_power10 19.8
+2 nums max_power90 54.0
+2 htl comments BN CE  
+2 htl missing CS
+2 htl duration_sec 8.6
+2 htl dc_offset 42
+2 htl min_samp -2306
+2 htl max_samp 2766
+2 htl min_power10 17.0
+2 htl max_power90 56.0
+2 htc comments BN CE  
+2 htc missing CS
+2 htc duration_sec 4.8
+2 htc dc_offset 42
+2 htc min_samp -2478
+2 htc max_samp 3086
+2 htc min_power10 16.1
+2 htc max_power90 56.5
+2 room comments BN CE  
+2 room missing CS
+2 room duration_sec 11.5
+2 room dc_offset 42
+2 room min_samp -2494
+2 room max_samp 3078
+2 room min_power10 16.0
+2 room max_power90 57.4
+2 meal comments BN  
+2 meal missing nothing
+2 meal duration_sec 6.4
+2 meal dc_offset 42
+2 meal min_samp -1626
+2 meal max_samp 1846
+2 meal min_power10 17.2
+2 meal max_power90 53.7
+2 story-bt comments BN CE SS  
+2 story-bt missing CS
+2 story-bt duration_sec 48.9
+2 story-bt dc_offset 42
+2 story-bt min_samp -2442
+2 story-bt max_samp 3510
+2 story-bt min_power10 17.2
+2 story-bt max_power90 54.6
+2 story-at comments BN EN SS  
+2 story-at missing nothing
+2 story-at duration_sec 7.4
+2 story-at dc_offset 42
+2 story-at min_samp -2058
+2 story-at max_samp 2254
+2 story-at min_power10 16.4
+2 story-at max_power90 54.6
+2 gender female
+2 age adult
+2 connection average
+2 intelligibility ok

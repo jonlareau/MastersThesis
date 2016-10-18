@@ -1,0 +1,80 @@
+147 labeler khoward
+147 label_date Mon Mar 23 13:29:56 PST 1992
+147 nlang missing nothing
+147 nlang duration_sec 1.1
+147 nlang dc_offset 42
+147 nlang min_samp -2442
+147 nlang max_samp 2406
+147 nlang min_power10 12.8
+147 nlang max_power90 57.0
+147 clang missing nothing
+147 clang duration_sec 1.1
+147 clang dc_offset 42
+147 clang min_samp -3710
+147 clang max_samp 3642
+147 clang min_power10 14.0
+147 clang max_power90 56.1
+147 dowk comments CE  
+147 dowk missing Friday Saturday?
+147 dowk duration_sec 6.5
+147 dowk dc_offset 42
+147 dowk min_samp -2910
+147 dowk max_samp 2946
+147 dowk min_power10 16.5
+147 dowk max_power90 52.1
+147 nums missing 0
+147 nums duration_sec 9.6
+147 nums dc_offset 42
+147 nums min_samp -4374
+147 nums max_samp 4622
+147 nums min_power10 13.2
+147 nums max_power90 53.7
+147 htl missing nothing
+147 htl duration_sec 1.5
+147 htl dc_offset 42
+147 htl min_samp -2982
+147 htl max_samp 3326
+147 htl min_power10 14.5
+147 htl max_power90 54.7
+147 htc missing nothing
+147 htc duration_sec 8.4
+147 htc dc_offset 42
+147 htc min_samp -3630
+147 htc max_samp 2646
+147 htc min_power10 13.0
+147 htc max_power90 51.2
+147 room missing nothing
+147 room duration_sec 6.7
+147 room dc_offset 42
+147 room min_samp -2746
+147 room max_samp 2906
+147 room min_power10 12.3
+147 room max_power90 53.8
+147 meal comments BN  
+147 meal missing nothing
+147 meal duration_sec 6.9
+147 meal dc_offset 42
+147 meal min_samp -3490
+147 meal max_samp 3306
+147 meal min_power10 13.4
+147 meal max_power90 52.8
+147 story-bt comments CE BN SS  
+147 story-bt missing CS
+147 story-bt duration_sec 49.1
+147 story-bt dc_offset 42
+147 story-bt min_samp -4566
+147 story-bt max_samp 4490
+147 story-bt min_power10 13.8
+147 story-bt max_power90 53.3
+147 story-at comments CB SS  
+147 story-at missing CS
+147 story-at duration_sec 3.5
+147 story-at dc_offset 42
+147 story-at min_samp -3238
+147 story-at max_samp 3034
+147 story-at min_power10 13.8
+147 story-at max_power90 55.4
+147 gender male
+147 age adult
+147 connection average
+147 intelligibility ok

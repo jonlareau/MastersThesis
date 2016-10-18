@@ -1,0 +1,74 @@
+45 labeler yeshwant
+45 label_date Mon Aug 12 18:33:08 PDT 1991
+45 nlang missing nothing
+45 nlang duration_sec 0.8
+45 nlang dc_offset 42
+45 nlang min_samp -9838
+45 nlang max_samp 7606
+45 nlang min_power10 18.8
+45 nlang max_power90 66.5
+45 dowk missing nothing
+45 dowk duration_sec 7.5
+45 dowk dc_offset 42
+45 dowk min_samp -8762
+45 dowk max_samp 9910
+45 dowk min_power10 21.0
+45 dowk max_power90 62.5
+45 nums missing nothing
+45 nums duration_sec 8.4
+45 nums dc_offset 42
+45 nums min_samp -7678
+45 nums max_samp 10078
+45 nums min_power10 19.9
+45 nums max_power90 60.1
+45 htl comments CE ES  
+45 htl missing cs
+45 htl duration_sec 6.7
+45 htl dc_offset 42
+45 htl min_samp -7854
+45 htl max_samp 7490
+45 htl min_power10 21.2
+45 htl max_power90 59.6
+45 htc comments ES  
+45 htc missing nothing
+45 htc duration_sec 5.0
+45 htc dc_offset 42
+45 htc min_samp -9562
+45 htc max_samp 12030
+45 htc min_power10 19.0
+45 htc max_power90 61.2
+45 room comments CE SNL  
+45 room missing cs
+45 room duration_sec 11.5
+45 room dc_offset 42
+45 room min_samp -7718
+45 room max_samp 9814
+45 room min_power10 27.1
+45 room max_power90 62.7
+45 meal missing nothing
+45 meal duration_sec 1.3
+45 meal dc_offset 42
+45 meal min_samp -3994
+45 meal max_samp 4030
+45 meal min_power10 19.8
+45 meal max_power90 57.5
+45 story-bt comments SS ES SNL  
+45 story-bt missing nothing
+45 story-bt duration_sec 46.2
+45 story-bt dc_offset 42
+45 story-bt min_samp -13710
+45 story-bt max_samp 15630
+45 story-bt min_power10 22.9
+45 story-bt max_power90 64.6
+45 story-at comments SS ES  
+45 story-at missing nothing
+45 story-at duration_sec 8.2
+45 story-at dc_offset 42
+45 story-at min_samp -9046
+45 story-at max_samp 10046
+45 story-at min_power10 20.8
+45 story-at max_power90 61.6
+45 gender male
+45 age adult
+45 connection good
+45 intelligibility ok

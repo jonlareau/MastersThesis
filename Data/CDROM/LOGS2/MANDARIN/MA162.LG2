@@ -1,0 +1,25 @@
+162 nlang native yes
+162 clang instructions no
+162 clang useful yes
+162 dowk complete yes
+162 nums complete no
+162 nums partial yes
+162 htl instructions no
+162 htl useful yes
+162 htc instructions yes
+162 htc useful yes
+162 room instructions yes
+162 room useful yes
+162 meal instructions no
+162 meal useful yes
+162 story-bt speech_type extemp
+162 story-bt topic He likes Boston
+162 general native yes
+162 general dialect standard
+162 general accent none
+162 general background speech none
+162 general environmental noise slight line noise
+162 general gender male
+162 general age adult
+162 general intelligibility ok
+162 general connection average

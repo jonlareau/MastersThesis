@@ -1,0 +1,54 @@
+91 labeler ames
+91 label_date Sat Dec 28 15:21:36 PST 1991
+91 clang comments EN  
+91 clang missing nothing
+91 clang duration_sec 0.9
+91 clang dc_offset 42
+91 clang min_samp -1018
+91 clang max_samp 1834
+91 clang min_power10 20.7
+91 clang max_power90 49.8
+91 dowk comments CE EN  
+91 dowk missing sunday
+91 dowk duration_sec 6.3
+91 dowk dc_offset 42
+91 dowk min_samp -1842
+91 dowk max_samp 1978
+91 dowk min_power10 20.0
+91 dowk max_power90 52.3
+91 nums comments CE EN  
+91 nums missing 10
+91 nums duration_sec 8.0
+91 nums dc_offset 42
+91 nums min_samp -1686
+91 nums max_samp 2194
+91 nums min_power10 19.8
+91 nums max_power90 48.8
+91 htc comments CE EN  
+91 htc missing cs
+91 htc duration_sec 8.4
+91 htc dc_offset 42
+91 htc min_samp -2234
+91 htc max_samp 2274
+91 htc min_power10 20.2
+91 htc max_power90 50.6
+91 room comments CE EN SNL  
+91 room missing cs
+91 room duration_sec 5.3
+91 room dc_offset 42
+91 room min_samp -1234
+91 room max_samp 1266
+91 room min_power10 20.4
+91 room max_power90 51.3
+91 meal comments EN  
+91 meal missing nothing
+91 meal duration_sec 6.0
+91 meal dc_offset 42
+91 meal min_samp -1186
+91 meal max_samp 1442
+91 meal min_power10 19.8
+91 meal max_power90 41.9
+91 gender male
+91 age adult
+91 connection poor
+91 intelligibility ok

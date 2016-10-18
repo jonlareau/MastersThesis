@@ -1,0 +1,85 @@
+56 labeler yeshwant
+56 label_date Tue Aug 27 18:27:36 PDT 1991
+56 nlang missing nothing
+56 nlang duration_sec 1.1
+56 nlang dc_offset 43
+56 nlang min_samp -6859
+56 nlang max_samp 6325
+56 nlang min_power10 18.9
+56 nlang max_power90 60.9
+56 clang comments EN  
+56 clang missing nothing
+56 clang duration_sec 1.0
+56 clang dc_offset 42
+56 clang min_samp -3566
+56 clang max_samp 3526
+56 clang min_power10 17.8
+56 clang max_power90 54.9
+56 dowk comments CE EN  
+56 dowk missing saturday sunday
+56 dowk duration_sec 6.9
+56 dowk dc_offset 43
+56 dowk min_samp -5447
+56 dowk max_samp 4645
+56 dowk min_power10 19.0
+56 dowk max_power90 54.9
+56 nums comments EN  
+56 nums missing nothing
+56 nums duration_sec 7.7
+56 nums dc_offset 43
+56 nums min_samp -5371
+56 nums max_samp 4749
+56 nums min_power10 18.4
+56 nums max_power90 57.0
+56 htl comments EN  
+56 htl missing nothing
+56 htl duration_sec 7.9
+56 htl dc_offset 42
+56 htl min_samp -4762
+56 htl max_samp 4478
+56 htl min_power10 18.9
+56 htl max_power90 58.8
+56 htc comments CE EN  
+56 htc missing cs
+56 htc duration_sec 8.0
+56 htc dc_offset 42
+56 htc min_samp -3094
+56 htc max_samp 2806
+56 htc min_power10 18.9
+56 htc max_power90 54.2
+56 room comments CE EN SNL  
+56 room missing cs
+56 room duration_sec 10.9
+56 room dc_offset 43
+56 room min_samp -3071
+56 room max_samp 2645
+56 room min_power10 19.0
+56 room max_power90 56.1
+56 meal comments EN  
+56 meal missing nothing
+56 meal duration_sec 1.7
+56 meal dc_offset 43
+56 meal min_samp -3043
+56 meal max_samp 2501
+56 meal min_power10 20.1
+56 meal max_power90 57.9
+56 story-bt comments CE EN SS ES  
+56 story-bt missing cs
+56 story-bt duration_sec 47.3
+56 story-bt dc_offset 43
+56 story-bt min_samp -3767
+56 story-bt max_samp 3025
+56 story-bt min_power10 18.0
+56 story-bt max_power90 53.2
+56 story-at comments CE EN SS  
+56 story-at missing CS
+56 story-at duration_sec 9.2
+56 story-at dc_offset 42
+56 story-at min_samp -2586
+56 story-at max_samp 2542
+56 story-at min_power10 17.9
+56 story-at max_power90 54.1
+56 gender male
+56 age adult
+56 connection average
+56 intelligibility ok

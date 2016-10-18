@@ -1,0 +1,26 @@
+84 nlang native yes
+84 clang instructions yes
+84 clang useful yes
+84 dowk complete yes
+84 nums complete yes
+84 htl instructions yes
+84 htl useful yes
+84 htc instructions yes
+84 htc useful yes
+84 room instructions yes
+84 room useful yes
+84 meal instructions yes
+84 meal useful yes
+84 story-bt speech_type extemp
+84 story-bt topic thinks this research is very interesting, wants us to call him when done
+84 story-at speech_type extemp
+84 story-at topic is interested in learning more about this research
+84 general native yes
+84 general dialect mix of spoken and written, formal Tamil
+84 general accent none
+84 general background speech none
+84 general environmental noise line noise during story-bt since he lowers his voice
+84 general gender male
+84 general age adult
+84 general intelligibility ok
+84 general connection average

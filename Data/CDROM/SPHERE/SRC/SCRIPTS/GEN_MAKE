@@ -1,0 +1,110 @@
+#!/bin/sh
+
+# This script generates makefiles for the distrubution 
+# automatically.
+
+#### Define the echo command
+if test "`echo -n foobar | egrep -e -n`" = "" ; then
+	ECHO_NNL="echo -n"
+else
+	ECHO_NNL="echo"
+fi
+
+
+set_variables(){
+   sed -e "s:PROJECT_DIR_NAME:`pwd`:"  \
+       -e "s: SRC_DIR_NAMES: $1:" \
+       -e "s: LIBRARY_NAMES: $2:" \
+       -e "s: LIBRARY_NAME: $3:" \
+       -e "s: SOURCE_NAMES: $4:" \
+       -e "s: OBJECT_NAMES: $5:" \
+       -e "s: EXECUTABLE_NAMES: $6:" \
+       -e "s: PROG_SUBDIR_NAMES: $7:" \
+       -e "s: LINK_LIBRARY_NAMES: $8:" \
+       -e "s: SCRIPT_FILES: $9:" \
+       -e "s: COMPILER_COMMAND: ${COMPILER_COMMAND}:" \
+       -e "s: INSTALL_COMMAND: ${INSTALL_COMMAND}:" \
+       -e "s: RANLIB_COMMAND: ${RANLIB_COMMAND}:" \
+       -e "s: ARCHIVER_COMMAND: ${ARCHIVER_COMMAND}:" \
+       -e "s: LOCAL_CC_DEFINES: ${LOCAL_CC_DEFINES}:" 
+}
+
+reorder_libs(){
+    libs="$1"
+    echo $libs | tr ' ' '\012' | \
+        sed -e 's/-lwavpack/-lwavpack_8/' \
+            -e 's/-lshorten/-lshorten_8/' \
+            -e 's/-lsp/-lsp_7/' \
+            -e 's/-lutil/-lutil_9/' \
+            -e 's/-lsnr/-lsnr_5/' \
+            -e 's/-lphone/-lphone_5/' \
+            -e 's/^\(-[a-z]*\)$/\1_1/' | \
+        sort -t_ -n +1 | sed 's/_[0-9]$//' | tr '\012' ' '
+}
+
+
+$ECHO_NNL "Initialize main makefile . . . "
+set_variables < lib/makes/make_prj.txt > Makefile
+echo DONE
+
+$ECHO_NNL "Initialize src Makefile . . . "
+src_dirs=`(cd src ; ls -d *)|grep -v Makefile|tr '\012' ' '`
+set_variables "$src_dirs" < lib/makes/make_src.txt > src/Makefile
+echo DONE
+
+for srcdir in $src_dirs ; do
+    if test "`echo $srcdir | grep lib`" != "" ; then
+        $ECHO_NNL "    Initializing src dir $srcdir as a library dir . . . "
+        lib_dirs=`(cd src/$srcdir ; ls -d *)|grep -v Makefile|sort -r|tr '\012' ' '`
+        set_variables "$src_dirs" "$lib_dirs" < lib/makes/make_lib.txt > src/$srcdir/Makefile
+        echo "DONE"
+        for srclibdir in $lib_dirs ; do
+            linklibs="$linklibs -l$srclibdir"
+            $ECHO_NNL "        Initializing src dir $srcdir/$srclibdir . . . "
+            src_names=`(cd src/$srcdir/$srclibdir ; ls -d *.c)|tr '\012' ' '`
+            obj_names=`(cd src/$srcdir/$srclibdir ; ls -d *.c)|sed 's/.c$/.o/'|tr '\012' ' '`
+            set_variables "$src_dirs" "$lib_dirs" "$srclibdir" "$src_names" "$obj_names" \
+                   < lib/makes/make_lnm.txt > src/$srcdir/$srclibdir/Makefile            
+            echo "DONE"
+        done
+    elif test "`echo $srcdir | grep progs`" != "" ; then
+        $ECHO_NNL "    Initializing src dir $srcdir as a program dir . . . " 
+        prg_names=`(cd src/$srcdir ; ls -d *.c)|grep -v Makefile|tr '\012' ' '`
+        exe_names=`(cd src/$srcdir ; ls -d *.c)|grep -v Makefile|\
+                    sed 's/\.c//g'|tr '\012' ' '`
+        prgsubdir=`(cd src/$srcdir ; find ./ -type d -print | grep ./. |sed 's:./::') \
+                   |tr '\012' ' '` 
+	if test "$prgsubdir" = "" ; then
+            set_variables "$src_dirs" "$lib_dirs" "" "$prg_names" ""  \
+                         "$exe_names" "$prgsubdir" "`reorder_libs "$linklibs"`" \
+                          < lib/makes/make_spg.txt > src/$srcdir/Makefile
+	else
+            set_variables "$src_dirs" "$lib_dirs" "" "$prg_names" ""  \
+                         "$exe_names" "$prgsubdir" "`reorder_libs "$linklibs"`" \
+                          < lib/makes/make_prg.txt > src/$srcdir/Makefile
+	fi
+        echo "DONE"
+        for prgsub in $prgsubdir ; do
+            $ECHO_NNL "       Initializing src dir $srcdir/$prgsub as a program dir . . ."
+            prg_names=`(cd src/$srcdir/$prgsub ; ls -d *.c)|grep -v Makefile|tr '\012' ' '`
+            obj_names=`(cd src/$srcdir/$prgsub ; ls -d *.c)| egrep -v "^$prgsub.c"|sed 's/\.c/.o/' |tr '\012' ' '`
+            set_variables "$src_dirs" "$lib_dirs" "" "$prg_names" "$obj_names"  \
+                      "$prgsub" "" "`reorder_libs "$linklibs"`" \
+                      < lib/makes/make_spg.txt > src/$srcdir/$prgsub/Makefile             
+            echo " DONE"
+        done
+    elif test "`echo $srcdir | grep scripts`" != "" ; then
+        $ECHO_NNL "    Initializing src dir $srcdir as a script dir . . . " 
+        scripts=`(cd src/$srcdir ; ls -d *)|grep -v Makefile|tr '\012' ' '`        
+        set_variables "" "" "" "" "" "" "" "" "$scripts" \
+                      < lib/makes/make_scr.txt > src/$srcdir/Makefile
+        echo " DONE"
+    else
+        echo "not $srcdir"
+    fi
+        
+done    
+
+
+
+

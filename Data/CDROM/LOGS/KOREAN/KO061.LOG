@@ -1,0 +1,84 @@
+61 labeler ames
+61 label_date Sun Nov 24 15:37:10 PST 1991
+61 nlang comments EN  
+61 nlang missing nothing
+61 nlang duration_sec 0.8
+61 nlang dc_offset 42
+61 nlang min_samp -3478
+61 nlang max_samp 3406
+61 nlang min_power10 19.1
+61 nlang max_power90 52.9
+61 clang missing nothing
+61 clang duration_sec 1.0
+61 clang dc_offset 42
+61 clang min_samp -6438
+61 clang max_samp 4894
+61 clang min_power10 17.0
+61 clang max_power90 50.6
+61 dowk missing nothing
+61 dowk duration_sec 2.2
+61 dowk dc_offset 42
+61 dowk min_samp -5454
+61 dowk max_samp 7734
+61 dowk min_power10 17.3
+61 dowk max_power90 60.4
+61 nums comments EN  
+61 nums missing nothing
+61 nums duration_sec 3.5
+61 nums dc_offset 42
+61 nums min_samp -3730
+61 nums max_samp 3082
+61 nums min_power10 17.9
+61 nums max_power90 53.9
+61 htl comments BN CE ES  
+61 htl missing cs
+61 htl duration_sec 8.5
+61 htl dc_offset 42
+61 htl min_samp -6886
+61 htl max_samp 4942
+61 htl min_power10 16.3
+61 htl max_power90 56.9
+61 htc comments CE  
+61 htc missing cs
+61 htc duration_sec 8.6
+61 htc dc_offset 42
+61 htc min_samp -5130
+61 htc max_samp 2926
+61 htc min_power10 16.0
+61 htc max_power90 52.6
+61 room comments BN CE ES SNL  
+61 room missing cs
+61 room duration_sec 9.7
+61 room dc_offset 42
+61 room min_samp -4830
+61 room max_samp 5750
+61 room min_power10 16.7
+61 room max_power90 58.2
+61 meal comments CE  
+61 meal missing cs
+61 meal duration_sec 8.4
+61 meal dc_offset 42
+61 meal min_samp -10854
+61 meal max_samp 7158
+61 meal min_power10 17.2
+61 meal max_power90 56.3
+61 story-bt comments CE SS ES SNL  
+61 story-bt missing cs
+61 story-bt duration_sec 40.1
+61 story-bt dc_offset 42
+61 story-bt min_samp -8206
+61 story-bt max_samp 5702
+61 story-bt min_power10 16.5
+61 story-bt max_power90 52.7
+61 story-at comments CB CE EN SS  
+61 story-at missing cs
+61 story-at duration_sec 9.8
+61 story-at dc_offset 42
+61 story-at min_samp -3422
+61 story-at max_samp 3554
+61 story-at min_power10 18.0
+61 story-at max_power90 50.5
+61 gender male
+61 age adult
+61 connection average
+61 intelligibility ok

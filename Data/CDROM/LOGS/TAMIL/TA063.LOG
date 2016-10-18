@@ -1,0 +1,77 @@
+63 labeler ames
+63 label_date Sun Sep  8 13:14:11 PDT 1991
+63 nlang missing nothing
+63 nlang duration_sec 0.8
+63 nlang dc_offset 42
+63 nlang min_samp -1650
+63 nlang max_samp 2370
+63 nlang min_power10 15.1
+63 nlang max_power90 48.8
+63 clang comments CE EN  
+63 clang missing cs
+63 clang duration_sec 1.9
+63 clang dc_offset 42
+63 clang min_samp -1390
+63 clang max_samp 2094
+63 clang min_power10 16.2
+63 clang max_power90 51.0
+63 dowk comments BN CE EN  
+63 dowk missing 5th day, 6th day, 7th day
+63 dowk duration_sec 6.6
+63 dowk dc_offset 42
+63 dowk min_samp -1018
+63 dowk max_samp 1922
+63 dowk min_power10 18.0
+63 dowk max_power90 48.0
+63 nums comments BN CE EN  
+63 nums missing 7th, 8th, 9th, 10th, 11th numbers
+63 nums duration_sec 7.1
+63 nums dc_offset 42
+63 nums min_samp -1242
+63 nums max_samp 2270
+63 nums min_power10 18.2
+63 nums max_power90 51.0
+63 htl comments CE EN ES  
+63 htl missing cs
+63 htl duration_sec 7.1
+63 htl dc_offset 42
+63 htl min_samp -1762
+63 htl max_samp 1974
+63 htl min_power10 18.2
+63 htl max_power90 48.7
+63 htc comments BN CE EN ES  
+63 htc missing cs
+63 htc duration_sec 7.6
+63 htc dc_offset 42
+63 htc min_samp -946
+63 htc max_samp 1646
+63 htc min_power10 21.2
+63 htc max_power90 47.7
+63 room comments CE EN ES SNL  
+63 room missing cs
+63 room duration_sec 10.2
+63 room dc_offset 42
+63 room min_samp -1422
+63 room max_samp 1678
+63 room min_power10 22.4
+63 room max_power90 49.1
+63 meal comments EN ES  
+63 meal missing nothing
+63 meal duration_sec 6.0
+63 meal dc_offset 42
+63 meal min_samp -1426
+63 meal max_samp 2006
+63 meal min_power10 21.3
+63 meal max_power90 49.5
+63 story-bt comments BN CE EN SS ES SNL  
+63 story-bt missing cs
+63 story-bt duration_sec 47.9
+63 story-bt dc_offset 42
+63 story-bt min_samp -2326
+63 story-bt max_samp 2774
+63 story-bt min_power10 22.4
+63 story-bt max_power90 52.7
+63 gender female
+63 age adult
+63 connection poor
+63 intelligibility poor

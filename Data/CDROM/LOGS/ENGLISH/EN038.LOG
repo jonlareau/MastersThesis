@@ -1,0 +1,82 @@
+38 labeler khoward
+38 label_date Mon Aug 12 16:39:54 PDT 1991
+38 nlang missing nothing
+38 nlang duration_sec 1.1
+38 nlang dc_offset 42
+38 nlang min_samp -1466
+38 nlang max_samp 1230
+38 nlang min_power10 16.5
+38 nlang max_power90 43.4
+38 clang missing nothing
+38 clang duration_sec 1.1
+38 clang dc_offset 42
+38 clang min_samp -2150
+38 clang max_samp 1806
+38 clang min_power10 17.5
+38 clang max_power90 46.2
+38 dowk comments EN  
+38 dowk missing nothing
+38 dowk duration_sec 5.3
+38 dowk dc_offset 42
+38 dowk min_samp -2050
+38 dowk max_samp 1678
+38 dowk min_power10 19.7
+38 dowk max_power90 50.5
+38 nums missing nothing
+38 nums duration_sec 8.4
+38 nums dc_offset 42
+38 nums min_samp -1870
+38 nums max_samp 2230
+38 nums min_power10 18.6
+38 nums max_power90 48.9
+38 htl comments CE EN  
+38 htl missing CS
+38 htl duration_sec 8.8
+38 htl dc_offset 42
+38 htl min_samp -1430
+38 htl max_samp 1562
+38 htl min_power10 17.8
+38 htl max_power90 46.4
+38 htc comments EN CE  
+38 htc missing CS
+38 htc duration_sec 9.0
+38 htc dc_offset 42
+38 htc min_samp -1406
+38 htc max_samp 1434
+38 htc min_power10 20.0
+38 htc max_power90 47.7
+38 room comments CE  
+38 room missing CS
+38 room duration_sec 10.3
+38 room dc_offset 42
+38 room min_samp -2190
+38 room max_samp 1982
+38 room min_power10 17.5
+38 room max_power90 47.7
+38 meal missing nothing
+38 meal duration_sec 4.1
+38 meal dc_offset 42
+38 meal min_samp -1010
+38 meal max_samp 990
+38 meal min_power10 18.5
+38 meal max_power90 46.9
+38 story-bt comments CE SS  
+38 story-bt missing CS
+38 story-bt duration_sec 48.3
+38 story-bt dc_offset 42
+38 story-bt min_samp -2030
+38 story-bt max_samp 2258
+38 story-bt min_power10 18.6
+38 story-bt max_power90 46.6
+38 story-at comments CB CE SS  
+38 story-at missing CS
+38 story-at duration_sec 8.0
+38 story-at dc_offset 42
+38 story-at min_samp -1770
+38 story-at max_samp 1414
+38 story-at min_power10 19.1
+38 story-at max_power90 44.1
+38 gender male
+38 age adult
+38 connection average
+38 intelligibility ok

@@ -1,0 +1,23 @@
+54 nlang native yes
+54 clang instructions yes
+54 clang useful yes
+54 nums complete yes
+54 htl instructions yes
+54 htl useful yes
+54 room instructions yes
+54 room useful yes
+54 meal instructions yes
+54 meal useful yes
+54 story-bt speech_type extemp
+54 story-bt topic Favourite writer, Makoto Shiina's book, life style, foods
+54 story-at speech_type extemp
+54 story-at topic Makoto Shiina and Beat Takeshi
+54 general native yes
+54 general dialect standard
+54 general accent none
+54 general background speech none
+54 general environmental noise someone is playing piano
+54 general gender male
+54 general age adult
+54 general intelligibility ok
+54 general connection average

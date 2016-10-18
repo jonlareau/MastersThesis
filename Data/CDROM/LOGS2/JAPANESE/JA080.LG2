@@ -1,0 +1,25 @@
+80 nlang native yes
+80 clang instructions yes
+80 clang useful yes
+80 nums complete yes
+80 htl instructions yes
+80 htl useful yes
+80 htc instructions yes
+80 htc useful yes
+80 room instructions yes
+80 room useful yes
+80 meal instructions yes
+80 meal useful yes
+80 story-bt speech_type extemp
+80 story-bt topic His profile, an accademic career and his family
+80 story-at speech_type extemp
+80 story-at topic His younger sister in Singapole
+80 general native yes
+80 general dialect standard
+80 general accent none
+80 general background speech none
+80 general environmental noise none
+80 general gender male
+80 general age adult
+80 general intelligibility ok
+80 general connection average

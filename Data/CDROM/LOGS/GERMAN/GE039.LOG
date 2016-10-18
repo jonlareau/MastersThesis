@@ -1,0 +1,84 @@
+39 labeler khoward
+39 label_date Wed Aug 28 08:18:31 PDT 1991
+39 nlang comments BN  
+39 nlang missing nothing
+39 nlang duration_sec 1.0
+39 nlang dc_offset 43
+39 nlang min_samp -1759
+39 nlang max_samp 1229
+39 nlang min_power10 18.4
+39 nlang max_power90 51.8
+39 clang comments BN  
+39 clang missing nothing
+39 clang duration_sec 1.0
+39 clang dc_offset 43
+39 clang min_samp -1287
+39 clang max_samp 877
+39 clang min_power10 17.8
+39 clang max_power90 43.1
+39 dowk missing nothing
+39 dowk duration_sec 5.0
+39 dowk dc_offset 43
+39 dowk min_samp -775
+39 dowk max_samp 1121
+39 dowk min_power10 18.2
+39 dowk max_power90 39.0
+39 nums missing nothing
+39 nums duration_sec 5.8
+39 nums dc_offset 43
+39 nums min_samp -867
+39 nums max_samp 1729
+39 nums min_power10 18.3
+39 nums max_power90 41.4
+39 htl comments CE  
+39 htl missing CS
+39 htl duration_sec 8.2
+39 htl dc_offset 43
+39 htl min_samp -1539
+39 htl max_samp 1957
+39 htl min_power10 18.4
+39 htl max_power90 45.9
+39 htc comments SNL CE EN  
+39 htc missing CS
+39 htc duration_sec 7.2
+39 htc dc_offset 43
+39 htc min_samp -1943
+39 htc max_samp 2157
+39 htc min_power10 18.6
+39 htc max_power90 43.0
+39 room comments BN EN  
+39 room missing nothing
+39 room duration_sec 10.9
+39 room dc_offset 43
+39 room min_samp -3583
+39 room max_samp 4029
+39 room min_power10 18.6
+39 room max_power90 54.7
+39 meal comments EN  
+39 meal missing nothing
+39 meal duration_sec 6.5
+39 meal dc_offset 43
+39 meal min_samp -3647
+39 meal max_samp 3813
+39 meal min_power10 21.5
+39 meal max_power90 53.4
+39 story-bt comments BN CE EN SS  
+39 story-bt missing CS
+39 story-bt duration_sec 48.5
+39 story-bt dc_offset 43
+39 story-bt min_samp -4783
+39 story-bt max_samp 4305
+39 story-bt min_power10 18.4
+39 story-bt max_power90 48.8
+39 story-at comments CE EN SS  
+39 story-at missing CS
+39 story-at duration_sec 9.4
+39 story-at dc_offset 43
+39 story-at min_samp -3571
+39 story-at max_samp 4909
+39 story-at min_power10 22.3
+39 story-at max_power90 55.9
+39 gender male
+39 age adult
+39 connection poor
+39 intelligibility poor

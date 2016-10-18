@@ -1,0 +1,26 @@
+200 nlang native yes
+200 clang instructions yes
+200 clang useful yes
+200 dowk complete yes
+200 nums complete yes
+200 htl instructions yes
+200 htl useful yes
+200 htc instructions yes
+200 htc useful yes
+200 room instructions yes
+200 room useful yes
+200 meal instructions yes
+200 meal useful yes
+200 story-bt speech_type extemp
+200 story-bt topic talks about the practical uses of this experiment
+200 story-at speech_type extemp
+200 story-at topic hopes data is useful
+200 general native yes
+200 general dialect standard
+200 general accent none
+200 general background speech none
+200 general environmental noise none
+200 general gender male
+200 general age adult
+200 general intelligibility ok
+200 general connection average

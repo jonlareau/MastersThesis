@@ -1,0 +1,62 @@
+34 labeler ames
+34 label_date Wed Sep  4 11:23:10 PDT 1991
+34 clang comments CE EN  
+34 clang missing cs
+34 clang duration_sec 1.8
+34 clang dc_offset 42
+34 clang min_samp -6266
+34 clang max_samp 8678
+34 clang min_power10 36.9
+34 clang max_power90 60.0
+34 dowk comments CE EN  
+34 dowk missing saturday
+34 dowk duration_sec 7.6
+34 dowk dc_offset 42
+34 dowk min_samp -3990
+34 dowk max_samp 4246
+34 dowk min_power10 25.4
+34 dowk max_power90 56.4
+34 nums comments CE EN  
+34 nums missing seven eight nine ten
+34 nums duration_sec 6.3
+34 nums dc_offset 42
+34 nums min_samp -3718
+34 nums max_samp 3778
+34 nums min_power10 23.7
+34 nums max_power90 55.8
+34 htc comments CE  
+34 htc missing cs
+34 htc duration_sec 4.6
+34 htc dc_offset 42
+34 htc min_samp -5130
+34 htc max_samp 5138
+34 htc min_power10 26.0
+34 htc max_power90 57.4
+34 room comments CE EN SNL  
+34 room missing cs
+34 room duration_sec 7.4
+34 room dc_offset 42
+34 room min_samp -2582
+34 room max_samp 3178
+34 room min_power10 25.9
+34 room max_power90 54.0
+34 meal comments EN  
+34 meal missing nothing
+34 meal duration_sec 3.6
+34 meal dc_offset 42
+34 meal min_samp -9686
+34 meal max_samp 9954
+34 meal min_power10 32.3
+34 meal max_power90 59.2
+34 story-bt comments EN SS ES SNL  
+34 story-bt missing nothing
+34 story-bt duration_sec 31.7
+34 story-bt dc_offset 42
+34 story-bt min_samp -8514
+34 story-bt max_samp 7326
+34 story-bt min_power10 23.7
+34 story-bt max_power90 56.0
+34 gender male
+34 age adult
+34 connection average
+34 intelligibility ok

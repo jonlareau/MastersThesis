@@ -1,0 +1,27 @@
+146 nlang native yes
+146 clang instructions yes
+146 clang useful yes
+146 dowk complete yes
+146 nums complete no
+146 nums partial yes
+146 htl instructions yes
+146 htl useful yes
+146 htc instructions yes
+146 htc useful yes
+146 room instructions yes
+146 room useful yes
+146 meal instructions yes
+146 meal useful yes
+146 story-bt speech_type extemp
+146 story-bt topic description of his place of stay in the US and in India
+146 story-at speech_type extemp
+146 story-at topic description of the people in his small hometown
+146 general native yes
+146 general dialect written, formal Tamil
+146 general accent none
+146 general background speech none
+146 general environmental noise line noise
+146 general gender male
+146 general age adult
+146 general intelligibility ok
+146 general connection average

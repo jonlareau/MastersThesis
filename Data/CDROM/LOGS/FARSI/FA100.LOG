@@ -1,0 +1,81 @@
+100 labeler khoward
+100 label_date Fri Dec 27 16:09:52 PST 1991
+100 nlang missing nothing
+100 nlang duration_sec 1.3
+100 nlang dc_offset 43
+100 nlang min_samp -3323
+100 nlang max_samp 4865
+100 nlang min_power10 14.8
+100 nlang max_power90 57.1
+100 clang missing nothing
+100 clang duration_sec 1.3
+100 clang dc_offset 42
+100 clang min_samp -3162
+100 clang max_samp 7486
+100 clang min_power10 13.5
+100 clang max_power90 55.5
+100 dowk comments CE EN  
+100 dowk missing Friday Saturday?
+100 dowk duration_sec 7.0
+100 dowk dc_offset 42
+100 dowk min_samp -5442
+100 dowk max_samp 7790
+100 dowk min_power10 14.3
+100 dowk max_power90 55.1
+100 nums comments CB  
+100 nums missing 0
+100 nums duration_sec 8.0
+100 nums dc_offset 42
+100 nums min_samp -3014
+100 nums max_samp 6174
+100 nums min_power10 16.2
+100 nums max_power90 56.8
+100 htl missing nothing
+100 htl duration_sec 8.4
+100 htl dc_offset 43
+100 htl min_samp -2335
+100 htl max_samp 5725
+100 htl min_power10 24.5
+100 htl max_power90 53.0
+100 htc missing nothing
+100 htc duration_sec 2.6
+100 htc dc_offset 43
+100 htc min_samp -2187
+100 htc max_samp 4769
+100 htc min_power10 17.4
+100 htc max_power90 49.1
+100 room comments CE SNL  
+100 room missing CS
+100 room duration_sec 10.2
+100 room dc_offset 43
+100 room min_samp -4251
+100 room max_samp 6433
+100 room min_power10 21.6
+100 room max_power90 58.8
+100 meal missing nothing
+100 meal duration_sec 1.2
+100 meal dc_offset 42
+100 meal min_samp -4250
+100 meal max_samp 4326
+100 meal min_power10 16.9
+100 meal max_power90 57.5
+100 story-bt comments CE SS SNL 
+100 story-bt missing CS
+100 story-bt duration_sec 46.7
+100 story-bt dc_offset 43
+100 story-bt min_samp -4035
+100 story-bt max_samp 6189
+100 story-bt min_power10 23.3
+100 story-bt max_power90 58.4
+100 story-at comments BN EN SS  
+100 story-at missing nothing
+100 story-at duration_sec 7.3
+100 story-at dc_offset 43
+100 story-at min_samp -5191
+100 story-at max_samp 5117
+100 story-at min_power10 23.6
+100 story-at max_power90 57.5
+100 gender male
+100 age adult
+100 connection average
+100 intelligibility ok

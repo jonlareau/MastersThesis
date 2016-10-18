@@ -1,0 +1,26 @@
+79 nlang native yes
+79 clang instructions yes
+79 clang useful yes
+79 dowk complete no
+79 dowk partial yes
+79 nums complete no
+79 nums partial yes
+79 htl instructions yes
+79 htl useful yes
+79 htc instructions yes
+79 htc useful yes
+79 room instructions yes
+79 room useful yes
+79 meal instructions yes
+79 meal useful yes
+79 story-bt speech_type extemp
+79 story-bt topic The role of Tamilians in India's fight for Independence
+79 general native yes
+79 general dialect Tirunelveli and formal, written Tamil
+79 general accent none
+79 general background speech none
+79 general environmental noise line noise, strong at times
+79 general gender male
+79 general age adult
+79 general intelligibility ok
+79 general connection poor

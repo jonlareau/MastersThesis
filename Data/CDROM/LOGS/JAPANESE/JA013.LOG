@@ -1,0 +1,81 @@
+13 labeler khoward
+13 label_date Wed Jul 10 14:53:44 PDT 1991
+13 nlang missing nothing
+13 nlang duration_sec 1.2
+13 nlang dc_offset 42
+13 nlang min_samp -1250
+13 nlang max_samp 1434
+13 nlang min_power10 17.5
+13 nlang max_power90 47.8
+13 clang missing nothing
+13 clang duration_sec 1.3
+13 clang dc_offset 42
+13 clang min_samp -878
+13 clang max_samp 582
+13 clang min_power10 13.0
+13 clang max_power90 46.2
+13 dowk missing nothing
+13 dowk duration_sec 5.1
+13 dowk dc_offset 42
+13 dowk min_samp -1970
+13 dowk max_samp 2154
+13 dowk min_power10 14.1
+13 dowk max_power90 45.9
+13 nums comments BN EN  
+13 nums missing nothing
+13 nums duration_sec 4.5
+13 nums dc_offset 42
+13 nums min_samp -742
+13 nums max_samp 654
+13 nums min_power10 15.0
+13 nums max_power90 42.6
+13 htl comments EN  
+13 htl missing nothing
+13 htl duration_sec 3.4
+13 htl dc_offset 42
+13 htl min_samp -1310
+13 htl max_samp 1114
+13 htl min_power10 17.6
+13 htl max_power90 47.6
+13 htc comments EN  
+13 htc missing nothing
+13 htc duration_sec 9.8
+13 htc dc_offset 42
+13 htc min_samp -1902
+13 htc max_samp 1966
+13 htc min_power10 14.1
+13 htc max_power90 46.7
+13 room missing nothing
+13 room duration_sec 9.6
+13 room dc_offset 42
+13 room min_samp -2270
+13 room max_samp 2022
+13 room min_power10 14.5
+13 room max_power90 47.6
+13 meal missing nothing
+13 meal duration_sec 3.2
+13 meal dc_offset 42
+13 meal min_samp -1346
+13 meal max_samp 1306
+13 meal min_power10 14.1
+13 meal max_power90 45.6
+13 story-bt comments BN EN SS  
+13 story-bt missing nothing
+13 story-bt duration_sec 48.3
+13 story-bt dc_offset 42
+13 story-bt min_samp -3522
+13 story-bt max_samp 3614
+13 story-bt min_power10 16.2
+13 story-bt max_power90 50.0
+13 story-at comments BN  
+13 story-at missing nothing
+13 story-at duration_sec 4.9
+13 story-at dc_offset 42
+13 story-at min_samp -1078
+13 story-at max_samp 1174
+13 story-at min_power10 14.9
+13 story-at max_power90 43.6
+13 gender male
+13 age adult
+13 connection average
+13 intelligibility ok

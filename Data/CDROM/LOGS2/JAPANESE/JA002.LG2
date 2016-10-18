@@ -1,0 +1,28 @@
+2 nlang native yes
+2 clang instructions yes
+2 clang useful yes
+2 dowk complete no
+2 dowk partial yes
+2 nums complete no
+2 nums partial yes
+2 htl instructions yes
+2 htl useful yes
+2 htc instructions yes
+2 htc useful yes
+2 room instructions yes
+2 room useful yes
+2 meal instructions yes
+2 meal useful yes
+2 story-bt speech_type read
+2 story-bt topic fairy-tale about the Peach Boy
+2 story-at speech_type read
+2 story-at topic fairy-tale about the Peach Boy
+2 general native yes
+2 general dialect standard
+2 general accent none
+2 general background speech baby talk 
+2 general environmental noise none
+2 general gender female
+2 general age adult
+2 general intelligibility ok
+2 general connection average

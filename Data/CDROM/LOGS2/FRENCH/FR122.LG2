@@ -1,0 +1,27 @@
+122 nlang native no
+122 nlang useful yes
+122 clang instructions yes
+122 clang useful yes
+122 dowk complete yes
+122 nums complete yes
+122 htl instructions yes
+122 htl useful yes
+122 htc instructions yes
+122 htc useful yes
+122 room instructions yes
+122 room useful yes
+122 meal instructions yes
+122 meal useful yes
+122 story-bt speech_type extemp
+122 story-bt topic She is a teacher(biology,Chimy,Physic);likes sewing,decrating,cooking.
+122 story-at speech_type extemp
+122 story-at topic "40 km from my college"
+122 general native yes
+122 general dialect standard
+122 general accent american
+122 general background speech none
+122 general environmental noise none
+122 general gender female
+122 general age adult
+122 general intelligibility ok
+122 general connection average

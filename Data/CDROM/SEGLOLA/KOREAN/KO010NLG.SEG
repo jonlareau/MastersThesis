@@ -1,0 +1,16 @@
+# Lola file written by    khoward
+#           written using Lyre Version of Thu Mar 28 22:31:33 PST 1991
+#           written on    Thu Jul 25 14:48:31 1991
+#           written as    test.lola
+#$ UNITS 3 1000 (3 millisecond frames)
+       0     114	CLOS
+     114     134	FRIC
+     134     158	VOC
+     158     168	INVS
+     168     223	VOC
+     223     258	INVS
+     258     273	VOC
+     273     288	CLOS
+     288     293	STOP
+     293     328	VOC
+     328     448	CLOS

@@ -1,0 +1,70 @@
+80 labeler ames
+80 label_date Thu Jan  2 08:24:00 PST 1992
+80 nlang comments EN  
+80 nlang missing nothing
+80 nlang duration_sec 2.6
+80 nlang dc_offset 43
+80 nlang min_samp -1831
+80 nlang max_samp 2453
+80 nlang min_power10 18.8
+80 nlang max_power90 54.6
+80 clang comments CE EN ES  
+80 clang missing cs
+80 clang duration_sec 2.4
+80 clang dc_offset 43
+80 clang min_samp -2991
+80 clang max_samp 2577
+80 clang min_power10 17.3
+80 clang max_power90 52.8
+80 dowk comments EN  
+80 dowk missing nothing
+80 dowk duration_sec 4.7
+80 dowk dc_offset 43
+80 dowk min_samp -2415
+80 dowk max_samp 3053
+80 dowk min_power10 20.6
+80 dowk max_power90 53.5
+80 nums comments CB EN  
+80 nums missing 0
+80 nums duration_sec 4.3
+80 nums dc_offset 43
+80 nums min_samp -1839
+80 nums max_samp 1793
+80 nums min_power10 20.2
+80 nums max_power90 52.5
+80 htl comments EN  
+80 htl missing nothing
+80 htl duration_sec 1.7
+80 htl dc_offset 43
+80 htl min_samp -1987
+80 htl max_samp 2297
+80 htl min_power10 20.2
+80 htl max_power90 57.4
+80 htc comments CE EN ES  
+80 htc missing cs
+80 htc duration_sec 7.7
+80 htc dc_offset 43
+80 htc min_samp -2123
+80 htc max_samp 2673
+80 htc min_power10 16.1
+80 htc max_power90 52.5
+80 room comments CE EN ES SNL  
+80 room missing cs
+80 room duration_sec 10.9
+80 room dc_offset 43
+80 room min_samp -2255
+80 room max_samp 2105
+80 room min_power10 18.3
+80 room max_power90 53.0
+80 meal comments CE EN ES  
+80 meal missing cs
+80 meal duration_sec 6.7
+80 meal dc_offset 43
+80 meal min_samp -1615
+80 meal max_samp 1545
+80 meal min_power10 16.7
+80 meal max_power90 50.4
+80 gender female
+80 age adult
+80 connection average
+80 intelligibility ok

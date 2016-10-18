@@ -1,0 +1,84 @@
+58 labeler khoward
+58 label_date Thu Aug 29 16:39:20 PDT 1991
+58 nlang missing nothing
+58 nlang duration_sec 0.9
+58 nlang dc_offset 43
+58 nlang min_samp -6263
+58 nlang max_samp 5057
+58 nlang min_power10 24.5
+58 nlang max_power90 63.9
+58 clang comments ES  
+58 clang missing nothing
+58 clang duration_sec 1.4
+58 clang dc_offset 43
+58 clang min_samp -7655
+58 clang max_samp 9053
+58 clang min_power10 28.1
+58 clang max_power90 64.4
+58 dowk comments CE  
+58 dowk missing Saturday Sumday?
+58 dowk duration_sec 6.6
+58 dowk dc_offset 43
+58 dowk min_samp -6091
+58 dowk max_samp 6409
+58 dowk min_power10 22.1
+58 dowk max_power90 58.2
+58 nums comments BN  
+58 nums missing nothing
+58 nums duration_sec 7.2
+58 nums dc_offset 43
+58 nums min_samp -10999
+58 nums max_samp 11985
+58 nums min_power10 23.7
+58 nums max_power90 61.1
+58 htl missing nothing
+58 htl duration_sec 6.2
+58 htl dc_offset 43
+58 htl min_samp -7183
+58 htl max_samp 8701
+58 htl min_power10 22.8
+58 htl max_power90 62.8
+58 htc comments BN  
+58 htc missing nothing
+58 htc duration_sec 8.9
+58 htc dc_offset 43
+58 htc min_samp -6871
+58 htc max_samp 7565
+58 htc min_power10 23.5
+58 htc max_power90 61.9
+58 room comments BN CE  
+58 room missing CS
+58 room duration_sec 10.6
+58 room dc_offset 43
+58 room min_samp -7915
+58 room max_samp 9173
+58 room min_power10 24.9
+58 room max_power90 61.1
+58 meal comments CE BN  
+58 meal missing CS
+58 meal duration_sec 8.2
+58 meal dc_offset 43
+58 meal min_samp -12615
+58 meal max_samp 10589
+58 meal min_power10 24.4
+58 meal max_power90 66.2
+58 story-bt comments BN CE SS  
+58 story-bt missing CS
+58 story-bt duration_sec 49.0
+58 story-bt dc_offset 43
+58 story-bt min_samp -14971
+58 story-bt max_samp 16461
+58 story-bt min_power10 24.7
+58 story-bt max_power90 62.8
+58 story-at comments BN CE SS  
+58 story-at missing CS
+58 story-at duration_sec 9.6
+58 story-at dc_offset 43
+58 story-at min_samp -8671
+58 story-at max_samp 7413
+58 story-at min_power10 22.2
+58 story-at max_power90 60.3
+58 gender male
+58 age adult
+58 connection good
+58 intelligibility ok

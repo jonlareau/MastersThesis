@@ -1,0 +1,86 @@
+87 labeler ames
+87 label_date Thu Jan  2 10:35:17 PST 1992
+87 nlang comments EN  
+87 nlang missing nothing
+87 nlang duration_sec 1.0
+87 nlang dc_offset 43
+87 nlang min_samp -627
+87 nlang max_samp 693
+87 nlang min_power10 15.1
+87 nlang max_power90 39.5
+87 clang comments EN  
+87 clang missing nothing
+87 clang duration_sec 1.8
+87 clang dc_offset 43
+87 clang min_samp -307
+87 clang max_samp 233
+87 clang min_power10 14.5
+87 clang max_power90 37.0
+87 dowk comments EN  
+87 dowk missing nothing
+87 dowk duration_sec 4.4
+87 dowk dc_offset 43
+87 dowk min_samp -707
+87 dowk max_samp 589
+87 dowk min_power10 15.3
+87 dowk max_power90 41.0
+87 nums comments EN  
+87 nums missing nothing
+87 nums duration_sec 5.7
+87 nums dc_offset 43
+87 nums min_samp -931
+87 nums max_samp 781
+87 nums min_power10 16.6
+87 nums max_power90 43.3
+87 htl comments CE EN ES  
+87 htl missing cs
+87 htl duration_sec 8.3
+87 htl dc_offset 43
+87 htl min_samp -459
+87 htl max_samp 557
+87 htl min_power10 14.6
+87 htl max_power90 39.8
+87 htc comments CE EN  
+87 htc missing cs
+87 htc duration_sec 9.4
+87 htc dc_offset 43
+87 htc min_samp -691
+87 htc max_samp 717
+87 htc min_power10 14.6
+87 htc max_power90 38.9
+87 room comments CE EN ES  
+87 room missing cs
+87 room duration_sec 8.1
+87 room dc_offset 43
+87 room min_samp -779
+87 room max_samp 845
+87 room min_power10 16.0
+87 room max_power90 44.9
+87 meal comments EN ES  
+87 meal missing nothing
+87 meal duration_sec 6.3
+87 meal dc_offset 43
+87 meal min_samp -895
+87 meal max_samp 1093
+87 meal min_power10 18.7
+87 meal max_power90 44.5
+87 story-bt comments CE EN SS ES  
+87 story-bt missing cs
+87 story-bt duration_sec 47.4
+87 story-bt dc_offset 43
+87 story-bt min_samp -2619
+87 story-bt max_samp 2681
+87 story-bt min_power10 15.5
+87 story-bt max_power90 41.4
+87 story-at comments CB CE EN SS  
+87 story-at missing cs
+87 story-at duration_sec 7.7
+87 story-at dc_offset 43
+87 story-at min_samp -639
+87 story-at max_samp 453
+87 story-at min_power10 15.2
+87 story-at max_power90 38.0
+87 gender male
+87 age adult
+87 connection poor
+87 intelligibility poor

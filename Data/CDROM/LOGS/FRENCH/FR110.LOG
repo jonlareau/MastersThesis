@@ -1,0 +1,80 @@
+110 labeler khoward
+110 label_date Sat Jan 25 16:02:38 PST 1992
+110 nlang missing nothing
+110 nlang duration_sec 1.2
+110 nlang dc_offset 43
+110 nlang min_samp -3751
+110 nlang max_samp 4921
+110 nlang min_power10 23.4
+110 nlang max_power90 61.7
+110 clang comments ES  
+110 clang missing nothing
+110 clang duration_sec 2.2
+110 clang dc_offset 43
+110 clang min_samp -5171
+110 clang max_samp 4865
+110 clang min_power10 23.2
+110 clang max_power90 62.5
+110 dowk missing nothing
+110 dowk duration_sec 5.7
+110 dowk dc_offset 43
+110 dowk min_samp -3803
+110 dowk max_samp 4597
+110 dowk min_power10 24.4
+110 dowk max_power90 58.1
+110 nums missing nothing
+110 nums duration_sec 8.8
+110 nums dc_offset 43
+110 nums min_samp -5055
+110 nums max_samp 5009
+110 nums min_power10 23.5
+110 nums max_power90 58.8
+110 htl missing nothing
+110 htl duration_sec 8.6
+110 htl dc_offset 43
+110 htl min_samp -6895
+110 htl max_samp 6221
+110 htl min_power10 24.0
+110 htl max_power90 61.2
+110 htc missing nothing
+110 htc duration_sec 2.8
+110 htc dc_offset 43
+110 htc min_samp -4423
+110 htc max_samp 4609
+110 htc min_power10 22.8
+110 htc max_power90 56.2
+110 room comments CE SNL  
+110 room missing CS
+110 room duration_sec 9.8
+110 room dc_offset 43
+110 room min_samp -5535
+110 room max_samp 5209
+110 room min_power10 22.8
+110 room max_power90 60.8
+110 meal missing nothing
+110 meal duration_sec 5.1
+110 meal dc_offset 43
+110 meal min_samp -5815
+110 meal max_samp 5065
+110 meal min_power10 25.0
+110 meal max_power90 61.2
+110 story-bt comments CE SNL SS  
+110 story-bt missing CS
+110 story-bt duration_sec 46.3
+110 story-bt dc_offset 43
+110 story-bt min_samp -6831
+110 story-bt max_samp 5677
+110 story-bt min_power10 22.4
+110 story-bt max_power90 59.6
+110 story-at comments CB SS  
+110 story-at missing CS
+110 story-at duration_sec 3.7
+110 story-at dc_offset 43
+110 story-at min_samp -5419
+110 story-at max_samp 3689
+110 story-at min_power10 22.8
+110 story-at max_power90 56.8
+110 gender male
+110 age adult
+110 connection average
+110 intelligibility ok

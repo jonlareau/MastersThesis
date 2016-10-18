@@ -1,0 +1,81 @@
+1 labeler yeshwant
+1 label_date Sun Jul  7 15:52:57 PDT 1991
+1 nlang missing nothing
+1 nlang duration_sec 0.6
+1 nlang dc_offset 42
+1 nlang min_samp -4878
+1 nlang max_samp 4574
+1 nlang min_power10 11.9
+1 nlang max_power90 63.7
+1 clang missing nothing
+1 clang duration_sec 0.8
+1 clang dc_offset 42
+1 clang min_samp -7462
+1 clang max_samp 5230
+1 clang min_power10 12.1
+1 clang max_power90 62.3
+1 dowk missing nothing
+1 dowk duration_sec 7.6
+1 dowk dc_offset 42
+1 dowk min_samp -7934
+1 dowk max_samp 5322
+1 dowk min_power10 11.7
+1 dowk max_power90 61.4
+1 nums missing nothing
+1 nums duration_sec 8.9
+1 nums dc_offset 42
+1 nums min_samp -5414
+1 nums max_samp 4534
+1 nums min_power10 11.5
+1 nums max_power90 59.0
+1 htl comments BN  
+1 htl missing nothing
+1 htl duration_sec 6.3
+1 htl dc_offset 42
+1 htl min_samp -5402
+1 htl max_samp 4038
+1 htl min_power10 12.3
+1 htl max_power90 59.6
+1 htc missing nothing
+1 htc duration_sec 0.7
+1 htc dc_offset 42
+1 htc min_samp -6102
+1 htc max_samp 4378
+1 htc min_power10 12.6
+1 htc max_power90 63.3
+1 room comments SNL  
+1 room missing nothing
+1 room duration_sec 10.6
+1 room dc_offset 42
+1 room min_samp -7086
+1 room max_samp 4206
+1 room min_power10 12.0
+1 room max_power90 57.3
+1 meal comments EN SNL  
+1 meal missing CS
+1 meal duration_sec 8.6
+1 meal dc_offset 42
+1 meal min_samp -4594
+1 meal max_samp 4362
+1 meal min_power10 12.1
+1 meal max_power90 56.6
+1 story-bt comments CE EN SNL SS
+1 story-bt missing CS
+1 story-bt duration_sec 48.3
+1 story-bt dc_offset 42
+1 story-bt min_samp -7250
+1 story-bt max_samp 7478
+1 story-bt min_power10 11.9
+1 story-bt max_power90 58.8
+1 story-at comments BN CB CE SS  
+1 story-at missing CS
+1 story-at duration_sec 9.3
+1 story-at dc_offset 42
+1 story-at min_samp -6738
+1 story-at max_samp 5654
+1 story-at min_power10 13.0
+1 story-at max_power90 59.7
+1 gender male
+1 age adult
+1 connection good
+1 intelligibility ok

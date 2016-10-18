@@ -1,0 +1,86 @@
+75 labeler ames
+75 label_date Wed Dec 18 11:04:02 PST 1991
+75 nlang comments EN  
+75 nlang missing nothing
+75 nlang duration_sec 1.3
+75 nlang dc_offset 42
+75 nlang min_samp -2866
+75 nlang max_samp 2246
+75 nlang min_power10 13.6
+75 nlang max_power90 53.8
+75 clang comments EN  
+75 clang missing nothing
+75 clang duration_sec 0.9
+75 clang dc_offset 42
+75 clang min_samp -4462
+75 clang max_samp 2626
+75 clang min_power10 13.9
+75 clang max_power90 58.2
+75 dowk comments CE EN  
+75 dowk missing 6th 7thday
+75 dowk duration_sec 6.8
+75 dowk dc_offset 42
+75 dowk min_samp -1678
+75 dowk max_samp 1434
+75 dowk min_power10 13.8
+75 dowk max_power90 47.4
+75 nums comments CE EN  
+75 nums missing 8 9 10
+75 nums duration_sec 7.2
+75 nums dc_offset 42
+75 nums min_samp -3814
+75 nums max_samp 2494
+75 nums min_power10 13.3
+75 nums max_power90 48.7
+75 htl comments CE EN NI  
+75 htl missing cs
+75 htl duration_sec 7.4
+75 htl dc_offset 42
+75 htl min_samp -1434
+75 htl max_samp 1154
+75 htl min_power10 13.5
+75 htl max_power90 44.6
+75 htc comments CE EN ES  
+75 htc missing cs
+75 htc duration_sec 9.5
+75 htc dc_offset 42
+75 htc min_samp -3930
+75 htc max_samp 2886
+75 htc min_power10 13.5
+75 htc max_power90 47.2
+75 room comments CE EN SNL  
+75 room missing cs
+75 room duration_sec 10.9
+75 room dc_offset 42
+75 room min_samp -1698
+75 room max_samp 1538
+75 room min_power10 13.3
+75 room max_power90 45.1
+75 meal comments EN  
+75 meal missing nothing
+75 meal duration_sec 7.9
+75 meal dc_offset 42
+75 meal min_samp -3498
+75 meal max_samp 2626
+75 meal min_power10 13.2
+75 meal max_power90 47.0
+75 story-bt comments CE EN RS  
+75 story-bt missing cs
+75 story-bt duration_sec 49.5
+75 story-bt dc_offset 42
+75 story-bt min_samp -8918
+75 story-bt max_samp 5934
+75 story-bt min_power10 15.3
+75 story-bt max_power90 55.7
+75 story-at comments CE RS  
+75 story-at missing cs
+75 story-at duration_sec 9.2
+75 story-at dc_offset 42
+75 story-at min_samp -7358
+75 story-at max_samp 7366
+75 story-at min_power10 13.9
+75 story-at max_power90 56.2
+75 gender male
+75 age adult
+75 connection good
+75 intelligibility ok

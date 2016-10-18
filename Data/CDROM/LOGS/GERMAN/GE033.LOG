@@ -1,0 +1,83 @@
+33 labeler khoward
+33 label_date Mon Aug 12 12:08:46 PDT 1991
+33 nlang missing nothing
+33 nlang duration_sec 1.1
+33 nlang dc_offset 42
+33 nlang min_samp -6186
+33 nlang max_samp 4654
+33 nlang min_power10 24.5
+33 nlang max_power90 56.7
+33 clang missing nothing
+33 clang duration_sec 1.1
+33 clang dc_offset 42
+33 clang min_samp -3990
+33 clang max_samp 3430
+33 clang min_power10 25.0
+33 clang max_power90 58.6
+33 dowk comments CE  
+33 dowk missing Sunday
+33 dowk duration_sec 7.9
+33 dowk dc_offset 42
+33 dowk min_samp -3434
+33 dowk max_samp 3062
+33 dowk min_power10 25.1
+33 dowk max_power90 55.5
+33 nums comments EN  
+33 nums missing nothing
+33 nums duration_sec 9.9
+33 nums dc_offset 42
+33 nums min_samp -4378
+33 nums max_samp 3334
+33 nums min_power10 25.8
+33 nums max_power90 56.4
+33 htl comments CE  
+33 htl missing CS
+33 htl duration_sec 9.0
+33 htl dc_offset 42
+33 htl min_samp -4794
+33 htl max_samp 5002
+33 htl min_power10 26.7
+33 htl max_power90 57.7
+33 htc comments CE  
+33 htc missing CS
+33 htc duration_sec 9.7
+33 htc dc_offset 42
+33 htc min_samp -7966
+33 htc max_samp 6390
+33 htc min_power10 27.0
+33 htc max_power90 54.3
+33 room comments CE SNL  
+33 room missing CS
+33 room duration_sec 11.3
+33 room dc_offset 42
+33 room min_samp -4638
+33 room max_samp 4606
+33 room min_power10 26.8
+33 room max_power90 59.7
+33 meal missing nothing
+33 meal duration_sec 9.9
+33 meal dc_offset 42
+33 meal min_samp -6078
+33 meal max_samp 5726
+33 meal min_power10 26.9
+33 meal max_power90 59.3
+33 story-bt comments CE SS  
+33 story-bt missing CS
+33 story-bt duration_sec 49.4
+33 story-bt dc_offset 42
+33 story-bt min_samp -6882
+33 story-bt max_samp 6998
+33 story-bt min_power10 27.5
+33 story-bt max_power90 59.0
+33 story-at comments CB CE SS 
+33 story-at missing CS
+33 story-at duration_sec 6.6
+33 story-at dc_offset 42
+33 story-at min_samp -5286
+33 story-at max_samp 3918
+33 story-at min_power10 27.9
+33 story-at max_power90 58.0
+33 gender male
+33 age adult
+33 connection average
+33 intelligibility ok

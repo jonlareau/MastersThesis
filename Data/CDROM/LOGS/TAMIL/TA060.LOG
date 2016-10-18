@@ -1,0 +1,84 @@
+60 labeler khoward
+60 label_date Sat Aug 31 12:16:17 PDT 1991
+60 nlang missing nothing
+60 nlang duration_sec 0.9
+60 nlang dc_offset 42
+60 nlang min_samp -2150
+60 nlang max_samp 2026
+60 nlang min_power10 14.1
+60 nlang max_power90 55.1
+60 clang comments ES CE  
+60 clang missing CS
+60 clang duration_sec 1.3
+60 clang dc_offset 42
+60 clang min_samp -2286
+60 clang max_samp 1978
+60 clang min_power10 13.1
+60 clang max_power90 57.9
+60 dowk comments CE  
+60 dowk missing Thursday Friday Saturday Sunday?
+60 dowk duration_sec 4.3
+60 dowk dc_offset 42
+60 dowk min_samp -2538
+60 dowk max_samp 2350
+60 dowk min_power10 13.3
+60 dowk max_power90 54.3
+60 nums comments CE  
+60 nums missing 7 8 9 10?
+60 nums duration_sec 7.9
+60 nums dc_offset 42
+60 nums min_samp -2286
+60 nums max_samp 2670
+60 nums min_power10 13.8
+60 nums max_power90 54.6
+60 htl missing nothing
+60 htl duration_sec 7.8
+60 htl dc_offset 42
+60 htl min_samp -2170
+60 htl max_samp 2310
+60 htl min_power10 13.3
+60 htl max_power90 54.5
+60 htc comments CE  
+60 htc missing CS
+60 htc duration_sec 6.2
+60 htc dc_offset 42
+60 htc min_samp -2498
+60 htc max_samp 1910
+60 htc min_power10 13.0
+60 htc max_power90 52.2
+60 room comments CE  
+60 room missing CS
+60 room duration_sec 9.5
+60 room dc_offset 42
+60 room min_samp -2554
+60 room max_samp 2962
+60 room min_power10 14.0
+60 room max_power90 55.2
+60 meal comments CE  
+60 meal missing CS
+60 meal duration_sec 7.7
+60 meal dc_offset 42
+60 meal min_samp -3162
+60 meal max_samp 3382
+60 meal min_power10 13.7
+60 meal max_power90 54.9
+60 story-bt comments CE SS  
+60 story-bt missing CS
+60 story-bt duration_sec 48.0
+60 story-bt dc_offset 42
+60 story-bt min_samp -3246
+60 story-bt max_samp 2898
+60 story-bt min_power10 14.0
+60 story-bt max_power90 52.0
+60 story-at comments CB CE SS  
+60 story-at missing CS
+60 story-at duration_sec 9.9
+60 story-at dc_offset 42
+60 story-at min_samp -2166
+60 story-at max_samp 1926
+60 story-at min_power10 15.4
+60 story-at max_power90 52.3
+60 gender male
+60 age adult
+60 connection good
+60 intelligibility ok

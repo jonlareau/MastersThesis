@@ -1,0 +1,24 @@
+99 nlang native yes
+99 clang instructions yes
+99 clang useful yes
+99 dowk complete no
+99 dowk partial yes
+99 nums complete no
+99 nums partial yes
+99 htl instructions no
+99 htl useful yes
+99 htc instructions no
+99 htc useful yes
+99 room instructions yes
+99 room useful yes
+99 meal instructions yes
+99 meal useful yes
+99 general native yes
+99 general dialect written, formal Tamil
+99 general accent none
+99 general background speech none
+99 general environmental noise line + breath noise
+99 general gender male
+99 general age adult
+99 general intelligibility ok
+99 general connection average

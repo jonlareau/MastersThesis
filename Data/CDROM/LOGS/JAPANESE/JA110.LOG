@@ -1,0 +1,86 @@
+110 labeler ames
+110 label_date Tue Dec 31 11:23:15 PST 1991
+110 nlang comments EN  
+110 nlang missing nothing
+110 nlang duration_sec 1.4
+110 nlang dc_offset 42
+110 nlang min_samp -1394
+110 nlang max_samp 1118
+110 nlang min_power10 12.7
+110 nlang max_power90 49.4
+110 clang comments EN  
+110 clang missing nothing
+110 clang duration_sec 1.5
+110 clang dc_offset 42
+110 clang min_samp -1438
+110 clang max_samp 846
+110 clang min_power10 12.3
+110 clang max_power90 47.6
+110 dowk comments EN  
+110 dowk missing nothing
+110 dowk duration_sec 6.0
+110 dowk dc_offset 42
+110 dowk min_samp -2282
+110 dowk max_samp 1902
+110 dowk min_power10 11.7
+110 dowk max_power90 47.6
+110 nums comments CE EN  
+110 nums missing 10
+110 nums duration_sec 9.0
+110 nums dc_offset 42
+110 nums min_samp -2454
+110 nums max_samp 3398
+110 nums min_power10 11.5
+110 nums max_power90 48.9
+110 htl comments EN ES  
+110 htl missing nothing
+110 htl duration_sec 7.0
+110 htl dc_offset 42
+110 htl min_samp -2034
+110 htl max_samp 1982
+110 htl min_power10 12.0
+110 htl max_power90 51.1
+110 htc comments CE EN ES  
+110 htc missing cs
+110 htc duration_sec 9.2
+110 htc dc_offset 42
+110 htc min_samp -1346
+110 htc max_samp 1362
+110 htc min_power10 12.9
+110 htc max_power90 46.2
+110 room comments CE EN ES SNL  
+110 room missing cs
+110 room duration_sec 10.7
+110 room dc_offset 42
+110 room min_samp -1914
+110 room max_samp 2094
+110 room min_power10 12.4
+110 room max_power90 46.9
+110 meal comments EN ES SNL  
+110 meal missing nothing
+110 meal duration_sec 8.2
+110 meal dc_offset 42
+110 meal min_samp -2694
+110 meal max_samp 2814
+110 meal min_power10 12.8
+110 meal max_power90 48.8
+110 story-bt comments CE EN SS ES  
+110 story-bt missing cs
+110 story-bt duration_sec 48.4
+110 story-bt dc_offset 42
+110 story-bt min_samp -1750
+110 story-bt max_samp 1990
+110 story-bt min_power10 13.0
+110 story-bt max_power90 42.9
+110 story-at comments CB CE EN SS ES  
+110 story-at missing cs
+110 story-at duration_sec 9.5
+110 story-at dc_offset 42
+110 story-at min_samp -954
+110 story-at max_samp 970
+110 story-at min_power10 13.4
+110 story-at max_power90 41.5
+110 gender female
+110 age adult
+110 connection average
+110 intelligibility ok

@@ -1,0 +1,26 @@
+23 nlang native yes
+23 clang instructions yes
+23 clang useful yes
+23 dowk complete yes
+23 nums complete yes
+23 htl instructions yes
+23 htl useful yes
+23 htc instructions yes
+23 htc useful yes
+23 room instructions yes
+23 room useful yes
+23 meal instructions yes
+23 meal useful yes
+23 story-bt speech_type extemp
+23 story-bt topic about his life in california (work and family)
+23 story-at speech_type extemp
+23 story-at topic End of first topic(has spent some time with the Pygmees some years ago)
+23 general native yes
+23 general dialect standard
+23 general accent none
+23 general background speech none
+23 general environmental noise none
+23 general gender male
+23 general age adult
+23 general intelligibility ok
+23 general connection average

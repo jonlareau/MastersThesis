@@ -1,0 +1,78 @@
+135 labeler ames
+135 label_date Tue May 12 09:23:13 PDT 1992
+135 nlang comments EN  
+135 nlang missing nothing
+135 nlang duration_sec 1.0
+135 nlang dc_offset 42
+135 nlang min_samp -1230
+135 nlang max_samp 2118
+135 nlang min_power10 22.1
+135 nlang max_power90 52.4
+135 clang comments CE EN  
+135 clang missing cs
+135 clang duration_sec 1.7
+135 clang dc_offset 42
+135 clang min_samp -1450
+135 clang max_samp 1750
+135 clang min_power10 23.0
+135 clang max_power90 51.5
+135 dowk comments EN  
+135 dowk missing nothing
+135 dowk duration_sec 4.5
+135 dowk dc_offset 42
+135 dowk min_samp -2222
+135 dowk max_samp 2402
+135 dowk min_power10 24.3
+135 dowk max_power90 52.8
+135 nums comments EN  
+135 nums missing nothing
+135 nums duration_sec 5.3
+135 nums dc_offset 42
+135 nums min_samp -1918
+135 nums max_samp 2526
+135 nums min_power10 22.6
+135 nums max_power90 51.1
+135 htc comments CE EN ES  
+135 htc missing cs
+135 htc duration_sec 6.9
+135 htc dc_offset 42
+135 htc min_samp -1662
+135 htc max_samp 2670
+135 htc min_power10 24.0
+135 htc max_power90 47.2
+135 room comments CE EN ES SNL  
+135 room missing cs
+135 room duration_sec 8.5
+135 room dc_offset 43
+135 room min_samp -4027
+135 room max_samp 4253
+135 room min_power10 27.3
+135 room max_power90 54.6
+135 meal comments EN  
+135 meal missing nothing
+135 meal duration_sec 7.4
+135 meal dc_offset 42
+135 meal min_samp -2566
+135 meal max_samp 2862
+135 meal min_power10 24.0
+135 meal max_power90 51.4
+135 story-bt comments CE EN SS ES SNL  
+135 story-bt missing cs
+135 story-bt duration_sec 47.4
+135 story-bt dc_offset 42
+135 story-bt min_samp -3214
+135 story-bt max_samp 2954
+135 story-bt min_power10 25.8
+135 story-bt max_power90 50.6
+135 story-at comments CB CE EN SS  
+135 story-at missing cs
+135 story-at duration_sec 7.4
+135 story-at dc_offset 42
+135 story-at min_samp -1606
+135 story-at max_samp 1858
+135 story-at min_power10 25.1
+135 story-at max_power90 50.3
+135 gender male
+135 age adult
+135 connection poor
+135 intelligibility ok

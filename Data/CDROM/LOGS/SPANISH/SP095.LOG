@@ -1,0 +1,86 @@
+95 labeler ames
+95 label_date Sun Jan 19 10:56:33 PST 1992
+95 nlang comments EN  
+95 nlang missing nothing
+95 nlang duration_sec 1.5
+95 nlang dc_offset 42
+95 nlang min_samp -2294
+95 nlang max_samp 2138
+95 nlang min_power10 18.4
+95 nlang max_power90 54.4
+95 clang comments EN  
+95 clang missing nothing
+95 clang duration_sec 0.7
+95 clang dc_offset 42
+95 clang min_samp -2770
+95 clang max_samp 3902
+95 clang min_power10 24.2
+95 clang max_power90 58.1
+95 dowk comments BN EN  
+95 dowk missing nothing
+95 dowk duration_sec 3.7
+95 dowk dc_offset 42
+95 dowk min_samp -2594
+95 dowk max_samp 3646
+95 dowk min_power10 23.2
+95 dowk max_power90 56.3
+95 nums comments BN EN  
+95 nums missing nothing
+95 nums duration_sec 5.8
+95 nums dc_offset 42
+95 nums min_samp -2006
+95 nums max_samp 2178
+95 nums min_power10 20.7
+95 nums max_power90 53.2
+95 htl comments BN CE EN  
+95 htl missing cs
+95 htl duration_sec 8.3
+95 htl dc_offset 42
+95 htl min_samp -3050
+95 htl max_samp 4638
+95 htl min_power10 20.0
+95 htl max_power90 55.5
+95 htc comments BN EN  
+95 htc missing nothing
+95 htc duration_sec 9.3
+95 htc dc_offset 42
+95 htc min_samp -1798
+95 htc max_samp 3358
+95 htc min_power10 14.9
+95 htc max_power90 52.3
+95 room comments BN CE EN  
+95 room missing cs
+95 room duration_sec 10.6
+95 room dc_offset 42
+95 room min_samp -2942
+95 room max_samp 3782
+95 room min_power10 17.3
+95 room max_power90 52.3
+95 meal comments CE EN ES  
+95 meal missing cs
+95 meal duration_sec 9.1
+95 meal dc_offset 43
+95 meal min_samp -2291
+95 meal max_samp 3513
+95 meal min_power10 16.1
+95 meal max_power90 51.6
+95 story-bt comments CE EN SS ES  
+95 story-bt missing cs
+95 story-bt duration_sec 47.8
+95 story-bt dc_offset 42
+95 story-bt min_samp -3478
+95 story-bt max_samp 3626
+95 story-bt min_power10 16.1
+95 story-bt max_power90 52.0
+95 story-at comments BN CB CE EN SS  
+95 story-at missing cs
+95 story-at duration_sec 9.0
+95 story-at dc_offset 42
+95 story-at min_samp -1958
+95 story-at max_samp 2718
+95 story-at min_power10 15.7
+95 story-at max_power90 51.0
+95 gender male
+95 age adult
+95 connection average
+95 intelligibility ok

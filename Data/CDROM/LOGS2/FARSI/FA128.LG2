@@ -1,0 +1,26 @@
+128 nlang native yes
+128 clang instructions yes
+128 clang useful yes
+128 dowk complete yes
+128 nums complete yes
+128 htl instructions yes
+128 htl useful yes
+128 htc instructions yes
+128 htc useful yes
+128 room instructions yes
+128 room useful yes
+128 meal instructions yes
+128 meal useful yes
+128 story-bt speech_type extemp
+128 story-bt topic Family
+128 story-at speech_type extemp
+128 story-at topic Family, cont'd
+128 general native yes
+128 general dialect standard
+128 general accent none
+128 general background speech none
+128 general environmental noise some static
+128 general gender female
+128 general age adult
+128 general intelligibility ok
+128 general connection average

@@ -1,0 +1,26 @@
+110 nlang native yes
+110 clang instructions yes
+110 clang useful yes
+110 dowk complete yes
+110 nums complete yes
+110 htl instructions yes
+110 htl useful yes
+110 htc instructions yes
+110 htc useful yes
+110 room instructions yes
+110 room useful yes
+110 meal instructions yes
+110 meal useful yes
+110 story-bt speech_type extemp
+110 story-bt topic Doesn't know what to talk about for 1 min; begins talking about trip to India
+110 story-at speech_type extemp
+110 story-at topic he longs to go home; he is happy that the 50 second period is over at last
+110 general native yes
+110 general dialect mix of spoken and written Tamil
+110 general accent none
+110 general background speech none
+110 general environmental noise line noise
+110 general gender male
+110 general age adult
+110 general intelligibility ok
+110 general connection poor

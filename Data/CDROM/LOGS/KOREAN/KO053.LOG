@@ -1,0 +1,82 @@
+53 labeler khoward
+53 label_date Fri Oct 18 19:14:20 PDT 1991
+53 nlang missing nothing
+53 nlang duration_sec 1.3
+53 nlang dc_offset 43
+53 nlang min_samp -2883
+53 nlang max_samp 4721
+53 nlang min_power10 21.3
+53 nlang max_power90 56.2
+53 clang comments ES  
+53 clang missing nothing
+53 clang duration_sec 2.2
+53 clang dc_offset 43
+53 clang min_samp -3171
+53 clang max_samp 5429
+53 clang min_power10 24.9
+53 clang max_power90 55.8
+53 dowk missing Monday?
+53 dowk duration_sec 4.7
+53 dowk dc_offset 43
+53 dowk min_samp -2651
+53 dowk max_samp 2357
+53 dowk min_power10 23.3
+53 dowk max_power90 56.8
+53 nums comments BN  
+53 nums missing nothing
+53 nums duration_sec 8.7
+53 nums dc_offset 43
+53 nums min_samp -3203
+53 nums max_samp 4061
+53 nums min_power10 22.5
+53 nums max_power90 53.5
+53 htl missing nothing
+53 htl duration_sec 7.7
+53 htl dc_offset 43
+53 htl min_samp -4723
+53 htl max_samp 5805
+53 htl min_power10 23.5
+53 htl max_power90 57.5
+53 htc comments SNL CE  
+53 htc missing CS
+53 htc duration_sec 9.2
+53 htc dc_offset 43
+53 htc min_samp -3495
+53 htc max_samp 4661
+53 htc min_power10 22.7
+53 htc max_power90 55.6
+53 room missing nothing
+53 room duration_sec 11.2
+53 room dc_offset 43
+53 room min_samp -3635
+53 room max_samp 4757
+53 room min_power10 22.2
+53 room max_power90 52.1
+53 meal comments SNL  
+53 meal missing nothing
+53 meal duration_sec 9.1
+53 meal dc_offset 43
+53 meal min_samp -3343
+53 meal max_samp 4733
+53 meal min_power10 23.6
+53 meal max_power90 56.2
+53 story-bt comments BN CE SS  
+53 story-bt missing CS
+53 story-bt duration_sec 45.6
+53 story-bt dc_offset 43
+53 story-bt min_samp -5659
+53 story-bt max_samp 5109
+53 story-bt min_power10 22.7
+53 story-bt max_power90 56.0
+53 story-at comments CE  
+53 story-at missing CS
+53 story-at duration_sec 2.7
+53 story-at dc_offset 43
+53 story-at min_samp -3911
+53 story-at max_samp 4445
+53 story-at min_power10 24.1
+53 story-at max_power90 57.0
+53 gender male
+53 age adult
+53 connection average
+53 intelligibility ok

@@ -1,0 +1,26 @@
+196 nlang native yes
+196 clang instructions yes
+196 clang useful yes
+196 dowk complete yes
+196 nums complete yes
+196 htl instructions yes
+196 htl useful yes
+196 htc instructions yes
+196 htc useful yes
+196 room instructions yes
+196 room useful yes
+196 meal instructions yes
+196 meal useful yes
+196 story-bt speech_type read
+196 story-bt topic reads from technical manual
+196 story-at speech_type extemp
+196 story-at topic newscaster english
+196 general native yes
+196 general dialect standard
+196 general accent none
+196 general background speech none
+196 general environmental noise none
+196 general gender male
+196 general age adult
+196 general intelligibility ok
+196 general connection average

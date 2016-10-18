@@ -1,0 +1,27 @@
+205 nlang native yes
+205 clang instructions yes
+205 clang useful yes
+205 dowk complete yes
+205 nums complete no
+205 nums partial yes
+205 htl instructions yes
+205 htl useful yes
+205 htc instructions yes
+205 htc useful yes
+205 room instructions yes
+205 room useful yes
+205 meal instructions yes
+205 meal useful yes
+205 story-bt speech_type extemp
+205 story-bt topic attending a computer conference
+205 story-at speech_type extemp
+205 story-at topic become more productive at work
+205 general native yes
+205 general dialect standard
+205 general accent none
+205 general background speech none
+205 general environmental noise none
+205 general gender female
+205 general age adult
+205 general intelligibility ok
+205 general connection average

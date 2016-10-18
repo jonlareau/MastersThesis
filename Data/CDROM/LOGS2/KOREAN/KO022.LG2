@@ -1,0 +1,28 @@
+22 nlang native yes
+22 clang instructions yes
+22 clang useful yes
+22 dowk complete no
+22 dowk partial yes
+22 nums complete no
+22 nums partial yes
+22 htl instructions yes
+22 htl useful yes
+22 htc instructions yes
+22 htc useful yes
+22 room instructions yes
+22 room useful yes
+22 meal instructions no
+22 meal useful yes
+22 story-bt speech_type extemp
+22 story-bt topic A beautiful life in the U.S.
+22 story-at speech_type extemp
+22 story-at topic Adopting American custom while keeping Korean custom.
+22 general native yes
+22 general dialect standard
+22 general accent A little of strong Cholla-do accent
+22 general background speech none
+22 general environmental noise none
+22 general gender female
+22 general age adult
+22 general intelligibility ok
+22 general connection average

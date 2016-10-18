@@ -1,0 +1,85 @@
+4 labeler khoward
+4 label_date Tue Jul  9 14:49:13 PDT 1991
+4 nlang comments BN EN  
+4 nlang missing nothing
+4 nlang duration_sec 1.4
+4 nlang dc_offset 42
+4 nlang min_samp -3170
+4 nlang max_samp 3302
+4 nlang min_power10 19.4
+4 nlang max_power90 44.6
+4 clang missing nothing
+4 clang duration_sec 0.8
+4 clang dc_offset 42
+4 clang min_samp -3690
+4 clang max_samp 3426
+4 clang min_power10 21.5
+4 clang max_power90 59.5
+4 dowk comments EN  
+4 dowk missing nothing
+4 dowk duration_sec 3.8
+4 dowk dc_offset 42
+4 dowk min_samp -2918
+4 dowk max_samp 1766
+4 dowk min_power10 21.7
+4 dowk max_power90 50.9
+4 nums comments BN EN  
+4 nums missing nothing
+4 nums duration_sec 4.3
+4 nums dc_offset 42
+4 nums min_samp -1306
+4 nums max_samp 766
+4 nums min_power10 19.5
+4 nums max_power90 44.1
+4 htl comments EN  
+4 htl missing nothing
+4 htl duration_sec 2.9
+4 htl dc_offset 42
+4 htl min_samp -2086
+4 htl max_samp 1114
+4 htl min_power10 21.0
+4 htl max_power90 44.1
+4 htc comments BN EN  
+4 htc missing nothing
+4 htc duration_sec 5.7
+4 htc dc_offset 42
+4 htc min_samp -1614
+4 htc max_samp 1010
+4 htc min_power10 18.8
+4 htc max_power90 42.3
+4 room comments BN EN  
+4 room missing nothing
+4 room duration_sec 10.9
+4 room dc_offset 42
+4 room min_samp -1978
+4 room max_samp 1558
+4 room min_power10 20.6
+4 room max_power90 41.9
+4 meal comments BN CE EN  
+4 meal missing CS
+4 meal duration_sec 8.5
+4 meal dc_offset 42
+4 meal min_samp -1338
+4 meal max_samp 1374
+4 meal min_power10 18.9
+4 meal max_power90 44.6
+4 story-bt comments BN CE EN SS  
+4 story-bt missing CS
+4 story-bt duration_sec 37.0
+4 story-bt dc_offset 42
+4 story-bt min_samp -2874
+4 story-bt max_samp 2686
+4 story-bt min_power10 21.1
+4 story-bt max_power90 37.9
+4 story-at comments BN CE EN  
+4 story-at missing CS
+4 story-at duration_sec 3.0
+4 story-at dc_offset 42
+4 story-at min_samp -710
+4 story-at max_samp 398
+4 story-at min_power10 22.4
+4 story-at max_power90 38.2
+4 gender male
+4 age adult
+4 connection poor
+4 intelligibility poor

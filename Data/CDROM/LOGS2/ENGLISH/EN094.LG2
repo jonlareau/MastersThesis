@@ -1,0 +1,26 @@
+94 nlang native yes
+94 clang instructions yes
+94 clang useful yes
+94 dowk complete yes
+94 nums complete yes
+94 htl instructions yes
+94 htl useful yes
+94 htc instructions yes
+94 htc useful yes
+94 room instructions yes
+94 room useful yes
+94 meal instructions yes
+94 meal useful yes
+94 story-bt speech_type extemp
+94 story-bt topic talking about his hobby of music and the guitar
+94 story-at speech_type extemp
+94 story-at topic music is his favorite hobby
+94 general native yes
+94 general dialect standard
+94 general accent none
+94 general background speech none
+94 general environmental noise none
+94 general gender male
+94 general age adult
+94 general intelligibility ok
+94 general connection average

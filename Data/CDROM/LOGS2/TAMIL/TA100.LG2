@@ -1,0 +1,20 @@
+100 nlang native yes
+100 clang instructions yes
+100 clang useful yes
+100 dowk complete yes
+100 nums complete yes
+100 htl instructions yes
+100 htl useful yes
+100 room instructions no
+100 room useful yes
+100 meal instructions yes
+100 meal useful yes
+100 general native yes
+100 general dialect written formal Tamil
+100 general accent slight American accent for the language and days-of-week utterances
+100 general background speech none
+100 general environmental noise line noise
+100 general gender male
+100 general age adult
+100 general intelligibility ok
+100 general connection average

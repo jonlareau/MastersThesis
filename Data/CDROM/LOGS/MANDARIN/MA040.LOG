@@ -1,0 +1,54 @@
+40 labeler yeshwant
+40 label_date Thu Aug  1 19:18:58 PDT 1991
+40 nums comments CB  
+40 nums missing 0 1 2
+40 nums duration_sec 4.1
+40 nums dc_offset 42
+40 nums min_samp -3474
+40 nums max_samp 2222
+40 nums min_power10 21.0
+40 nums max_power90 57.1
+40 htl comments BN CE ES  
+40 htl missing cs
+40 htl duration_sec 8.3
+40 htl dc_offset 42
+40 htl min_samp -3150
+40 htl max_samp 1890
+40 htl min_power10 20.3
+40 htl max_power90 54.7
+40 htc comments BN CE ES  
+40 htc missing cs
+40 htc duration_sec 9.4
+40 htc dc_offset 42
+40 htc min_samp -3594
+40 htc max_samp 2806
+40 htc min_power10 19.6
+40 htc max_power90 57.1
+40 room comments BN CE ES  
+40 room missing cs
+40 room duration_sec 9.9
+40 room dc_offset 43
+40 room min_samp -4583
+40 room max_samp 4065
+40 room min_power10 19.8
+40 room max_power90 56.9
+40 meal comments BN  
+40 meal missing nothing
+40 meal duration_sec 7.0
+40 meal dc_offset 43
+40 meal min_samp -4383
+40 meal max_samp 3205
+40 meal min_power10 20.8
+40 meal max_power90 57.8
+40 story-bt comments BN SS  
+40 story-bt missing nothing
+40 story-bt duration_sec 32.9
+40 story-bt dc_offset 43
+40 story-bt min_samp -4207
+40 story-bt max_samp 2989
+40 story-bt min_power10 20.5
+40 story-bt max_power90 54.8
+40 gender unknown
+40 age adult
+40 connection good
+40 intelligibility ok

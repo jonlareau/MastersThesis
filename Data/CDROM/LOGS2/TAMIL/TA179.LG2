@@ -1,0 +1,25 @@
+179 dowk complete no
+179 dowk partial yes
+179 nums complete no
+179 nums partial yes
+179 htl instructions yes
+179 htl useful yes
+179 htc instructions yes
+179 htc useful yes
+179 room instructions yes
+179 room useful yes
+179 meal instructions yes
+179 meal useful yes
+179 story-bt speech_type extemp
+179 story-bt topic description of Orlando and its many tourist attractions: Disney EPCOT, SSea World, etc.
+179 story-at speech_type other: useless, discard
+179 story-at topic discard this utterance
+179 general native yes
+179 general dialect written, formal Tamil
+179 general accent none
+179 general background speech none
+179 general environmental noise none
+179 general gender male
+179 general age adult
+179 general intelligibility ok
+179 general connection average

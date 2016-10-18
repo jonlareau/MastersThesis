@@ -1,0 +1,25 @@
+159 nlang native yes
+159 clang instructions yes
+159 clang useful yes
+159 dowk complete no
+159 dowk partial yes
+159 nums complete yes
+159 htl instructions yes
+159 htl useful yes
+159 htc instructions yes
+159 htc useful yes
+159 room instructions yes
+159 room useful yes
+159 meal instructions yes
+159 meal useful yes
+159 story-bt speech_type extemp
+159 story-bt topic Wishes
+159 general native yes
+159 general dialect standard
+159 general accent none
+159 general background speech none
+159 general environmental noise none
+159 general gender female
+159 general age adult
+159 general intelligibility ok
+159 general connection average

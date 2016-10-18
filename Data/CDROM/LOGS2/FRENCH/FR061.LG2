@@ -1,0 +1,26 @@
+61 nlang native yes
+61 clang instructions yes
+61 clang useful yes
+61 dowk complete yes
+61 nums complete yes
+61 htl instructions yes
+61 htl useful yes
+61 htc instructions yes
+61 htc useful yes
+61 room instructions yes
+61 room useful yes
+61 meal instructions yes
+61 meal useful yes
+61 story-bt speech_type extemp
+61 story-bt topic Operas in france at the Tv
+61 story-at speech_type extemp
+61 story-at topic Necessity of recording operas (too late in the night)quality decreases
+61 general native yes
+61 general dialect standard
+61 general accent none
+61 general background speech none
+61 general environmental noise none
+61 general gender male
+61 general age adult
+61 general intelligibility ok
+61 general connection average

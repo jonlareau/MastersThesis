@@ -1,0 +1,23 @@
+92 nlang native yes
+92 clang instructions yes
+92 clang useful yes
+92 dowk complete yes
+92 nums complete no
+92 nums partial yes
+92 htl instructions yes
+92 htl useful yes
+92 htc instructions yes
+92 htc useful yes
+92 room instructions yes
+92 room useful yes
+92 meal instructions yes
+92 meal useful yes
+92 general native yes
+92 general dialect standard
+92 general accent none
+92 general background speech none
+92 general environmental noise none
+92 general gender male
+92 general age adult
+92 general intelligibility ok
+92 general connection average

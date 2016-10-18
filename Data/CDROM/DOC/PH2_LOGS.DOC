@@ -1,0 +1,145 @@
+
+Phase II Log File Documentation
+
+Phase II involved verification of the utterances by native speakers of
+the individual languages, including: 
+
+  (1) confirming that each utterance was in fact spoken by a native
+	speaker of that language;
+  (2) verifying that the caller followed the instructions for that
+	utterance; 
+  (3) judging the callers' accents and dialects, and
+  (4) providing a brief description of the topic of each caller's
+	one-minute elicited free speech response.
+
+
+Log File Format
+
+Files ending with ".lg2" are the information (ASCII text) files
+containing the qualitative judgments.  For all the calls in a
+particular language a native speaker of the language was used to make
+all judgements.
+
+The log file consists of a two-line header, a body containing
+utterance-specific judgments and global judgements.
+
+The header:
+
+	<callnumber> labeler <labeler_name>  
+	<callnumber> label_date <date>	     
+
+The body:
+
+	<callnumber> <utt_type> <attribute> <values>
+
+where
+
+<callnumber> -- self-explanatory
+
+<utt_type> -- nlang, clang, htl, htc, room, meal, story-bt, story-at,
+              generally in that order
+
+For each <utt_type>, the following attribute-value pairs are present:
+
+<attribute>        <values>
+  speech_type       extemp
+                    read
+                    recite
+                    other: <desc>
+
+  topic             <topic>                                 
+
+  native            yes
+                    no
+
+  useful            yes
+                    no
+
+  complete          yes
+                    no
+
+  partial           yes
+                    no
+
+  instructions      yes
+                    no
+
+  dialect           standard                 [default]
+                    unknown
+                    <desc>
+
+  accent            none                     [default]
+                    <desc>
+
+  background speech 	none                 [default]
+                    	<desc>
+
+  environmental noise 	none                 [default]
+			<desc>
+
+  gender            male
+                    female
+    		    unknown
+
+  age               adult                    [default]
+                    child
+
+  intelligibility   poor
+                    ok                       [default]
+
+  connection        poor
+                    average                  [default]
+
+<topic>             a one-line summary of the topic of the story
+
+<desc>              a one-line description of speech_type, dialect,
+                    accent, background speech, or environmental noise.
+
+
+The <speech_type> attribute only applies to the story portions of the
+calls.  The values for this attribute indicate whether the story was
+more than half extemporaneous speech (extemp), read speech (read), or
+recited (recite).  If the speech does not fall into any of the above
+categories, the labeler is required to briefly describe the
+speech_type of the story.
+
+The <topic> attribute also only applies to the story protions of the
+calls.  The labeler was asked to summarize (in english) what the
+caller talked about in the story.
+
+When applied to the <nlg> utterance type the <native> attribute has
+a value of yes if the caller answered with the language name of the
+language being recorded.  If the speaker did not say the language
+name, <native> is set to no and the labeler makes a judgment whether
+the speech signal is still useful speech.  If so, <useful> is set to
+yes, otherwise to no.  When applied as a general comment, the <native>
+attribute has a value of yes if the labeler judges that the caller is
+a native speaker of the language (regardless of how the caller
+answered the <nlang> question).
+
+The <complete> attribute is only applied to the <dow> and <num>
+utterance types.  A value of yes means that all the days of the week
+or numbers zero to ten were present in the speech sample.  If only
+part of a list exists then <complete> is set to no and <partial> is
+set to yes.  If there is not even a partial list then <partial> is
+set to no and the labeler makes a judgement as to whether the speech
+data is still useful speech. If so, <useful> is set to yes, otherwise
+to no.
+
+The <instructions> attribute applies to all utterance types except the
+stories, <nlg>, <dow>, and <num>.  If the labeler judged that the
+caller followed the instructions for each utterance type then the
+<instructions> attribute is set to yes.  When the caller did not
+follow instructions the labeler judged whether the speech was still
+useful.  If so, <useful> was set to yes, otherwise to no.
+
+The attributes <dialect>, <accent>, <background speech>,
+<environmental noise>, <gender>, <age>, <intelligibility>, and
+<connection> apply globally.  These are judgments made by the labeler
+about dialect, accent, etc.
+
+
+Mike Noel
+noel@cse.ogi.edu
+(503) 690-1309
+

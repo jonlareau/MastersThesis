@@ -1,0 +1,80 @@
+102 labeler ames
+102 label_date Mon Jun 15 17:11:01 PDT 1992
+102 nlang comments EN  
+102 nlang missing nothing
+102 nlang duration_sec 1.0
+102 nlang dc_offset 42
+102 nlang min_samp -798
+102 nlang max_samp 934
+102 nlang min_power10 12.6
+102 nlang max_power90 46.6
+102 clang comments CE EN  
+102 clang missing nothing
+102 dowk comments EN  
+102 dowk missing nothing
+102 dowk duration_sec 4.3
+102 dowk dc_offset 42
+102 dowk min_samp -558
+102 dowk max_samp 558
+102 dowk min_power10 16.2
+102 dowk max_power90 41.4
+102 nums comments EN  
+102 nums missing nothing
+102 nums duration_sec 6.7
+102 nums dc_offset 42
+102 nums min_samp -1090
+102 nums max_samp 1018
+102 nums min_power10 13.8
+102 nums max_power90 39.3
+102 htl comments CE EN  
+102 htl missing cs
+102 htl duration_sec 7.7
+102 htl dc_offset 42
+102 htl min_samp -1426
+102 htl max_samp 1610
+102 htl min_power10 18.9
+102 htl max_power90 46.4
+102 htc comments EN  
+102 htc missing nothing
+102 htc duration_sec 9.4
+102 htc dc_offset 42
+102 htc min_samp -1130
+102 htc max_samp 1090
+102 htc min_power10 17.7
+102 htc max_power90 45.8
+102 room comments CE EN  
+102 room missing cs
+102 room duration_sec 11.3
+102 room dc_offset 42
+102 room min_samp -1218
+102 room max_samp 1270
+102 room min_power10 18.9
+102 room max_power90 45.3
+102 meal comments CE EN  
+102 meal missing cs
+102 meal duration_sec 9.9
+102 meal dc_offset 42
+102 meal min_samp -922
+102 meal max_samp 918
+102 meal min_power10 17.0
+102 meal max_power90 44.1
+102 story-bt comments CE EN RS  
+102 story-bt missing cs; prob. read speech
+102 story-bt duration_sec 49.1
+102 story-bt dc_offset 42
+102 story-bt min_samp -1570
+102 story-bt max_samp 1646
+102 story-bt min_power10 15.2
+102 story-bt max_power90 44.9
+102 story-at comments EN RS  
+102 story-at missing read speech??
+102 story-at duration_sec 6.1
+102 story-at dc_offset 42
+102 story-at min_samp -2430
+102 story-at max_samp 1638
+102 story-at min_power10 15.1
+102 story-at max_power90 45.4
+102 gender male
+102 age adult
+102 connection poor
+102 intelligibility ok

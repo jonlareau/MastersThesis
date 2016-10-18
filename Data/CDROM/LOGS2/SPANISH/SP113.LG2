@@ -1,0 +1,27 @@
+113 nlang native yes
+113 clang instructions yes
+113 clang useful yes
+113 dowk complete yes
+113 nums complete no
+113 nums partial yes
+113 htl instructions yes
+113 htl useful yes
+113 htc instructions yes
+113 htc useful yes
+113 room instructions yes
+113 room useful yes
+113 meal instructions yes
+113 meal useful yes
+113 story-bt speech_type extemp
+113 story-bt topic his life, moving from Chile to the U.S.
+113 story-at speech_type extemp
+113 story-at topic he likes Oregon and that is it 
+113 general native yes
+113 general dialect Chilean
+113 general accent none
+113 general background speech none
+113 general environmental noise a baby crying and the mother talking, not decipherable
+113 general gender male
+113 general age adult
+113 general intelligibility ok
+113 general connection average

@@ -1,0 +1,27 @@
+207 nlang native yes
+207 clang instructions yes
+207 clang useful yes
+207 dowk complete yes
+207 nums complete no
+207 nums partial yes
+207 htl instructions yes
+207 htl useful yes
+207 htc instructions yes
+207 htc useful yes
+207 room instructions yes
+207 room useful yes
+207 meal instructions yes
+207 meal useful yes
+207 story-bt speech_type extemp
+207 story-bt topic changed jobs, likes this experiment
+207 story-at speech_type extemp
+207 story-at topic nice place to live
+207 general native yes
+207 general dialect faint southern, Kentucky
+207 general accent none
+207 general background speech none
+207 general environmental noise none
+207 general gender male
+207 general age adult
+207 general intelligibility ok
+207 general connection average

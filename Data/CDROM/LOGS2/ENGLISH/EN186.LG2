@@ -1,0 +1,21 @@
+186 nlang native no
+186 nlang useful yes
+186 clang instructions yes
+186 clang useful yes
+186 htc instructions yes
+186 htc useful yes
+186 room instructions yes
+186 room useful yes
+186 meal instructions yes
+186 meal useful yes
+186 story-bt speech_type extemp
+186 story-bt topic hobbies, going to college, and car
+186 general native no
+186 general dialect standard
+186 general accent spanish
+186 general background speech none
+186 general environmental noise barking dog
+186 general gender female
+186 general age adult
+186 general intelligibility ok
+186 general connection average

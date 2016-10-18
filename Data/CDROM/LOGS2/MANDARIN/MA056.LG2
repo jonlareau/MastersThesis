@@ -1,0 +1,27 @@
+56 nlang native yes
+56 clang instructions yes
+56 clang useful yes
+56 dowk complete no
+56 dowk partial yes
+56 nums complete yes
+56 htl instructions yes
+56 htl useful yes
+56 htc instructions yes
+56 htc useful yes
+56 room instructions yes
+56 room useful yes
+56 meal instructions yes
+56 meal useful yes
+56 story-bt speech_type extemp
+56 story-bt topic Daily life as a student and sports.
+56 story-at speech_type extemp
+56 story-at topic Weather
+56 general native yes
+56 general dialect standard
+56 general accent none
+56 general background speech none
+56 general environmental noise none
+56 general gender male
+56 general age adult
+56 general intelligibility ok
+56 general connection average

@@ -1,0 +1,85 @@
+31 labeler khoward
+31 label_date Wed Aug  7 10:35:24 PDT 1991
+31 nlang missing nothing
+31 nlang duration_sec 0.6
+31 nlang dc_offset 42
+31 nlang min_samp -7914
+31 nlang max_samp 6750
+31 nlang min_power10 20.9
+31 nlang max_power90 63.7
+31 dowk missing nothing
+31 dowk duration_sec 3.6
+31 dowk dc_offset 42
+31 dowk min_samp -7390
+31 dowk max_samp 5026
+31 dowk min_power10 23.4
+31 dowk max_power90 59.9
+31 nums comments EN  
+31 nums missing 0
+31 nums duration_sec 8.0
+31 nums dc_offset 42
+31 nums min_samp -7890
+31 nums max_samp 7970
+31 nums min_power10 20.6
+31 nums max_power90 60.9
+31 htl missing nothing
+31 htl duration_sec 4.3
+31 htl dc_offset 42
+31 htl min_samp -5262
+31 htl max_samp 4718
+31 htl min_power10 20.3
+31 htl max_power90 59.5
+31 htc missing nothing
+31 htc duration_sec 6.9
+31 htc dc_offset 42
+31 htc min_samp -8890
+31 htc max_samp 8162
+31 htc min_power10 21.6
+31 htc max_power90 63.0
+31 room comments CE  
+31 room missing CS
+31 room duration_sec 11.1
+31 room dc_offset 42
+31 room min_samp -8282
+31 room max_samp 7486
+31 room min_power10 24.5
+31 room max_power90 63.4
+31 meal comments BN  
+31 meal missing nothing
+31 meal duration_sec 3.0
+31 meal dc_offset 42
+31 meal min_samp -5034
+31 meal max_samp 3574
+31 meal min_power10 21.2
+31 meal max_power90 59.4
+31 story-at comments CB CE RS  
+31 story-at missing CS
+31 story-at duration_sec 9.5
+31 story-at dc_offset 42
+31 story-at min_samp -8718
+31 story-at max_samp 6606
+31 story-at min_power10 25.8
+31 story-at max_power90 61.5
+31 gender female
+31 age adult
+31 connection average
+31 intelligibility ok
+31 clang missing nothing
+31 clang duration_sec 0.9
+31 clang dc_offset 42
+31 clang min_samp -7894
+31 clang max_samp 6462
+31 clang min_power10 19.8
+31 clang max_power90 62.1
+31 story-bt comments CE RS SS  
+31 story-bt missing CS
+31 story-bt duration_sec 49.2
+31 story-bt dc_offset 42
+31 story-bt min_samp -12662
+31 story-bt max_samp 8906
+31 story-bt min_power10 25.4
+31 story-bt max_power90 61.0
+31 gender female
+31 age adult
+31 connection good
+31 intelligibility ok

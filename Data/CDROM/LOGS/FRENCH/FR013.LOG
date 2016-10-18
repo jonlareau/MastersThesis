@@ -1,0 +1,83 @@
+13 labeler khoward
+13 label_date Thu Jul 11 09:10:58 PDT 1991
+13 nlang comments EN  
+13 nlang missing nothing
+13 nlang duration_sec 1.1
+13 nlang dc_offset 42
+13 nlang min_samp -3174
+13 nlang max_samp 3554
+13 nlang min_power10 22.9
+13 nlang max_power90 48.9
+13 clang missing nothing
+13 clang duration_sec 1.0
+13 clang dc_offset 42
+13 clang min_samp -4886
+13 clang max_samp 4094
+13 clang min_power10 23.5
+13 clang max_power90 55.4
+13 dowk missing nothing
+13 dowk duration_sec 6.3
+13 dowk dc_offset 42
+13 dowk min_samp -2490
+13 dowk max_samp 3082
+13 dowk min_power10 23.9
+13 dowk max_power90 49.9
+13 nums missing nothing
+13 nums duration_sec 7.9
+13 nums dc_offset 42
+13 nums min_samp -2298
+13 nums max_samp 2542
+13 nums min_power10 23.9
+13 nums max_power90 51.4
+13 htl comments CE  
+13 htl missing CS
+13 htl duration_sec 8.8
+13 htl dc_offset 42
+13 htl min_samp -2742
+13 htl max_samp 4438
+13 htl min_power10 24.5
+13 htl max_power90 52.4
+13 htc comments BN  
+13 htc missing nothing
+13 htc duration_sec 9.5
+13 htc dc_offset 42
+13 htc min_samp -2894
+13 htc max_samp 3410
+13 htc min_power10 24.8
+13 htc max_power90 53.3
+13 room comments CE  
+13 room missing CS
+13 room duration_sec 11.4
+13 room dc_offset 42
+13 room min_samp -4278
+13 room max_samp 5418
+13 room min_power10 28.2
+13 room max_power90 51.3
+13 meal comments BN CE  
+13 meal missing CS?
+13 meal duration_sec 9.9
+13 meal dc_offset 42
+13 meal min_samp -3186
+13 meal max_samp 4302
+13 meal min_power10 26.3
+13 meal max_power90 53.3
+13 story-bt comments CE SS  
+13 story-bt missing CS
+13 story-bt duration_sec 48.7
+13 story-bt dc_offset 42
+13 story-bt min_samp -4038
+13 story-bt max_samp 4490
+13 story-bt min_power10 25.8
+13 story-bt max_power90 53.1
+13 story-at comments CB  
+13 story-at missing CS
+13 story-at duration_sec 8.8
+13 story-at dc_offset 42
+13 story-at min_samp -3034
+13 story-at max_samp 3498
+13 story-at min_power10 25.1
+13 story-at max_power90 50.4
+13 gender male
+13 age adult
+13 connection good
+13 intelligibility ok

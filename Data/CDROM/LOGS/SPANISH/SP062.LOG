@@ -1,0 +1,79 @@
+62 labeler khoward
+62 label_date Sat Aug 31 12:48:39 PDT 1991
+62 nlang missing nothing
+62 nlang duration_sec 1.2
+62 nlang dc_offset 42
+62 nlang min_samp -6478
+62 nlang max_samp 3942
+62 nlang min_power10 18.1
+62 nlang max_power90 61.0
+62 clang missing nothing
+62 clang duration_sec 1.2
+62 clang dc_offset 42
+62 clang min_samp -8078
+62 clang max_samp 4938
+62 clang min_power10 18.9
+62 clang max_power90 63.4
+62 dowk missing nothing
+62 dowk duration_sec 7.6
+62 dowk dc_offset 42
+62 dowk min_samp -7670
+62 dowk max_samp 3798
+62 dowk min_power10 18.7
+62 dowk max_power90 59.7
+62 nums missing nothing
+62 nums duration_sec 8.7
+62 nums dc_offset 42
+62 nums min_samp -6670
+62 nums max_samp 4654
+62 nums min_power10 19.5
+62 nums max_power90 59.3
+62 htl missing nothing
+62 htl duration_sec 4.2
+62 htl dc_offset 42
+62 htl min_samp -5202
+62 htl max_samp 3966
+62 htl min_power10 20.4
+62 htl max_power90 60.1
+62 htc missing nothing
+62 htc duration_sec 7.7
+62 htc dc_offset 42
+62 htc min_samp -7278
+62 htc max_samp 5718
+62 htc min_power10 19.2
+62 htc max_power90 58.3
+62 room comments BN CE  
+62 room missing CS
+62 room duration_sec 10.4
+62 room dc_offset 42
+62 room min_samp -3762
+62 room max_samp 2946
+62 room min_power10 20.9
+62 room max_power90 57.4
+62 meal missing nothing
+62 meal duration_sec 4.9
+62 meal dc_offset 42
+62 meal min_samp -5470
+62 meal max_samp 3918
+62 meal min_power10 20.5
+62 meal max_power90 58.9
+62 story-bt comments CE SS SNL  
+62 story-bt missing CS
+62 story-bt duration_sec 49.3
+62 story-bt dc_offset 42
+62 story-bt min_samp -7702
+62 story-bt max_samp 6634
+62 story-bt min_power10 20.3
+62 story-bt max_power90 59.3
+62 story-at comments CB SS  
+62 story-at missing CS
+62 story-at duration_sec 9.4
+62 story-at dc_offset 42
+62 story-at min_samp -4102
+62 story-at max_samp 3810
+62 story-at min_power10 19.5
+62 story-at max_power90 57.9
+62 gender male
+62 age adult
+62 connection average
+62 intelligibility ok

@@ -1,0 +1,21 @@
+86 nlang native yes
+86 nums complete yes
+86 htc instructions yes
+86 htc useful yes
+86 room instructions yes
+86 room useful yes
+86 meal instructions yes
+86 meal useful yes
+86 story-bt speech_type extemp
+86 story-bt topic her sister and brother's coming.
+86 story-at speech_type extemp
+86 story-at topic Hope her mother has something to do.
+86 general native yes
+86 general dialect Taiwan
+86 general accent none
+86 general background speech none
+86 general environmental noise none
+86 general gender female
+86 general age adult
+86 general intelligibility ok
+86 general connection average

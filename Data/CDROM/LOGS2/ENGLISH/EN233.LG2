@@ -1,0 +1,26 @@
+233 nlang native yes
+233 clang instructions yes
+233 clang useful yes
+233 dowk complete no
+233 dowk partial yes
+233 nums complete no
+233 nums partial yes
+233 htl instructions yes
+233 htl useful yes
+233 htc instructions yes
+233 htc useful yes
+233 room instructions yes
+233 room useful yes
+233 meal instructions yes
+233 meal useful yes
+233 story-bt speech_type extemp
+233 story-bt topic joke about tomatoes
+233 general native yes
+233 general dialect standard
+233 general accent none
+233 general background speech none
+233 general environmental noise television noise
+233 general gender male
+233 general age adult
+233 general intelligibility ok
+233 general connection average

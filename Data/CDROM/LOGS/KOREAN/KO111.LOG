@@ -1,0 +1,73 @@
+111 labeler khoward
+111 label_date Sat Feb 29 22:23:17 PST 1992
+111 nlang missing nothing
+111 nlang duration_sec 1.5
+111 nlang dc_offset 42
+111 nlang min_samp -5494
+111 nlang max_samp 7438
+111 nlang min_power10 23.2
+111 nlang max_power90 60.1
+111 dowk missing nothing
+111 dowk duration_sec 6.1
+111 dowk dc_offset 42
+111 dowk min_samp -6146
+111 dowk max_samp 6446
+111 dowk min_power10 23.3
+111 dowk max_power90 60.0
+111 nums missing nothing
+111 nums duration_sec 6.1
+111 nums dc_offset 42
+111 nums min_samp -6286
+111 nums max_samp 12486
+111 nums min_power10 24.9
+111 nums max_power90 63.5
+111 htl missing nothing
+111 htl duration_sec 5.4
+111 htl dc_offset 42
+111 htl min_samp -5630
+111 htl max_samp 8154
+111 htl min_power10 24.0
+111 htl max_power90 56.4
+111 htc comments CE  
+111 htc missing CS
+111 htc duration_sec 8.0
+111 htc dc_offset 42
+111 htc min_samp -4770
+111 htc max_samp 7010
+111 htc min_power10 23.4
+111 htc max_power90 61.0
+111 room comments EN
+111 room missing nothing
+111 room duration_sec 7.5
+111 room dc_offset 42
+111 room min_samp -5142
+111 room max_samp 11538
+111 room min_power10 23.5
+111 room max_power90 54.6
+111 meal missing nothing
+111 meal duration_sec 7.7
+111 meal dc_offset 42
+111 meal min_samp -5370
+111 meal max_samp 8546
+111 meal min_power10 23.9
+111 meal max_power90 54.5
+111 story-bt comments BN SS  
+111 story-bt missing nothing
+111 story-bt duration_sec 46.5
+111 story-bt dc_offset 42
+111 story-bt min_samp -5054
+111 story-bt max_samp 5686
+111 story-bt min_power10 23.8
+111 story-bt max_power90 52.7
+111 story-at comments SS  
+111 story-at missing nothing
+111 story-at duration_sec 1.9
+111 story-at dc_offset 42
+111 story-at min_samp -3318
+111 story-at max_samp 3598
+111 story-at min_power10 23.8
+111 story-at max_power90 55.9
+111 gender male
+111 age adult
+111 connection average
+111 intelligibility ok

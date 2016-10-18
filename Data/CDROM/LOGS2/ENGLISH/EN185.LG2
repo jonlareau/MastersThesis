@@ -1,0 +1,25 @@
+185 nlang native yes
+185 clang instructions yes
+185 clang useful yes
+185 dowk complete yes
+185 nums complete no
+185 nums partial yes
+185 htl instructions yes
+185 htl useful yes
+185 htc instructions yes
+185 htc useful yes
+185 room instructions yes
+185 room useful yes
+185 meal instructions yes
+185 meal useful yes
+185 story-bt speech_type read
+185 story-bt topic civil war helped British shipping
+185 general native yes
+185 general dialect standard
+185 general accent none
+185 general background speech none
+185 general environmental noise none
+185 general gender male
+185 general age adult
+185 general intelligibility ok
+185 general connection average

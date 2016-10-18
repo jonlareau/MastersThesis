@@ -1,0 +1,24 @@
+227 nlang native yes
+227 dowk complete yes
+227 nums complete yes
+227 htl instructions yes
+227 htl useful yes
+227 htc instructions yes
+227 htc useful yes
+227 room instructions yes
+227 room useful yes
+227 meal instructions yes
+227 meal useful yes
+227 story-bt speech_type extemp
+227 story-bt topic job, vacation in Portland
+227 story-at speech_type extemp
+227 story-at topic returns August 8
+227 general native yes
+227 general dialect standard
+227 general accent none
+227 general background speech none
+227 general environmental noise none
+227 general gender male
+227 general age adult
+227 general intelligibility ok
+227 general connection average

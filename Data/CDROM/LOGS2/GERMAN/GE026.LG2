@@ -1,0 +1,26 @@
+26 nlang native yes
+26 clang instructions yes
+26 clang useful yes
+26 dowk complete yes
+26 nums complete yes
+26 htl instructions yes
+26 htl useful yes
+26 htc instructions yes
+26 htc useful yes
+26 room instructions no
+26 room useful yes
+26 meal instructions no
+26 meal useful yes
+26 story-bt speech_type read
+26 story-bt topic puppet theater announcement
+26 story-at speech_type read
+26 story-at topic ..they dance in a funny sort of way
+26 general native yes
+26 general dialect standard
+26 general accent none
+26 general background speech none
+26 general environmental noise none
+26 general gender male
+26 general age adult
+26 general intelligibility ok
+26 general connection average

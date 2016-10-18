@@ -1,0 +1,24 @@
+127 nlang native yes
+127 clang instructions yes
+127 clang useful yes
+127 dowk complete yes
+127 nums complete yes
+127 htl instructions no
+127 htl useful yes
+127 htc instructions yes
+127 htc useful yes
+127 room instructions yes
+127 room useful yes
+127 meal instructions yes
+127 meal useful yes
+127 story-bt speech_type extemp
+127 story-bt topic Hope this call helpful to the research
+127 general native yes
+127 general dialect standard
+127 general accent Taiwan accent
+127 general background speech none
+127 general environmental noise none
+127 general gender male
+127 general age adult
+127 general intelligibility ok
+127 general connection average

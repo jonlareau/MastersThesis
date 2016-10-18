@@ -1,0 +1,26 @@
+202 nlang native yes
+202 clang instructions yes
+202 clang useful yes
+202 dowk complete yes
+202 nums complete yes
+202 htl instructions yes
+202 htl useful yes
+202 htc instructions yes
+202 htc useful yes
+202 room instructions yes
+202 room useful yes
+202 meal instructions yes
+202 meal useful yes
+202 story-bt speech_type read
+202 story-bt topic the experiment advertisement
+202 story-at speech_type read
+202 story-at topic the experiment advertisement
+202 general native yes
+202 general dialect standard
+202 general accent none
+202 general background speech none
+202 general environmental noise none
+202 general gender male
+202 general age adult
+202 general intelligibility ok
+202 general connection average

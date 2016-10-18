@@ -1,0 +1,27 @@
+31 nlang native yes
+31 clang instructions yes
+31 clang useful yes
+31 dowk complete yes
+31 nums complete no
+31 nums partial yes
+31 htl instructions yes
+31 htl useful yes
+31 htc instructions yes
+31 htc useful yes
+31 room instructions yes
+31 room useful yes
+31 meal instructions yes
+31 meal useful yes
+31 story-bt speech_type read
+31 story-bt topic reading about mark hatfield's campaign
+31 story-at speech_type read
+31 story-at topic reading men's names and the companies they own or represent
+31 general native yes
+31 general dialect standard
+31 general accent none
+31 general background speech none
+31 general environmental noise none
+31 general gender female
+31 general age adult
+31 general intelligibility ok
+31 general connection average

@@ -1,0 +1,27 @@
+118 nlang native yes
+118 clang instructions yes
+118 clang useful yes
+118 dowk complete yes
+118 nums complete no
+118 nums partial yes
+118 htl instructions yes
+118 htl useful yes
+118 htc instructions yes
+118 htc useful yes
+118 room instructions yes
+118 room useful yes
+118 meal instructions yes
+118 meal useful yes
+118 story-bt speech_type extemp
+118 story-bt topic His birthday and birth place, moving to U.S., high school, university
+118 story-at speech_type extemp
+118 story-at topic His student life with his room mate in a dormitory of university
+118 general native yes
+118 general dialect standard
+118 general accent none
+118 general background speech speech from TV
+118 general environmental noise none
+118 general gender male
+118 general age adult
+118 general intelligibility ok
+118 general connection average

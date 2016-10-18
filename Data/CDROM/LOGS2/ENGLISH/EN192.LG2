@@ -1,0 +1,26 @@
+192 nlang native yes
+192 clang instructions yes
+192 clang useful yes
+192 dowk complete yes
+192 nums complete yes
+192 htl instructions yes
+192 htl useful yes
+192 htc instructions yes
+192 htc useful yes
+192 room instructions yes
+192 room useful yes
+192 meal instructions yes
+192 meal useful yes
+192 story-bt speech_type extemp
+192 story-bt topic buying computer accessories
+192 story-at speech_type extemp
+192 story-at topic scanners
+192 general native yes
+192 general dialect standard
+192 general accent none
+192 general background speech none
+192 general environmental noise various faint noises in the background
+192 general gender male
+192 general age adult
+192 general intelligibility ok
+192 general connection average

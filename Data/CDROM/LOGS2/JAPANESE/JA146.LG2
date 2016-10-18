@@ -1,0 +1,20 @@
+146 nlang native yes
+146 clang instructions yes
+146 clang useful yes
+146 dowk complete no
+146 dowk partial yes
+146 nums complete no
+146 nums partial yes
+146 htl instructions yes
+146 htl useful yes
+146 htc instructions yes
+146 htc useful yes
+146 general native yes
+146 general dialect standard
+146 general accent none
+146 general background speech none
+146 general environmental noise none
+146 general gender male
+146 general age adult
+146 general intelligibility ok
+146 general connection average

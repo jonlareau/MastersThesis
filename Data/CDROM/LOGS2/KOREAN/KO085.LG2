@@ -1,0 +1,24 @@
+85 nlang native yes
+85 clang instructions yes
+85 clang useful yes
+85 dowk complete no
+85 dowk partial yes
+85 nums complete no
+85 nums partial yes
+85 htc instructions no
+85 htc useful yes
+85 room instructions yes
+85 room useful yes
+85 meal instructions yes
+85 meal useful yes
+85 story-bt speech_type extemp
+85 story-bt topic My hobbies and living in Ohio.
+85 general native no
+85 general dialect unknown
+85 general accent American accent
+85 general background speech none
+85 general environmental noise none
+85 general gender female
+85 general age adult
+85 general intelligibility ok
+85 general connection average

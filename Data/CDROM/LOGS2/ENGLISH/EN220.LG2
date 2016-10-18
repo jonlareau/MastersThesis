@@ -1,0 +1,24 @@
+220 nlang native yes
+220 clang instructions yes
+220 clang useful yes
+220 dowk complete no
+220 dowk partial yes
+220 nums complete no
+220 nums partial yes
+220 htl instructions yes
+220 htl useful yes
+220 htc instructions yes
+220 htc useful yes
+220 room instructions yes
+220 room useful yes
+220 meal instructions yes
+220 meal useful yes
+220 general native yes
+220 general dialect standard
+220 general accent none
+220 general background speech none
+220 general environmental noise none
+220 general gender male
+220 general age adult
+220 general intelligibility ok
+220 general connection average

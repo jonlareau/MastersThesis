@@ -1,0 +1,24 @@
+113 nlang native yes
+113 clang instructions yes
+113 clang useful yes
+113 dowk complete no
+113 dowk partial yes
+113 nums complete no
+113 nums partial yes
+113 room instructions yes
+113 room useful yes
+113 meal instructions yes
+113 meal useful yes
+113 story-bt speech_type extemp
+113 story-bt topic His Hobby:travelling He lives in Washington.
+113 story-at speech_type extemp
+113 story-at topic His two children:Jean and Josephine.
+113 general native yes
+113 general dialect canadian
+113 general accent Canadian or american
+113 general background speech none
+113 general environmental noise none
+113 general gender male
+113 general age adult
+113 general intelligibility ok
+113 general connection average

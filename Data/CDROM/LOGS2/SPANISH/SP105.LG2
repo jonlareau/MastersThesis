@@ -1,0 +1,27 @@
+105 nlang native yes
+105 clang instructions yes
+105 clang useful yes
+105 dowk complete yes
+105 nums complete no
+105 nums partial yes
+105 htl instructions yes
+105 htl useful yes
+105 htc instructions yes
+105 htc useful yes
+105 room instructions yes
+105 room useful yes
+105 meal instructions yes
+105 meal useful yes
+105 story-bt speech_type extemp
+105 story-bt topic Pittsburgh, Pennsylvania
+105 story-at speech_type extemp
+105 story-at topic climate in Pittsburgh
+105 general native yes
+105 general dialect Spain, but not strong (Barcelona)
+105 general accent none
+105 general background speech none
+105 general environmental noise none
+105 general gender male
+105 general age adult
+105 general intelligibility ok
+105 general connection average

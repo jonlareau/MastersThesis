@@ -1,0 +1,83 @@
+76 labeler khoward
+76 label_date Tue Dec 24 09:27:28 PST 1991
+76 nlang missing nothing
+76 nlang duration_sec 1.1
+76 nlang dc_offset 42
+76 nlang min_samp -3466
+76 nlang max_samp 5830
+76 nlang min_power10 16.6
+76 nlang max_power90 62.7
+76 clang comments CB ES  
+76 clang missing CS?
+76 clang duration_sec 1.6
+76 clang dc_offset 42
+76 clang min_samp -2346
+76 clang max_samp 3494
+76 clang min_power10 16.0
+76 clang max_power90 57.2
+76 dowk missing nothing
+76 dowk duration_sec 5.6
+76 dowk dc_offset 42
+76 dowk min_samp -2006
+76 dowk max_samp 2330
+76 dowk min_power10 15.9
+76 dowk max_power90 49.1
+76 nums missing nothing
+76 nums duration_sec 2.9
+76 nums dc_offset 42
+76 nums min_samp -2166
+76 nums max_samp 2194
+76 nums min_power10 15.7
+76 nums max_power90 53.7
+76 htl comments CE  
+76 htl missing CS
+76 htl duration_sec 8.7
+76 htl dc_offset 42
+76 htl min_samp -2202
+76 htl max_samp 3598
+76 htl min_power10 16.0
+76 htl max_power90 53.4
+76 htc comments CE  
+76 htc missing CS
+76 htc duration_sec 8.0
+76 htc dc_offset 42
+76 htc min_samp -1926
+76 htc max_samp 3590
+76 htc min_power10 16.4
+76 htc max_power90 51.7
+76 room comments BN  
+76 room missing nothing
+76 room duration_sec 11.5
+76 room dc_offset 42
+76 room min_samp -3738
+76 room max_samp 3758
+76 room min_power10 15.8
+76 room max_power90 53.3
+76 meal comments CE  
+76 meal missing CS
+76 meal duration_sec 9.1
+76 meal dc_offset 42
+76 meal min_samp -3022
+76 meal max_samp 4862
+76 meal min_power10 16.4
+76 meal max_power90 54.3
+76 story-bt comments SNL SS  
+76 story-bt missing nothing
+76 story-bt duration_sec 46.9
+76 story-bt dc_offset 42
+76 story-bt min_samp -2498
+76 story-bt max_samp 5374
+76 story-bt min_power10 14.8
+76 story-bt max_power90 52.2
+76 story-at comments SS  
+76 story-at missing nothing
+76 story-at duration_sec 2.3
+76 story-at dc_offset 42
+76 story-at min_samp -2226
+76 story-at max_samp 1902
+76 story-at min_power10 14.9
+76 story-at max_power90 52.6
+76 gender male
+76 age adult
+76 connection average
+76 intelligibility ok

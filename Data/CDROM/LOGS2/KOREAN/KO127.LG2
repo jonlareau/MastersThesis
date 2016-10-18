@@ -1,0 +1,22 @@
+127 nlang native yes
+127 clang instructions yes
+127 clang useful yes
+127 dowk complete yes
+127 nums complete yes
+127 htl instructions yes
+127 htl useful yes
+127 htc instructions yes
+127 htc useful yes
+127 room instructions yes
+127 room useful yes
+127 story-at speech_type extemp
+127 story-at topic I am a student of Pennsylvania State University...
+127 general native yes
+127 general dialect standard
+127 general accent Kyungsangbook-do dialect
+127 general background speech none
+127 general environmental noise bad phone-line quality and a sound of metal
+127 general gender male
+127 general age adult
+127 general intelligibility ok
+127 general connection average

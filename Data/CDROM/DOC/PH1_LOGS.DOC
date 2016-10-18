@@ -1,0 +1,78 @@
+
+Phase I Log File Documentation
+
+Development of MLTS corpus has been divided into two phases.  log
+files generated in Phase I (in "logs" directory) consisted of: 
+
+  (a) preliminary verification: listening to each utterance and
+	deleting prank or invalid calls (hangups);
+  (b) chopping: removing excess noise at the beginning and end of each
+	utterance;
+  (c) evaluation: making several judgments about the quality and type
+	of speech;
+  (d) broad phonetic transcriptions}: providing time-aligned broad
+	phonetic labels to a subset of the utterances.
+
+Phase II, involved: 
+
+  (a) verification and evaluation of the utterances by native speakers
+	of the individual languages,
+  (b) orthographic transcriptions of each utterance,
+
+
+Phase I tasks were carried out by trained laboratory assistants who 
+are native speakers of English. An interactive graphics program
+was used to display the waveform, play the utterance, and to
+log information into a text file.
+
+Each utterance was processed as follows:
+
+     The utterance was chopped, if necessary, to remove the excess 
+     noise and/or silence before and after the speech. Care was taken
+     to include at least 300 ms of ``silence'' before and after the
+     speech. Audible lip-smacks and breath noise were always 
+     retained.
+
+     Judgments were made about the quality and content of 
+     speech in each utterance. The listener noted the occurrence of 
+     any of the following:
+
+	(i)   American or British accents (applicable to English calls only);
+	(ii)  excessive breath noise;
+	(iii) speech cut off at the beginning;
+	(iv)  speech cut off at the end;
+	(v)   environmental noise;
+	(vi)  caller did not follow instructions;
+	(vii) caller not a native speaker;
+	(viii)read speech;
+	(ix)  spontaneous speech;
+	(x)   extraneous speech; and
+	(xi)  speech in non-native language
+
+
+A set of automatic measurements was made on the utterance.  These
+include its duration, the minimum and maximum sample values, the dc
+offset, and 10th and 90th percentile of the power (in dB) measured
+over 10 ms windows in the utterance.
+
+The ``caller not a native speaker'' comment for languages other than
+English was made only if the speaker admitted to being a non-native
+speaker in response to the ``native language'' question.  A more
+accurate determination of the number of non-native speakers in other
+languages will be made during Phase II.  ``Extraneous speech'' refers
+to background speech produced by someone other than the caller.
+
+The laboratory assistants were trained to recognize the fixed
+vocabularies in each language and were able to detect incomplete
+responses and non-standard pronunciations of the days-of-the-week and
+the numbers.
+
+In addition to these utterance-specific comments and measurements, the
+following "global" judgments were made after listening to all
+utterances of a call:
+
+	(i)   gender (male, female and unknown);
+	(ii)  age (child, adult);
+	(iii) connection quality (poor, average, good); and
+	(iv)  speaker intelligibility (poor, typical).\vspace{2mm}
+

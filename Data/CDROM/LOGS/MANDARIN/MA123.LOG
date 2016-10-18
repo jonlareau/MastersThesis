@@ -1,0 +1,86 @@
+123 labeler ames
+123 label_date Wed Mar 18 10:20:31 PST 1992
+123 nlang comments EN  
+123 nlang missing nothing
+123 nlang duration_sec 1.5
+123 nlang dc_offset 43
+123 nlang min_samp -3115
+123 nlang max_samp 4245
+123 nlang min_power10 19.8
+123 nlang max_power90 59.3
+123 clang comments EN  
+123 clang missing nothing
+123 clang duration_sec 1.5
+123 clang dc_offset 43
+123 clang min_samp -2127
+123 clang max_samp 2869
+123 clang min_power10 19.6
+123 clang max_power90 55.8
+123 dowk comments EN  
+123 dowk missing nothing
+123 dowk duration_sec 5.6
+123 dowk dc_offset 43
+123 dowk min_samp -2103
+123 dowk max_samp 2225
+123 dowk min_power10 25.7
+123 dowk max_power90 50.9
+123 nums comments EN  
+123 nums missing nothing
+123 nums duration_sec 5.9
+123 nums dc_offset 43
+123 nums min_samp -2599
+123 nums max_samp 3585
+123 nums min_power10 19.2
+123 nums max_power90 53.0
+123 htl comments BN CE EN  
+123 htl missing cs
+123 htl duration_sec 8.1
+123 htl dc_offset 43
+123 htl min_samp -2263
+123 htl max_samp 3361
+123 htl min_power10 21.1
+123 htl max_power90 52.4
+123 htc comments EN  
+123 htc missing nothing
+123 htc duration_sec 5.3
+123 htc dc_offset 43
+123 htc min_samp -2591
+123 htc max_samp 3509
+123 htc min_power10 19.1
+123 htc max_power90 55.6
+123 room comments BN CE EN ES  
+123 room missing cs
+123 room duration_sec 9.4
+123 room dc_offset 43
+123 room min_samp -2931
+123 room max_samp 3609
+123 room min_power10 21.7
+123 room max_power90 53.1
+123 meal comments EN  
+123 meal missing nothing
+123 meal duration_sec 4.8
+123 meal dc_offset 43
+123 meal min_samp -3735
+123 meal max_samp 3609
+123 meal min_power10 19.6
+123 meal max_power90 52.5
+123 story-bt comments CE EN SS ES  
+123 story-bt missing cs
+123 story-bt duration_sec 48.9
+123 story-bt dc_offset 43
+123 story-bt min_samp -3443
+123 story-bt max_samp 4245
+123 story-bt min_power10 20.2
+123 story-bt max_power90 52.5
+123 story-at comments CB CE EN SS  
+123 story-at missing cs
+123 story-at duration_sec 9.4
+123 story-at dc_offset 43
+123 story-at min_samp -2875
+123 story-at max_samp 3893
+123 story-at min_power10 18.7
+123 story-at max_power90 49.3
+123 gender female
+123 age adult
+123 connection average
+123 intelligibility ok

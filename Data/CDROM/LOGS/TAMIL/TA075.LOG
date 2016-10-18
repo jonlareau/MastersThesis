@@ -1,0 +1,61 @@
+75 labeler khoward
+75 label_date Thu Dec 26 14:30:43 PST 1991
+75 nlang missing nothing
+75 nlang duration_sec 1.0
+75 nlang dc_offset 42
+75 nlang min_samp -3570
+75 nlang max_samp 3878
+75 nlang min_power10 12.3
+75 nlang max_power90 60.8
+75 clang comments ES  
+75 clang missing nothing
+75 clang duration_sec 1.6
+75 clang dc_offset 42
+75 clang min_samp -3426
+75 clang max_samp 3974
+75 clang min_power10 12.4
+75 clang max_power90 59.2
+75 dowk comments CE  
+75 dowk missing Friday Saturday?
+75 dowk duration_sec 6.4
+75 dowk dc_offset 42
+75 dowk min_samp -3182
+75 dowk max_samp 4074
+75 dowk min_power10 12.7
+75 dowk max_power90 58.1
+75 nums comments CE  
+75 nums missing 9 10
+75 nums duration_sec 9.1
+75 nums dc_offset 42
+75 nums min_samp -4746
+75 nums max_samp 4334
+75 nums min_power10 13.5
+75 nums max_power90 60.1
+75 htl comments BN CE  
+75 htl missing CS
+75 htl duration_sec 7.9
+75 htl dc_offset 42
+75 htl min_samp -5362
+75 htl max_samp 5474
+75 htl min_power10 15.8
+75 htl max_power90 60.6
+75 htc comments CE  
+75 htc missing CS
+75 htc duration_sec 7.8
+75 htc dc_offset 42
+75 htc min_samp -3926
+75 htc max_samp 4538
+75 htc min_power10 17.6
+75 htc max_power90 60.0
+75 room comments CE  
+75 room missing CS
+75 room duration_sec 3.1
+75 room dc_offset 42
+75 room min_samp -3646
+75 room max_samp 4190
+75 room min_power10 13.4
+75 room max_power90 61.4
+75 gender male
+75 age adult
+75 connection average
+75 intelligibility ok

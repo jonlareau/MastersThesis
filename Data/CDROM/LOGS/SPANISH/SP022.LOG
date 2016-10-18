@@ -1,0 +1,82 @@
+22 labeler khoward
+22 label_date Mon Aug  5 10:25:56 PDT 1991
+22 nlang missing nothing
+22 nlang duration_sec 1.2
+22 nlang dc_offset 42
+22 nlang min_samp -1606
+22 nlang max_samp 1134
+22 nlang min_power10 16.2
+22 nlang max_power90 43.8
+22 clang missing nothing
+22 clang duration_sec 1.1
+22 clang dc_offset 42
+22 clang min_samp -570
+22 clang max_samp 582
+22 clang min_power10 16.7
+22 clang max_power90 42.2
+22 dowk comments CE EN  
+22 dowk missing Sunday
+22 dowk duration_sec 6.8
+22 dowk dc_offset 42
+22 dowk min_samp -822
+22 dowk max_samp 1282
+22 dowk min_power10 16.4
+22 dowk max_power90 42.7
+22 nums missing nothing
+22 nums duration_sec 9.6
+22 nums dc_offset 42
+22 nums min_samp -1366
+22 nums max_samp 1746
+22 nums min_power10 16.1
+22 nums max_power90 43.7
+22 htl comments CE  
+22 htl missing CS
+22 htl duration_sec 7.0
+22 htl dc_offset 42
+22 htl min_samp -1022
+22 htl max_samp 1030
+22 htl min_power10 18.0
+22 htl max_power90 46.3
+22 htc missing nothing
+22 htc duration_sec 8.1
+22 htc dc_offset 42
+22 htc min_samp -1190
+22 htc max_samp 1222
+22 htc min_power10 17.4
+22 htc max_power90 44.6
+22 room comments CE  
+22 room missing CS
+22 room duration_sec 11.0
+22 room dc_offset 42
+22 room min_samp -678
+22 room max_samp 614
+22 room min_power10 16.7
+22 room max_power90 41.1
+22 meal comments SNL  
+22 meal missing nothing
+22 meal duration_sec 9.1
+22 meal dc_offset 42
+22 meal min_samp -642
+22 meal max_samp 614
+22 meal min_power10 16.3
+22 meal max_power90 40.1
+22 story-bt comments CE SS  
+22 story-bt missing CS
+22 story-bt duration_sec 47.9
+22 story-bt dc_offset 42
+22 story-bt min_samp -1306
+22 story-bt max_samp 1058
+22 story-bt min_power10 16.4
+22 story-bt max_power90 41.9
+22 story-at comments SS  
+22 story-at missing nothing
+22 story-at duration_sec 5.3
+22 story-at dc_offset 42
+22 story-at min_samp -942
+22 story-at max_samp 1094
+22 story-at min_power10 16.0
+22 story-at max_power90 41.1
+22 gender male
+22 age adult
+22 connection average
+22 intelligibility ok

@@ -1,0 +1,82 @@
+70 labeler khoward
+70 label_date Tue Dec 24 13:36:26 PST 1991
+70 nlang missing nothing
+70 nlang duration_sec 1.1
+70 nlang dc_offset 42
+70 nlang min_samp -5882
+70 nlang max_samp 9262
+70 nlang min_power10 22.9
+70 nlang max_power90 62.2
+70 clang comments ES  
+70 clang missing nothing
+70 clang duration_sec 1.6
+70 clang dc_offset 42
+70 clang min_samp -8878
+70 clang max_samp 10222
+70 clang min_power10 23.4
+70 clang max_power90 61.6
+70 dowk missing nothing
+70 dowk duration_sec 7.4
+70 dowk dc_offset 42
+70 dowk min_samp -10350
+70 dowk max_samp 14086
+70 dowk min_power10 23.5
+70 dowk max_power90 60.8
+70 nums comments CE  
+70 nums missing 9 10
+70 nums duration_sec 9.1
+70 nums dc_offset 42
+70 nums min_samp -10818
+70 nums max_samp 11734
+70 nums min_power10 23.4
+70 nums max_power90 61.4
+70 htl comments CE  
+70 htl missing CS
+70 htl duration_sec 8.2
+70 htl dc_offset 42
+70 htl min_samp -9214
+70 htl max_samp 10294
+70 htl min_power10 24.4
+70 htl max_power90 63.0
+70 htc comments CE  
+70 htc missing CS
+70 htc duration_sec 8.7
+70 htc dc_offset 42
+70 htc min_samp -15142
+70 htc max_samp 20182
+70 htc min_power10 23.9
+70 htc max_power90 64.3
+70 room missing nothing
+70 room duration_sec 4.4
+70 room dc_offset 42
+70 room min_samp -9366
+70 room max_samp 13726
+70 room min_power10 25.7
+70 room max_power90 65.3
+70 meal missing nothing
+70 meal duration_sec 7.4
+70 meal dc_offset 42
+70 meal min_samp -7734
+70 meal max_samp 11222
+70 meal min_power10 24.4
+70 meal max_power90 62.1
+70 story-bt comments SNL SS  
+70 story-bt missing nothing
+70 story-bt duration_sec 47.6
+70 story-bt dc_offset 42
+70 story-bt min_samp -13930
+70 story-bt max_samp 15310
+70 story-bt min_power10 24.4
+70 story-bt max_power90 63.6
+70 story-at comments SS  
+70 story-at missing nothing
+70 story-at duration_sec 6.6
+70 story-at dc_offset 42
+70 story-at min_samp -11590
+70 story-at max_samp 12198
+70 story-at min_power10 24.0
+70 story-at max_power90 62.5
+70 gender male
+70 age adult
+70 connection average
+70 intelligibility ok

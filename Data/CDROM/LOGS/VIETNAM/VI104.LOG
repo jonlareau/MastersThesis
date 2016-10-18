@@ -1,0 +1,82 @@
+104 labeler khoward
+104 label_date Mon Jan 20 11:10:52 PST 1992
+104 nlang missing nothing
+104 nlang duration_sec 1.2
+104 nlang dc_offset 43
+104 nlang min_samp -1119
+104 nlang max_samp 1145
+104 nlang min_power10 17.4
+104 nlang max_power90 50.0
+104 clang missing nothing
+104 clang duration_sec 0.9
+104 clang dc_offset 43
+104 clang min_samp -1135
+104 clang max_samp 1101
+104 clang min_power10 15.5
+104 clang max_power90 48.6
+104 dowk missing nothing
+104 dowk duration_sec 6.7
+104 dowk dc_offset 43
+104 dowk min_samp -1691
+104 dowk max_samp 1345
+104 dowk min_power10 15.8
+104 dowk max_power90 47.0
+104 nums comments EN SNL  
+104 nums missing nothing
+104 nums duration_sec 7.8
+104 nums dc_offset 43
+104 nums min_samp -1403
+104 nums max_samp 1117
+104 nums min_power10 16.1
+104 nums max_power90 46.6
+104 htl missing nothing
+104 htl duration_sec 8.2
+104 htl dc_offset 43
+104 htl min_samp -675
+104 htl max_samp 961
+104 htl min_power10 15.7
+104 htl max_power90 38.7
+104 htc comments EN  
+104 htc missing nothing
+104 htc duration_sec 9.1
+104 htc dc_offset 43
+104 htc min_samp -1183
+104 htc max_samp 1009
+104 htc min_power10 16.5
+104 htc max_power90 45.9
+104 room comments EN
+104 room missing nothing
+104 room duration_sec 11.1
+104 room dc_offset 43
+104 room min_samp -1487
+104 room max_samp 1101
+104 room min_power10 17.2
+104 room max_power90 46.0
+104 meal comments CE EN SNL  
+104 meal missing CS
+104 meal duration_sec 9.7
+104 meal dc_offset 43
+104 meal min_samp -767
+104 meal max_samp 905
+104 meal min_power10 17.5
+104 meal max_power90 45.2
+104 story-bt comments CE EN SS  
+104 story-bt missing CS
+104 story-bt duration_sec 44.2
+104 story-bt dc_offset 43
+104 story-bt min_samp -823
+104 story-bt max_samp 933
+104 story-bt min_power10 15.6
+104 story-bt max_power90 42.2
+104 story-at comments SS  
+104 story-at missing nothing
+104 story-at duration_sec 7.2
+104 story-at dc_offset 43
+104 story-at min_samp -667
+104 story-at max_samp 645
+104 story-at min_power10 14.7
+104 story-at max_power90 40.5
+104 gender female
+104 age adult
+104 connection average
+104 intelligibility ok

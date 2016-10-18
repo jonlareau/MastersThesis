@@ -1,0 +1,82 @@
+11 labeler khoward
+11 label_date Thu Aug  8 09:40:27 PDT 1991
+11 nlang missing nothing
+11 nlang duration_sec 0.7
+11 nlang dc_offset 42
+11 nlang min_samp -5782
+11 nlang max_samp 6034
+11 nlang min_power10 19.1
+11 nlang max_power90 61.4
+11 clang missing nothing
+11 clang duration_sec 0.7
+11 clang dc_offset 42
+11 clang min_samp -4166
+11 clang max_samp 3750
+11 clang min_power10 22.7
+11 clang max_power90 60.4
+11 dowk comments EN  
+11 dowk missing nothing
+11 dowk duration_sec 5.2
+11 dowk dc_offset 42
+11 dowk min_samp -7738
+11 dowk max_samp 6046
+11 dowk min_power10 19.8
+11 dowk max_power90 58.0
+11 nums missing nothing
+11 nums duration_sec 7.6
+11 nums dc_offset 42
+11 nums min_samp -5582
+11 nums max_samp 6094
+11 nums min_power10 19.3
+11 nums max_power90 58.4
+11 htl comments CE
+11 htl missing CS
+11 htl duration_sec 8.3
+11 htl dc_offset 42
+11 htl min_samp -3202
+11 htl max_samp 3014
+11 htl min_power10 22.9
+11 htl max_power90 55.2
+11 htc missing nothing
+11 htc duration_sec 9.2
+11 htc dc_offset 42
+11 htc min_samp -4614
+11 htc max_samp 3958
+11 htc min_power10 23.2
+11 htc max_power90 52.4
+11 room comments CE EN  
+11 room missing CS
+11 room duration_sec 11.0
+11 room dc_offset 42
+11 room min_samp -4758
+11 room max_samp 5410
+11 room min_power10 23.9
+11 room max_power90 55.7
+11 meal comments CE EN  
+11 meal missing CS
+11 meal duration_sec 9.4
+11 meal dc_offset 42
+11 meal min_samp -4458
+11 meal max_samp 4030
+11 meal min_power10 19.0
+11 meal max_power90 54.7
+11 story-bt comments CE EN SS  
+11 story-bt missing CS
+11 story-bt duration_sec 48.5
+11 story-bt dc_offset 42
+11 story-bt min_samp -5830
+11 story-bt max_samp 5122
+11 story-bt min_power10 23.5
+11 story-bt max_power90 54.5
+11 story-at comments CB CE EN SS  
+11 story-at missing CS
+11 story-at duration_sec 9.5
+11 story-at dc_offset 42
+11 story-at min_samp -6030
+11 story-at max_samp 4046
+11 story-at min_power10 20.6
+11 story-at max_power90 52.8
+11 gender female
+11 age adult
+11 connection good
+11 intelligibility ok

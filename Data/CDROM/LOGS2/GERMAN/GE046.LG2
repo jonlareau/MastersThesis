@@ -1,0 +1,27 @@
+46 nlang native yes
+46 clang instructions yes
+46 clang useful yes
+46 dowk complete yes
+46 nums complete no
+46 nums partial yes
+46 htl instructions yes
+46 htl useful yes
+46 htc instructions yes
+46 htc useful yes
+46 room instructions yes
+46 room useful yes
+46 meal instructions yes
+46 meal useful yes
+46 story-bt speech_type extemp
+46 story-bt topic starting her last semester of studies
+46 story-at speech_type extemp
+46 story-at topic it took her eight years
+46 general native yes
+46 general dialect standard
+46 general accent none
+46 general background speech none
+46 general environmental noise none
+46 general gender female
+46 general age adult
+46 general intelligibility ok
+46 general connection average

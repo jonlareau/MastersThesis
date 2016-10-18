@@ -1,0 +1,80 @@
+11 labeler khoward
+11 label_date Wed Jul 10 11:49:16 PDT 1991
+11 nlang missing nothing
+11 nlang duration_sec 1.0
+11 nlang dc_offset 42
+11 nlang min_samp -3118
+11 nlang max_samp 4574
+11 nlang min_power10 14.9
+11 nlang max_power90 56.4
+11 clang missing nothing
+11 clang duration_sec 1.4
+11 clang dc_offset 42
+11 clang min_samp -3198
+11 clang max_samp 2510
+11 clang min_power10 15.3
+11 clang max_power90 51.5
+11 dowk comments CE  
+11 dowk missing Wednesday Thursday Friday Saturday?
+11 dowk duration_sec 5.8
+11 dowk dc_offset 42
+11 dowk min_samp -1878
+11 dowk max_samp 2926
+11 dowk min_power10 14.5
+11 dowk max_power90 49.8
+11 nums comments CE  
+11 nums missing 7 8 9 10?
+11 nums duration_sec 9.6
+11 nums dc_offset 42
+11 nums min_samp -3350
+11 nums max_samp 6070
+11 nums min_power10 13.9
+11 nums max_power90 45.1
+11 htl comments CE  
+11 htl missing CS
+11 htl duration_sec 8.0
+11 htl dc_offset 42
+11 htl min_samp -1658
+11 htl max_samp 1978
+11 htl min_power10 14.6
+11 htl max_power90 48.9
+11 htc missing nothing
+11 htc duration_sec 3.9
+11 htc dc_offset 42
+11 htc min_samp -1842
+11 htc max_samp 2542
+11 htc min_power10 15.4
+11 htc max_power90 53.3
+11 room missing nothing
+11 room duration_sec 8.0
+11 room dc_offset 42
+11 room min_samp -2758
+11 room max_samp 2990
+11 room min_power10 15.3
+11 room max_power90 49.5
+11 meal missing nothing
+11 meal duration_sec 2.7
+11 meal dc_offset 42
+11 meal min_samp -2026
+11 meal max_samp 2854
+11 meal min_power10 15.3
+11 meal max_power90 49.8
+11 story-bt comments SS  
+11 story-bt missing nothing
+11 story-bt duration_sec 36.5
+11 story-bt dc_offset 42
+11 story-bt min_samp -1594
+11 story-bt max_samp 1682
+11 story-bt min_power10 14.8
+11 story-bt max_power90 47.2
+11 story-at missing nothing
+11 story-at duration_sec 2.9
+11 story-at dc_offset 42
+11 story-at min_samp -1798
+11 story-at max_samp 1394
+11 story-at min_power10 15.6
+11 story-at max_power90 49.3
+11 gender male
+11 age adult
+11 connection average
+11 intelligibility ok

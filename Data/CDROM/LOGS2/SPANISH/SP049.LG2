@@ -1,0 +1,26 @@
+49 nlang native yes
+49 clang instructions yes
+49 clang useful yes
+49 dowk complete yes
+49 nums complete yes
+49 htl instructions yes
+49 htl useful yes
+49 htc instructions yes
+49 htc useful yes
+49 room instructions yes
+49 room useful yes
+49 meal instructions yes
+49 meal useful yes
+49 story-bt speech_type extemp
+49 story-bt topic the city he lives in, in New Jersey
+49 story-at speech_type extemp
+49 story-at topic he likes the city
+49 general native yes
+49 general dialect standard
+49 general accent none
+49 general background speech none
+49 general environmental noise none
+49 general gender male
+49 general age adult
+49 general intelligibility ok
+49 general connection poor

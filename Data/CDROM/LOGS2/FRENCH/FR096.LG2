@@ -1,0 +1,26 @@
+96 nlang native yes
+96 clang instructions yes
+96 clang useful yes
+96 dowk complete yes
+96 nums complete yes
+96 htl instructions yes
+96 htl useful yes
+96 htc instructions yes
+96 htc useful yes
+96 room instructions yes
+96 room useful yes
+96 meal instructions yes
+96 meal useful yes
+96 story-bt speech_type read
+96 story-bt topic Preface of the Harraps Shorter Dictionary.
+96 story-at speech_type read
+96 story-at topic End of 1st topic:preface of the Harraps Shorter Dictionnary.
+96 general native yes
+96 general dialect standard
+96 general accent none
+96 general background speech none
+96 general environmental noise none
+96 general gender male
+96 general age adult
+96 general intelligibility ok
+96 general connection average

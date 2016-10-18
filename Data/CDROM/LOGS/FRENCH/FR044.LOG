@@ -1,0 +1,84 @@
+44 labeler khoward
+44 label_date Mon Aug 26 15:50:31 PDT 1991
+44 nlang comments EN ES  
+44 nlang missing nothing
+44 nlang duration_sec 2.2
+44 nlang dc_offset 43
+44 nlang min_samp -3635
+44 nlang max_samp 4261
+44 nlang min_power10 24.6
+44 nlang max_power90 58.5
+44 clang missing nothing
+44 clang duration_sec 2.4
+44 clang dc_offset 43
+44 clang min_samp -8223
+44 clang max_samp 8545
+44 clang min_power10 24.5
+44 clang max_power90 60.6
+44 dowk comments CB  
+44 dowk missing Sunday?
+44 dowk duration_sec 4.5
+44 dowk dc_offset 43
+44 dowk min_samp -5507
+44 dowk max_samp 7649
+44 dowk min_power10 26.8
+44 dowk max_power90 58.8
+44 nums comments CE  
+44 nums missing 10
+44 nums duration_sec 9.1
+44 nums dc_offset 42
+44 nums min_samp -5618
+44 nums max_samp 6470
+44 nums min_power10 24.1
+44 nums max_power90 56.1
+44 htl comments CE  
+44 htl missing CS
+44 htl duration_sec 8.3
+44 htl dc_offset 43
+44 htl min_samp -4135
+44 htl max_samp 3329
+44 htl min_power10 25.6
+44 htl max_power90 56.7
+44 htc comments CE  
+44 htc missing CS
+44 htc duration_sec 5.2
+44 htc dc_offset 43
+44 htc min_samp -3471
+44 htc max_samp 3629
+44 htc min_power10 25.4
+44 htc max_power90 55.3
+44 room comments CE  
+44 room missing CS
+44 room duration_sec 10.8
+44 room dc_offset 43
+44 room min_samp -3551
+44 room max_samp 4041
+44 room min_power10 25.1
+44 room max_power90 57.6
+44 meal missing nothing
+44 meal duration_sec 8.3
+44 meal dc_offset 43
+44 meal min_samp -3367
+44 meal max_samp 3789
+44 meal min_power10 25.1
+44 meal max_power90 54.9
+44 story-bt comments CE EN SS  
+44 story-bt missing CS
+44 story-bt duration_sec 48.5
+44 story-bt dc_offset 43
+44 story-bt min_samp -6307
+44 story-bt max_samp 5761
+44 story-bt min_power10 24.5
+44 story-bt max_power90 57.9
+44 story-at comments CB SS  
+44 story-at missing CS
+44 story-at duration_sec 4.6
+44 story-at dc_offset 43
+44 story-at min_samp -6175
+44 story-at max_samp 6989
+44 story-at min_power10 24.7
+44 story-at max_power90 59.6
+44 gender male
+44 age adult
+44 connection poor
+44 intelligibility ok

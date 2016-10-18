@@ -1,0 +1,78 @@
+124 labeler ames
+124 label_date Wed Mar 18 10:32:06 PST 1992
+124 nlang comments EN  
+124 nlang missing nothing
+124 nlang duration_sec 0.9
+124 nlang dc_offset 43
+124 nlang min_samp -3119
+124 nlang max_samp 2401
+124 nlang min_power10 18.2
+124 nlang max_power90 58.8
+124 clang comments EN  
+124 clang missing nothing
+124 clang duration_sec 2.0
+124 clang dc_offset 43
+124 clang min_samp -3751
+124 clang max_samp 2545
+124 clang min_power10 18.1
+124 clang max_power90 58.5
+124 dowk comments CE EN  
+124 dowk missing saturday sunday
+124 dowk duration_sec 4.3
+124 dowk dc_offset 43
+124 dowk min_samp -2151
+124 dowk max_samp 2329
+124 dowk min_power10 24.5
+124 dowk max_power90 50.4
+124 nums comments CB EN  
+124 nums missing 0
+124 nums duration_sec 6.9
+124 nums dc_offset 43
+124 nums min_samp -3503
+124 nums max_samp 4685
+124 nums min_power10 15.0
+124 nums max_power90 54.6
+124 htl comments CE EN ES  
+124 htl missing cs
+124 htl duration_sec 8.6
+124 htl dc_offset 43
+124 htl min_samp -3847
+124 htl max_samp 4461
+124 htl min_power10 15.2
+124 htl max_power90 57.6
+124 htc comments EN  
+124 htc missing nothing
+124 htc duration_sec 9.5
+124 htc dc_offset 43
+124 htc min_samp -3735
+124 htc max_samp 3901
+124 htc min_power10 14.8
+124 htc max_power90 55.4
+124 room comments EN SNL  
+124 room missing nothing
+124 room duration_sec 10.2
+124 room dc_offset 43
+124 room min_samp -5171
+124 room max_samp 3485
+124 room min_power10 15.9
+124 room max_power90 55.4
+124 meal comments EN SNL  
+124 meal missing nothing
+124 meal duration_sec 8.7
+124 meal dc_offset 43
+124 meal min_samp -3307
+124 meal max_samp 2905
+124 meal min_power10 15.3
+124 meal max_power90 56.0
+124 story-bt comments EN SS ES SNL  
+124 story-bt missing nothing
+124 story-bt duration_sec 47.8
+124 story-bt dc_offset 43
+124 story-bt min_samp -6031
+124 story-bt max_samp 4141
+124 story-bt min_power10 15.3
+124 story-bt max_power90 55.1
+124 gender female
+124 age adult
+124 connection average
+124 intelligibility ok

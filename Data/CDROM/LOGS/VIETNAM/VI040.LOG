@@ -1,0 +1,84 @@
+40 labeler khoward
+40 label_date Wed Aug 28 10:03:38 PDT 1991
+40 nlang missing nothing
+40 nlang duration_sec 0.8
+40 nlang dc_offset 42
+40 nlang min_samp -1894
+40 nlang max_samp 1942
+40 nlang min_power10 17.7
+40 nlang max_power90 51.1
+40 clang comments ES
+40 clang missing nothing
+40 clang duration_sec 1.8
+40 clang dc_offset 42
+40 clang min_samp -1934
+40 clang max_samp 1930
+40 clang min_power10 18.6
+40 clang max_power90 53.0
+40 dowk comments EN  
+40 dowk missing nothing
+40 dowk duration_sec 3.5
+40 dowk dc_offset 42
+40 dowk min_samp -2894
+40 dowk max_samp 3510
+40 dowk min_power10 20.7
+40 dowk max_power90 53.7
+40 nums missing nothing
+40 nums duration_sec 3.0
+40 nums dc_offset 42
+40 nums min_samp -2258
+40 nums max_samp 2258
+40 nums min_power10 19.5
+40 nums max_power90 52.8
+40 htl comments BN  
+40 htl missing nothing
+40 htl duration_sec 3.3
+40 htl dc_offset 42
+40 htl min_samp -1430
+40 htl max_samp 1314
+40 htl min_power10 20.4
+40 htl max_power90 52.3
+40 htc comments SNL  
+40 htc missing nothing
+40 htc duration_sec 4.1
+40 htc dc_offset 42
+40 htc min_samp -3254
+40 htc max_samp 3170
+40 htc min_power10 18.1
+40 htc max_power90 54.7
+40 room comments SNL  
+40 room missing nothing
+40 room duration_sec 10.2
+40 room dc_offset 42
+40 room min_samp -3478
+40 room max_samp 2994
+40 room min_power10 18.2
+40 room max_power90 54.0
+40 meal comments BN SNL  
+40 meal missing nothing
+40 meal duration_sec 7.7
+40 meal dc_offset 42
+40 meal min_samp -1734
+40 meal max_samp 1530
+40 meal min_power10 19.0
+40 meal max_power90 51.0
+40 story-bt comments CE SNL SS  
+40 story-bt missing CS
+40 story-bt duration_sec 49.3
+40 story-bt dc_offset 42
+40 story-bt min_samp -3758
+40 story-bt max_samp 3734
+40 story-bt min_power10 19.4
+40 story-bt max_power90 52.7
+40 story-at comments BN SS  
+40 story-at missing nothing
+40 story-at duration_sec 2.0
+40 story-at dc_offset 42
+40 story-at min_samp -2534
+40 story-at max_samp 2178
+40 story-at min_power10 18.8
+40 story-at max_power90 53.8
+40 gender male
+40 age adult
+40 connection average
+40 intelligibility ok

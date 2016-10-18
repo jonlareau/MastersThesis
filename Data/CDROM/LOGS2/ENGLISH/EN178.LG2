@@ -1,0 +1,26 @@
+178 nlang native yes
+178 clang instructions yes
+178 clang useful yes
+178 dowk complete yes
+178 nums complete yes
+178 htl instructions yes
+178 htl useful yes
+178 htc instructions yes
+178 htc useful yes
+178 room instructions yes
+178 room useful yes
+178 meal instructions yes
+178 meal useful yes
+178 story-bt speech_type extemp
+178 story-bt topic 
+178 story-at speech_type extemp
+178 story-at topic forth of July weekend
+178 general native yes
+178 general dialect standard
+178 general accent none
+178 general background speech none
+178 general environmental noise none
+178 general gender female
+178 general age adult
+178 general intelligibility ok
+178 general connection average

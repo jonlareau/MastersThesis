@@ -1,0 +1,27 @@
+142 nlang native yes
+142 clang instructions yes
+142 clang useful yes
+142 dowk complete no
+142 dowk partial yes
+142 nums complete yes
+142 htl instructions yes
+142 htl useful yes
+142 htc instructions yes
+142 htc useful yes
+142 room instructions yes
+142 room useful yes
+142 meal instructions yes
+142 meal useful yes
+142 story-bt speech_type extemp
+142 story-bt topic His favourite valley ball on the beach
+142 story-at speech_type extemp
+142 story-at topic His favourite valley ball on the beach
+142 general native yes
+142 general dialect standard
+142 general accent none
+142 general background speech none
+142 general environmental noise none
+142 general gender male
+142 general age adult
+142 general intelligibility ok
+142 general connection average

@@ -1,0 +1,26 @@
+217 nlang native yes
+217 clang instructions yes
+217 clang useful yes
+217 dowk complete yes
+217 nums complete yes
+217 htl instructions yes
+217 htl useful yes
+217 htc instructions yes
+217 htc useful yes
+217 room instructions yes
+217 room useful yes
+217 meal instructions yes
+217 meal useful yes
+217 story-bt speech_type extemp
+217 story-bt topic describes an article on digital audio tapes
+217 story-at speech_type extemp
+217 story-at topic that is all he has time for
+217 general native yes
+217 general dialect standard
+217 general accent none
+217 general background speech none
+217 general environmental noise none
+217 general gender male
+217 general age adult
+217 general intelligibility ok
+217 general connection average

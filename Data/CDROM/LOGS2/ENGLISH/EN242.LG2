@@ -1,0 +1,27 @@
+242 nlang native yes
+242 clang instructions yes
+242 clang useful yes
+242 dowk complete yes
+242 nums complete no
+242 nums partial yes
+242 htl instructions yes
+242 htl useful yes
+242 htc instructions yes
+242 htc useful yes
+242 room instructions yes
+242 room useful yes
+242 meal instructions yes
+242 meal useful yes
+242 story-bt speech_type extemp
+242 story-bt topic story of an adopted boy
+242 story-at speech_type extemp
+242 story-at topic wants to be an actor
+242 general native yes
+242 general dialect standard
+242 general accent none
+242 general background speech none
+242 general environmental noise none
+242 general gender female
+242 general age adult
+242 general intelligibility ok
+242 general connection average

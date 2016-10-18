@@ -1,0 +1,25 @@
+73 nlang native yes
+73 clang instructions yes
+73 clang useful yes
+73 dowk complete no
+73 dowk partial yes
+73 nums complete yes
+73 htl instructions yes
+73 htl useful yes
+73 htc instructions yes
+73 htc useful yes
+73 room instructions yes
+73 room useful yes
+73 meal instructions yes
+73 meal useful yes
+73 story-bt speech_type extemp
+73 story-bt topic Like weather here.
+73 general native yes
+73 general dialect standard
+73 general accent none
+73 general background speech none
+73 general environmental noise none
+73 general gender female
+73 general age adult
+73 general intelligibility ok
+73 general connection average

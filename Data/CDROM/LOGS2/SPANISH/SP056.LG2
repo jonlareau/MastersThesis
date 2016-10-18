@@ -1,0 +1,26 @@
+56 nlang native yes
+56 clang instructions yes
+56 clang useful yes
+56 dowk complete yes
+56 nums complete yes
+56 htl instructions yes
+56 htl useful yes
+56 htc instructions yes
+56 htc useful yes
+56 room instructions yes
+56 room useful yes
+56 meal instructions yes
+56 meal useful yes
+56 story-bt speech_type extemp
+56 story-bt topic studies, how she likes it in the U.S.
+56 story-at speech_type extemp
+56 story-at topic she is happy to be in the U.S.
+56 general native yes
+56 general dialect Mexican
+56 general accent none
+56 general background speech none
+56 general environmental noise none
+56 general gender female
+56 general age adult
+56 general intelligibility ok
+56 general connection average

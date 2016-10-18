@@ -1,0 +1,86 @@
+46 labeler ames
+46 label_date Thu Nov 21 14:45:59 PST 1991
+46 nlang comments BN  
+46 nlang missing nothing
+46 nlang duration_sec 1.3
+46 nlang dc_offset 43
+46 nlang min_samp -5643
+46 nlang max_samp 6653
+46 nlang min_power10 23.3
+46 nlang max_power90 66.1
+46 clang comments BN  
+46 clang missing nothing
+46 clang duration_sec 1.8
+46 clang dc_offset 43
+46 clang min_samp -5375
+46 clang max_samp 7881
+46 clang min_power10 23.3
+46 clang max_power90 67.5
+46 dowk comments BN  
+46 dowk missing nothing
+46 dowk duration_sec 5.2
+46 dowk dc_offset 43
+46 dowk min_samp -5403
+46 dowk max_samp 7905
+46 dowk min_power10 29.6
+46 dowk max_power90 65.9
+46 nums comments BN  
+46 nums missing nothing
+46 nums duration_sec 6.3
+46 nums dc_offset 43
+46 nums min_samp -6079
+46 nums max_samp 8129
+46 nums min_power10 23.7
+46 nums max_power90 64.0
+46 htl comments BN CE ES  
+46 htl missing cs
+46 htl duration_sec 7.2
+46 htl dc_offset 43
+46 htl min_samp -5099
+46 htl max_samp 6133
+46 htl min_power10 26.3
+46 htl max_power90 61.5
+46 htc comments BN CE ES  
+46 htc missing cs
+46 htc duration_sec 8.2
+46 htc dc_offset 43
+46 htc min_samp -5419
+46 htc max_samp 5981
+46 htc min_power10 23.3
+46 htc max_power90 62.7
+46 room comments BN  
+46 room missing nothing
+46 room duration_sec 3.7
+46 room dc_offset 43
+46 room min_samp -5847
+46 room max_samp 5861
+46 room min_power10 28.2
+46 room max_power90 65.7
+46 meal comments BN SNL  
+46 meal missing nothing
+46 meal duration_sec 3.5
+46 meal dc_offset 43
+46 meal min_samp -6619
+46 meal max_samp 6593
+46 meal min_power10 25.7
+46 meal max_power90 65.1
+46 story-bt comments CE EN SS ES SNL  
+46 story-bt missing cs
+46 story-bt duration_sec 26.2
+46 story-bt dc_offset 43
+46 story-bt min_samp -5383
+46 story-bt max_samp 4877
+46 story-bt min_power10 23.5
+46 story-bt max_power90 59.2
+46 story-at comments BN EN SS SNL  
+46 story-at missing nothing
+46 story-at duration_sec 3.7
+46 story-at dc_offset 43
+46 story-at min_samp -5251
+46 story-at max_samp 4177
+46 story-at min_power10 34.5
+46 story-at max_power90 61.4
+46 gender female
+46 age adult
+46 connection average
+46 intelligibility ok

@@ -1,0 +1,26 @@
+225 nlang native yes
+225 clang instructions yes
+225 clang useful yes
+225 dowk complete yes
+225 nums complete yes
+225 htl instructions yes
+225 htl useful yes
+225 htc instructions yes
+225 htc useful yes
+225 room instructions yes
+225 room useful yes
+225 meal instructions yes
+225 meal useful yes
+225 story-bt speech_type extemp
+225 story-bt topic activities during the lunch hour
+225 story-at speech_type extemp
+225 story-at topic activities during the lunch hour
+225 general native yes
+225 general dialect standard
+225 general accent none
+225 general background speech none
+225 general environmental noise none
+225 general gender male
+225 general age adult
+225 general intelligibility ok
+225 general connection average

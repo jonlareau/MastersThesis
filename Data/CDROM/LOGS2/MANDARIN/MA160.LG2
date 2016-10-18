@@ -1,0 +1,25 @@
+160 nlang native yes
+160 clang instructions yes
+160 clang useful yes
+160 dowk complete no
+160 dowk partial yes
+160 nums complete yes
+160 htl instructions no
+160 htl useful yes
+160 htc instructions yes
+160 htc useful yes
+160 room instructions yes
+160 room useful yes
+160 meal instructions yes
+160 meal useful yes
+160 story-bt speech_type extemp
+160 story-bt topic Her career and her visit to Carlifornia
+160 general native yes
+160 general dialect standard
+160 general accent none
+160 general background speech none
+160 general environmental noise line noise
+160 general gender female
+160 general age adult
+160 general intelligibility ok
+160 general connection average

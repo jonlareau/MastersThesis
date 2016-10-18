@@ -1,0 +1,26 @@
+43 nlang native yes
+43 clang instructions yes
+43 clang useful yes
+43 dowk complete no
+43 dowk partial yes
+43 nums complete no
+43 nums partial yes
+43 htl instructions yes
+43 htl useful yes
+43 htc instructions yes
+43 htc useful yes
+43 room instructions yes
+43 room useful yes
+43 meal instructions yes
+43 meal useful yes
+43 story-bt speech_type extemp
+43 story-bt topic good wishes for research project
+43 general native yes
+43 general dialect standard
+43 general accent none
+43 general background speech none
+43 general environmental noise two or three tones in background
+43 general gender male
+43 general age adult
+43 general intelligibility ok
+43 general connection average

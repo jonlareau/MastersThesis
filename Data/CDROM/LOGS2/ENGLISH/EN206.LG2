@@ -1,0 +1,27 @@
+206 nlang native yes
+206 clang instructions yes
+206 clang useful yes
+206 dowk complete yes
+206 nums complete no
+206 nums partial yes
+206 htl instructions yes
+206 htl useful yes
+206 htc instructions yes
+206 htc useful yes
+206 room instructions yes
+206 room useful yes
+206 meal instructions yes
+206 meal useful yes
+206 story-bt speech_type read
+206 story-bt topic reads section of newsgroup
+206 story-at speech_type read
+206 story-at topic reads section of newsgroup
+206 general native yes
+206 general dialect standard
+206 general accent none
+206 general background speech none
+206 general environmental noise none
+206 general gender male
+206 general age adult
+206 general intelligibility ok
+206 general connection average

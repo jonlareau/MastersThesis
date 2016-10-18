@@ -1,0 +1,26 @@
+121 nlang native yes
+121 clang instructions yes
+121 clang useful yes
+121 dowk complete yes
+121 nums complete yes
+121 htl instructions yes
+121 htl useful yes
+121 htc instructions yes
+121 htc useful yes
+121 room instructions yes
+121 room useful yes
+121 meal instructions yes
+121 meal useful yes
+121 story-bt speech_type extemp
+121 story-bt topic Her accademic career and her graduate school
+121 story-at speech_type extemp
+121 story-at topic Her favourite city, Berkley
+121 general native yes
+121 general dialect standard
+121 general accent none
+121 general background speech none
+121 general environmental noise Ham noise
+121 general gender female
+121 general age adult
+121 general intelligibility ok
+121 general connection poor

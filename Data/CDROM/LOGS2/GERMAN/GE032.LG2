@@ -1,0 +1,22 @@
+32 nlang native yes
+32 clang instructions yes
+32 clang useful yes
+32 dowk complete yes
+32 nums complete yes
+32 htl instructions yes
+32 htl useful yes
+32 htc instructions yes
+32 htc useful yes
+32 room instructions yes
+32 room useful yes
+32 meal instructions yes
+32 meal useful yes
+32 general native yes
+32 general dialect standard
+32 general accent hint of american accent
+32 general background speech none
+32 general environmental noise none
+32 general gender male
+32 general age adult
+32 general intelligibility ok
+32 general connection average

@@ -1,0 +1,70 @@
+28 labeler khoward
+28 label_date Thu Aug  8 14:01:39 PDT 1991
+28 dowk comments CB  
+28 dowk missing Monday Tuesday
+28 dowk duration_sec 4.9
+28 dowk dc_offset 42
+28 dowk min_samp -1338
+28 dowk max_samp 1986
+28 dowk min_power10 19.5
+28 dowk max_power90 50.2
+28 nums comments CB CE  
+28 nums missing 0 10
+28 nums duration_sec 9.8
+28 nums dc_offset 42
+28 nums min_samp -2110
+28 nums max_samp 2798
+28 nums min_power10 10.9
+28 nums max_power90 52.7
+28 htl comments CE  
+28 htl missing CS
+28 htl duration_sec 7.8
+28 htl dc_offset 42
+28 htl min_samp -2018
+28 htl max_samp 2562
+28 htl min_power10 22.4
+28 htl max_power90 53.0
+28 htc comments CB CE  
+28 htc missing CS
+28 htc duration_sec 9.8
+28 htc dc_offset 42
+28 htc min_samp -1790
+28 htc max_samp 2226
+28 htc min_power10 14.4
+28 htc max_power90 53.9
+28 room comments CB CE  
+28 room missing CS
+28 room duration_sec 10.0
+28 room dc_offset 42
+28 room min_samp -1726
+28 room max_samp 2178
+28 room min_power10 17.0
+28 room max_power90 54.2
+28 meal comments CB  
+28 meal missing CS
+28 meal duration_sec 8.8
+28 meal dc_offset 42
+28 meal min_samp -1902
+28 meal max_samp 2846
+28 meal min_power10 12.4
+28 meal max_power90 52.2
+28 story-bt comments CE SS SNL  
+28 story-bt missing CS
+28 story-bt duration_sec 49.4
+28 story-bt dc_offset 42
+28 story-bt min_samp -2182
+28 story-bt max_samp 3042
+28 story-bt min_power10 19.1
+28 story-bt max_power90 53.0
+28 story-at comments BN CE SS  
+28 story-at missing CS
+28 story-at duration_sec 8.1
+28 story-at dc_offset 42
+28 story-at min_samp -2494
+28 story-at max_samp 2886
+28 story-at min_power10 20.6
+28 story-at max_power90 56.5
+28 gender male
+28 age adult
+28 connection average
+28 intelligibility ok

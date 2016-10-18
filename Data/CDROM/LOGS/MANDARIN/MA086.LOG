@@ -1,0 +1,58 @@
+86 labeler khoward
+86 label_date Tue Dec 24 14:17:41 PST 1991
+86 nlang missing nothing
+86 nlang duration_sec 0.8
+86 nlang dc_offset 43
+86 nlang min_samp -2763
+86 nlang max_samp 3969
+86 nlang min_power10 14.9
+86 nlang max_power90 58.1
+86 nums missing nothing
+86 nums duration_sec 5.7
+86 nums dc_offset 43
+86 nums min_samp -1475
+86 nums max_samp 2317
+86 nums min_power10 15.7
+86 nums max_power90 49.2
+86 htc missing nothing
+86 htc duration_sec 1.6
+86 htc dc_offset 43
+86 htc min_samp -3123
+86 htc max_samp 2685
+86 htc min_power10 15.4
+86 htc max_power90 51.7
+86 room comments BN EN  
+86 room missing nothing
+86 room duration_sec 10.7
+86 room dc_offset 43
+86 room min_samp -3023
+86 room max_samp 3333
+86 room min_power10 15.1
+86 room max_power90 47.6
+86 meal missing nothing
+86 meal duration_sec 7.5
+86 meal dc_offset 43
+86 meal min_samp -2395
+86 meal max_samp 2501
+86 meal min_power10 15.4
+86 meal max_power90 48.6
+86 story-bt comments CE SS  
+86 story-bt missing CS
+86 story-bt duration_sec 45.5
+86 story-bt dc_offset 43
+86 story-bt min_samp -2107
+86 story-bt max_samp 2445
+86 story-bt min_power10 15.4
+86 story-bt max_power90 42.3
+86 story-at comments SS
+86 story-at missing nothing
+86 story-at duration_sec 7.9
+86 story-at dc_offset 43
+86 story-at min_samp -711
+86 story-at max_samp 1045
+86 story-at min_power10 15.1
+86 story-at max_power90 42.3
+86 gender female
+86 age adult
+86 connection average
+86 intelligibility ok

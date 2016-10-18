@@ -1,0 +1,78 @@
+59 labeler ames
+59 label_date Mon Nov 25 14:41:23 PST 1991
+59 nlang comments EN  
+59 nlang missing nothing
+59 nlang duration_sec 0.9
+59 nlang dc_offset 43
+59 nlang min_samp -3583
+59 nlang max_samp 3637
+59 nlang min_power10 15.8
+59 nlang max_power90 58.9
+59 dowk comments BN  
+59 dowk missing nothing
+59 dowk duration_sec 6.7
+59 dowk dc_offset 43
+59 dowk min_samp -10455
+59 dowk max_samp 6157
+59 dowk min_power10 17.5
+59 dowk max_power90 63.9
+59 nums comments CE  
+59 nums missing 10
+59 nums duration_sec 9.2
+59 nums dc_offset 43
+59 nums min_samp -6423
+59 nums max_samp 7333
+59 nums min_power10 16.8
+59 nums max_power90 58.0
+59 htl comments BN CE  
+59 htl missing cs
+59 htl duration_sec 8.7
+59 htl dc_offset 43
+59 htl min_samp -4355
+59 htl max_samp 4349
+59 htl min_power10 19.9
+59 htl max_power90 55.3
+59 htc comments ES SNL  
+59 htc missing nothing
+59 htc duration_sec 5.6
+59 htc dc_offset 43
+59 htc min_samp -6151
+59 htc max_samp 4773
+59 htc min_power10 17.2
+59 htc max_power90 59.0
+59 room comments BN CE EN ES  
+59 room missing cs
+59 room duration_sec 10.8
+59 room dc_offset 42
+59 room min_samp -4974
+59 room max_samp 3770
+59 room min_power10 17.9
+59 room max_power90 54.7
+59 meal comments EN  
+59 meal missing nothing
+59 meal duration_sec 5.1
+59 meal dc_offset 43
+59 meal min_samp -4923
+59 meal max_samp 4069
+59 meal min_power10 16.7
+59 meal max_power90 56.5
+59 story-bt comments CE SS ES  
+59 story-bt missing cs
+59 story-bt duration_sec 48.1
+59 story-bt dc_offset 43
+59 story-bt min_samp -6151
+59 story-bt max_samp 7509
+59 story-bt min_power10 19.2
+59 story-bt max_power90 54.5
+59 story-at comments CE SS ES  
+59 story-at missing cs
+59 story-at duration_sec 9.3
+59 story-at dc_offset 43
+59 story-at min_samp -5183
+59 story-at max_samp 4989
+59 story-at min_power10 19.0
+59 story-at max_power90 57.6
+59 gender female
+59 age adult
+59 connection good
+59 intelligibility ok

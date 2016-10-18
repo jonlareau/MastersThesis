@@ -1,0 +1,82 @@
+92 labeler khoward
+92 label_date Fri Jan  3 08:51:21 PST 1992
+92 nlang missing nothing
+92 nlang duration_sec 1.1
+92 nlang dc_offset 43
+92 nlang min_samp -3199
+92 nlang max_samp 2545
+92 nlang min_power10 21.5
+92 nlang max_power90 55.6
+92 clang comments SNL  
+92 clang missing nothing
+92 clang duration_sec 1.0
+92 clang dc_offset 43
+92 clang min_samp -2775
+92 clang max_samp 2917
+92 clang min_power10 21.8
+92 clang max_power90 45.8
+92 dowk missing nothing
+92 dowk duration_sec 5.8
+92 dowk dc_offset 43
+92 dowk min_samp -3767
+92 dowk max_samp 3157
+92 dowk min_power10 21.9
+92 dowk max_power90 51.6
+92 nums comments CE  
+92 nums missing 9 10
+92 nums duration_sec 8.7
+92 nums dc_offset 43
+92 nums min_samp -5279
+92 nums max_samp 3949
+92 nums min_power10 21.5
+92 nums max_power90 50.3
+92 htl missing nothing
+92 htl duration_sec 8.0
+92 htl dc_offset 43
+92 htl min_samp -6823
+92 htl max_samp 7933
+92 htl min_power10 21.4
+92 htl max_power90 51.3
+92 htc missing nothing
+92 htc duration_sec 8.7
+92 htc dc_offset 43
+92 htc min_samp -3735
+92 htc max_samp 3789
+92 htc min_power10 21.5
+92 htc max_power90 51.4
+92 room comments SNL  
+92 room missing nothing
+92 room duration_sec 10.8
+92 room dc_offset 43
+92 room min_samp -3587
+92 room max_samp 4049
+92 room min_power10 22.1
+92 room max_power90 51.2
+92 meal comments SNL  
+92 meal missing nothing
+92 meal duration_sec 3.3
+92 meal dc_offset 43
+92 meal min_samp -2163
+92 meal max_samp 1805
+92 meal min_power10 21.5
+92 meal max_power90 48.4
+92 story-bt comments EN CE RS  
+92 story-bt missing CS
+92 story-bt duration_sec 47.5
+92 story-bt dc_offset 43
+92 story-bt min_samp -3839
+92 story-bt max_samp 4765
+92 story-bt min_power10 23.2
+92 story-bt max_power90 51.7
+92 story-at comments CB CE RS EN  
+92 story-at missing CS
+92 story-at duration_sec 8.2
+92 story-at dc_offset 43
+92 story-at min_samp -2503
+92 story-at max_samp 2781
+92 story-at min_power10 23.5
+92 story-at max_power90 47.8
+92 gender male
+92 age adult
+92 connection average
+92 intelligibility ok

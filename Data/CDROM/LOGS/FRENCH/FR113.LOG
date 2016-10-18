@@ -1,0 +1,67 @@
+113 labeler khoward
+113 label_date Sat Jan 25 16:26:53 PST 1992
+113 nlang missing nothing
+113 nlang duration_sec 1.4
+113 nlang dc_offset 43
+113 nlang min_samp -1895
+113 nlang max_samp 1677
+113 nlang min_power10 16.6
+113 nlang max_power90 46.4
+113 clang missing nothing
+113 clang duration_sec 1.2
+113 clang dc_offset 43
+113 clang min_samp -1743
+113 clang max_samp 1517
+113 clang min_power10 16.7
+113 clang max_power90 48.2
+113 dowk comments CE  
+113 dowk missing Friday Saturday
+113 dowk duration_sec 6.8
+113 dowk dc_offset 43
+113 dowk min_samp -1035
+113 dowk max_samp 977
+113 dowk min_power10 16.8
+113 dowk max_power90 40.7
+113 nums comments CE
+113 nums missing 10
+113 nums duration_sec 9.1
+113 nums dc_offset 43
+113 nums min_samp -2067
+113 nums max_samp 1821
+113 nums min_power10 16.5
+113 nums max_power90 43.7
+113 room comments CE  
+113 room missing CS
+113 room duration_sec 10.8
+113 room dc_offset 43
+113 room min_samp -1471
+113 room max_samp 961
+113 room min_power10 17.7
+113 room max_power90 41.2
+113 meal missing nothing
+113 meal duration_sec 3.3
+113 meal dc_offset 43
+113 meal min_samp -1323
+113 meal max_samp 1221
+113 meal min_power10 16.8
+113 meal max_power90 41.6
+113 story-bt comments BN CE SS SNL  
+113 story-bt missing CS
+113 story-bt duration_sec 49.1
+113 story-bt dc_offset 43
+113 story-bt min_samp -1375
+113 story-bt max_samp 1765
+113 story-bt min_power10 17.0
+113 story-bt max_power90 40.3
+113 story-at comments CE SS  
+113 story-at missing CS
+113 story-at duration_sec 9.1
+113 story-at dc_offset 43
+113 story-at min_samp -1623
+113 story-at max_samp 1001
+113 story-at min_power10 17.9
+113 story-at max_power90 42.6
+113 gender male
+113 age adult
+113 connection average
+113 intelligibility ok

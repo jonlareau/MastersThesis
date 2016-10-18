@@ -1,0 +1,86 @@
+6 labeler khoward
+6 label_date Wed Jul 10 10:19:40 PDT 1991
+6 nlang comments BN EN  
+6 nlang missing nothing
+6 nlang duration_sec 0.6
+6 nlang dc_offset 42
+6 nlang min_samp -5094
+6 nlang max_samp 4218
+6 nlang min_power10 33.1
+6 nlang max_power90 63.5
+6 clang comments BN  
+6 clang missing nothing
+6 clang duration_sec 0.7
+6 clang dc_offset 42
+6 clang min_samp -7046
+6 clang max_samp 7070
+6 clang min_power10 40.4
+6 clang max_power90 65.2
+6 dowk comments BN  
+6 dowk missing nothing
+6 dowk duration_sec 5.4
+6 dowk dc_offset 42
+6 dowk min_samp -8582
+6 dowk max_samp 7510
+6 dowk min_power10 24.7
+6 dowk max_power90 66.4
+6 nums comments BN  
+6 nums missing nothing
+6 nums duration_sec 8.4
+6 nums dc_offset 42
+6 nums min_samp -7606
+6 nums max_samp 5638
+6 nums min_power10 21.4
+6 nums max_power90 63.4
+6 htl comments BN  
+6 htl missing nothing
+6 htl duration_sec 1.2
+6 htl dc_offset 42
+6 htl min_samp -5002
+6 htl max_samp 4994
+6 htl min_power10 23.9
+6 htl max_power90 65.6
+6 htc comments BN  
+6 htc missing nothing
+6 htc duration_sec 0.9
+6 htc dc_offset 42
+6 htc min_samp -9374
+6 htc max_samp 8498
+6 htc min_power10 36.7
+6 htc max_power90 68.8
+6 room comments BN  
+6 room missing nothing
+6 room duration_sec 5.6
+6 room dc_offset 42
+6 room min_samp -8774
+6 room max_samp 7542
+6 room min_power10 34.7
+6 room max_power90 65.2
+6 meal comments BN  
+6 meal missing nothing
+6 meal duration_sec 3.3
+6 meal dc_offset 42
+6 meal min_samp -10454
+6 meal max_samp 6742
+6 meal min_power10 31.7
+6 meal max_power90 65.7
+6 story-bt comments BN CE RS  
+6 story-bt missing CS
+6 story-bt duration_sec 50.0
+6 story-bt dc_offset 42
+6 story-bt min_samp -18574
+6 story-bt max_samp 15694
+6 story-bt min_power10 27.5
+6 story-bt max_power90 63.7
+6 story-at comments BN CB CE RS  
+6 story-at missing CS
+6 story-at duration_sec 9.7
+6 story-at dc_offset 42
+6 story-at min_samp -16158
+6 story-at max_samp 16302
+6 story-at min_power10 28.2
+6 story-at max_power90 62.4
+6 gender female
+6 age adult
+6 connection poor
+6 intelligibility ok

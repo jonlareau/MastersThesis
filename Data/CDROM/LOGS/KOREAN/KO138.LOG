@@ -1,0 +1,72 @@
+138 labeler khoward
+138 label_date Fri Jun 12 08:38:26 PDT 1992
+138 nlang missing nothing
+138 nlang duration_sec 1.3
+138 nlang dc_offset 42
+138 nlang min_samp -986
+138 nlang max_samp 2094
+138 nlang min_power10 18.3
+138 nlang max_power90 45.7
+138 clang missing nothing
+138 clang duration_sec 1.2
+138 clang dc_offset 42
+138 clang min_samp -918
+138 clang max_samp 898
+138 clang min_power10 16.4
+138 clang max_power90 46.4
+138 dowk comments ES
+138 dowk missing Sunday twice?
+138 dowk duration_sec 3.0
+138 dowk dc_offset 42
+138 dowk min_samp -1354
+138 dowk max_samp 1022
+138 dowk min_power10 17.4
+138 dowk max_power90 46.9
+138 nums missing nothing
+138 nums duration_sec 3.8
+138 nums dc_offset 42
+138 nums min_samp -1574
+138 nums max_samp 1422
+138 nums min_power10 16.1
+138 nums max_power90 46.6
+138 htl comments CE  
+138 htl missing CS
+138 htl duration_sec 7.1
+138 htl dc_offset 42
+138 htl min_samp -1114
+138 htl max_samp 1078
+138 htl min_power10 16.2
+138 htl max_power90 43.8
+138 htc missing nothing
+138 htc duration_sec 8.0
+138 htc dc_offset 42
+138 htc min_samp -754
+138 htc max_samp 1098
+138 htc min_power10 16.1
+138 htc max_power90 42.6
+138 room missing nothing
+138 room duration_sec 10.4
+138 room dc_offset 42
+138 room min_samp -1250
+138 room max_samp 1438
+138 room min_power10 16.0
+138 room max_power90 43.2
+138 meal missing nothing
+138 meal duration_sec 5.9
+138 meal dc_offset 42
+138 meal min_samp -710
+138 meal max_samp 946
+138 meal min_power10 15.6
+138 meal max_power90 41.9
+138 story-bt comments CE SS  
+138 story-bt missing CS
+138 story-bt duration_sec 48.6
+138 story-bt dc_offset 42
+138 story-bt min_samp -1182
+138 story-bt max_samp 1090
+138 story-bt min_power10 15.5
+138 story-bt max_power90 40.1
+138 gender male
+138 age adult
+138 connection average
+138 intelligibility ok

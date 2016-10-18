@@ -1,0 +1,23 @@
+106 nlang native yes
+106 clang instructions yes
+106 clang useful yes
+106 dowk complete no
+106 dowk partial yes
+106 nums complete yes
+106 htc instructions yes
+106 htc useful yes
+106 room instructions yes
+106 room useful yes
+106 meal instructions yes
+106 meal useful yes
+106 story-bt speech_type extemp
+106 story-bt topic description of his job and how to go to work
+106 general native yes
+106 general dialect standard
+106 general accent none
+106 general background speech none
+106 general environmental noise slight line noise
+106 general gender male
+106 general age adult
+106 general intelligibility ok
+106 general connection average

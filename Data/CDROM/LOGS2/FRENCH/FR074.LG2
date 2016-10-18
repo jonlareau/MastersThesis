@@ -1,0 +1,26 @@
+74 nlang native yes
+74 clang instructions yes
+74 clang useful yes
+74 dowk complete yes
+74 nums complete yes
+74 htl instructions yes
+74 htl useful yes
+74 htc instructions yes
+74 htc useful yes
+74 room instructions yes
+74 room useful yes
+74 meal instructions yes
+74 meal useful yes
+74 story-bt speech_type extemp
+74 story-bt topic His researches  in data-processing
+74 story-at speech_type extemp
+74 story-at topic incomprehensible
+74 general native yes
+74 general dialect canadian
+74 general accent canadian
+74 general background speech none
+74 general environmental noise none
+74 general gender male
+74 general age adult
+74 general intelligibility ok
+74 general connection average

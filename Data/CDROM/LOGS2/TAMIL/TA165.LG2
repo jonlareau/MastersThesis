@@ -1,0 +1,24 @@
+165 nlang native yes
+165 clang instructions yes
+165 clang useful yes
+165 dowk complete yes
+165 nums complete yes
+165 htl instructions yes
+165 htl useful yes
+165 htc instructions yes
+165 htc useful yes
+165 room instructions yes
+165 room useful yes
+165 meal instructions no
+165 meal useful no
+165 story-bt speech_type extemp
+165 story-bt topic he could have answered the questions better if the prompter had been clearer and slower
+165 general native yes
+165 general dialect mix of spoken and written Tamil
+165 general accent none
+165 general background speech none
+165 general environmental noise line noise, very strong for meal
+165 general gender male
+165 general age adult
+165 general intelligibility ok
+165 general connection average

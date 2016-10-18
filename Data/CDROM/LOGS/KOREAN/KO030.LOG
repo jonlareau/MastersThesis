@@ -1,0 +1,62 @@
+30 labeler ames
+30 label_date Wed Sep  4 10:22:50 PDT 1991
+30 dowk comments BN  
+30 dowk missing friday, saturday 
+30 dowk duration_sec 6.2
+30 dowk dc_offset 42
+30 dowk min_samp -5710
+30 dowk max_samp 9486
+30 dowk min_power10 15.3
+30 dowk max_power90 67.4
+30 htl comments BN CE  
+30 htl missing cs
+30 htl duration_sec 5.7
+30 htl dc_offset 42
+30 htl min_samp -5938
+30 htl max_samp 8374
+30 htl min_power10 17.2
+30 htl max_power90 65.0
+30 htc comments BN CE  
+30 htc missing cs
+30 htc duration_sec 9.6
+30 htc dc_offset 42
+30 htc min_samp -6822
+30 htc max_samp 12110
+30 htc min_power10 15.4
+30 htc max_power90 64.9
+30 room comments BN CE ES  
+30 room missing cs
+30 room duration_sec 11.0
+30 room dc_offset 42
+30 room min_samp -8334
+30 room max_samp 11870
+30 room min_power10 16.6
+30 room max_power90 65.9
+30 meal comments BN  
+30 meal missing nothing
+30 meal duration_sec 7.5
+30 meal dc_offset 42
+30 meal min_samp -5882
+30 meal max_samp 8438
+30 meal min_power10 15.1
+30 meal max_power90 60.7
+30 story-bt comments BN CE RS  
+30 story-bt missing cs
+30 story-bt duration_sec 47.8
+30 story-bt dc_offset 42
+30 story-bt min_samp -7438
+30 story-bt max_samp 9934
+30 story-bt min_power10 17.6
+30 story-bt max_power90 64.5
+30 story-at comments BN CB RS  
+30 story-at missing cs
+30 story-at duration_sec 4.3
+30 story-at dc_offset 42
+30 story-at min_samp -7558
+30 story-at max_samp 5830
+30 story-at min_power10 15.1
+30 story-at max_power90 58.2
+30 gender female
+30 age adult
+30 connection good
+30 intelligibility ok

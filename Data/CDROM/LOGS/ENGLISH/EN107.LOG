@@ -1,0 +1,81 @@
+107 labeler khoward
+107 label_date Fri Dec 13 19:24:13 PST 1991
+107 nlang missing nothing
+107 nlang duration_sec 1.2
+107 nlang dc_offset 42
+107 nlang min_samp -2950
+107 nlang max_samp 2814
+107 nlang min_power10 15.5
+107 nlang max_power90 53.2
+107 clang missing nothing
+107 clang duration_sec 1.3
+107 clang dc_offset 42
+107 clang min_samp -2070
+107 clang max_samp 2042
+107 clang min_power10 15.7
+107 clang max_power90 50.0
+107 dowk missing nothing
+107 dowk duration_sec 7.5
+107 dowk dc_offset 42
+107 dowk min_samp -2090
+107 dowk max_samp 1890
+107 dowk min_power10 15.7
+107 dowk max_power90 48.6
+107 nums comments CE  
+107 nums missing 9 10
+107 nums duration_sec 9.4
+107 nums dc_offset 42
+107 nums min_samp -1106
+107 nums max_samp 1374
+107 nums min_power10 15.5
+107 nums max_power90 45.6
+107 htl missing nothing
+107 htl duration_sec 4.5
+107 htl dc_offset 42
+107 htl min_samp -1254
+107 htl max_samp 1314
+107 htl min_power10 16.4
+107 htl max_power90 47.7
+107 htc comments CE  
+107 htc missing CS
+107 htc duration_sec 6.0
+107 htc dc_offset 42
+107 htc min_samp -1278
+107 htc max_samp 1482
+107 htc min_power10 16.4
+107 htc max_power90 45.4
+107 room comments CE  
+107 room missing CS
+107 room duration_sec 10.4
+107 room dc_offset 42
+107 room min_samp -2010
+107 room max_samp 1938
+107 room min_power10 15.2
+107 room max_power90 48.7
+107 meal missing nothing
+107 meal duration_sec 2.1
+107 meal dc_offset 42
+107 meal min_samp -1738
+107 meal max_samp 1406
+107 meal min_power10 16.9
+107 meal max_power90 47.5
+107 story-bt comments CE SS  
+107 story-bt missing CS
+107 story-bt duration_sec 48.9
+107 story-bt dc_offset 42
+107 story-bt min_samp -1722
+107 story-bt max_samp 1298
+107 story-bt min_power10 16.1
+107 story-bt max_power90 44.5
+107 story-at comments SS  
+107 story-at missing nothing
+107 story-at duration_sec 9.1
+107 story-at dc_offset 42
+107 story-at min_samp -954
+107 story-at max_samp 1222
+107 story-at min_power10 15.8
+107 story-at max_power90 43.2
+107 gender male
+107 age adult
+107 connection average
+107 intelligibility ok

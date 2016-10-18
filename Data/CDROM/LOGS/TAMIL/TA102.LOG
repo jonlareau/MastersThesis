@@ -1,0 +1,78 @@
+102 labeler ames
+102 label_date Wed Mar 18 09:21:00 PST 1992
+102 nlang comments EN  
+102 nlang missing nothing
+102 nlang duration_sec 0.7
+102 nlang dc_offset 42
+102 nlang min_samp -3014
+102 nlang max_samp 4222
+102 nlang min_power10 21.1
+102 nlang max_power90 61.5
+102 dowk comments EN  
+102 dowk missing nothing
+102 dowk duration_sec 5.0
+102 dowk dc_offset 42
+102 dowk min_samp -4714
+102 dowk max_samp 6878
+102 dowk min_power10 26.0
+102 dowk max_power90 62.7
+102 nums comments EN  
+102 nums missing 0
+102 nums duration_sec 5.6
+102 nums dc_offset 42
+102 nums min_samp -3850
+102 nums max_samp 5538
+102 nums min_power10 24.8
+102 nums max_power90 61.0
+102 htl comments EN ES  
+102 htl missing nothing
+102 htl duration_sec 6.8
+102 htl dc_offset 42
+102 htl min_samp -5330
+102 htl max_samp 7422
+102 htl min_power10 24.2
+102 htl max_power90 61.8
+102 htc comments CE EN ES  
+102 htc missing cs
+102 htc duration_sec 7.4
+102 htc dc_offset 42
+102 htc min_samp -6294
+102 htc max_samp 8598
+102 htc min_power10 25.4
+102 htc max_power90 64.4
+102 room comments CE EN ES SNL  
+102 room missing cs
+102 room duration_sec 8.7
+102 room dc_offset 42
+102 room min_samp -7470
+102 room max_samp 11446
+102 room min_power10 24.1
+102 room max_power90 64.6
+102 meal comments CE EN ES  
+102 meal missing nothing; may be SNL
+102 meal duration_sec 9.6
+102 meal dc_offset 42
+102 meal min_samp -6722
+102 meal max_samp 8566
+102 meal min_power10 24.8
+102 meal max_power90 64.2
+102 story-bt comments CE EN SS ES SNL  
+102 story-bt missing cs
+102 story-bt duration_sec 48.2
+102 story-bt dc_offset 42
+102 story-bt min_samp -6870
+102 story-bt max_samp 8918
+102 story-bt min_power10 23.6
+102 story-bt max_power90 61.0
+102 story-at comments CB EN SS  
+102 story-at missing cs
+102 story-at duration_sec 3.8
+102 story-at dc_offset 42
+102 story-at min_samp -5046
+102 story-at max_samp 6714
+102 story-at min_power10 23.0
+102 story-at max_power90 62.6
+102 gender male
+102 age adult
+102 connection average
+102 intelligibility ok

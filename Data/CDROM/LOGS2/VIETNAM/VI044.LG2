@@ -1,0 +1,26 @@
+44 nlang native yes
+44 clang instructions yes
+44 clang useful yes
+44 dowk complete yes
+44 nums complete yes
+44 htl instructions yes
+44 htl useful yes
+44 htc instructions yes
+44 htc useful yes
+44 room instructions yes
+44 room useful yes
+44 meal instructions yes
+44 meal useful yes
+44 story-bt speech_type extemp
+44 story-bt topic art
+44 story-at speech_type read
+44 story-at topic poem
+44 general native yes
+44 general dialect standard
+44 general accent none
+44 general background speech none
+44 general environmental noise none
+44 general gender female
+44 general age adult
+44 general intelligibility ok
+44 general connection average

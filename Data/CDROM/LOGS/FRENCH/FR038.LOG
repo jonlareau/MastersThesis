@@ -1,0 +1,83 @@
+38 labeler khoward
+38 label_date Thu Aug  8 11:36:03 PDT 1991
+38 nlang missing nothing
+38 nlang duration_sec 1.2
+38 nlang dc_offset 42
+38 nlang min_samp -598
+38 nlang max_samp 978
+38 nlang min_power10 15.2
+38 nlang max_power90 35.8
+38 clang missing nothing
+38 clang duration_sec 1.5
+38 clang dc_offset 42
+38 clang min_samp -774
+38 clang max_samp 802
+38 clang min_power10 16.7
+38 clang max_power90 35.9
+38 dowk comments BN  
+38 dowk missing nothing
+38 dowk duration_sec 6.0
+38 dowk dc_offset 42
+38 dowk min_samp -626
+38 dowk max_samp 1038
+38 dowk min_power10 15.9
+38 dowk max_power90 35.2
+38 nums comments EN  
+38 nums missing nothing
+38 nums duration_sec 9.2
+38 nums dc_offset 42
+38 nums min_samp -834
+38 nums max_samp 1746
+38 nums min_power10 15.3
+38 nums max_power90 29.6
+38 htl comments EN  
+38 htl missing nothing
+38 htl duration_sec 7.0
+38 htl dc_offset 42
+38 htl min_samp -1202
+38 htl max_samp 1314
+38 htl min_power10 16.3
+38 htl max_power90 38.9
+38 htc comments BN EN  
+38 htc missing nothing
+38 htc duration_sec 8.4
+38 htc dc_offset 42
+38 htc min_samp -2014
+38 htc max_samp 2506
+38 htc min_power10 15.5
+38 htc max_power90 41.8
+38 room missing nothing
+38 room duration_sec 8.9
+38 room dc_offset 42
+38 room min_samp -1450
+38 room max_samp 1570
+38 room min_power10 16.0
+38 room max_power90 42.8
+38 meal comments EN  
+38 meal missing nothing
+38 meal duration_sec 3.9
+38 meal dc_offset 42
+38 meal min_samp -914
+38 meal max_samp 1186
+38 meal min_power10 15.9
+38 meal max_power90 38.1
+38 story-bt comments EN SS  
+38 story-bt missing nothing
+38 story-bt duration_sec 46.8
+38 story-bt dc_offset 42
+38 story-bt min_samp -1930
+38 story-bt max_samp 1846
+38 story-bt min_power10 16.1
+38 story-bt max_power90 36.5
+38 story-at comments CB CE EN SS  
+38 story-at missing CS
+38 story-at duration_sec 9.6
+38 story-at dc_offset 42
+38 story-at min_samp -918
+38 story-at max_samp 946
+38 story-at min_power10 15.9
+38 story-at max_power90 32.0
+38 gender male
+38 age adult
+38 connection poor
+38 intelligibility poor

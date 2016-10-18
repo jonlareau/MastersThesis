@@ -1,0 +1,28 @@
+58 nlang native yes
+58 clang instructions yes
+58 clang useful yes
+58 dowk complete no
+58 dowk partial yes
+58 nums complete no
+58 nums partial yes
+58 htl instructions yes
+58 htl useful yes
+58 htc instructions yes
+58 htc useful yes
+58 room instructions yes
+58 room useful yes
+58 meal instructions yes
+58 meal useful yes
+58 story-bt speech_type extemp
+58 story-bt topic Her profession:psychologist and astrologer
+58 story-at speech_type extemp
+58 story-at topic End of first topic;how does she uses astrology in her job:psychologist
+58 general native yes
+58 general dialect standard
+58 general accent none
+58 general background speech none
+58 general environmental noise none
+58 general gender female
+58 general age adult
+58 general intelligibility ok
+58 general connection average

@@ -1,0 +1,24 @@
+149 nlang native yes
+149 clang instructions yes
+149 clang useful yes
+149 dowk complete yes
+149 nums complete yes
+149 htl instructions no
+149 htl useful yes
+149 htc instructions yes
+149 htc useful yes
+149 room instructions no
+149 room useful yes
+149 meal instructions yes
+149 meal useful yes
+149 story-bt speech_type extemp
+149 story-bt topic He is interested in speech recognition
+149 general native yes
+149 general dialect standard
+149 general accent none
+149 general background speech none
+149 general environmental noise none
+149 general gender male
+149 general age adult
+149 general intelligibility ok
+149 general connection average

@@ -1,0 +1,35 @@
+#!/bin/sh
+
+echo "!!!!!    This program erases the current distribution    !!!!!"
+echo -n "               Do you want to continue? [n] "
+read ans
+if [ ! "$ans" = "y" ] ; then
+    echo "Aborting"
+fi
+
+echo "Removing the bin files"
+rm -f bin/*
+
+echo "Removing the include dirs	"
+rm -fr include/*
+
+echo "Removing the doc files"
+rm -f doc/*.doc doc/*.rdm doc/*.txt doc/man/man?/*
+
+echo "Removing the src/progs dir"
+rm -fr src/progs
+echo "Removing the src/lib_fcns dir"
+rm -fr src/lib_fcns
+
+echo "Removing the src/scripts scripts"
+scr=`find src/scripts -type f -print | grep -v gen_make | grep -v rm_distr | grep -v install`
+rm -fr $scr
+
+echo "Removing the lib files"
+lib=`find lib -type f -print | egrep -v 'make' `
+dirs=`find lib -type d -print | grep -v make  | grep -v '^lib$'`
+rm -fr $lib $dirs
+
+echo "Removing the main make file"
+rm -f Makefile src/Makefile
+

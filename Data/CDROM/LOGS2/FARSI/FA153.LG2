@@ -1,0 +1,26 @@
+153 nlang native yes
+153 clang instructions yes
+153 clang useful yes
+153 dowk complete yes
+153 nums complete yes
+153 htl instructions yes
+153 htl useful yes
+153 htc instructions yes
+153 htc useful yes
+153 room instructions yes
+153 room useful yes
+153 meal instructions yes
+153 meal useful yes
+153 story-bt speech_type extemp
+153 story-bt topic what I've done yesterday & today
+153 story-at speech_type extemp
+153 story-at topic that's all
+153 general native yes
+153 general dialect standard
+153 general accent none
+153 general background speech none
+153 general environmental noise none
+153 general gender male
+153 general age adult
+153 general intelligibility ok
+153 general connection average

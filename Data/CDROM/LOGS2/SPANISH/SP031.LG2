@@ -1,0 +1,27 @@
+31 nlang native no
+31 nlang useful yes
+31 clang instructions yes
+31 clang useful yes
+31 dowk complete yes
+31 nums complete yes
+31 htl instructions yes
+31 htl useful yes
+31 htc instructions yes
+31 htc useful yes
+31 room instructions no
+31 room useful yes
+31 meal instructions yes
+31 meal useful yes
+31 story-bt speech_type extemp
+31 story-bt topic Computers
+31 story-at speech_type extemp
+31 story-at topic Soft ware, whishing good night
+31 general native yes
+31 general dialect Panama
+31 general accent none
+31 general background speech continuous speech in the background, not loud
+31 general environmental noise none
+31 general gender male
+31 general age adult
+31 general intelligibility ok
+31 general connection average

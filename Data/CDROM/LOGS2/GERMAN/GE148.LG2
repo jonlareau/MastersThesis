@@ -1,0 +1,27 @@
+148 nlang native yes
+148 clang instructions yes
+148 clang useful yes
+148 dowk complete no
+148 dowk partial yes
+148 nums complete yes
+148 htl instructions yes
+148 htl useful yes
+148 htc instructions yes
+148 htc useful yes
+148 room instructions yes
+148 room useful yes
+148 meal instructions yes
+148 meal useful yes
+148 story-bt speech_type extemp
+148 story-bt topic lifestory
+148 story-at speech_type extemp
+148 story-at topic plays music
+148 general native yes
+148 general dialect standard
+148 general accent none
+148 general background speech none
+148 general environmental noise none
+148 general gender male
+148 general age adult
+148 general intelligibility ok
+148 general connection average

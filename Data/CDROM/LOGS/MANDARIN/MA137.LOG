@@ -1,0 +1,84 @@
+137 labeler khoward
+137 label_date Mon Mar 23 10:07:25 PST 1992
+137 nlang missing nothing
+137 nlang duration_sec 1.0
+137 nlang dc_offset 43
+137 nlang min_samp -2223
+137 nlang max_samp 1541
+137 nlang min_power10 16.6
+137 nlang max_power90 53.2
+137 clang comments CE  
+137 clang missing CS
+137 clang duration_sec 1.3
+137 clang dc_offset 43
+137 clang min_samp -1435
+137 clang max_samp 1265
+137 clang min_power10 17.4
+137 clang max_power90 50.0
+137 dowk comments CE  
+137 dowk missing Friday Saturday
+137 dowk duration_sec 6.2
+137 dowk dc_offset 43
+137 dowk min_samp -2355
+137 dowk max_samp 1501
+137 dowk min_power10 16.6
+137 dowk max_power90 45.7
+137 nums comments CE  
+137 nums missing 0 10 
+137 nums duration_sec 9.9
+137 nums dc_offset 43
+137 nums min_samp -3643
+137 nums max_samp 2997
+137 nums min_power10 16.3
+137 nums max_power90 50.6
+137 htl missing nothing
+137 htl duration_sec 6.5
+137 htl dc_offset 43
+137 htl min_samp -2863
+137 htl max_samp 1813
+137 htl min_power10 18.1
+137 htl max_power90 48.8
+137 htc comments CE  
+137 htc missing CS
+137 htc duration_sec 9.9
+137 htc dc_offset 43
+137 htc min_samp -2111
+137 htc max_samp 1509
+137 htc min_power10 23.8
+137 htc max_power90 47.8
+137 room comments CE  
+137 room missing CS
+137 room duration_sec 9.1
+137 room dc_offset 43
+137 room min_samp -1647
+137 room max_samp 1197
+137 room min_power10 18.1
+137 room max_power90 48.2
+137 meal comments CE SNL  
+137 meal missing CS
+137 meal duration_sec 8.9
+137 meal dc_offset 43
+137 meal min_samp -2671
+137 meal max_samp 1789
+137 meal min_power10 19.0
+137 meal max_power90 47.5
+137 story-bt comments CE SNL SS  
+137 story-bt missing CS
+137 story-bt duration_sec 48.0
+137 story-bt dc_offset 43
+137 story-bt min_samp -3147
+137 story-bt max_samp 1713
+137 story-bt min_power10 20.4
+137 story-bt max_power90 45.6
+137 story-at comments CE SNL SS  
+137 story-at missing CS
+137 story-at duration_sec 4.9
+137 story-at dc_offset 43
+137 story-at min_samp -1979
+137 story-at max_samp 1837
+137 story-at min_power10 23.2
+137 story-at max_power90 47.1
+137 gender female
+137 age adult
+137 connection average
+137 intelligibility ok

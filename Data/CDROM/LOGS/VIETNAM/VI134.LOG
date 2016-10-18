@@ -1,0 +1,78 @@
+134 labeler ames
+134 label_date Tue May 12 09:14:55 PDT 1992
+134 nlang comments EN  
+134 nlang missing nothing
+134 nlang duration_sec 1.1
+134 nlang dc_offset 42
+134 nlang min_samp -1162
+134 nlang max_samp 1130
+134 nlang min_power10 16.6
+134 nlang max_power90 48.9
+134 clang comments EN  
+134 clang missing nothing
+134 clang duration_sec 1.1
+134 clang dc_offset 42
+134 clang min_samp -674
+134 clang max_samp 718
+134 clang min_power10 17.2
+134 clang max_power90 45.1
+134 dowk comments EN  
+134 dowk missing nothing
+134 dowk duration_sec 4.8
+134 dowk dc_offset 43
+134 dowk min_samp -1275
+134 dowk max_samp 1333
+134 dowk min_power10 18.3
+134 dowk max_power90 49.1
+134 nums comments EN  
+134 nums missing nothing
+134 nums duration_sec 6.9
+134 nums dc_offset 43
+134 nums min_samp -2891
+134 nums max_samp 2333
+134 nums min_power10 17.6
+134 nums max_power90 48.1
+134 htl comments CE EN ES  
+134 htl missing cs
+134 htl duration_sec 8.2
+134 htl dc_offset 43
+134 htl min_samp -1367
+134 htl max_samp 1357
+134 htl min_power10 17.7
+134 htl max_power90 48.4
+134 htc comments EN ES  
+134 htc missing nothing
+134 htc duration_sec 2.8
+134 htc dc_offset 43
+134 htc min_samp -1527
+134 htc max_samp 1353
+134 htc min_power10 17.6
+134 htc max_power90 47.1
+134 room comments CE EN ES  
+134 room missing cs
+134 room duration_sec 8.2
+134 room dc_offset 43
+134 room min_samp -1811
+134 room max_samp 1629
+134 room min_power10 17.5
+134 room max_power90 48.3
+134 meal comments EN ES  
+134 meal missing nothing
+134 meal duration_sec 2.7
+134 meal dc_offset 43
+134 meal min_samp -1199
+134 meal max_samp 1237
+134 meal min_power10 17.3
+134 meal max_power90 50.3
+134 story-bt comments CE EN SS ES  
+134 story-bt missing cs
+134 story-bt duration_sec 45.0
+134 story-bt dc_offset 42
+134 story-bt min_samp -1758
+134 story-bt max_samp 1590
+134 story-bt min_power10 17.5
+134 story-bt max_power90 46.8
+134 gender male
+134 age adult
+134 connection poor
+134 intelligibility ok

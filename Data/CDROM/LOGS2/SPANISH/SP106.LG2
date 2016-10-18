@@ -1,0 +1,27 @@
+106 nlang native yes
+106 clang instructions no
+106 clang useful yes
+106 dowk complete no
+106 dowk partial yes
+106 nums complete yes
+106 htl instructions yes
+106 htl useful yes
+106 htc instructions yes
+106 htc useful yes
+106 room instructions yes
+106 room useful yes
+106 meal instructions yes
+106 meal useful yes
+106 story-bt speech_type extemp
+106 story-bt topic where she lives, what she is going to do tomorrow
+106 story-at speech_type extemp
+106 story-at topic cont. plans for tomorrow
+106 general native yes
+106 general dialect Peruvian
+106 general accent none
+106 general background speech none
+106 general environmental noise none
+106 general gender female
+106 general age adult
+106 general intelligibility ok
+106 general connection average

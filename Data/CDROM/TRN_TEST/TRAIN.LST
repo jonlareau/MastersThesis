@@ -1,0 +1,500 @@
+1  en003 dow htl htc roo stb sta 	6 files
+2  en004 nlg clg dow num htl htc roo mea stb sta 	10 files
+3  en005 nlg clg dow num htl htc roo mea stb sta 	10 files
+4  en006 nlg clg dow num htl htc roo mea stb sta 	10 files
+5  en008 nlg clg dow num htl htc roo mea stb sta 	10 files
+6  en009 nlg clg dow num htl htc roo mea stb sta 	10 files
+7  en011 nlg clg dow num htl htc roo mea stb sta 	10 files
+8  en012 nlg clg dow num htl htc roo mea stb sta 	10 files
+9  en013 nlg clg dow num htl htc roo mea stb sta 	10 files
+10 en017 nlg clg dow num htl htc roo mea sta 	9 files
+11 en018 nlg clg dow num htl htc roo stb sta 	9 files
+12 en019 nlg clg dow num htl htc mea stb sta 	9 files
+13 en020 nlg clg dow htl htc roo mea stb sta 	9 files
+14 en021 nlg dow num htl mea sta 	6 files
+15 en022 clg dow num htl roo mea stb sta 	8 files
+16 en023 clg num htl htc roo mea 	6 files
+17 en024 nlg clg dow htl htc roo mea stb sta 	9 files
+18 en025 nlg dow num htl htc roo mea sta 	8 files
+19 en026 nlg clg dow htl htc roo mea sta 	8 files
+20 en027 nlg clg dow num htl htc roo stb 	8 files
+21 en028 nlg clg dow num htl htc mea stb sta 	9 files
+22 en029 nlg clg dow htl htc roo mea stb sta 	9 files
+23 en030 nlg dow num htl roo mea stb sta 	8 files
+24 en031 nlg clg dow num htl htc roo mea stb sta 	10 files
+25 en032 nlg clg dow num htl htc roo mea stb sta 	10 files
+26 en033 nlg clg dow num htl htc roo mea stb sta 	10 files
+27 en034 nlg clg dow num htl htc roo mea stb sta 	10 files
+28 en035 nlg clg dow num htl htc roo mea stb sta 	10 files
+29 en037 nlg clg dow num htl htc roo mea stb 	9 files
+30 en038 nlg clg dow num htl htc roo mea stb sta 	10 files
+31 en039 nlg clg dow num htl htc roo mea 	8 files
+32 en040 nlg clg dow num htl htc roo mea stb sta 	10 files
+33 en041 nlg clg dow num htl htc roo mea stb sta 	10 files
+34 en042 nlg clg dow num htl htc roo mea stb sta 	10 files
+35 en043 nlg clg dow num htl htc roo mea stb sta 	10 files
+36 en044 nlg clg dow num htl htc roo mea stb sta 	10 files
+37 en045 nlg clg dow num htl htc roo mea stb sta 	10 files
+38 en047 nlg clg dow num htl htc roo mea stb sta 	10 files
+39 en048 nlg clg dow num htl htc roo mea stb 	9 files
+40 en050 nlg clg dow num htl htc roo mea stb sta 	10 files
+41 en051 nlg clg dow num htl htc roo mea stb sta 	10 files
+42 en052 nlg clg dow num htl htc roo mea stb sta 	10 files
+43 en053 nlg clg dow num htl htc roo mea stb sta 	10 files
+44 en054 clg dow num htl htc roo mea stb sta 	9 files
+45 en056 nlg clg dow num htl htc roo mea stb sta 	10 files
+46 en057 nlg clg dow num htl htc roo mea stb sta 	10 files
+47 en058 nlg clg dow num htl htc roo mea stb sta 	10 files
+48 en059 nlg clg dow num htc roo mea stb sta 	9 files
+49 en060 nlg clg dow num htl htc roo mea stb sta 	10 files
+50 en061 nlg clg dow num htl htc roo mea stb sta 	10 files
+1  fa005 nlg clg dow num htl htc roo mea stb sta 	10 files
+2  fa006 nlg clg dow num htl htc roo 	7 files
+3  fa008 nlg clg dow num htl htc roo mea stb 	9 files
+4  fa009 nlg clg dow num htl htc roo mea stb sta 	10 files
+5  fa010 nlg clg dow num htl htc roo mea stb 	9 files
+6  fa012 nlg clg dow num htl htc roo mea stb sta 	10 files
+7  fa016 clg dow num htl roo stb 	6 files
+8  fa017 nlg clg dow num htl htc roo stb 	8 files
+9  fa020 nlg clg dow num htl htc roo mea stb 	9 files
+10 fa022 nlg clg dow num htl htc roo mea sta 	9 files
+11 fa024 nlg clg dow num htl htc roo mea stb sta 	10 files
+12 fa026 nlg clg dow num htl htc roo mea stb 	9 files
+13 fa027 nlg dow num htl htc roo mea stb sta 	9 files
+14 fa028 nlg clg dow num htl htc roo mea stb sta 	10 files
+15 fa029 nlg clg dow num htl htc roo mea stb sta 	10 files
+16 fa030 nlg clg dow num htl htc roo mea stb 	9 files
+17 fa031 nlg clg dow num htl htc roo mea stb 	9 files
+18 fa035 nlg clg dow num htl htc roo mea stb sta 	10 files
+19 fa036 nlg clg dow num htl htc 	6 files
+20 fa037 nlg clg dow num htl htc roo mea stb sta 	10 files
+21 fa039 nlg clg dow num htl htc mea stb 	8 files
+22 fa040 nlg clg dow num htl htc roo mea stb sta 	10 files
+23 fa041 nlg clg dow num htc roo stb 	7 files
+24 fa042 nlg clg dow num htl htc roo mea stb sta 	10 files
+25 fa043 nlg clg dow num htl htc roo mea stb 	9 files
+26 fa044 nlg clg dow num htl htc roo mea stb sta 	10 files
+27 fa045 nlg dow num htl htc roo mea stb sta 	9 files
+28 fa046 nlg clg dow num htc roo mea 	7 files
+29 fa047 nlg clg dow num htl htc roo mea stb sta 	10 files
+30 fa051 nlg clg dow num htl htc roo mea stb sta 	10 files
+31 fa052 nlg clg dow num htl htc roo mea stb sta 	10 files
+32 fa053 nlg clg dow num htl htc roo mea stb sta 	10 files
+33 fa055 nlg clg dow num htl htc roo mea stb sta 	10 files
+34 fa056 nlg clg dow num htl htc roo mea stb sta 	10 files
+35 fa059 nlg clg dow num htl htc roo mea stb 	9 files
+36 fa062 nlg clg dow num htl htc roo mea stb sta 	10 files
+37 fa063 nlg clg dow num htl htc roo mea stb sta 	10 files
+38 fa066 nlg clg dow num htl htc roo mea stb sta 	10 files
+39 fa067 nlg clg dow num htl htc roo mea stb 	9 files
+40 fa070 nlg clg dow num htl htc roo mea stb sta 	10 files
+41 fa072 nlg clg dow num htl htc roo mea stb sta 	10 files
+42 fa074 nlg clg dow num htl htc roo mea stb sta 	10 files
+43 fa077 nlg clg dow num htl htc roo stb sta 	9 files
+44 fa078 nlg clg dow num htl htc roo mea stb sta 	10 files
+45 fa082 nlg clg dow num htl htc roo stb sta 	9 files
+46 fa083 nlg clg dow num htl htc roo mea stb 	9 files
+47 fa084 nlg clg dow num htl htc roo mea stb 	9 files
+48 fa085 nlg clg dow num htl htc roo mea stb 	9 files
+49 fa086 dow num htl htc roo mea stb 	7 files
+50 fa088 nlg clg dow num htl htc roo mea stb sta 	10 files
+1  fr001 nlg clg dow num htl htc roo mea stb sta 	10 files
+2  fr002 nlg clg dow num htl htc roo mea stb 	9 files
+3  fr005 nlg clg dow num htl htc roo mea stb sta 	10 files
+4  fr006 nlg clg dow num htl htc roo mea stb sta 	10 files
+5  fr007 nlg clg dow num htl htc roo mea stb 	9 files
+6  fr009 nlg clg dow num htl htc roo mea stb 	9 files
+7  fr011 nlg clg dow num htl htc roo mea stb sta 	10 files
+8  fr012 nlg clg dow num htl htc roo mea stb sta 	10 files
+9  fr013 nlg clg dow num htl htc roo mea stb sta 	10 files
+10 fr015 nlg clg dow num htl htc roo mea stb sta 	10 files
+11 fr016 nlg clg dow num htl htc roo mea stb sta 	10 files
+12 fr017 nlg clg dow num htl htc roo mea stb sta 	10 files
+13 fr018 nlg clg dow num htl htc roo mea stb sta 	10 files
+14 fr020 nlg clg dow num htl htc roo mea stb sta 	10 files
+15 fr021 nlg clg dow num htl htc roo mea stb sta 	10 files
+16 fr022 nlg clg dow num htl htc roo mea stb 	9 files
+17 fr023 nlg clg dow num htl htc roo mea stb sta 	10 files
+18 fr025 nlg clg dow num htl htc roo mea stb sta 	10 files
+19 fr026 nlg clg dow num htl htc roo mea stb sta 	10 files
+20 fr029 nlg clg dow num htl htc roo mea stb 	9 files
+21 fr030 nlg dow num htl htc roo mea stb sta 	9 files
+22 fr032 nlg clg dow num htl htc roo mea stb sta 	10 files
+23 fr033 nlg clg dow num htl htc roo mea stb sta 	10 files
+24 fr034 nlg clg dow num htl htc roo mea stb sta 	10 files
+25 fr035 nlg clg dow num htl htc roo mea stb sta 	10 files
+26 fr037 nlg clg dow num htl htc roo mea stb sta 	10 files
+27 fr038 nlg clg dow num htl htc roo mea stb sta 	10 files
+28 fr040 nlg clg dow num htl htc roo mea stb sta 	10 files
+29 fr041 nlg clg dow num htl htc roo mea stb sta 	10 files
+30 fr042 nlg clg dow num htl htc roo mea stb sta 	10 files
+31 fr043 nlg clg dow num htl htc 	6 files
+32 fr044 nlg clg dow num htl htc roo mea stb sta 	10 files
+33 fr045 nlg clg dow num htl htc roo mea stb sta 	10 files
+34 fr046 nlg clg dow num htl htc roo mea stb sta 	10 files
+35 fr047 nlg clg dow num htl htc roo mea 	8 files
+36 fr048 nlg clg dow num htl htc roo mea stb sta 	10 files
+37 fr051 nlg clg dow num htl htc roo mea stb sta 	10 files
+38 fr052 nlg clg dow num htl htc roo mea stb sta 	10 files
+39 fr053 nlg clg dow num htl htc roo mea stb 	9 files
+40 fr055 nlg clg dow num htl htc roo mea stb sta 	10 files
+41 fr056 nlg clg dow num htl htc roo mea stb sta 	10 files
+42 fr057 nlg clg dow num htl htc 	6 files
+43 fr058 nlg clg dow num htl htc roo mea stb sta 	10 files
+44 fr059 nlg clg dow num htl htc roo mea stb sta 	10 files
+45 fr061 nlg clg dow num htl htc roo mea stb sta 	10 files
+46 fr062 nlg clg dow num htl htc roo mea stb sta 	10 files
+47 fr064 nlg clg dow num htl htc roo mea stb sta 	10 files
+48 fr065 nlg dow num htl htc roo mea stb sta 	9 files
+49 fr066 nlg clg dow num htl htc roo mea stb sta 	10 files
+50 fr067 nlg clg dow num htl htc roo mea stb sta 	10 files
+1  ge001 nlg clg dow num htl htc roo mea stb sta 	10 files
+2  ge002 nlg clg dow num htl htc roo mea stb sta 	10 files
+3  ge003 nlg clg dow num htl htc roo mea stb sta 	10 files
+4  ge004 clg dow num htl htc roo mea stb sta 	9 files
+5  ge005 nlg clg dow num htl htc roo mea stb sta 	10 files
+6  ge006 nlg clg dow num htl htc roo mea stb sta 	10 files
+7  ge007 nlg clg dow num htl htc roo mea stb sta 	10 files
+8  ge009 nlg clg dow num htl htc roo mea stb sta 	10 files
+9  ge010 nlg clg dow num htl htc roo mea stb sta 	10 files
+10 ge011 nlg clg dow num htl htc roo mea stb sta 	10 files
+11 ge012 nlg clg dow num htl htc roo mea stb 	9 files
+12 ge013 nlg clg dow num htl htc roo mea 	8 files
+13 ge014 nlg clg dow num htc stb sta 	7 files
+14 ge015 nlg clg dow num htl htc roo mea stb 	9 files
+15 ge016 nlg clg dow num htl htc roo mea stb sta 	10 files
+16 ge018 nlg clg dow num htl htc roo mea stb sta 	10 files
+17 ge019 nlg clg dow num htl htc roo mea stb sta 	10 files
+18 ge022 nlg clg dow num htl htc roo mea stb sta 	10 files
+19 ge023 clg dow num htl htc roo mea stb sta 	9 files
+20 ge024 nlg clg dow num htl htc roo mea stb sta 	10 files
+21 ge026 nlg clg dow num htl htc roo mea stb sta 	10 files
+22 ge027 nlg clg dow num htl htc roo mea stb sta 	10 files
+23 ge028 nlg clg dow num htl htc roo mea stb sta 	10 files
+24 ge031 nlg clg dow num htl htc roo mea stb sta 	10 files
+25 ge032 nlg clg dow num htl htc roo mea 	8 files
+26 ge033 nlg clg dow num htl htc roo mea stb sta 	10 files
+27 ge034 nlg clg dow num htl htc roo stb sta 	9 files
+28 ge036 nlg clg dow num htl htc roo mea stb sta 	10 files
+29 ge037 nlg clg dow num htl htc roo mea stb sta 	10 files
+30 ge038 nlg clg dow num htl htc roo mea stb sta 	10 files
+31 ge039 nlg clg dow num htl htc roo mea stb sta 	10 files
+32 ge040 nlg clg dow num htl htc roo mea stb 	9 files
+33 ge041 nlg clg dow num htl htc roo mea stb sta 	10 files
+34 ge042 nlg clg dow num htl htc roo mea stb sta 	10 files
+35 ge044 nlg clg dow num htl htc roo mea stb sta 	10 files
+36 ge045 nlg clg dow num htl htc roo mea stb sta 	10 files
+37 ge046 nlg clg dow num htl htc roo mea stb sta 	10 files
+38 ge047 nlg clg dow num htl htc roo mea stb sta 	10 files
+39 ge050 nlg clg dow num htl htc roo mea stb sta 	10 files
+40 ge051 nlg clg dow num htl htc roo mea stb sta 	10 files
+41 ge052 nlg clg dow num htl roo mea 	7 files
+42 ge053 nlg clg dow num htl htc roo mea stb sta 	10 files
+43 ge056 nlg clg dow num htl htc roo mea stb sta 	10 files
+44 ge057 nlg clg dow num htl htc roo mea stb sta 	10 files
+45 ge058 nlg clg dow num htl htc roo mea stb 	9 files
+46 ge059 nlg dow num htl htc roo mea stb sta 	9 files
+47 ge060 nlg clg dow num htl htc roo mea stb sta 	10 files
+48 ge061 nlg clg dow num htl htc roo mea stb sta 	10 files
+49 ge063 nlg num htl htc roo mea stb sta 	8 files
+50 ge068 nlg clg dow num htl htc roo mea 	8 files
+1  ja001 nlg clg dow num htl htc roo mea stb sta 	10 files
+2  ja002 nlg clg dow num htl htc roo mea stb sta 	10 files
+3  ja003 nlg clg dow num htl htc roo mea stb sta 	10 files
+4  ja006 nlg clg dow num htl htc roo mea 	8 files
+5  ja007 nlg clg dow num htl htc roo mea stb sta 	10 files
+6  ja013 nlg clg dow num htl htc roo mea stb sta 	10 files
+7  ja015 nlg clg dow num htl htc roo mea stb sta 	10 files
+8  ja017 nlg dow num htl htc roo mea stb sta 	9 files
+9  ja019 nlg clg dow num htl htc roo mea stb sta 	10 files
+10 ja020 nlg clg dow num htl htc roo mea stb sta 	10 files
+11 ja022 nlg clg dow num htl htc roo mea stb sta 	10 files
+12 ja023 nlg clg dow num htl htc roo mea stb sta 	10 files
+13 ja024 nlg clg dow num htl htc roo mea stb sta 	10 files
+14 ja025 nlg clg dow num htl htc roo stb 	8 files
+15 ja026 nlg clg dow num htl roo mea stb sta 	9 files
+16 ja027 nlg clg dow num htl roo mea stb 	8 files
+17 ja029 nlg clg dow num htl htc roo mea stb sta 	10 files
+18 ja035 nlg clg dow num htl htc roo mea stb sta 	10 files
+19 ja036 nlg clg dow num htl htc roo mea stb sta 	10 files
+20 ja037 nlg clg dow num htl htc 	6 files
+21 ja038 nlg clg dow num htl htc roo mea stb sta 	10 files
+22 ja040 nlg clg dow num htl htc roo mea stb sta 	10 files
+23 ja047 clg dow num htc roo mea stb 	7 files
+24 ja048 nlg clg dow num htl htc roo mea stb sta 	10 files
+25 ja050 nlg clg dow num htl htc roo mea stb sta 	10 files
+26 ja051 nlg clg dow num htl htc roo mea stb sta 	10 files
+27 ja053 nlg clg dow num htl htc roo mea stb sta 	10 files
+28 ja054 nlg clg num htl roo mea stb sta 	8 files
+29 ja055 nlg clg dow num htl htc roo mea stb sta 	10 files
+30 ja057 nlg clg dow num htl htc roo mea stb sta 	10 files
+31 ja058 nlg clg dow num htl htc roo mea stb sta 	10 files
+32 ja060 nlg clg dow num htl htc roo mea stb sta 	10 files
+33 ja061 nlg clg dow num htl htc roo mea stb sta 	10 files
+34 ja062 nlg clg dow num htc roo mea stb 	8 files
+35 ja065 nlg clg dow num htl htc roo mea stb sta 	10 files
+36 ja066 nlg clg dow num htl htc roo mea stb sta 	10 files
+37 ja067 nlg clg dow num htl htc roo mea stb sta 	10 files
+38 ja068 nlg clg dow num htl htc roo mea stb sta 	10 files
+39 ja069 nlg clg dow num htl htc roo mea stb 	9 files
+40 ja071 nlg clg dow num htl htc roo mea stb sta 	10 files
+41 ja072 nlg clg dow num htl htc roo mea stb sta 	10 files
+42 ja073 nlg clg dow num htl htc roo mea stb sta 	10 files
+43 ja075 clg dow num htl htc roo mea stb 	8 files
+44 ja080 nlg clg num htl htc roo mea stb sta 	9 files
+45 ja082 nlg clg dow num htl htc roo mea stb sta 	10 files
+46 ja083 nlg clg dow num htl htc roo mea stb sta 	10 files
+47 ja085 nlg clg dow num htl htc roo mea stb sta 	10 files
+48 ja086 nlg clg dow num htl htc roo mea stb sta 	10 files
+49 ja088 nlg clg dow num htl htc roo mea stb sta 	10 files
+50 ja090 nlg clg dow num mea stb sta 	7 files
+1  ko001 nlg clg dow num htl htc roo mea 	8 files
+2  ko003 clg dow num htl htc roo mea stb sta 	9 files
+3  ko004 nlg clg dow num htl htc roo mea stb sta 	10 files
+4  ko007 nlg clg dow num htl htc roo mea stb 	9 files
+5  ko009 nlg clg dow num htl htc roo mea stb 	9 files
+6  ko014 nlg clg dow num htl htc roo mea stb 	9 files
+7  ko015 nlg clg dow num htl htc roo mea stb sta 	10 files
+8  ko016 nlg clg dow num htl htc roo mea 	8 files
+9  ko017 nlg clg dow num htl htc roo mea stb sta 	10 files
+10 ko018 nlg clg dow num htl htc roo mea stb sta 	10 files
+11 ko019 nlg clg dow num htl htc roo mea stb sta 	10 files
+12 ko020 nlg clg dow num htl htc roo mea 	8 files
+13 ko022 nlg clg dow num htl htc roo mea stb sta 	10 files
+14 ko023 nlg clg dow num htl htc roo mea stb 	9 files
+15 ko024 nlg clg dow num htl htc roo mea stb 	9 files
+16 ko025 nlg clg dow num htl htc roo mea stb 	9 files
+17 ko026 nlg clg dow num htl htc roo mea stb sta 	10 files
+18 ko030 dow htl htc roo mea stb sta 	7 files
+19 ko034 clg dow num htc roo mea stb 	7 files
+20 ko035 nlg clg dow num htl htc roo mea 	8 files
+21 ko036 nlg clg dow num htl htc roo mea stb 	9 files
+22 ko037 nlg dow num htl htc roo mea stb 	8 files
+23 ko038 nlg clg dow num htc roo mea stb 	8 files
+24 ko039 nlg clg dow num htl htc roo mea stb 	9 files
+25 ko040 nlg clg dow num htl htc roo mea stb 	9 files
+26 ko041 nlg clg dow num htl htc roo mea stb sta 	10 files
+27 ko042 nlg clg dow num htl htc roo mea stb sta 	10 files
+28 ko043 clg dow num htl htc roo mea 	7 files
+29 ko046 nlg clg dow num htl htc roo mea stb sta 	10 files
+30 ko048 nlg clg dow num htl htc roo mea stb 	9 files
+31 ko049 nlg dow num htl htc roo mea stb 	8 files
+32 ko051 nlg clg dow num htl htc 	6 files
+33 ko053 nlg clg dow num htl htc roo mea stb sta 	10 files
+34 ko054 nlg clg dow num htl htc roo mea stb sta 	10 files
+35 ko055 nlg clg dow num htl htc roo mea stb 	9 files
+36 ko056 nlg clg dow num htl htc roo mea stb 	9 files
+37 ko058 nlg clg dow num htl htc roo mea stb 	9 files
+38 ko059 nlg clg dow num htl htc roo mea stb sta 	10 files
+39 ko060 nlg clg dow num htl htc roo mea stb 	9 files
+40 ko061 nlg clg dow num htl htc roo mea stb sta 	10 files
+41 ko062 nlg clg dow num htl htc roo mea stb 	9 files
+42 ko063 nlg clg dow num htl htc roo mea sta 	9 files
+43 ko064 nlg clg dow num htl htc roo mea stb 	9 files
+44 ko065 nlg clg dow num htl htc roo mea 	8 files
+45 ko067 clg dow num htl htc roo mea stb 	8 files
+46 ko068 nlg clg dow num htl htc roo mea stb sta 	10 files
+47 ko069 nlg clg dow num htl htc roo mea stb sta 	10 files
+48 ko070 nlg clg dow num htl htc roo mea stb sta 	10 files
+49 ko071 nlg dow num htl htc roo mea stb sta 	9 files
+50 ko072 clg dow num roo mea stb 	6 files
+1  ma001 nlg clg dow num htl htc roo mea stb 	9 files
+2  ma008 nlg clg dow num htc roo mea 	7 files
+3  ma009 nlg clg dow num htl htc roo mea stb sta 	10 files
+4  ma010 nlg clg dow num htl htc roo mea 	8 files
+5  ma011 nlg clg dow num htl htc roo mea stb sta 	10 files
+6  ma012 nlg clg dow num htl htc roo mea 	8 files
+7  ma013 nlg clg dow num htl htc roo mea stb sta 	10 files
+8  ma014 nlg clg dow num htl htc roo mea stb sta 	10 files
+9  ma015 nlg clg dow num htl htc roo mea stb sta 	10 files
+10 ma016 nlg clg dow num htl htc roo mea stb sta 	10 files
+11 ma018 nlg clg dow num htl htc roo mea stb sta 	10 files
+12 ma021 nlg clg num htl htc roo mea stb sta 	9 files
+13 ma023 nlg clg dow num htl htc roo mea stb 	9 files
+14 ma024 nlg clg dow num htc roo mea stb 	8 files
+15 ma027 nlg clg dow num htl htc roo mea stb sta 	10 files
+16 ma030 nlg clg dow num htl htc roo mea stb sta 	10 files
+17 ma031 nlg clg num htl htc roo mea stb sta 	9 files
+18 ma032 nlg clg dow num htl htc 	6 files
+19 ma033 nlg clg dow num htl htc roo mea stb sta 	10 files
+20 ma034 nlg clg dow num htl htc roo mea stb 	9 files
+21 ma035 nlg clg dow num htl htc roo mea stb 	9 files
+22 ma036 nlg clg dow num htl htc roo mea stb sta 	10 files
+23 ma037 nlg clg dow num htl htc roo mea stb sta 	10 files
+24 ma039 nlg clg dow num htl htc roo mea stb sta 	10 files
+25 ma040 num htl htc roo mea stb 	6 files
+26 ma041 nlg clg dow num htl htc roo mea stb sta 	10 files
+27 ma042 nlg clg dow num htl htc roo mea stb 	9 files
+28 ma043 nlg clg dow num htl htc roo mea stb sta 	10 files
+29 ma044 nlg clg num htl htc roo mea stb sta 	9 files
+30 ma046 nlg clg dow num htl htc roo mea stb sta 	10 files
+31 ma048 nlg clg dow num htl htc roo mea stb sta 	10 files
+32 ma049 nlg clg dow num htl htc roo mea stb sta 	10 files
+33 ma051 nlg clg dow num htl htc roo mea stb sta 	10 files
+34 ma052 nlg clg dow num htl htc roo mea stb 	9 files
+35 ma053 nlg clg dow num htl htc roo mea stb 	9 files
+36 ma055 nlg clg dow num htc roo mea stb 	8 files
+37 ma056 nlg clg dow num htl htc roo mea stb sta 	10 files
+38 ma057 nlg clg dow num htl htc roo mea stb 	9 files
+39 ma058 nlg clg dow num htl htc roo mea stb sta 	10 files
+40 ma059 nlg clg dow num htl htc roo mea stb sta 	10 files
+41 ma060 nlg clg dow num htl htc roo mea stb 	9 files
+42 ma061 nlg dow num htl htc roo 	6 files
+43 ma065 nlg clg dow num htl htc roo mea stb 	9 files
+44 ma067 nlg clg dow num htl htc roo mea stb sta 	10 files
+45 ma068 nlg clg dow num htl htc roo mea stb sta 	10 files
+46 ma069 nlg clg dow num htl htc roo mea stb sta 	10 files
+47 ma073 nlg clg dow num htl htc roo mea stb 	9 files
+48 ma076 nlg clg dow num htl htc roo mea stb sta 	10 files
+49 ma077 nlg clg dow num htl htc roo mea stb sta 	10 files
+50 ma078 nlg clg dow num htl htc roo mea stb 	9 files
+1  sp001 nlg clg num htl htc roo mea stb sta 	9 files
+2  sp002 nlg clg dow num htl htc roo mea stb sta 	10 files
+3  sp003 nlg dow num htl htc roo mea stb 	8 files
+4  sp004 nlg clg dow num htl htc roo mea stb 	9 files
+5  sp005 nlg clg dow num htl htc roo mea stb sta 	10 files
+6  sp006 nlg clg dow num htl htc roo mea stb sta 	10 files
+7  sp008 nlg clg dow num htl htc roo mea stb sta 	10 files
+8  sp009 nlg clg dow num htl htc roo mea 	8 files
+9  sp010 nlg clg dow num htc roo mea stb sta 	9 files
+10 sp012 clg dow num htl htc roo mea stb sta 	9 files
+11 sp013 nlg clg dow num htl htc roo mea stb sta 	10 files
+12 sp014 nlg clg dow num htl htc roo mea stb sta 	10 files
+13 sp015 nlg clg dow num htl htc roo mea stb sta 	10 files
+14 sp016 nlg clg dow num htl htc roo mea stb sta 	10 files
+15 sp017 nlg clg dow num htl htc roo mea stb 	9 files
+16 sp018 nlg clg dow num htl htc roo mea stb sta 	10 files
+17 sp019 nlg clg dow num htl htc roo mea stb sta 	10 files
+18 sp020 nlg clg dow num htl htc roo mea stb sta 	10 files
+19 sp022 nlg clg dow num htl htc roo mea stb sta 	10 files
+20 sp023 nlg clg dow num htl htc roo mea stb 	9 files
+21 sp024 nlg clg dow num htl htc roo mea stb 	9 files
+22 sp025 nlg clg dow num htl htc roo mea stb sta 	10 files
+23 sp026 nlg clg dow num htl htc roo mea stb sta 	10 files
+24 sp027 nlg clg dow num htl htc roo mea stb sta 	10 files
+25 sp028 dow num htl htc roo mea stb sta 	8 files
+26 sp029 nlg clg dow num htl htc roo mea stb sta 	10 files
+27 sp030 nlg clg dow num htl htc roo mea stb sta 	10 files
+28 sp031 nlg clg dow num htl htc roo mea stb sta 	10 files
+29 sp032 nlg clg dow num htl htc roo mea stb sta 	10 files
+30 sp033 clg dow num htl htc roo mea stb sta 	9 files
+31 sp035 nlg clg dow num htl htc roo mea stb sta 	10 files
+32 sp036 nlg clg dow num htl htc roo mea stb sta 	10 files
+33 sp037 nlg clg dow num htl htc roo mea stb sta 	10 files
+34 sp038 nlg clg dow num htl htc roo mea stb sta 	10 files
+35 sp039 nlg clg dow num htl htc 	6 files
+36 sp040 clg dow num htl htc mea stb 	7 files
+37 sp041 nlg clg dow num htl htc roo mea stb sta 	10 files
+38 sp044 nlg clg dow num htl htc roo mea stb sta 	10 files
+39 sp046 nlg clg dow num htl htc roo mea stb 	9 files
+40 sp047 nlg clg dow num htl htc roo mea stb sta 	10 files
+41 sp048 nlg clg dow num htl htc roo mea stb sta 	10 files
+42 sp049 nlg clg dow num htl htc roo mea stb sta 	10 files
+43 sp050 nlg clg dow num htl htc roo mea stb sta 	10 files
+44 sp051 nlg clg dow num htl htc roo mea stb sta 	10 files
+45 sp052 nlg clg dow num htl htc roo mea stb sta 	10 files
+46 sp053 nlg clg dow num htl htc roo mea stb sta 	10 files
+47 sp054 nlg clg dow num htl htc roo mea stb sta 	10 files
+48 sp055 nlg clg dow num htl htc roo mea stb 	9 files
+49 sp056 nlg clg dow num htl htc roo mea stb sta 	10 files
+50 sp057 nlg clg dow num htl htc roo mea stb sta 	10 files
+1  ta001 nlg clg dow num htl htc roo mea stb sta 	10 files
+2  ta003 nlg clg dow num htl htc roo mea stb 	9 files
+3  ta004 nlg clg dow num htl htc roo mea stb sta 	10 files
+4  ta007 nlg clg dow num htl stb 	6 files
+5  ta008 nlg clg dow num htl htc roo mea stb sta 	10 files
+6  ta009 nlg clg dow num htl htc roo mea stb sta 	10 files
+7  ta011 nlg clg dow num htl htc roo mea stb sta 	10 files
+8  ta012 nlg clg dow num htl htc roo mea stb sta 	10 files
+9  ta014 nlg dow num htl htc roo mea stb sta 	9 files
+10 ta015 nlg clg dow num htl htc roo mea stb sta 	10 files
+11 ta016 nlg clg dow num htl htc roo mea stb sta 	10 files
+12 ta017 nlg clg dow num htl htc roo mea 	8 files
+13 ta018 nlg clg dow num htl htc roo mea stb sta 	10 files
+14 ta021 nlg clg dow num htl htc roo mea stb 	9 files
+15 ta023 nlg clg dow num htl roo mea 	7 files
+16 ta024 nlg clg dow num htl htc roo mea stb sta 	10 files
+17 ta026 nlg clg dow num htl htc roo mea stb 	9 files
+18 ta027 nlg clg num htl roo mea stb sta 	8 files
+19 ta029 nlg clg dow num htl htc roo 	7 files
+20 ta030 nlg clg dow num htl htc mea stb 	8 files
+21 ta032 nlg clg dow num htl htc roo mea stb 	9 files
+22 ta033 nlg clg dow num htl htc roo mea stb sta 	10 files
+23 ta034 nlg clg dow num htl htc roo mea 	8 files
+24 ta035 nlg clg num htl htc roo mea stb 	8 files
+25 ta036 nlg clg dow num htl htc roo mea 	8 files
+26 ta037 nlg clg dow num htl htc roo mea 	8 files
+27 ta038 nlg clg dow num htl htc roo mea stb sta 	10 files
+28 ta039 nlg clg dow num htl htc roo mea stb sta 	10 files
+29 ta040 nlg clg dow num htl htc roo mea stb sta 	10 files
+30 ta041 nlg clg dow num htl htc roo mea stb sta 	10 files
+31 ta043 nlg clg dow num htl htc roo mea stb sta 	10 files
+32 ta044 nlg clg dow num htl htc roo mea stb sta 	10 files
+33 ta045 nlg clg dow num htl htc roo mea stb sta 	10 files
+34 ta048 nlg clg dow num htc mea 	6 files
+35 ta050 nlg clg dow num htl htc roo mea stb 	9 files
+36 ta051 nlg clg dow num htl htc roo mea stb sta 	10 files
+37 ta056 nlg clg dow num htl htc roo mea stb sta 	10 files
+38 ta057 nlg clg dow num htl htc roo mea stb sta 	10 files
+39 ta059 clg dow num htl htc roo mea stb sta 	9 files
+40 ta060 nlg clg dow num htl htc roo mea stb sta 	10 files
+41 ta061 nlg clg dow num htl htc roo mea stb sta 	10 files
+42 ta063 nlg clg dow num htl htc roo mea stb 	9 files
+43 ta065 nlg clg dow num htl htc roo mea stb sta 	10 files
+44 ta066 nlg clg dow htl htc mea stb 	7 files
+45 ta067 nlg clg dow num htl htc roo mea stb sta 	10 files
+46 ta068 nlg clg dow num htl htc roo mea stb sta 	10 files
+47 ta069 nlg clg dow num htl roo stb 	7 files
+48 ta071 nlg clg dow num htl htc roo mea stb sta 	10 files
+49 ta073 nlg clg dow num htl htc roo mea stb sta 	10 files
+50 ta074 nlg clg dow num htl htc roo mea stb sta 	10 files
+1  vi001 nlg clg dow num htl htc roo mea stb sta 	10 files
+2  vi002 nlg clg dow num htl htc roo mea stb 	9 files
+3  vi003 nlg clg dow num htl htc roo mea 	8 files
+4  vi008 nlg clg dow num htl htc roo mea stb 	9 files
+5  vi011 nlg clg dow num htl htc roo mea stb sta 	10 files
+6  vi012 dow num htl htc roo mea stb sta 	8 files
+7  vi013 nlg clg dow num htl htc roo mea stb 	9 files
+8  vi014 nlg clg dow num htl htc roo mea stb sta 	10 files
+9  vi016 nlg clg dow num htl htc 	6 files
+10 vi018 nlg clg dow num htl htc roo mea stb 	9 files
+11 vi021 nlg clg dow num htl htc roo mea stb 	9 files
+12 vi025 nlg clg dow num htl htc roo mea stb 	9 files
+13 vi026 nlg clg dow num htl htc roo mea stb 	9 files
+14 vi027 nlg clg dow num htl htc roo mea stb sta 	10 files
+15 vi029 nlg clg dow num htc roo mea 	7 files
+16 vi030 nlg clg dow num htc roo mea 	7 files
+17 vi031 nlg clg dow num roo mea 	6 files
+18 vi032 nlg clg dow num htl htc roo mea 	8 files
+19 vi033 nlg clg dow num htl htc roo mea stb 	9 files
+20 vi034 nlg clg dow num htl htc roo mea stb 	9 files
+21 vi035 clg dow num htl htc roo mea stb 	8 files
+22 vi037 nlg clg dow num htl htc roo mea stb sta 	10 files
+23 vi038 nlg clg dow num htl htc roo mea 	8 files
+24 vi039 nlg clg dow num htl htc roo mea stb 	9 files
+25 vi040 nlg clg dow num htl htc roo mea stb sta 	10 files
+26 vi041 nlg clg dow num htl htc roo mea stb 	9 files
+27 vi042 nlg clg dow num htl htc roo mea stb sta 	10 files
+28 vi043 nlg clg dow num htl htc roo mea stb sta 	10 files
+29 vi044 nlg clg dow num htl htc roo mea stb sta 	10 files
+30 vi045 nlg clg dow num htl htc roo mea stb sta 	10 files
+31 vi046 nlg clg dow num htl htc roo mea stb 	9 files
+32 vi047 nlg clg dow num htl htc roo mea stb sta 	10 files
+33 vi049 nlg clg dow num htl htc roo mea 	8 files
+34 vi052 nlg clg dow num htl htc roo mea stb sta 	10 files
+35 vi053 nlg clg dow num htl htc roo mea stb 	9 files
+36 vi055 nlg clg dow num htl htc roo mea stb sta 	10 files
+37 vi056 nlg clg dow num htl htc roo mea stb sta 	10 files
+38 vi057 nlg clg dow num htc roo mea stb sta 	9 files
+39 vi058 nlg clg dow num htl htc roo mea stb 	9 files
+40 vi063 nlg clg dow num htl htc roo mea stb sta 	10 files
+41 vi064 nlg clg dow num htl htc roo mea stb sta 	10 files
+42 vi065 nlg clg dow num htl htc roo mea stb sta 	10 files
+43 vi068 nlg clg dow num htl htc roo mea stb sta 	10 files
+44 vi069 nlg clg dow num htl htc roo mea stb 	9 files
+45 vi070 nlg clg dow num htl htc roo mea stb 	9 files
+46 vi071 nlg clg dow num htl htc roo mea stb sta 	10 files
+47 vi072 nlg clg dow num htl htc roo mea 	8 files
+48 vi074 clg dow num htl htc roo 	6 files
+49 vi075 nlg clg dow num htl htc roo mea stb sta 	10 files
+50 vi076 nlg clg dow num htc roo mea stb 	8 files

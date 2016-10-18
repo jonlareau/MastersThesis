@@ -1,0 +1,26 @@
+195 nlang native yes
+195 clang instructions yes
+195 clang useful yes
+195 dowk complete yes
+195 nums complete yes
+195 htl instructions yes
+195 htl useful yes
+195 htc instructions yes
+195 htc useful yes
+195 room instructions yes
+195 room useful yes
+195 meal instructions yes
+195 meal useful yes
+195 story-bt speech_type read
+195 story-bt topic effect of humidity on film
+195 story-at speech_type read
+195 story-at topic change of emulsion
+195 general native yes
+195 general dialect standard
+195 general accent none
+195 general background speech none
+195 general environmental noise scratching like a record player
+195 general gender male
+195 general age adult
+195 general intelligibility ok
+195 general connection average

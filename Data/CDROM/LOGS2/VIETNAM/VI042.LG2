@@ -1,0 +1,26 @@
+42 nlang native yes
+42 clang instructions yes
+42 clang useful yes
+42 dowk complete yes
+42 nums complete yes
+42 htl instructions yes
+42 htl useful yes
+42 htc instructions yes
+42 htc useful yes
+42 room instructions yes
+42 room useful yes
+42 meal instructions yes
+42 meal useful yes
+42 story-bt speech_type extemp
+42 story-bt topic language
+42 story-at speech_type extemp
+42 story-at topic language
+42 general native yes
+42 general dialect standard
+42 general accent none
+42 general background speech none
+42 general environmental noise none
+42 general gender male
+42 general age adult
+42 general intelligibility ok
+42 general connection average

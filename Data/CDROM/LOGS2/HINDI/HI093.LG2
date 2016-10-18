@@ -1,0 +1,46 @@
+93 nlang native yes
+93 clang instructions yes
+93 clang useful yes
+93 hlang instructions yes
+93 hlang useful yes
+93 age instructions yes
+93 age useful yes
+93 bdate instructions yes
+93 bdate useful yes
+93 morf instructions yes
+93 morf useful yes
+93 US instructions yes
+93 US useful yes
+93 child instructions yes
+93 child useful yes
+93 day instructions yes
+93 day useful yes
+93 time instructions yes
+93 time useful yes
+93 route instructions yes
+93 route useful yes
+93 hometown instructions yes
+93 hometown useful yes
+93 climate instructions yes
+93 climate useful yes
+93 room instructions yes
+93 room useful yes
+93 meal instructions yes
+93 meal useful yes
+93 story-bt speech_type extemp
+93 story-bt topic Indian Cricket team
+93 story-at speech_type extemp
+93 story-at topic He wants the Indian team to win all the games
+93 tone instructions yes
+93 tone useful yes
+93 address instructions yes
+93 address useful yes
+93 general native yes
+93 general dialect standard
+93 general accent none
+93 general background speech none
+93 general environmental noise none
+93 general gender male
+93 general age adult
+93 general intelligibility ok
+93 general connection average

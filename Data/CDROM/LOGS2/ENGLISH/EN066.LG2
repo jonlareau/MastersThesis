@@ -1,0 +1,26 @@
+66 nlang native yes
+66 clang instructions yes
+66 clang useful yes
+66 dowk complete yes
+66 nums complete yes
+66 htl instructions yes
+66 htl useful yes
+66 htc instructions yes
+66 htc useful yes
+66 room instructions yes
+66 room useful yes
+66 meal instructions yes
+66 meal useful yes
+66 story-bt speech_type extemp
+66 story-bt topic talking about the room he is in, the pictures on the wall, and his hobbies
+66 story-at speech_type extemp
+66 story-at topic motivations being his drawback
+66 general native yes
+66 general dialect standard
+66 general accent none
+66 general background speech none
+66 general environmental noise none
+66 general gender male
+66 general age adult
+66 general intelligibility ok
+66 general connection average

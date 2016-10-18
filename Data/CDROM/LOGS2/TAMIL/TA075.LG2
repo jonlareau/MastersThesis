@@ -1,0 +1,22 @@
+75 nlang native yes
+75 clang instructions yes
+75 clang useful yes
+75 dowk complete no
+75 dowk partial yes
+75 nums complete no
+75 nums partial yes
+75 htl instructions yes
+75 htl useful yes
+75 htc instructions yes
+75 htc useful yes
+75 room instructions yes
+75 room useful yes
+75 general native yes
+75 general dialect formal written Tamil
+75 general accent none
+75 general background speech none
+75 general environmental noise none
+75 general gender male
+75 general age adult
+75 general intelligibility ok
+75 general connection average

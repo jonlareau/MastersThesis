@@ -1,0 +1,81 @@
+39 labeler khoward
+39 label_date Tue Aug 13 15:00:16 PDT 1991
+39 nlang missing nothing
+39 nlang duration_sec 0.9
+39 nlang dc_offset 42
+39 nlang min_samp -2614
+39 nlang max_samp 2398
+39 nlang min_power10 10.9
+39 nlang max_power90 50.2
+39 clang comments ES  
+39 clang missing nothing
+39 clang duration_sec 2.4
+39 clang dc_offset 42
+39 clang min_samp -3342
+39 clang max_samp 2890
+39 clang min_power10 11.7
+39 clang max_power90 58.6
+39 dowk missing nothing
+39 dowk duration_sec 5.4
+39 dowk dc_offset 42
+39 dowk min_samp -2502
+39 dowk max_samp 2458
+39 dowk min_power10 12.0
+39 dowk max_power90 53.9
+39 nums missing nothing
+39 nums duration_sec 8.7
+39 nums dc_offset 42
+39 nums min_samp -2290
+39 nums max_samp 2766
+39 nums min_power10 11.4
+39 nums max_power90 50.5
+39 htl missing nothing
+39 htl duration_sec 6.9
+39 htl dc_offset 42
+39 htl min_samp -1774
+39 htl max_samp 1842
+39 htl min_power10 11.0
+39 htl max_power90 45.5
+39 htc missing nothing
+39 htc duration_sec 8.0
+39 htc dc_offset 42
+39 htc min_samp -7586
+39 htc max_samp 6990
+39 htc min_power10 11.9
+39 htc max_power90 57.1
+39 room comments CE  
+39 room missing CS
+39 room duration_sec 10.9
+39 room dc_offset 42
+39 room min_samp -2718
+39 room max_samp 2434
+39 room min_power10 12.3
+39 room max_power90 50.6
+39 meal comments CE  
+39 meal missing CS
+39 meal duration_sec 8.8
+39 meal dc_offset 42
+39 meal min_samp -1870
+39 meal max_samp 1946
+39 meal min_power10 11.8
+39 meal max_power90 46.2
+39 story-bt comments CE EN SS  
+39 story-bt missing CS
+39 story-bt duration_sec 47.4
+39 story-bt dc_offset 42
+39 story-bt min_samp -12506
+39 story-bt max_samp 12382
+39 story-bt min_power10 18.3
+39 story-bt max_power90 67.9
+39 story-at comments CB SS  
+39 story-at missing CS
+39 story-at duration_sec 9.5
+39 story-at dc_offset 42
+39 story-at min_samp -13974
+39 story-at max_samp 12998
+39 story-at min_power10 21.9
+39 story-at max_power90 72.8
+39 gender male
+39 age adult
+39 connection good
+39 intelligibility ok

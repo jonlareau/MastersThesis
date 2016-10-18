@@ -1,0 +1,81 @@
+46 labeler khoward
+46 label_date Fri Oct 18 21:21:14 PDT 1991
+46 ALL FILES DISCARDED
+46 nlang missing nothing
+46 nlang duration_sec 0.8
+46 nlang dc_offset 42
+46 nlang min_samp -2426
+46 nlang max_samp 3822
+46 nlang min_power10 20.9
+46 nlang max_power90 60.2
+46 clang comments BN  
+46 clang missing nothing
+46 clang duration_sec 1.1
+46 clang dc_offset 42
+46 clang min_samp -1846
+46 clang max_samp 2634
+46 clang min_power10 20.9
+46 clang max_power90 54.1
+46 dowk missing nothing
+46 dowk duration_sec 6.0
+46 dowk dc_offset 42
+46 dowk min_samp -1878
+46 dowk max_samp 2238
+46 dowk min_power10 22.0
+46 dowk max_power90 55.7
+46 nums comments CE EN  
+46 nums missing 10
+46 nums duration_sec 9.4
+46 nums dc_offset 42
+46 nums min_samp -2338
+46 nums max_samp 3626
+46 nums min_power10 22.8
+46 nums max_power90 58.1
+46 htl comments CE EN  
+46 htl missing CS
+46 htl duration_sec 7.4
+46 htl dc_offset 42
+46 htl min_samp -2054
+46 htl max_samp 2510
+46 htl min_power10 23.2
+46 htl max_power90 56.7
+46 htc comments CE  
+46 htc missing Cs
+46 htc duration_sec 8.5
+46 htc dc_offset 42
+46 htc min_samp -2238
+46 htc max_samp 3046
+46 htc min_power10 22.9
+46 htc max_power90 54.8
+46 room comments CE  
+46 room missing CS
+46 room duration_sec 10.9
+46 room dc_offset 42
+46 room min_samp -3078
+46 room max_samp 3678
+46 room min_power10 21.9
+46 room max_power90 58.0
+46 meal missing nothing
+46 meal duration_sec 8.3
+46 meal dc_offset 42
+46 meal min_samp -1982
+46 meal max_samp 3590
+46 meal min_power10 22.8
+46 story-bt duration_sec 48.3
+46 story-bt dc_offset 42
+46 story-bt min_samp -2938
+46 story-bt max_samp 3554
+46 story-bt min_power10 22.2
+46 story-bt max_power90 55.3
+46 story-at comments CB SS
+46 story-at missing CS
+46 story-at duration_sec 6.5
+46 story-at dc_offset 42
+46 story-at min_samp -3006
+46 story-at max_samp 4158
+46 story-at min_power10 24.5
+46 story-at max_power90 55.5
+46 gender female
+46 age adult
+46 connection poor
+46 intelligibility ok

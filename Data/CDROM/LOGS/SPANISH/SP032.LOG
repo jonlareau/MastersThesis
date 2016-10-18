@@ -1,0 +1,82 @@
+32 labeler khoward
+32 label_date Thu Aug  8 15:11:41 PDT 1991
+32 nlang comments BN  
+32 nlang missing nothing
+32 nlang duration_sec 1.1
+32 nlang dc_offset 42
+32 nlang min_samp -1654
+32 nlang max_samp 1358
+32 nlang min_power10 11.4
+32 nlang max_power90 53.6
+32 clang missing nothing
+32 clang duration_sec 0.9
+32 clang dc_offset 42
+32 clang min_samp -2318
+32 clang max_samp 1494
+32 clang min_power10 11.4
+32 clang max_power90 56.1
+32 dowk missing Thursday
+32 dowk duration_sec 3.8
+32 dowk dc_offset 42
+32 dowk min_samp -2106
+32 dowk max_samp 1582
+32 dowk min_power10 15.1
+32 dowk max_power90 56.0
+32 nums missing nothing
+32 nums duration_sec 6.8
+32 nums dc_offset 42
+32 nums min_samp -2170
+32 nums max_samp 1538
+32 nums min_power10 12.0
+32 nums max_power90 55.2
+32 htl comments CE  
+32 htl missing CS
+32 htl duration_sec 9.0
+32 htl dc_offset 42
+32 htl min_samp -2778
+32 htl max_samp 2494
+32 htl min_power10 15.0
+32 htl max_power90 55.7
+32 htc comments CE  
+32 htc missing CS
+32 htc duration_sec 9.0
+32 htc dc_offset 42
+32 htc min_samp -4294
+32 htc max_samp 3366
+32 htc min_power10 21.8
+32 htc max_power90 58.8
+32 room comments CE SNL  
+32 room missing CS
+32 room duration_sec 11.1
+32 room dc_offset 42
+32 room min_samp -3086
+32 room max_samp 2798
+32 room min_power10 11.2
+32 room max_power90 56.1
+32 meal missing nothing
+32 meal duration_sec 6.2
+32 meal dc_offset 42
+32 meal min_samp -2134
+32 meal max_samp 1986
+32 meal min_power10 12.9
+32 meal max_power90 53.4
+32 story-bt comments SNL CE BN  
+32 story-bt missing CS
+32 story-bt duration_sec 47.8
+32 story-bt dc_offset 42
+32 story-bt min_samp -4518
+32 story-bt max_samp 3054
+32 story-bt min_power10 13.2
+32 story-bt max_power90 55.8
+32 story-at comments SS  
+32 story-at missing nothing
+32 story-at duration_sec 7.3
+32 story-at dc_offset 42
+32 story-at min_samp -3862
+32 story-at max_samp 2398
+32 story-at min_power10 13.0
+32 story-at max_power90 50.4
+32 gender female
+32 age adult
+32 connection average
+32 intelligibility ok

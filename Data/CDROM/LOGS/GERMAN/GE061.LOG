@@ -1,0 +1,83 @@
+61 labeler khoward
+61 label_date Wed Nov 27 19:37:55 PST 1991
+61 nlang comments BN  
+61 nlang missing nothing
+61 nlang duration_sec 1.2
+61 nlang dc_offset 42
+61 nlang min_samp -1806
+61 nlang max_samp 1494
+61 nlang min_power10 17.0
+61 nlang max_power90 53.0
+61 clang comments ES  
+61 clang missing nothing
+61 clang duration_sec 2.1
+61 clang dc_offset 42
+61 clang min_samp -2774
+61 clang max_samp 2426
+61 clang min_power10 16.3
+61 clang max_power90 54.1
+61 dowk comments ES  
+61 dowk missing nothing
+61 dowk duration_sec 6.1
+61 dowk dc_offset 42
+61 dowk min_samp -1458
+61 dowk max_samp 1282
+61 dowk min_power10 17.6
+61 dowk max_power90 49.4
+61 nums missing nothing
+61 nums duration_sec 8.2
+61 nums dc_offset 42
+61 nums min_samp -2206
+61 nums max_samp 2330
+61 nums min_power10 17.2
+61 nums max_power90 49.1
+61 htl comments BN CE  
+61 htl missing nothing
+61 htl duration_sec 9.1
+61 htl dc_offset 42
+61 htl min_samp -3906
+61 htl max_samp 1882
+61 htl min_power10 21.1
+61 htl max_power90 49.4
+61 htc missing nothing
+61 htc duration_sec 8.4
+61 htc dc_offset 42
+61 htc min_samp -2302
+61 htc max_samp 2418
+61 htc min_power10 21.6
+61 htc max_power90 48.8
+61 room missing nothing
+61 room duration_sec 10.9
+61 room dc_offset 42
+61 room min_samp -3494
+61 room max_samp 3150
+61 room min_power10 19.8
+61 room max_power90 50.5
+61 meal comments CE  
+61 meal missing CS
+61 meal duration_sec 9.8
+61 meal dc_offset 42
+61 meal min_samp -1742
+61 meal max_samp 2070
+61 meal min_power10 19.5
+61 meal max_power90 47.2
+61 story-bt comments BN CE SS  
+61 story-bt missing CS
+61 story-bt duration_sec 48.7
+61 story-bt dc_offset 42
+61 story-bt min_samp -3750
+61 story-bt max_samp 4334
+61 story-bt min_power10 21.1
+61 story-bt max_power90 49.4
+61 story-at comments BN CE  
+61 story-at missing CS
+61 story-at duration_sec 8.8
+61 story-at dc_offset 42
+61 story-at min_samp -1894
+61 story-at max_samp 1578
+61 story-at min_power10 21.3
+61 story-at max_power90 47.1
+61 gender male
+61 age adult
+61 connection average
+61 intelligibility ok

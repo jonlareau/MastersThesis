@@ -1,0 +1,26 @@
+126 nlang native yes
+126 clang instructions yes
+126 clang useful yes
+126 dowk complete no
+126 dowk partial yes
+126 nums complete no
+126 nums partial yes
+126 htl instructions yes
+126 htl useful yes
+126 htc instructions yes
+126 htc useful yes
+126 room instructions yes
+126 room useful yes
+126 meal instructions yes
+126 meal useful yes
+126 story-bt speech_type recite
+126 story-bt topic A piece of a song of Mylene Farmer
+126 general native yes
+126 general dialect standard
+126 general accent none
+126 general background speech none
+126 general environmental noise none
+126 general gender male
+126 general age adult
+126 general intelligibility ok
+126 general connection average

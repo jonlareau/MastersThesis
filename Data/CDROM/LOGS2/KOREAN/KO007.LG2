@@ -1,0 +1,24 @@
+7 nlang native yes
+7 clang instructions yes
+7 clang useful yes
+7 dowk complete yes
+7 nums complete yes
+7 htl instructions no
+7 htl useful yes
+7 htc instructions yes
+7 htc useful yes
+7 room instructions yes
+7 room useful yes
+7 meal instructions yes
+7 meal useful yes
+7 story-bt speech_type extemp
+7 story-bt topic My family background and my dialect.
+7 general native yes
+7 general dialect She uses Kyungbook dialect
+7 general accent american accent
+7 general background speech none
+7 general environmental noise bad phone-line connection
+7 general gender female
+7 general age adult
+7 general intelligibility ok
+7 general connection average

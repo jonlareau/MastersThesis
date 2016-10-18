@@ -1,0 +1,84 @@
+37 labeler khoward
+37 label_date Tue Aug  6 15:16:53 PDT 1991
+37 nlang missing nothing
+37 nlang duration_sec 0.9
+37 nlang dc_offset 43
+37 nlang min_samp -2191
+37 nlang max_samp 3053
+37 nlang min_power10 16.0
+37 nlang max_power90 55.4
+37 clang missing nothing
+37 clang duration_sec 1.1
+37 clang dc_offset 43
+37 clang min_samp -1155
+37 clang max_samp 837
+37 clang min_power10 15.2
+37 clang max_power90 35.1
+37 dowk comments BN EN  
+37 dowk missing nothing
+37 dowk duration_sec 5.5
+37 dowk dc_offset 43
+37 dowk min_samp -1035
+37 dowk max_samp 853
+37 dowk min_power10 16.6
+37 dowk max_power90 41.0
+37 nums comments BN  
+37 nums missing nothing
+37 nums duration_sec 7.7
+37 nums dc_offset 43
+37 nums min_samp -2075
+37 nums max_samp 1493
+37 nums min_power10 15.4
+37 nums max_power90 40.6
+37 htl comments CE  
+37 htl missing CS
+37 htl duration_sec 8.6
+37 htl dc_offset 43
+37 htl min_samp -1983
+37 htl max_samp 1669
+37 htl min_power10 16.3
+37 htl max_power90 41.9
+37 htc comments BN  
+37 htc missing nothing
+37 htc duration_sec 6.3
+37 htc dc_offset 43
+37 htc min_samp -1735
+37 htc max_samp 1733
+37 htc min_power10 15.7
+37 htc max_power90 46.7
+37 room comments BN SNL  
+37 room missing nothing
+37 room duration_sec 10.4
+37 room dc_offset 43
+37 room min_samp -2551
+37 room max_samp 2633
+37 room min_power10 16.7
+37 room max_power90 50.7
+37 meal comments SNL  
+37 meal missing nothing
+37 meal duration_sec 0.9
+37 meal dc_offset 43
+37 meal min_samp -2283
+37 meal max_samp 2957
+37 meal min_power10 15.3
+37 meal max_power90 56.5
+37 story-bt comments BN SS  
+37 story-bt missing nothing
+37 story-bt duration_sec 48.3
+37 story-bt dc_offset 43
+37 story-bt min_samp -2191
+37 story-bt max_samp 2957
+37 story-bt min_power10 15.9
+37 story-bt max_power90 44.5
+37 story-at comments BN SS  
+37 story-at missing nothing
+37 story-at duration_sec 9.3
+37 story-at dc_offset 43
+37 story-at min_samp -655
+37 story-at max_samp 577
+37 story-at min_power10 15.0
+37 story-at max_power90 34.5
+37 gender male
+37 age adult
+37 connection poor
+37 intelligibility ok

@@ -1,0 +1,42 @@
+23 nlang native yes
+23 hlang instructions yes
+23 hlang useful yes
+23 age instructions yes
+23 age useful yes
+23 bdate instructions yes
+23 bdate useful yes
+23 morf instructions yes
+23 morf useful yes
+23 US instructions yes
+23 US useful yes
+23 child instructions yes
+23 child useful yes
+23 day instructions yes
+23 day useful yes
+23 time instructions yes
+23 time useful yes
+23 route instructions yes
+23 route useful yes
+23 hometown instructions yes
+23 hometown useful yes
+23 climate instructions yes
+23 climate useful yes
+23 room instructions yes
+23 room useful yes
+23 story-bt speech_type extemp
+23 story-bt topic He recited a poem
+23 story-at speech_type extemp
+23 story-at topic He has finished his story
+23 tone instructions yes
+23 tone useful yes
+23 yorn instructions yes
+23 yorn useful yes
+23 general native yes
+23 general dialect standard
+23 general accent none
+23 general background speech none
+23 general environmental noise none
+23 general gender male
+23 general age adult
+23 general intelligibility ok
+23 general connection average

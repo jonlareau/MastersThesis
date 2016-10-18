@@ -1,0 +1,86 @@
+93 labeler khoward
+93 label_date Tue Jul  2 13:49:33 PDT 1991
+93 nlang comments EN  
+93 nlang missing nothing
+93 nlang duration_sec 1.1
+93 nlang dc_offset 42
+93 nlang min_samp -2434
+93 nlang max_samp 2438
+93 nlang min_power10 30.7
+93 nlang max_power90 53.7
+93 clang comments EN  
+93 clang missing nothing
+93 clang duration_sec 1.1
+93 clang dc_offset 42
+93 clang min_samp -1898
+93 clang max_samp 1498
+93 clang min_power10 31.5
+93 clang max_power90 50.9
+93 dowk comments EN  
+93 dowk missing nothing
+93 dowk duration_sec 4.8
+93 dowk dc_offset 42
+93 dowk min_samp -1798
+93 dowk max_samp 1798
+93 dowk min_power10 31.8
+93 dowk max_power90 52.5
+93 nums comments EN  
+93 nums missing nothing
+93 nums duration_sec 7.0
+93 nums dc_offset 42
+93 nums min_samp -2834
+93 nums max_samp 2746
+93 nums min_power10 31.4
+93 nums max_power90 53.0
+93 htl comments EN  
+93 htl missing nothing
+93 htl duration_sec 1.9
+93 htl dc_offset 42
+93 htl min_samp -1782
+93 htl max_samp 1870
+93 htl min_power10 31.5
+93 htl max_power90 52.2
+93 htc comments EN  
+93 htc missing nothing
+93 htc duration_sec 5.2
+93 htc dc_offset 42
+93 htc min_samp -1454
+93 htc max_samp 1718
+93 htc min_power10 31.7
+93 htc max_power90 49.6
+93 room comments EN  
+93 room missing nothing
+93 room duration_sec 9.8
+93 room dc_offset 42
+93 room min_samp -2174
+93 room max_samp 2234
+93 room min_power10 31.6
+93 room max_power90 48.4
+93 meal comments EN  
+93 meal missing nothing
+93 meal duration_sec 4.6
+93 meal dc_offset 42
+93 meal min_samp -1594
+93 meal max_samp 1758
+93 meal min_power10 31.3
+93 meal max_power90 49.0
+93 story-bt comments CE EN SS  
+93 story-bt missing nothing
+93 story-bt duration_sec 49.1
+93 story-bt dc_offset 42
+93 story-bt min_samp -3118
+93 story-bt max_samp 2870
+93 story-bt min_power10 33.4
+93 story-bt max_power90 51.6
+93 story-at comments CB CE EN SS  
+93 story-at missing nothing
+93 story-at duration_sec 10.0
+93 story-at dc_offset 42
+93 story-at min_samp -2982
+93 story-at max_samp 3002
+93 story-at min_power10 34.3
+93 story-at max_power90 55.0
+93 gender male
+93 age adult
+93 connection poor
+93 intelligibility ok

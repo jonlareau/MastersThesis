@@ -1,0 +1,23 @@
+35 nlang native yes
+35 clang instructions yes
+35 clang useful yes
+35 nums complete yes
+35 htl instructions yes
+35 htl useful yes
+35 htc instructions no
+35 htc useful yes
+35 room instructions yes
+35 room useful yes
+35 meal instructions yes
+35 meal useful yes
+35 story-bt speech_type extemp
+35 story-bt topic his current town of residence and his research
+35 general native yes
+35 general dialect mixture of formal and Coimbatore dialect
+35 general accent none
+35 general background speech none
+35 general environmental noise breath noise during the story-bt 
+35 general gender male
+35 general age adult
+35 general intelligibility ok
+35 general connection average

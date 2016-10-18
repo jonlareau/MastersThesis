@@ -1,0 +1,28 @@
+234 nlang native yes
+234 clang instructions yes
+234 clang useful yes
+234 dowk complete no
+234 dowk partial yes
+234 nums complete no
+234 nums partial yes
+234 htl instructions yes
+234 htl useful yes
+234 htc instructions yes
+234 htc useful yes
+234 room instructions yes
+234 room useful yes
+234 meal instructions yes
+234 meal useful yes
+234 story-bt speech_type read
+234 story-bt topic passage from a religious writing
+234 story-at speech_type read
+234 story-at topic passage from a religious writing
+234 general native yes
+234 general dialect standard
+234 general accent none
+234 general background speech none
+234 general environmental noise none
+234 general gender male
+234 general age adult
+234 general intelligibility ok
+234 general connection average

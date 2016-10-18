@@ -1,0 +1,81 @@
+146 labeler khoward
+146 label_date Mon Mar 23 13:09:12 PST 1992
+146 nlang missing nothing
+146 nlang duration_sec 1.3
+146 nlang dc_offset 42
+146 nlang min_samp -4866
+146 nlang max_samp 3610
+146 nlang min_power10 17.6
+146 nlang max_power90 55.3
+146 clang missing nothing
+146 clang duration_sec 1.4
+146 clang dc_offset 42
+146 clang min_samp -2554
+146 clang max_samp 1498
+146 clang min_power10 17.9
+146 clang max_power90 54.1
+146 dowk comments CE  
+146 dowk missing Wednesday Thursday Friday Saturday?
+146 dowk duration_sec 4.2
+146 dowk dc_offset 42
+146 dowk min_samp -5710
+146 dowk max_samp 3502
+146 dowk min_power10 17.1
+146 dowk max_power90 51.9
+146 nums comments CE  
+146 nums missing 10
+146 nums duration_sec 9.0
+146 nums dc_offset 42
+146 nums min_samp -6938
+146 nums max_samp 4854
+146 nums min_power10 17.1
+146 nums max_power90 54.6
+146 htl comments CE EN  
+146 htl missing CS
+146 htl duration_sec 5.3
+146 htl dc_offset 42
+146 htl min_samp -3874
+146 htl max_samp 2846
+146 htl min_power10 19.1
+146 htl max_power90 54.4
+146 htc missing nothing
+146 htc duration_sec 6.2
+146 htc dc_offset 42
+146 htc min_samp -4606
+146 htc max_samp 4134
+146 htc min_power10 18.1
+146 htc max_power90 54.3
+146 room missing nothing
+146 room duration_sec 8.5
+146 room dc_offset 42
+146 room min_samp -6374
+146 room max_samp 4530
+146 room min_power10 18.0
+146 room max_power90 57.3
+146 meal missing nothing
+146 meal duration_sec 5.8
+146 meal dc_offset 42
+146 meal min_samp -4522
+146 meal max_samp 3622
+146 meal min_power10 19.4
+146 meal max_power90 55.3
+146 story-bt comments CE SS  
+146 story-bt missing CS
+146 story-bt duration_sec 45.6
+146 story-bt dc_offset 42
+146 story-bt min_samp -7270
+146 story-bt max_samp 4578
+146 story-bt min_power10 18.5
+146 story-bt max_power90 51.8
+146 story-at comments CB CE EN SS  
+146 story-at missing CS
+146 story-at duration_sec 9.7
+146 story-at dc_offset 42
+146 story-at min_samp -6306
+146 story-at max_samp 4306
+146 story-at min_power10 19.0
+146 story-at max_power90 53.4
+146 gender male
+146 age adult
+146 connection average
+146 intelligibility ok

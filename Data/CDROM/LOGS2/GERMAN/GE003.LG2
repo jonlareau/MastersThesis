@@ -1,0 +1,26 @@
+3 nlang native yes
+3 clang instructions yes
+3 clang useful yes
+3 dowk complete yes
+3 nums complete yes
+3 htl instructions yes
+3 htl useful yes
+3 htc instructions yes
+3 htc useful yes
+3 room instructions yes
+3 room useful yes
+3 meal instructions yes
+3 meal useful yes
+3 story-bt speech_type extemp
+3 story-bt topic starting a family with his wife
+3 story-at speech_type extemp
+3 story-at topic looking forward to having a baby
+3 general native yes
+3 general dialect standard
+3 general accent none
+3 general background speech none
+3 general environmental noise none
+3 general gender male
+3 general age adult
+3 general intelligibility ok
+3 general connection average

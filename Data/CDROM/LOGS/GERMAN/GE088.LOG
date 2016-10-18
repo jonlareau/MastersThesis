@@ -1,0 +1,86 @@
+88 labeler ames
+88 label_date Sat Feb  1 17:42:46 PST 1992
+88 nlang comments EN  
+88 nlang missing nothing
+88 nlang duration_sec 1.1
+88 nlang dc_offset 42
+88 nlang min_samp -2654
+88 nlang max_samp 3270
+88 nlang min_power10 19.4
+88 nlang max_power90 57.2
+88 clang comments EN  
+88 clang missing nothing
+88 clang duration_sec 1.3
+88 clang dc_offset 42
+88 clang min_samp -4002
+88 clang max_samp 5078
+88 clang min_power10 19.2
+88 clang max_power90 54.8
+88 dowk comments EN  
+88 dowk missing nothing
+88 dowk duration_sec 3.5
+88 dowk dc_offset 42
+88 dowk min_samp -3290
+88 dowk max_samp 2954
+88 dowk min_power10 20.6
+88 dowk max_power90 55.5
+88 nums comments EN  
+88 nums missing nothing
+88 nums duration_sec 3.7
+88 nums dc_offset 42
+88 nums min_samp -3870
+88 nums max_samp 3094
+88 nums min_power10 22.4
+88 nums max_power90 55.8
+88 htl comments BN CE EN ES  
+88 htl missing cs
+88 htl duration_sec 8.5
+88 htl dc_offset 42
+88 htl min_samp -3802
+88 htl max_samp 3590
+88 htl min_power10 21.4
+88 htl max_power90 55.6
+88 htc comments BN CE EN ES  
+88 htc missing cs
+88 htc duration_sec 8.3
+88 htc dc_offset 42
+88 htc min_samp -5146
+88 htc max_samp 4238
+88 htc min_power10 21.7
+88 htc max_power90 58.5
+88 room comments CE EN ES  
+88 room missing cs
+88 room duration_sec 10.9
+88 room dc_offset 42
+88 room min_samp -4910
+88 room max_samp 4354
+88 room min_power10 19.8
+88 room max_power90 58.5
+88 meal comments EN ES SNL  
+88 meal missing nothing
+88 meal duration_sec 7.7
+88 meal dc_offset 42
+88 meal min_samp -5478
+88 meal max_samp 5718
+88 meal min_power10 19.8
+88 meal max_power90 53.9
+88 story-bt comments BN EN RS SS ES  
+88 story-bt missing nothing
+88 story-bt duration_sec 44.3
+88 story-bt dc_offset 42
+88 story-bt min_samp -7570
+88 story-bt max_samp 6990
+88 story-bt min_power10 20.6
+88 story-bt max_power90 59.4
+88 story-at comments BN CB EN SS ES  
+88 story-at missing cs
+88 story-at duration_sec 8.7
+88 story-at dc_offset 42
+88 story-at min_samp -5750
+88 story-at max_samp 3310
+88 story-at min_power10 19.5
+88 story-at max_power90 51.8
+88 gender male
+88 age adult
+88 connection average
+88 intelligibility ok

@@ -1,0 +1,27 @@
+186 nlang native yes
+186 clang instructions no
+186 clang useful yes
+186 dowk complete yes
+186 nums complete no
+186 nums partial yes
+186 htl instructions yes
+186 htl useful yes
+186 htc instructions no
+186 htc useful yes
+186 room instructions yes
+186 room useful yes
+186 meal instructions yes
+186 meal useful yes
+186 story-bt speech_type extemp
+186 story-bt topic his love of cricket; his recent interest in basketball
+186 story-at speech_type extemp
+186 story-at topic he is not sure how useful his speech would be to the research
+186 general native yes
+186 general dialect written formal Tamil
+186 general accent none
+186 general background speech none
+186 general environmental noise line noise
+186 general gender male
+186 general age adult
+186 general intelligibility ok
+186 general connection average

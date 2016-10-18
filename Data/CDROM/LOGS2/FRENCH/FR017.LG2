@@ -1,0 +1,26 @@
+17 nlang native yes
+17 clang instructions yes
+17 clang useful yes
+17 dowk complete yes
+17 nums complete yes
+17 htl instructions yes
+17 htl useful yes
+17 htc instructions yes
+17 htc useful yes
+17 room instructions yes
+17 room useful yes
+17 meal instructions yes
+17 meal useful yes
+17 story-bt speech_type extemp
+17 story-bt topic He tells two funny stories
+17 story-at speech_type read
+17 story-at topic A last funny story
+17 general native yes
+17 general dialect standard
+17 general accent none
+17 general background speech none
+17 general environmental noise none
+17 general gender male
+17 general age adult
+17 general intelligibility ok
+17 general connection average

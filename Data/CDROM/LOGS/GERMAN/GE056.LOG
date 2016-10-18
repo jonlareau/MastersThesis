@@ -1,0 +1,86 @@
+56 labeler ames
+56 label_date Mon Nov 25 12:56:24 PST 1991
+56 nlang comments BN EN  
+56 nlang missing nothing
+56 nlang duration_sec 0.9
+56 nlang dc_offset 42
+56 nlang min_samp -2918
+56 nlang max_samp 2142
+56 nlang min_power10 18.6
+56 nlang max_power90 57.3
+56 clang comments BN EN  
+56 clang missing nothing
+56 clang duration_sec 1.1
+56 clang dc_offset 42
+56 clang min_samp -1710
+56 clang max_samp 1602
+56 clang min_power10 19.3
+56 clang max_power90 54.5
+56 dowk comments BN EN  
+56 dowk missing nothing
+56 dowk duration_sec 6.0
+56 dowk dc_offset 42
+56 dowk min_samp -3362
+56 dowk max_samp 2982
+56 dowk min_power10 20.3
+56 dowk max_power90 58.9
+56 nums comments BN EN  
+56 nums missing nothing
+56 nums duration_sec 8.1
+56 nums dc_offset 42
+56 nums min_samp -2330
+56 nums max_samp 2854
+56 nums min_power10 20.7
+56 nums max_power90 56.2
+56 htl comments BN CE EN  
+56 htl missing cs
+56 htl duration_sec 9.3
+56 htl dc_offset 42
+56 htl min_samp -2282
+56 htl max_samp 2346
+56 htl min_power10 22.5
+56 htl max_power90 53.3
+56 htc comments BN CE EN ES  
+56 htc missing cs
+56 htc duration_sec 9.1
+56 htc dc_offset 42
+56 htc min_samp -2290
+56 htc max_samp 2042
+56 htc min_power10 20.8
+56 htc max_power90 53.4
+56 room comments BN CE EN SNL  
+56 room missing cs
+56 room duration_sec 11.3
+56 room dc_offset 42
+56 room min_samp -3030
+56 room max_samp 2622
+56 room min_power10 22.8
+56 room max_power90 54.2
+56 meal comments BN EN  
+56 meal missing nothing
+56 meal duration_sec 1.2
+56 meal dc_offset 43
+56 meal min_samp -2199
+56 meal max_samp 2289
+56 meal min_power10 20.5
+56 meal max_power90 58.5
+56 story-bt comments BN CE EN SS ES SNL  
+56 story-bt missing cs
+56 story-bt duration_sec 48.7
+56 story-bt dc_offset 42
+56 story-bt min_samp -2218
+56 story-bt max_samp 2258
+56 story-bt min_power10 20.2
+56 story-bt max_power90 50.1
+56 story-at comments BN CB EN SS  
+56 story-at missing cs
+56 story-at duration_sec 6.6
+56 story-at dc_offset 42
+56 story-at min_samp -1350
+56 story-at max_samp 1014
+56 story-at min_power10 20.7
+56 story-at max_power90 46.3
+56 gender female
+56 age adult
+56 connection average
+56 intelligibility ok

@@ -1,0 +1,26 @@
+24 nlang native yes
+24 clang instructions yes
+24 clang useful yes
+24 dowk complete yes
+24 nums complete yes
+24 htl instructions yes
+24 htl useful yes
+24 htc instructions yes
+24 htc useful yes
+24 room instructions yes
+24 room useful yes
+24 meal instructions yes
+24 meal useful yes
+24 story-bt speech_type extemp
+24 story-bt topic His favourite sports, tennis
+24 story-at speech_type extemp
+24 story-at topic His trip to New York
+24 general native yes
+24 general dialect standard
+24 general accent none
+24 general background speech somebody is talking something
+24 general environmental noise none
+24 general gender male
+24 general age adult
+24 general intelligibility ok
+24 general connection average

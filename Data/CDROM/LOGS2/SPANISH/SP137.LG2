@@ -1,0 +1,26 @@
+137 nlang native yes
+137 clang instructions yes
+137 clang useful yes
+137 dowk complete yes
+137 nums complete yes
+137 htl instructions yes
+137 htl useful yes
+137 htc instructions yes
+137 htc useful yes
+137 room instructions yes
+137 room useful yes
+137 meal instructions yes
+137 meal useful yes
+137 story-bt speech_type extemp
+137 story-bt topic his studies, his future plans
+137 story-at speech_type extemp
+137 story-at topic cont. studies, noting that that's it
+137 general native yes
+137 general dialect standard
+137 general accent none
+137 general background speech at the beginning and at the end, a few peolpe talking
+137 general environmental noise at the end of the call music was turned on
+137 general gender male
+137 general age adult
+137 general intelligibility ok
+137 general connection average

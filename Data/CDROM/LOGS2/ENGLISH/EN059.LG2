@@ -1,0 +1,24 @@
+59 nlang native yes
+59 clang instructions yes
+59 clang useful yes
+59 dowk complete yes
+59 nums complete yes
+59 htc instructions yes
+59 htc useful yes
+59 room instructions yes
+59 room useful yes
+59 meal instructions yes
+59 meal useful yes
+59 story-bt speech_type read
+59 story-bt topic read the ad for this experiment
+59 story-at speech_type read
+59 story-at topic read the ad for this experiment
+59 general native yes
+59 general dialect east coast jersey
+59 general accent none
+59 general background speech none
+59 general environmental noise none
+59 general gender male
+59 general age adult
+59 general intelligibility ok
+59 general connection average

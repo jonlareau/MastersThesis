@@ -1,0 +1,28 @@
+53 nlang native yes
+53 clang instructions yes
+53 clang useful yes
+53 dowk complete no
+53 dowk partial yes
+53 nums complete no
+53 nums partial yes
+53 htl instructions yes
+53 htl useful yes
+53 htc instructions yes
+53 htc useful yes
+53 room instructions yes
+53 room useful yes
+53 meal instructions yes
+53 meal useful yes
+53 story-bt speech_type extemp
+53 story-bt topic Portland, Oregon
+53 story-at speech_type extemp
+53 story-at topic Portland, Oregon, cont'd
+53 general native yes
+53 general dialect standard
+53 general accent none
+53 general background speech none
+53 general environmental noise some static
+53 general gender male
+53 general age adult
+53 general intelligibility ok
+53 general connection average

@@ -1,0 +1,24 @@
+140 nlang native yes
+140 clang instructions no
+140 clang useful no
+140 dowk complete yes
+140 nums complete yes
+140 htl instructions no
+140 htl useful yes
+140 htc instructions yes
+140 htc useful yes
+140 room instructions yes
+140 room useful yes
+140 meal instructions yes
+140 meal useful yes
+140 story-at speech_type extemp
+140 story-at topic I was born in Korea and came to the U.S. about 10 years ago.
+140 general native yes
+140 general dialect standard
+140 general accent none
+140 general background speech none
+140 general environmental noise none
+140 general gender female
+140 general age adult
+140 general intelligibility ok
+140 general connection average

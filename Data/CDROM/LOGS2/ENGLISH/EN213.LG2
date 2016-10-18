@@ -1,0 +1,26 @@
+213 nlang native yes
+213 clang instructions yes
+213 clang useful yes
+213 dowk complete yes
+213 nums complete yes
+213 htl instructions yes
+213 htl useful yes
+213 htc instructions yes
+213 htc useful yes
+213 room instructions yes
+213 room useful yes
+213 meal instructions yes
+213 meal useful yes
+213 story-bt speech_type read
+213 story-bt topic the experiment advertisement
+213 story-at speech_type read
+213 story-at topic the experiment advertisement
+213 general native yes
+213 general dialect standard
+213 general accent none
+213 general background speech none
+213 general environmental noise none
+213 general gender male
+213 general age adult
+213 general intelligibility ok
+213 general connection average

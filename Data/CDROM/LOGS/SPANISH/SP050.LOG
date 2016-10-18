@@ -1,0 +1,81 @@
+50 labeler khoward
+50 label_date Thu Aug 29 09:58:04 PDT 1991
+50 nlang comments EN  
+50 nlang missing nothing
+50 nlang duration_sec 1.3
+50 nlang dc_offset 42
+50 nlang min_samp -4622
+50 nlang max_samp 3614
+50 nlang min_power10 16.3
+50 nlang max_power90 60.3
+50 clang missing nothing
+50 clang duration_sec 1.0
+50 clang dc_offset 42
+50 clang min_samp -3102
+50 clang max_samp 2782
+50 clang min_power10 14.2
+50 clang max_power90 54.4
+50 dowk missing nothing
+50 dowk duration_sec 6.6
+50 dowk dc_offset 42
+50 dowk min_samp -3474
+50 dowk max_samp 3258
+50 dowk min_power10 16.5
+50 dowk max_power90 54.1
+50 nums missing nothing
+50 nums duration_sec 6.7
+50 nums dc_offset 42
+50 nums min_samp -2886
+50 nums max_samp 3354
+50 nums min_power10 14.4
+50 nums max_power90 51.7
+50 htl comments EN  
+50 htl missing nothing
+50 htl duration_sec 9.4
+50 htl dc_offset 42
+50 htl min_samp -4074
+50 htl max_samp 3766
+50 htl min_power10 17.5
+50 htl max_power90 54.6
+50 htc missing nothing
+50 htc duration_sec 8.8
+50 htc dc_offset 42
+50 htc min_samp -3338
+50 htc max_samp 2906
+50 htc min_power10 15.3
+50 htc max_power90 49.1
+50 room comments EN SNL CE  
+50 room missing CS
+50 room duration_sec 11.0
+50 room dc_offset 42
+50 room min_samp -3130
+50 room max_samp 3102
+50 room min_power10 15.3
+50 room max_power90 52.0
+50 meal missing nothing
+50 meal duration_sec 8.5
+50 meal dc_offset 42
+50 meal min_samp -3034
+50 meal max_samp 3298
+50 meal min_power10 14.0
+50 meal max_power90 47.9
+50 story-bt comments BN CE SS  
+50 story-bt missing CS
+50 story-bt duration_sec 48.7
+50 story-bt dc_offset 42
+50 story-bt min_samp -5934
+50 story-bt max_samp 5002
+50 story-bt min_power10 16.4
+50 story-bt max_power90 54.7
+50 story-at comments SS  
+50 story-at missing nothing
+50 story-at duration_sec 8.7
+50 story-at dc_offset 42
+50 story-at min_samp -4814
+50 story-at max_samp 3974
+50 story-at min_power10 15.6
+50 story-at max_power90 58.2
+50 gender male
+50 age adult
+50 connection average
+50 intelligibility poor

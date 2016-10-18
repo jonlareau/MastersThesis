@@ -1,0 +1,26 @@
+135 nlang native yes
+135 clang instructions yes
+135 clang useful yes
+135 dowk complete yes
+135 nums complete yes
+135 htl instructions yes
+135 htl useful yes
+135 htc instructions yes
+135 htc useful yes
+135 room instructions yes
+135 room useful yes
+135 meal instructions yes
+135 meal useful yes
+135 story-bt speech_type extemp
+135 story-bt topic University life
+135 story-at speech_type extemp
+135 story-at topic University life, cont'd
+135 general native yes
+135 general dialect standard
+135 general accent none
+135 general background speech none
+135 general environmental noise none
+135 general gender male
+135 general age adult
+135 general intelligibility ok
+135 general connection average

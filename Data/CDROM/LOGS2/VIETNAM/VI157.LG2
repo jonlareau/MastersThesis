@@ -1,0 +1,27 @@
+157 nlang native yes
+157 clang instructions yes
+157 clang useful yes
+157 dowk complete yes
+157 nums complete no
+157 nums partial yes
+157 htl instructions yes
+157 htl useful yes
+157 htc instructions yes
+157 htc useful yes
+157 room instructions no
+157 room useful yes
+157 meal instructions yes
+157 meal useful yes
+157 story-bt speech_type extemp
+157 story-bt topic Describing his friend
+157 story-at speech_type extemp
+157 story-at topic Describing his friend
+157 general native yes
+157 general dialect standard
+157 general accent none
+157 general background speech none
+157 general environmental noise none
+157 general gender male
+157 general age adult
+157 general intelligibility ok
+157 general connection average

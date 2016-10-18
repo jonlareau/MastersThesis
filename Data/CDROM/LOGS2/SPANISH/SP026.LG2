@@ -1,0 +1,28 @@
+26 nlang native yes
+26 clang instructions yes
+26 clang useful yes
+26 dowk complete no
+26 dowk partial yes
+26 nums complete no
+26 nums partial yes
+26 htl instructions yes
+26 htl useful yes
+26 htc instructions yes
+26 htc useful yes
+26 room instructions yes
+26 room useful yes
+26 meal instructions yes
+26 meal useful yes
+26 story-bt speech_type extemp
+26 story-bt topic His studies and the U.S.
+26 story-at speech_type extemp
+26 story-at topic Noting that that's all
+26 general native yes
+26 general dialect Venezuelan
+26 general accent none
+26 general background speech none
+26 general environmental noise clicking in the background
+26 general gender male
+26 general age adult
+26 general intelligibility ok
+26 general connection average

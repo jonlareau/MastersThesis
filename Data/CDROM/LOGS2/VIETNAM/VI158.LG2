@@ -1,0 +1,26 @@
+158 nlang native yes
+158 clang instructions yes
+158 clang useful yes
+158 dowk complete yes
+158 nums complete yes
+158 htl instructions yes
+158 htl useful yes
+158 htc instructions yes
+158 htc useful yes
+158 room instructions yes
+158 room useful yes
+158 meal instructions yes
+158 meal useful yes
+158 story-bt speech_type extemp
+158 story-bt topic Describing the city where she live
+158 story-at speech_type extemp
+158 story-at topic Describing the city where she live
+158 general native yes
+158 general dialect standard
+158 general accent none
+158 general background speech none
+158 general environmental noise none
+158 general gender female
+158 general age adult
+158 general intelligibility ok
+158 general connection average

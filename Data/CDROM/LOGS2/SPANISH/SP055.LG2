@@ -1,0 +1,25 @@
+55 nlang native yes
+55 clang instructions yes
+55 clang useful yes
+55 dowk complete no
+55 dowk partial yes
+55 nums complete yes
+55 htl instructions yes
+55 htl useful yes
+55 htc instructions yes
+55 htc useful yes
+55 room instructions yes
+55 room useful yes
+55 meal instructions yes
+55 meal useful yes
+55 story-bt speech_type extemp
+55 story-bt topic Cleveland, Ohio
+55 general native yes
+55 general dialect Mexican
+55 general accent none
+55 general background speech none
+55 general environmental noise none
+55 general gender male
+55 general age adult
+55 general intelligibility ok
+55 general connection average

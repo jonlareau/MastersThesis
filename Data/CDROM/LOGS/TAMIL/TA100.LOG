@@ -1,0 +1,56 @@
+100 labeler khoward
+100 label_date Sat Mar 14 16:58:15 PST 1992
+100 nlang missing nothing
+100 nlang duration_sec 0.8
+100 nlang dc_offset 42
+100 nlang min_samp -3334
+100 nlang max_samp 2706
+100 nlang min_power10 14.5
+100 nlang max_power90 56.1
+100 clang missing nothing
+100 clang duration_sec 0.9
+100 clang dc_offset 42
+100 clang min_samp -1462
+100 clang max_samp 1142
+100 clang min_power10 14.7
+100 clang max_power90 49.5
+100 dowk missing nothing
+100 dowk duration_sec 6.1
+100 dowk dc_offset 42
+100 dowk min_samp -1606
+100 dowk max_samp 1370
+100 dowk min_power10 14.7
+100 dowk max_power90 44.5
+100 nums comments CE  
+100 nums missing 10
+100 nums duration_sec 6.8
+100 nums dc_offset 42
+100 nums min_samp -1678
+100 nums max_samp 1414
+100 nums min_power10 15.8
+100 nums max_power90 41.6
+100 htl missing nothing
+100 htl duration_sec 0.8
+100 htl dc_offset 42
+100 htl min_samp -1014
+100 htl max_samp 1082
+100 htl min_power10 15.1
+100 htl max_power90 47.7
+100 room missing nothing
+100 room duration_sec 2.2
+100 room dc_offset 42
+100 room min_samp -1214
+100 room max_samp 1022
+100 room min_power10 15.4
+100 room max_power90 47.8
+100 meal missing nothing
+100 meal duration_sec 3.4
+100 meal dc_offset 42
+100 meal min_samp -1106
+100 meal max_samp 1822
+100 meal min_power10 15.2
+100 meal max_power90 45.6
+100 gender male
+100 age adult
+100 connection average
+100 intelligibility ok

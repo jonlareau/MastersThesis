@@ -1,0 +1,24 @@
+156 nlang native yes
+156 clang instructions yes
+156 clang useful yes
+156 dowk complete yes
+156 nums complete yes
+156 htl instructions yes
+156 htl useful yes
+156 htc instructions yes
+156 htc useful yes
+156 room instructions yes
+156 room useful yes
+156 meal instructions yes
+156 meal useful yes
+156 story-bt speech_type extemp
+156 story-bt topic Sport
+156 general native yes
+156 general dialect standard
+156 general accent none
+156 general background speech none
+156 general environmental noise none
+156 general gender male
+156 general age adult
+156 general intelligibility ok
+156 general connection average

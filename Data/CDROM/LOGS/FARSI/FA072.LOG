@@ -1,0 +1,84 @@
+72 labeler ames
+72 label_date Mon Nov 25 14:25:33 PST 1991
+72 nlang missing nothing
+72 nlang duration_sec 0.9
+72 nlang dc_offset 43
+72 nlang min_samp -4647
+72 nlang max_samp 5105
+72 nlang min_power10 18.1
+72 nlang max_power90 58.3
+72 clang comments EN  
+72 clang missing nothing
+72 clang duration_sec 1.2
+72 clang dc_offset 43
+72 clang min_samp -3639
+72 clang max_samp 2449
+72 clang min_power10 18.7
+72 clang max_power90 51.3
+72 dowk missing nothing
+72 dowk duration_sec 5.9
+72 dowk dc_offset 43
+72 dowk min_samp -4139
+72 dowk max_samp 3845
+72 dowk min_power10 22.1
+72 dowk max_power90 54.7
+72 nums comments BN  
+72 nums missing nothing
+72 nums duration_sec 8.3
+72 nums dc_offset 42
+72 nums min_samp -6158
+72 nums max_samp 6018
+72 nums min_power10 19.2
+72 nums max_power90 55.4
+72 htl comments CE ES  
+72 htl missing cs
+72 htl duration_sec 8.4
+72 htl dc_offset 42
+72 htl min_samp -6278
+72 htl max_samp 6678
+72 htl min_power10 20.2
+72 htl max_power90 56.8
+72 htc comments CE ES  
+72 htc missing cs
+72 htc duration_sec 5.6
+72 htc dc_offset 42
+72 htc min_samp -5410
+72 htc max_samp 6222
+72 htc min_power10 24.0
+72 htc max_power90 56.3
+72 room comments CE ES SNL  
+72 room missing cs
+72 room duration_sec 10.9
+72 room dc_offset 42
+72 room min_samp -5430
+72 room max_samp 5694
+72 room min_power10 27.3
+72 room max_power90 55.6
+72 meal comments BN  
+72 meal missing nothing
+72 meal duration_sec 2.5
+72 meal dc_offset 42
+72 meal min_samp -5970
+72 meal max_samp 4470
+72 meal min_power10 21.8
+72 meal max_power90 60.7
+72 story-bt comments BN CE SS ES SNL  
+72 story-bt missing cs
+72 story-bt duration_sec 49.0
+72 story-bt dc_offset 42
+72 story-bt min_samp -7298
+72 story-bt max_samp 7774
+72 story-bt min_power10 18.8
+72 story-bt max_power90 53.4
+72 story-at comments CB SS ES SNL  
+72 story-at missing cs
+72 story-at duration_sec 9.2
+72 story-at dc_offset 42
+72 story-at min_samp -4946
+72 story-at max_samp 3966
+72 story-at min_power10 20.1
+72 story-at max_power90 53.2
+72 gender male
+72 age adult
+72 connection average
+72 intelligibility ok

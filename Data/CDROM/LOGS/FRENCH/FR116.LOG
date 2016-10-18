@@ -1,0 +1,86 @@
+116 labeler ames
+116 label_date Mon Jan 27 18:46:02 PST 1992
+116 nlang comments BN EN  
+116 nlang missing nothing
+116 nlang duration_sec 0.9
+116 nlang dc_offset 42
+116 nlang min_samp -506
+116 nlang max_samp 878
+116 nlang min_power10 12.2
+116 nlang max_power90 45.5
+116 clang comments EN  
+116 clang missing nothing
+116 clang duration_sec 1.3
+116 clang dc_offset 42
+116 clang min_samp -658
+116 clang max_samp 970
+116 clang min_power10 12.2
+116 clang max_power90 49.1
+116 dowk comments BN EN  
+116 dowk missing nothing
+116 dowk duration_sec 5.6
+116 dowk dc_offset 42
+116 dowk min_samp -942
+116 dowk max_samp 962
+116 dowk min_power10 13.3
+116 dowk max_power90 44.5
+116 nums comments EN  
+116 nums missing nothing
+116 nums duration_sec 7.5
+116 nums dc_offset 42
+116 nums min_samp -478
+116 nums max_samp 706
+116 nums min_power10 11.9
+116 nums max_power90 43.0
+116 htl comments BN CE EN  
+116 htl missing cs
+116 htl duration_sec 8.4
+116 htl dc_offset 42
+116 htl min_samp -1202
+116 htl max_samp 1118
+116 htl min_power10 14.5
+116 htl max_power90 44.9
+116 htc comments EN  
+116 htc missing nothing
+116 htc duration_sec 9.6
+116 htc dc_offset 42
+116 htc min_samp -790
+116 htc max_samp 838
+116 htc min_power10 13.7
+116 htc max_power90 43.7
+116 room comments EN  
+116 room missing nothing
+116 room duration_sec 9.9
+116 room dc_offset 42
+116 room min_samp -2102
+116 room max_samp 1990
+116 room min_power10 14.2
+116 room max_power90 42.5
+116 meal comments EN ES  
+116 meal missing nothing
+116 meal duration_sec 3.5
+116 meal dc_offset 42
+116 meal min_samp -498
+116 meal max_samp 542
+116 meal min_power10 13.5
+116 meal max_power90 44.5
+116 story-bt comments BN CE EN SS SNL  
+116 story-bt missing cs
+116 story-bt duration_sec 47.9
+116 story-bt dc_offset 42
+116 story-bt min_samp -1110
+116 story-bt max_samp 1102
+116 story-bt min_power10 13.6
+116 story-bt max_power90 44.0
+116 story-at comments BN CB CE EN SS  
+116 story-at missing cs; second speaker in background
+116 story-at duration_sec 7.2
+116 story-at dc_offset 42
+116 story-at min_samp -1098
+116 story-at max_samp 1262
+116 story-at min_power10 12.9
+116 story-at max_power90 48.0
+116 gender female
+116 age adult
+116 connection average
+116 intelligibility ok

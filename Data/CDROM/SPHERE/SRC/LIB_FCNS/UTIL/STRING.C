@@ -1,0 +1,204 @@
+/**********************************************************************/
+/*                                                                    */
+/*             FILENAME:  strings.c                                   */
+/*             BY:  Jonathan G. Fiscus                                */
+/*                  NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY    */
+/*                  SPEECH RECOGNITION GROUP                          */
+/*                                                                    */
+/*           DESC:  This file contains general routines used          */
+/*                  throughout the scoring package                    */
+/*                                                                    */
+/**********************************************************************/
+#include <util/chars.h>
+#include <stdio.h>
+/***************************************************************/
+/*  move the character pointer to the character                */
+/***************************************************************/
+search_for_char(ptr,chr)
+char **ptr,chr;
+{
+    while ((**ptr != chr) && (**ptr != NULL_CHAR))
+        (*ptr)++;
+}
+
+/***************************************************************/
+/*  move the character pointer BACKWARDS to the character      */
+/***************************************************************/
+search_back_for_char(beg_ptr, ptr,chr)
+char **ptr,*beg_ptr,chr;
+{
+    while ((**ptr != chr) && (*ptr != beg_ptr))
+        (*ptr)--;
+}
+ 
+/***************************************************************/
+/*  copy the strings until the character of the NULL is found  */
+/***************************************************************/
+strcpy_to_char(to,from,chr)
+char *to,*from,chr;
+{
+    int i=(-1);
+
+    do{
+        i++;
+        to[i] = from[i];
+    }while ((from[i] != chr) && (from[i] != NULL_CHAR));
+    to[i+1] = NULL_CHAR;
+}
+
+/***************************************************************/
+/*  copy the strings until the character of the NULL is found  */
+/*  except dont copy the search character if it exists         */
+/***************************************************************/
+strcpy_to_before_char(to,from,chr)
+char *to,*from,chr;
+{
+    int i=(-1);
+
+    do{
+        i++;
+        to[i] = from[i];
+    }while ((from[i] != chr) && (from[i] != NULL_CHAR));
+    if (from[i] == chr)
+       to[i] = NULL_CHAR;
+}
+
+/***************************************************************/
+/*  copy the strings until the character of the NULL is found  */
+/*  except dont copy the search character if it exists         */
+/*  only copy a maximum of len characters                      */
+/***************************************************************/
+strncpy_to_before_char(to,from,chr,len)
+char *to,*from,chr;
+int len;
+{
+    int i=(-1);
+
+    do{
+        i++;
+        to[i] = from[i];
+    }while ((from[i] != chr) && (from[i] != NULL_CHAR) && (i<len-2));
+                                 /* -2 allows appending a null character*/
+    if (i == len-2)
+       to[i+1] = NULL_CHAR;
+    if (from[i] == chr)
+       to[i] = NULL_CHAR;
+}
+
+/***************************************************************/
+/*  copy the strings but if a character is upper case convert  */
+/*  it to lower case                                           */
+/***************************************************************/
+strcpy_lc(to,from)
+char *to, *from;
+{
+    while (*from != NULL_CHAR){
+        if ((*from >= 'A') && (*from <= 'Z'))
+            *(to++) = *(from++) + 32;
+        else
+            *(to++) = *(from++);
+    }
+    *to = NULL_CHAR;
+}
+
+/***************************************************************/
+/*  copy the string if the len of from<len, the pad with char  */
+/***************************************************************/
+strncpy_pad(to,from,len,chr)
+char *to, *from, chr;
+int len;
+{
+    int i;
+    for (i=0; i<len; i++){
+       if (*from != NULL_CHAR)
+          *(to++) = *(from++);
+       else
+          *(to++) = chr;
+    }
+    *to = NULL_CHAR;
+}
+
+ /***************************************/
+ /* some general-purpose functions      */
+ /* found in Turbo C but not BCD 4.2    */
+ /* source code:                        */
+ /* strstr(ps1,ps2)  K&R 2nd ed p. 250  */
+ /***************************************/
+
+ 
+ /********************************************************/
+ /*  strstr1(ps1,ps2)                                     */
+ /*  Scans string ps1 for the first occurrence of ps2.   */
+ /*  Returns a pointer to the element is ps1 where ps2   */
+ /* begins.  If ps2 does not occur in ps1, returns null. */
+ /********************************************************/
+ char *strstr1(ps1,ps2) char *ps1, *ps2;
+ {char *proc = "strstr";
+  char *px, *plast; int matched; int lps2;
+  matched = 0;
+  lps2 = strlen(ps2);
+  plast = ps1 + strlen(ps1) - lps2;
+  for (px = ps1; ((!matched) && (px <= plast)); px++)
+    if (strncmp(px,ps2,lps2) == 0) matched = 1;
+  if (!matched) px = NULL;
+  return px;
+ }
+
+ 
+ /********************************************************/
+ /*  strstr1(ps1,ps2)                                     */
+ /*  Scans string ps1 for the first occurrence of ps2.   */
+ /*  Returns a pointer to the element is ps1 where ps2   */
+ /* begins.  If ps2 does not occur in ps1, returns null. */
+ /********************************************************/
+ char *strstr1_i(ps1,ps2) char *ps1, *ps2;
+{char *proc = "strstr";
+  char *px, *plast; int matched; int lps2;
+  matched = 0;
+  lps2 = strlen(ps2);
+  plast = ps1 + strlen(ps1) - lps2;
+  for (px = ps1; ((!matched) && (px <= plast)); px++)
+    if (strncasecmp(px,ps2,lps2) == 0) matched = 1;
+  if (!matched) px = NULL;
+  return px;
+}
+ 
+
+/**********************************************/
+/* convert a string to upper case             */
+/**********************************************/
+char *str2up(str)
+char *str;
+{
+    static char mem[100], len=100;
+    char *t=mem, *f;
+    for (f=str; (*f != NULL_CHAR) && (t<mem+len-1); f++,t++)
+         *t = (islower(*f) ? *f - 32 : *f);
+    *t=NULL_CHAR;
+    if (t == mem+len-1)
+         fprintf(stderr,
+                 "Warning: Upper case string may be truncated\n From: %s\n To:   %s\n",
+                 str,mem);
+    return(mem);
+  }
+ 
+/**********************************************/
+/* convert a string to lower case             */
+/**********************************************/
+char *str2low(str)
+char *str;
+{
+    static char mem[100], len=100;
+    char *t=mem, *f;
+    for (f=str; (*f != NULL_CHAR) && (t<mem+len-1); f++,t++){
+         *t = (isupper(*f) ? (*f) + 32 : *f);
+/*         printf(" char %c isupper %d \n",*f,isupper(*f));*/
+	}
+    *t=NULL_CHAR;
+    if (t == mem+len-1)
+         fprintf(stderr,
+                 "Warning: Upper case string may be truncated\n From: %s\n To:   %s\n",
+                 str,mem);
+    return(mem);
+}
+

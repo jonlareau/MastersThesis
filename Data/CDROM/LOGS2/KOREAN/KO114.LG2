@@ -1,0 +1,25 @@
+114 nlang native yes
+114 clang instructions yes
+114 clang useful yes
+114 dowk complete yes
+114 nums complete no
+114 nums partial yes
+114 htl instructions yes
+114 htl useful yes
+114 htc instructions yes
+114 htc useful yes
+114 room instructions yes
+114 room useful yes
+114 meal instructions yes
+114 meal useful yes
+114 story-bt speech_type extemp
+114 story-bt topic My life in North Dakota is dull, but it is nice place to study hard.  I usually look up the messages in E-mail and study for the test.  I sometimes go tothe movies.
+114 general native yes
+114 general dialect standard
+114 general accent none
+114 general background speech none
+114 general environmental noise none
+114 general gender male
+114 general age adult
+114 general intelligibility ok
+114 general connection average

@@ -1,0 +1,81 @@
+61 labeler khoward
+61 label_date Wed Nov 27 18:30:39 PST 1991
+61 nlang missing nothing
+61 nlang duration_sec 1.0
+61 nlang dc_offset 43
+61 nlang min_samp -21799
+61 nlang max_samp 23185
+61 nlang min_power10 29.5
+61 nlang max_power90 68.9
+61 clang missing nothing
+61 clang duration_sec 0.9
+61 clang dc_offset 43
+61 clang min_samp -6755
+61 clang max_samp 5649
+61 clang min_power10 29.1
+61 clang max_power90 59.3
+61 dowk missing nothing
+61 dowk duration_sec 3.4
+61 dowk dc_offset 43
+61 dowk min_samp -16759
+61 dowk max_samp 19189
+61 dowk min_power10 31.4
+61 dowk max_power90 67.6
+61 nums missing nothing
+61 nums duration_sec 3.7
+61 nums dc_offset 43
+61 nums min_samp -21863
+61 nums max_samp 21253
+61 nums min_power10 30.1
+61 nums max_power90 67.5
+61 htl missing nothing
+61 htl duration_sec 1.9
+61 htl dc_offset 43
+61 htl min_samp -10599
+61 htl max_samp 9309
+61 htl min_power10 29.8
+61 htl max_power90 63.0
+61 htc comments BN  
+61 htc missing nothing
+61 htc duration_sec 3.4
+61 htc dc_offset 43
+61 htc min_samp -12727
+61 htc max_samp 11921
+61 htc min_power10 31.9
+61 htc max_power90 67.4
+61 room comments BN  
+61 room missing nothing
+61 room duration_sec 7.2
+61 room dc_offset 43
+61 room min_samp -27199
+61 room max_samp 26869
+61 room min_power10 36.4
+61 room max_power90 73.9
+61 meal comments BN  
+61 meal missing nothing
+61 meal duration_sec 4.8
+61 meal dc_offset 43
+61 meal min_samp -14095
+61 meal max_samp 10949
+61 meal min_power10 32.6
+61 meal max_power90 68.3
+61 story-bt comments BN CE SS EN 
+61 story-bt missing CS
+61 story-bt duration_sec 46.6
+61 story-bt dc_offset 43
+61 story-bt min_samp -21275
+61 story-bt max_samp 20829
+61 story-bt min_power10 28.9
+61 story-bt max_power90 69.7
+61 story-at comments SS EN  
+61 story-at missing nothing
+61 story-at duration_sec 8.1
+61 story-at dc_offset 43
+61 story-at min_samp -19847
+61 story-at max_samp 20029
+61 story-at min_power10 31.3
+61 story-at max_power90 70.3
+61 gender male
+61 age adult
+61 connection average
+61 intelligibility ok

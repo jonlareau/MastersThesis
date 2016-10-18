@@ -1,0 +1,24 @@
+77 nlang native yes
+77 clang instructions yes
+77 clang useful yes
+77 dowk complete yes
+77 nums complete yes
+77 htl instructions yes
+77 htl useful yes
+77 htc instructions yes
+77 htc useful yes
+77 room instructions yes
+77 room useful yes
+77 story-bt speech_type extemp
+77 story-bt topic People of Isfahan and their speech
+77 story-at speech_type extemp
+77 story-at topic Isfahan, its people and their speech
+77 general native yes
+77 general dialect standard
+77 general accent none
+77 general background speech none
+77 general environmental noise none
+77 general gender male
+77 general age adult
+77 general intelligibility ok
+77 general connection average

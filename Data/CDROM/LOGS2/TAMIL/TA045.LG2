@@ -1,0 +1,28 @@
+45 nlang native yes
+45 clang instructions yes
+45 clang useful yes
+45 dowk complete no
+45 dowk partial yes
+45 nums complete no
+45 nums partial yes
+45 htl instructions yes
+45 htl useful yes
+45 htc instructions yes
+45 htc useful yes
+45 room instructions yes
+45 room useful yes
+45 meal instructions yes
+45 meal useful yes
+45 story-bt speech_type extemp
+45 story-bt topic Talks about herself, her research work, people around her, future plans
+45 story-at speech_type extemp
+45 story-at topic America is a big, beautiful country with lots of places to see.
+45 general native yes
+45 general dialect mixture of standard and Coimbatore dialect
+45 general accent none
+45 general background speech none
+45 general environmental noise none
+45 general gender female
+45 general age adult
+45 general intelligibility ok
+45 general connection average

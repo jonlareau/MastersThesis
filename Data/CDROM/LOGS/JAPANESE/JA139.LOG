@@ -1,0 +1,86 @@
+139 labeler ames
+139 label_date Fri May  8 11:36:34 PDT 1992
+139 nlang comments EN  
+139 nlang missing nothing
+139 nlang duration_sec 1.2
+139 nlang dc_offset 42
+139 nlang min_samp -1462
+139 nlang max_samp 1458
+139 nlang min_power10 18.5
+139 nlang max_power90 54.3
+139 clang comments EN  
+139 clang missing nothing
+139 clang duration_sec 1.8
+139 clang dc_offset 42
+139 clang min_samp -1630
+139 clang max_samp 1586
+139 clang min_power10 19.2
+139 clang max_power90 55.1
+139 dowk comments EN  
+139 dowk missing nothing
+139 dowk duration_sec 4.9
+139 dowk dc_offset 42
+139 dowk min_samp -2210
+139 dowk max_samp 2050
+139 dowk min_power10 19.1
+139 dowk max_power90 50.4
+139 nums comments BN EN  
+139 nums missing nothing
+139 nums duration_sec 4.0
+139 nums dc_offset 42
+139 nums min_samp -2442
+139 nums max_samp 2058
+139 nums min_power10 19.1
+139 nums max_power90 52.3
+139 htl comments BN EN  
+139 htl missing nothing
+139 htl duration_sec 6.4
+139 htl dc_offset 42
+139 htl min_samp -2082
+139 htl max_samp 1994
+139 htl min_power10 17.9
+139 htl max_power90 47.7
+139 htc comments EN  
+139 htc missing nothing; second speaker in background
+139 htc duration_sec 4.4
+139 htc dc_offset 42
+139 htc min_samp -1654
+139 htc max_samp 1846
+139 htc min_power10 18.1
+139 htc max_power90 46.1
+139 room comments EN ES  
+139 room missing nothing
+139 room duration_sec 3.9
+139 room dc_offset 42
+139 room min_samp -2146
+139 room max_samp 2042
+139 room min_power10 16.1
+139 room max_power90 50.1
+139 meal comments BN EN  
+139 meal missing nothing
+139 meal duration_sec 4.5
+139 meal dc_offset 42
+139 meal min_samp -1454
+139 meal max_samp 1970
+139 meal min_power10 16.7
+139 meal max_power90 46.4
+139 story-bt comments BN CE EN SS ES SNL  
+139 story-bt missing cs
+139 story-bt duration_sec 48.2
+139 story-bt dc_offset 42
+139 story-bt min_samp -2750
+139 story-bt max_samp 2926
+139 story-bt min_power10 16.7
+139 story-bt max_power90 47.6
+139 story-at comments EN  
+139 story-at missing nothing
+139 story-at duration_sec 3.2
+139 story-at dc_offset 42
+139 story-at min_samp -1958
+139 story-at max_samp 2570
+139 story-at min_power10 18.1
+139 story-at max_power90 49.2
+139 gender male
+139 age adult
+139 connection poor
+139 intelligibility ok

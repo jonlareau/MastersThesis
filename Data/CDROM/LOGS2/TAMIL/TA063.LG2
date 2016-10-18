@@ -1,0 +1,26 @@
+63 nlang native yes
+63 clang instructions no
+63 clang useful yes
+63 dowk complete no
+63 dowk partial yes
+63 nums complete no
+63 nums partial yes
+63 htl instructions yes
+63 htl useful yes
+63 htc instructions yes
+63 htc useful yes
+63 room instructions yes
+63 room useful yes
+63 meal instructions yes
+63 meal useful yes
+63 story-bt speech_type extemp
+63 story-bt topic strong similarities between life and surroundings in India and Hawaii
+63 general native yes
+63 general dialect mixture of spoken and formal, written Tamil
+63 general accent none
+63 general background speech none
+63 general environmental noise baby making noises during story-bt
+63 general gender female
+63 general age adult
+63 general intelligibility ok
+63 general connection average

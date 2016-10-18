@@ -1,0 +1,29 @@
+129 nlang native yes
+129 clang instructions yes
+129 clang useful yes
+129 dowk complete no
+129 dowk partial no
+129 dowk useful yes
+129 nums complete no
+129 nums partial yes
+129 htl instructions no
+129 htl useful yes
+129 htc instructions yes
+129 htc useful yes
+129 room instructions yes
+129 room useful yes
+129 meal instructions yes
+129 meal useful yes
+129 story-bt speech_type extemp
+129 story-bt topic Description of Berkley city
+129 story-at speech_type extemp
+129 story-at topic The time spent on road from home to office
+129 general native yes
+129 general dialect standard
+129 general accent none
+129 general background speech none
+129 general environmental noise none
+129 general gender female
+129 general age adult
+129 general intelligibility ok
+129 general connection average

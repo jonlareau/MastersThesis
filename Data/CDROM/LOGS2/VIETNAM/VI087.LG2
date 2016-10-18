@@ -1,0 +1,26 @@
+87 nlang native yes
+87 clang instructions yes
+87 clang useful yes
+87 dowk complete yes
+87 nums complete yes
+87 htl instructions yes
+87 htl useful yes
+87 htc instructions yes
+87 htc useful yes
+87 room instructions no
+87 room useful yes
+87 meal instructions yes
+87 meal useful yes
+87 story-bt speech_type extemp
+87 story-bt topic Daily Life
+87 story-at speech_type extemp
+87 story-at topic Daily Life
+87 general native yes
+87 general dialect standard
+87 general accent none
+87 general background speech none
+87 general environmental noise none
+87 general gender male
+87 general age adult
+87 general intelligibility ok
+87 general connection average

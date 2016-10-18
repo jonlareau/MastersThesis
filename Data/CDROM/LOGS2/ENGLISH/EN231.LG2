@@ -1,0 +1,26 @@
+231 nlang native yes
+231 clang instructions yes
+231 clang useful yes
+231 dowk complete yes
+231 nums complete yes
+231 htl instructions yes
+231 htl useful yes
+231 htc instructions yes
+231 htc useful yes
+231 room instructions yes
+231 room useful yes
+231 meal instructions yes
+231 meal useful yes
+231 story-bt speech_type read
+231 story-bt topic the experiment advertisement
+231 story-at speech_type read
+231 story-at topic the experiment advertisement
+231 general native yes
+231 general dialect northeastern
+231 general accent none
+231 general background speech none
+231 general environmental noise none
+231 general gender male
+231 general age adult
+231 general intelligibility ok
+231 general connection average

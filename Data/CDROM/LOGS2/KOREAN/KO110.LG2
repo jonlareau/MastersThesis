@@ -1,0 +1,26 @@
+110 nlang native yes
+110 clang instructions yes
+110 clang useful yes
+110 dowk complete yes
+110 nums complete yes
+110 htl instructions yes
+110 htl useful yes
+110 htc instructions yes
+110 htc useful yes
+110 room instructions yes
+110 room useful yes
+110 meal instructions yes
+110 meal useful yes
+110 story-bt speech_type extemp
+110 story-bt topic I'm so busy, so I can't play sports.  But, I like living in U.S.
+110 story-at speech_type extemp
+110 story-at topic I will put all my time in studying for the rest of stay in U.S.
+110 general native yes
+110 general dialect Kyungsang-do dialect
+110 general accent Various tones of Kyungsang-do accent.
+110 general background speech Interviewer's wife and son.
+110 general environmental noise sound of dishes
+110 general gender male
+110 general age adult
+110 general intelligibility ok
+110 general connection average

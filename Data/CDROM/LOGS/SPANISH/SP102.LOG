@@ -1,0 +1,83 @@
+102 labeler khoward
+102 label_date Fri Jun 12 09:13:18 PDT 1992
+102 nlang missing nothing
+102 nlang duration_sec 0.9
+102 nlang dc_offset 42
+102 nlang min_samp -8694
+102 nlang max_samp 7110
+102 nlang min_power10 28.0
+102 nlang max_power90 66.0
+102 clang comments BN  
+102 clang missing nothing
+102 clang duration_sec 0.8
+102 clang dc_offset 42
+102 clang min_samp -11062
+102 clang max_samp 8138
+102 clang min_power10 24.4
+102 clang max_power90 69.6
+102 dowk comments CB  
+102 dowk missing Saturday Sunday
+102 dowk duration_sec 4.1
+102 dowk dc_offset 42
+102 dowk min_samp -15898
+102 dowk max_samp 11950
+102 dowk min_power10 28.0
+102 dowk max_power90 68.5
+102 nums comments ES  
+102 nums missing nothing
+102 nums duration_sec 7.5
+102 nums dc_offset 42
+102 nums min_samp -9466
+102 nums max_samp 8162
+102 nums min_power10 25.9
+102 nums max_power90 64.7
+102 htl missing nothing
+102 htl duration_sec 7.2
+102 htl dc_offset 42
+102 htl min_samp -7702
+102 htl max_samp 7134
+102 htl min_power10 26.0
+102 htl max_power90 64.8
+102 htc missing nothing
+102 htc duration_sec 4.9
+102 htc dc_offset 42
+102 htc min_samp -12038
+102 htc max_samp 9538
+102 htc min_power10 24.9
+102 htc max_power90 63.7
+102 room comments CE  
+102 room missing CS
+102 room duration_sec 10.3
+102 room dc_offset 42
+102 room min_samp -11478
+102 room max_samp 9822
+102 room min_power10 24.3
+102 room max_power90 64.9
+102 meal comments BN SNL  
+102 meal missing nothing
+102 meal duration_sec 6.8
+102 meal dc_offset 42
+102 meal min_samp -8142
+102 meal max_samp 5514
+102 meal min_power10 25.0
+102 meal max_power90 63.2
+102 story-bt comments BN CE SS  
+102 story-bt missing CS
+102 story-bt duration_sec 46.3
+102 story-bt dc_offset 42
+102 story-bt min_samp -9370
+102 story-bt max_samp 6470
+102 story-bt min_power10 22.6
+102 story-bt max_power90 60.6
+102 story-at comments BN SS  
+102 story-at missing nothing
+102 story-at duration_sec 8.2
+102 story-at dc_offset 42
+102 story-at min_samp -6466
+102 story-at max_samp 5422
+102 story-at min_power10 21.5
+102 story-at max_power90 58.2
+102 gender female
+102 age adult
+102 connection average
+102 intelligibility ok

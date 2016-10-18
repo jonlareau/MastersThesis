@@ -1,0 +1,26 @@
+35 nlang native yes
+35 clang instructions yes
+35 clang useful yes
+35 dowk complete no
+35 dowk partial yes
+35 nums complete no
+35 nums partial yes
+35 htl instructions yes
+35 htl useful yes
+35 htc instructions yes
+35 htc useful yes
+35 room instructions yes
+35 room useful yes
+35 meal instructions yes
+35 meal useful yes
+35 story-bt speech_type extemp
+35 story-bt topic His playing badminton.
+35 general native yes
+35 general dialect Taiwan
+35 general accent none
+35 general background speech none
+35 general environmental noise none
+35 general gender male
+35 general age adult
+35 general intelligibility ok
+35 general connection average

@@ -1,0 +1,26 @@
+95 nlang native yes
+95 clang instructions yes
+95 clang useful yes
+95 dowk complete yes
+95 nums complete yes
+95 htl instructions yes
+95 htl useful yes
+95 htc instructions yes
+95 htc useful yes
+95 room instructions yes
+95 room useful yes
+95 meal instructions yes
+95 meal useful yes
+95 story-bt speech_type extemp
+95 story-bt topic his studies, future plans, misses Argentina
+95 story-at speech_type extemp
+95 story-at topic difficult to make friends here in the U.S.
+95 general native yes
+95 general dialect Argentinian
+95 general accent none
+95 general background speech none
+95 general environmental noise none
+95 general gender male
+95 general age adult
+95 general intelligibility ok
+95 general connection average

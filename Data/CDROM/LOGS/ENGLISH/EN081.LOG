@@ -1,0 +1,85 @@
+81 labeler khoward
+81 label_date Wed Jul  3 10:25:13 PDT 1991
+81 nlang comments BN  
+81 nlang missing nothing
+81 nlang duration_sec 0.9
+81 nlang dc_offset 42
+81 nlang min_samp -962
+81 nlang max_samp 998
+81 nlang min_power10 16.0
+81 nlang max_power90 46.1
+81 clang comments BN  
+81 clang missing nothing
+81 clang duration_sec 0.9
+81 clang dc_offset 42
+81 clang min_samp -786
+81 clang max_samp 722
+81 clang min_power10 16.3
+81 clang max_power90 41.6
+81 dowk comments BN NN  
+81 dowk missing nothing
+81 dowk duration_sec 7.4
+81 dowk dc_offset 42
+81 dowk min_samp -910
+81 dowk max_samp 926
+81 dowk min_power10 16.3
+81 dowk max_power90 44.3
+81 nums comments BN CE NN  
+81 nums missing nine ten
+81 nums duration_sec 9.4
+81 nums dc_offset 42
+81 nums min_samp -882
+81 nums max_samp 1214
+81 nums min_power10 15.8
+81 nums max_power90 43.4
+81 htl comments BN NN  
+81 htl missing nothing
+81 htl duration_sec 6.3
+81 htl dc_offset 42
+81 htl min_samp -1054
+81 htl max_samp 1282
+81 htl min_power10 16.4
+81 htl max_power90 45.1
+81 htc comments CE NN  
+81 htc missing CS
+81 htc duration_sec 8.7
+81 htc dc_offset 42
+81 htc min_samp -946
+81 htc max_samp 894
+81 htc min_power10 16.2
+81 htc max_power90 44.0
+81 room missing nothing
+81 room duration_sec 10.6
+81 room dc_offset 42
+81 room min_samp -1374
+81 room max_samp 1722
+81 room min_power10 16.0
+81 room max_power90 44.9
+81 meal comments EN  
+81 meal missing nothing
+81 meal duration_sec 1.3
+81 meal dc_offset 42
+81 meal min_samp -854
+81 meal max_samp 842
+81 meal min_power10 16.5
+81 meal max_power90 45.8
+81 story-bt comments CE NN SS  
+81 story-bt missing CS
+81 story-bt duration_sec 49.3
+81 story-bt dc_offset 42
+81 story-bt min_samp -1394
+81 story-bt max_samp 1274
+81 story-bt min_power10 15.4
+81 story-bt max_power90 42.8
+81 story-at comments CB NN  
+81 story-at missing CS
+81 story-at duration_sec 10.0
+81 story-at dc_offset 42
+81 story-at min_samp -918
+81 story-at max_samp 894
+81 story-at min_power10 15.7
+81 story-at max_power90 42.7
+81 gender female
+81 age adult
+81 connection average
+81 intelligibility ok

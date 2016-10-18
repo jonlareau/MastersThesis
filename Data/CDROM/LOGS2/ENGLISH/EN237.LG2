@@ -1,0 +1,26 @@
+237 nlang native yes
+237 clang instructions yes
+237 clang useful yes
+237 dowk complete yes
+237 nums complete yes
+237 htl instructions yes
+237 htl useful yes
+237 htc instructions yes
+237 htc useful yes
+237 room instructions yes
+237 room useful yes
+237 meal instructions yes
+237 meal useful yes
+237 story-bt speech_type extemp
+237 story-bt topic describes job and office
+237 story-at speech_type extemp
+237 story-at topic typical room
+237 general native yes
+237 general dialect standard
+237 general accent none
+237 general background speech none
+237 general environmental noise typing and computer hum
+237 general gender male
+237 general age adult
+237 general intelligibility ok
+237 general connection average

@@ -1,0 +1,26 @@
+116 nlang native yes
+116 clang instructions yes
+116 clang useful yes
+116 dowk complete yes
+116 nums complete yes
+116 htl instructions yes
+116 htl useful yes
+116 htc instructions yes
+116 htc useful yes
+116 room instructions yes
+116 room useful yes
+116 meal instructions yes
+116 meal useful yes
+116 story-bt speech_type extemp
+116 story-bt topic his indecision about his future plans in the US
+116 story-at speech_type extemp
+116 story-at topic asks us for advice on what he should do!
+116 general native yes
+116 general dialect formal, written Tamil
+116 general accent none
+116 general background speech none
+116 general environmental noise strong line noise
+116 general gender male
+116 general age adult
+116 general intelligibility ok
+116 general connection poor

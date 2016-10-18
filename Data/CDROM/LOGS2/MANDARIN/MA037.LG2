@@ -1,0 +1,26 @@
+37 nlang native yes
+37 clang instructions yes
+37 clang useful yes
+37 dowk complete yes
+37 nums complete yes
+37 htl instructions yes
+37 htl useful yes
+37 htc instructions yes
+37 htc useful yes
+37 room instructions yes
+37 room useful yes
+37 meal instructions yes
+37 meal useful yes
+37 story-bt speech_type extemp
+37 story-bt topic The computer game her classmate was playing.
+37 story-at speech_type extemp
+37 story-at topic The result of the game.
+37 general native yes
+37 general dialect standard
+37 general accent none
+37 general background speech none
+37 general environmental noise none
+37 general gender female
+37 general age adult
+37 general intelligibility ok
+37 general connection average

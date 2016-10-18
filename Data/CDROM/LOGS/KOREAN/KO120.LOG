@@ -1,0 +1,78 @@
+120 labeler ames
+120 label_date Wed Mar  4 11:14:12 PST 1992
+120 nlang comments EN  
+120 nlang missing nothing
+120 nlang duration_sec 1.5
+120 nlang dc_offset 42
+120 nlang min_samp -4062
+120 nlang max_samp 5990
+120 nlang min_power10 30.3
+120 nlang max_power90 56.6
+120 dowk comments EN  
+120 dowk missing nothing
+120 dowk duration_sec 7.6
+120 dowk dc_offset 42
+120 dowk min_samp -3606
+120 dowk max_samp 5494
+120 dowk min_power10 19.4
+120 dowk max_power90 54.9
+120 nums comments CE EN  
+120 nums missing 8 9 10
+120 nums duration_sec 8.6
+120 nums dc_offset 42
+120 nums min_samp -3194
+120 nums max_samp 4902
+120 nums min_power10 16.7
+120 nums max_power90 52.1
+120 htl comments CE EN ES  
+120 htl missing cs
+120 htl duration_sec 7.5
+120 htl dc_offset 42
+120 htl min_samp -3090
+120 htl max_samp 5014
+120 htl min_power10 24.5
+120 htl max_power90 54.9
+120 htc comments BN CB CE EN ES  
+120 htc missing cs
+120 htc duration_sec 9.3
+120 htc dc_offset 42
+120 htc min_samp -5546
+120 htc max_samp 9782
+120 htc min_power10 25.5
+120 htc max_power90 54.6
+120 room comments BN CE EN ES  
+120 room missing cs
+120 room duration_sec 10.4
+120 room dc_offset 42
+120 room min_samp -15574
+120 room max_samp 13550
+120 room min_power10 22.4
+120 room max_power90 55.0
+120 meal comments CE EN ES  
+120 meal missing cs
+120 meal duration_sec 7.8
+120 meal dc_offset 42
+120 meal min_samp -2010
+120 meal max_samp 2638
+120 meal min_power10 24.0
+120 meal max_power90 52.9
+120 story-bt comments CE EN SS ES SNL  
+120 story-bt missing cs
+120 story-bt duration_sec 45.5
+120 story-bt dc_offset 42
+120 story-bt min_samp -4382
+120 story-bt max_samp 3474
+120 story-bt min_power10 24.5
+120 story-bt max_power90 50.9
+120 story-at comments CB CE EN SS ES  
+120 story-at missing cs
+120 story-at duration_sec 8.1
+120 story-at dc_offset 42
+120 story-at min_samp -2750
+120 story-at max_samp 3266
+120 story-at min_power10 27.7
+120 story-at max_power90 55.1
+120 gender male
+120 age adult
+120 connection poor
+120 intelligibility ok

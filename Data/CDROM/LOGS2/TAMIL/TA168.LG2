@@ -1,0 +1,26 @@
+168 nlang native yes
+168 clang instructions yes
+168 clang useful yes
+168 dowk complete no
+168 dowk partial yes
+168 nums complete no
+168 nums partial yes
+168 htl instructions no
+168 htl useful yes
+168 htc instructions yes
+168 htc useful yes
+168 room instructions yes
+168 room useful yes
+168 meal instructions yes
+168 meal useful yes
+168 story-bt speech_type extemp
+168 story-bt topic Does not like the recording protocol, too little recording time
+168 general native yes
+168 general dialect standard
+168 general accent none
+168 general background speech none
+168 general environmental noise none
+168 general gender male
+168 general age adult
+168 general intelligibility ok
+168 general connection average

@@ -1,0 +1,62 @@
+52 labeler ames
+52 label_date Thu Nov 21 16:38:56 PST 1991
+52 nlang comments EN  
+52 nlang missing nothing
+52 nlang duration_sec 0.7
+52 nlang dc_offset 43
+52 nlang min_samp -983
+52 nlang max_samp 873
+52 nlang min_power10 13.2
+52 nlang max_power90 49.2
+52 clang comments EN  
+52 clang missing nothing
+52 clang duration_sec 0.8
+52 clang dc_offset 43
+52 clang min_samp -755
+52 clang max_samp 813
+52 clang min_power10 13.9
+52 clang max_power90 46.7
+52 dowk comments EN ES  
+52 dowk missing nothing
+52 dowk duration_sec 6.8
+52 dowk dc_offset 43
+52 dowk min_samp -759
+52 dowk max_samp 613
+52 dowk min_power10 14.4
+52 dowk max_power90 44.6
+52 nums comments EN  
+52 nums missing nothing
+52 nums duration_sec 9.5
+52 nums dc_offset 43
+52 nums min_samp -559
+52 nums max_samp 481
+52 nums min_power10 13.6
+52 nums max_power90 41.9
+52 htl comments CE EN  
+52 htl missing cs
+52 htl duration_sec 7.7
+52 htl dc_offset 43
+52 htl min_samp -643
+52 htl max_samp 505
+52 htl min_power10 15.2
+52 htl max_power90 44.1
+52 room comments CE EN ES  
+52 room missing cs
+52 room duration_sec 11.7
+52 room dc_offset 43
+52 room min_samp -535
+52 room max_samp 441
+52 room min_power10 13.5
+52 room max_power90 39.6
+52 meal comments EN SNL  
+52 meal missing nothing
+52 meal duration_sec 1.1
+52 meal dc_offset 43
+52 meal min_samp -695
+52 meal max_samp 501
+52 meal min_power10 15.1
+52 meal max_power90 46.7
+52 gender male
+52 age adult
+52 connection poor
+52 intelligibility poor

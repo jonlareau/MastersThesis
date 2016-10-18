@@ -1,0 +1,27 @@
+173 nlang native yes
+173 clang instructions yes
+173 clang useful yes
+173 dowk complete no
+173 dowk partial yes
+173 nums complete yes
+173 htl instructions yes
+173 htl useful yes
+173 htc instructions yes
+173 htc useful yes
+173 room instructions yes
+173 room useful yes
+173 meal instructions no
+173 meal useful yes
+173 story-bt speech_type extemp
+173 story-bt topic He'd like to make some contribution to the research of speech recognition
+173 story-at speech_type extemp
+173 story-at topic He hopes there is more progress in this project
+173 general native yes
+173 general dialect standard
+173 general accent none
+173 general background speech none
+173 general environmental noise slight line noise
+173 general gender male
+173 general age adult
+173 general intelligibility ok
+173 general connection average

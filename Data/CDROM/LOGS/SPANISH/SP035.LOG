@@ -1,0 +1,83 @@
+35 labeler khoward
+35 label_date Thu Aug  8 16:04:10 PDT 1991
+35 nlang missing nothing
+35 nlang duration_sec 1.1
+35 nlang dc_offset 43
+35 nlang min_samp -879
+35 nlang max_samp 1125
+35 nlang min_power10 12.0
+35 nlang max_power90 45.7
+35 clang missing nothing
+35 clang duration_sec 1.2
+35 clang dc_offset 42
+35 clang min_samp -1026
+35 clang max_samp 1158
+35 clang min_power10 12.6
+35 clang max_power90 42.0
+35 dowk missing nothing
+35 dowk duration_sec 7.1
+35 dowk dc_offset 42
+35 dowk min_samp -1410
+35 dowk max_samp 1642
+35 dowk min_power10 12.5
+35 dowk max_power90 48.6
+35 nums comments CE  
+35 nums missing 9 10
+35 nums duration_sec 9.1
+35 nums dc_offset 42
+35 nums min_samp -1486
+35 nums max_samp 1626
+35 nums min_power10 12.3
+35 nums max_power90 47.9
+35 htl comments EN CE  
+35 htl missing CS
+35 htl duration_sec 7.3
+35 htl dc_offset 43
+35 htl min_samp -1107
+35 htl max_samp 1157
+35 htl min_power10 12.6
+35 htl max_power90 48.9
+35 htc comments BN  
+35 htc missing nothing
+35 htc duration_sec 8.6
+35 htc dc_offset 42
+35 htc min_samp -1282
+35 htc max_samp 1402
+35 htc min_power10 12.1
+35 htc max_power90 49.4
+35 room comments BN  
+35 room missing nothing
+35 room duration_sec 11.8
+35 room dc_offset 42
+35 room min_samp -1346
+35 room max_samp 1210
+35 room min_power10 12.1
+35 room max_power90 42.3
+35 meal comments BN EN  
+35 meal missing nothing
+35 meal duration_sec 8.7
+35 meal dc_offset 43
+35 meal min_samp -1527
+35 meal max_samp 1709
+35 meal min_power10 12.4
+35 meal max_power90 46.7
+35 story-bt comments BN EN SS CE  
+35 story-bt missing CS
+35 story-bt duration_sec 47.6
+35 story-bt dc_offset 43
+35 story-bt min_samp -1483
+35 story-bt max_samp 1769
+35 story-bt min_power10 12.6
+35 story-bt max_power90 43.8
+35 story-at comments BN EN SS CB CE  
+35 story-at missing CS
+35 story-at duration_sec 8.4
+35 story-at dc_offset 43
+35 story-at min_samp -1431
+35 story-at max_samp 1381
+35 story-at min_power10 12.0
+35 story-at max_power90 42.5
+35 gender female
+35 age adult
+35 connection poor
+35 intelligibility ok

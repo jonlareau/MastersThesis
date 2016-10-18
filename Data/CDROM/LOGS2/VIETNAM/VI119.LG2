@@ -1,0 +1,27 @@
+119 nlang native yes
+119 clang instructions yes
+119 clang useful yes
+119 dowk complete no
+119 dowk partial yes
+119 nums complete yes
+119 htl instructions yes
+119 htl useful yes
+119 htc instructions yes
+119 htc useful yes
+119 room instructions yes
+119 room useful yes
+119 meal instructions yes
+119 meal useful yes
+119 story-bt speech_type extemp
+119 story-bt topic Describing San Francisco city
+119 story-at speech_type extemp
+119 story-at topic Describing San Francisco city
+119 general native yes
+119 general dialect standard
+119 general accent none
+119 general background speech none
+119 general environmental noise none
+119 general gender male
+119 general age adult
+119 general intelligibility ok
+119 general connection average

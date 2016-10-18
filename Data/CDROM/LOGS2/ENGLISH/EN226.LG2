@@ -1,0 +1,26 @@
+226 nlang native yes
+226 clang instructions yes
+226 clang useful yes
+226 dowk complete yes
+226 nums complete yes
+226 htl instructions yes
+226 htl useful yes
+226 htc instructions yes
+226 htc useful yes
+226 room instructions yes
+226 room useful yes
+226 meal instructions yes
+226 meal useful yes
+226 story-bt speech_type read
+226 story-bt topic the experiment advertisement
+226 story-at speech_type read
+226 story-at topic the experiment advertisement
+226 general native yes
+226 general dialect standard
+226 general accent none
+226 general background speech none
+226 general environmental noise none
+226 general gender male
+226 general age adult
+226 general intelligibility ok
+226 general connection average

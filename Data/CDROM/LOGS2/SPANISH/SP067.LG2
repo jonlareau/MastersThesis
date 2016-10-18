@@ -1,0 +1,25 @@
+67 nlang native yes
+67 clang instructions yes
+67 clang useful yes
+67 dowk complete yes
+67 nums complete no
+67 nums partial yes
+67 htl instructions yes
+67 htl useful yes
+67 htc instructions no
+67 htc useful yes
+67 meal instructions yes
+67 meal useful yes
+67 story-bt speech_type extemp
+67 story-bt topic his life story, work, studies
+67 story-at speech_type extemp
+67 story-at topic that's all he has to say
+67 general native no
+67 general dialect standard
+67 general accent strong American accent, improper grammar
+67 general background speech none
+67 general environmental noise  a few instances of noise, maybe door slamming
+67 general gender male
+67 general age adult
+67 general intelligibility ok
+67 general connection average

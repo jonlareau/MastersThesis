@@ -1,0 +1,82 @@
+24 labeler khoward
+24 label_date Thu Aug  1 15:36:19 PDT 1991
+24 nlang missing nothing
+24 nlang duration_sec 1.1
+24 nlang dc_offset 42
+24 nlang min_samp -4326
+24 nlang max_samp 6190
+24 nlang min_power10 10.0
+24 nlang max_power90 55.1
+24 clang comments ES  
+24 clang missing nothing
+24 clang duration_sec 2.1
+24 clang dc_offset 42
+24 clang min_samp -10950
+24 clang max_samp 11598
+24 clang min_power10 12.3
+24 clang max_power90 60.9
+24 dowk comments CB  
+24 dowk missing Monday?
+24 dowk duration_sec 5.7
+24 dowk dc_offset 42
+24 dowk min_samp -5654
+24 dowk max_samp 5270
+24 dowk min_power10 10.6
+24 dowk max_power90 58.4
+24 nums comments CB CE  
+24 nums missing 0 10
+24 nums duration_sec 9.4
+24 nums dc_offset 42
+24 nums min_samp -5026
+24 nums max_samp 4442
+24 nums min_power10 10.7
+24 nums max_power90 54.7
+24 htl missing nothing
+24 htl duration_sec 6.7
+24 htl dc_offset 42
+24 htl min_samp -3234
+24 htl max_samp 4762
+24 htl min_power10 11.9
+24 htl max_power90 52.6
+24 htc missing nothing
+24 htc duration_sec 8.4
+24 htc dc_offset 42
+24 htc min_samp -4082
+24 htc max_samp 3346
+24 htc min_power10 12.3
+24 htc max_power90 52.2
+24 room comments CB CE  
+24 room missing CS
+24 room duration_sec 10.8
+24 room dc_offset 42
+24 room min_samp -4910
+24 room max_samp 5214
+24 room min_power10 13.5
+24 room max_power90 55.5
+24 meal missing nothing
+24 meal duration_sec 6.7
+24 meal dc_offset 42
+24 meal min_samp -3430
+24 meal max_samp 4902
+24 meal min_power10 11.9
+24 meal max_power90 54.8
+24 story-bt comments CE EN SS  
+24 story-bt missing CS
+24 story-bt duration_sec 49.4
+24 story-bt dc_offset 42
+24 story-bt min_samp -8374
+24 story-bt max_samp 11318
+24 story-bt min_power10 21.2
+24 story-bt max_power90 56.3
+24 story-at comments EN SS  
+24 story-at missing nothing
+24 story-at duration_sec 8.1
+24 story-at dc_offset 42
+24 story-at min_samp -4786
+24 story-at max_samp 5778
+24 story-at min_power10 15.2
+24 story-at max_power90 52.7
+24 gender male
+24 age adult
+24 connection good
+24 intelligibility ok

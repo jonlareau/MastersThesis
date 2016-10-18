@@ -1,0 +1,84 @@
+57 labeler khoward
+57 label_date Sat Aug 31 10:45:23 PDT 1991
+57 nlang comments ES  
+57 nlang missing nothing
+57 nlang duration_sec 2.0
+57 nlang dc_offset 42
+57 nlang min_samp -1338
+57 nlang max_samp 1082
+57 nlang min_power10 13.0
+57 nlang max_power90 48.9
+57 clang comments CE ES  
+57 clang missing CS
+57 clang duration_sec 1.7
+57 clang dc_offset 42
+57 clang min_samp -1282
+57 clang max_samp 1254
+57 clang min_power10 14.1
+57 clang max_power90 53.3
+57 dowk comments CE  
+57 dowk missing Thursday Friday Saturday Sunday?
+57 dowk duration_sec 4.6
+57 dowk dc_offset 42
+57 dowk min_samp -1786
+57 dowk max_samp 1578
+57 dowk min_power10 14.3
+57 dowk max_power90 48.6
+57 nums missing nothing
+57 nums duration_sec 6.4
+57 nums dc_offset 42
+57 nums min_samp -1210
+57 nums max_samp 1410
+57 nums min_power10 14.7
+57 nums max_power90 48.0
+57 htl missing nothing
+57 htl duration_sec 8.0
+57 htl dc_offset 42
+57 htl min_samp -938
+57 htl max_samp 1178
+57 htl min_power10 14.2
+57 htl max_power90 46.1
+57 htc comments CE EN  
+57 htc missing CS
+57 htc duration_sec 7.9
+57 htc dc_offset 42
+57 htc min_samp -1218
+57 htc max_samp 1202
+57 htc min_power10 12.9
+57 htc max_power90 45.1
+57 room comments EN SNL  
+57 room missing nothing
+57 room duration_sec 11.1
+57 room dc_offset 42
+57 room min_samp -1574
+57 room max_samp 1558
+57 room min_power10 15.3
+57 room max_power90 46.1
+57 meal comments CE  
+57 meal missing CS
+57 meal duration_sec 9.4
+57 meal dc_offset 42
+57 meal min_samp -2322
+57 meal max_samp 1798
+57 meal min_power10 15.1
+57 meal max_power90 50.9
+57 story-bt comments CE SS  
+57 story-bt missing CS
+57 story-bt duration_sec 47.5
+57 story-bt dc_offset 42
+57 story-bt min_samp -1802
+57 story-bt max_samp 1982
+57 story-bt min_power10 15.5
+57 story-bt max_power90 48.9
+57 story-at comments CE SS  
+57 story-at missing CS
+57 story-at duration_sec 9.1
+57 story-at dc_offset 42
+57 story-at min_samp -1598
+57 story-at max_samp 1662
+57 story-at min_power10 13.7
+57 story-at max_power90 49.3
+57 gender male
+57 age adult
+57 connection average
+57 intelligibility ok

@@ -1,0 +1,66 @@
+1 labeler yeshwant
+1 label_date Fri Jul  5 11:18:25 PDT 1991
+1 nlang missing nothing
+1 nlang duration_sec 1.5
+1 nlang dc_offset 42
+1 nlang min_samp -2666
+1 nlang max_samp 4702
+1 nlang min_power10 24.1
+1 nlang max_power90 57.8
+1 clang comments CE ES  
+1 clang missing nothing
+1 clang duration_sec 2.2
+1 clang dc_offset 42
+1 clang min_samp -2370
+1 clang max_samp 3602
+1 clang min_power10 27.0
+1 clang max_power90 57.9
+1 dowk missing nothing
+1 dowk duration_sec 4.8
+1 dowk dc_offset 42
+1 dowk min_samp -2086
+1 dowk max_samp 3106
+1 dowk min_power10 23.8
+1 dowk max_power90 55.5
+1 nums comments EN  
+1 nums missing nothing
+1 nums duration_sec 8.6
+1 nums dc_offset 42
+1 nums min_samp -2566
+1 nums max_samp 2790
+1 nums min_power10 23.0
+1 nums max_power90 54.6
+1 htl missing nothing
+1 htl duration_sec 2.8
+1 htl dc_offset 42
+1 htl min_samp -2782
+1 htl max_samp 2998
+1 htl min_power10 24.6
+1 htl max_power90 59.0
+1 htc comments BN  
+1 htc missing nothing
+1 htc duration_sec 7.4
+1 htc dc_offset 42
+1 htc min_samp -1606
+1 htc max_samp 2750
+1 htc min_power10 23.9
+1 htc max_power90 52.5
+1 room missing nothing
+1 room duration_sec 8.2
+1 room dc_offset 42
+1 room min_samp -3886
+1 room max_samp 5438
+1 room min_power10 23.3
+1 room max_power90 55.0
+1 meal comments EN ES  
+1 meal missing nothing
+1 meal duration_sec 4.6
+1 meal dc_offset 42
+1 meal min_samp -3486
+1 meal max_samp 4814
+1 meal min_power10 25.1
+1 meal max_power90 60.2
+1 gender female
+1 age adult
+1 connection average
+1 intelligibility ok

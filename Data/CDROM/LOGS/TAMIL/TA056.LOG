@@ -1,0 +1,83 @@
+56 labeler khoward
+56 label_date Sat Aug 31 10:31:22 PDT 1991
+56 nlang comments CB  
+56 nlang missing CS
+56 nlang duration_sec 0.7
+56 nlang dc_offset 42
+56 nlang min_samp -1042
+56 nlang max_samp 910
+56 nlang min_power10 21.9
+56 nlang max_power90 44.5
+56 clang comments CE ES  
+56 clang missing CS
+56 clang duration_sec 2.0
+56 clang dc_offset 42
+56 clang min_samp -2946
+56 clang max_samp 2558
+56 clang min_power10 23.3
+56 clang max_power90 52.9
+56 dowk missing nothing
+56 dowk duration_sec 5.3
+56 dowk dc_offset 42
+56 dowk min_samp -2214
+56 dowk max_samp 2270
+56 dowk min_power10 21.8
+56 dowk max_power90 53.3
+56 nums missing nothing
+56 nums duration_sec 8.3
+56 nums dc_offset 42
+56 nums min_samp -2982
+56 nums max_samp 2282
+56 nums min_power10 21.3
+56 nums max_power90 52.4
+56 htl comments CE  
+56 htl missing CS
+56 htl duration_sec 7.2
+56 htl dc_offset 42
+56 htl min_samp -2626
+56 htl max_samp 2882
+56 htl min_power10 22.1
+56 htl max_power90 55.9
+56 htc missing nothing
+56 htc duration_sec 9.0
+56 htc dc_offset 42
+56 htc min_samp -3034
+56 htc max_samp 3078
+56 htc min_power10 21.3
+56 htc max_power90 54.4
+56 room comments CE  
+56 room missing CS
+56 room duration_sec 10.2
+56 room dc_offset 42
+56 room min_samp -2510
+56 room max_samp 2318
+56 room min_power10 21.6
+56 room max_power90 55.1
+56 meal comments SNL  
+56 meal missing nothing
+56 meal duration_sec 9.5
+56 meal dc_offset 42
+56 meal min_samp -2850
+56 meal max_samp 3062
+56 meal min_power10 21.7
+56 meal max_power90 54.0
+56 story-bt comments CE SS  
+56 story-bt missing CS
+56 story-bt duration_sec 48.4
+56 story-bt dc_offset 42
+56 story-bt min_samp -4218
+56 story-bt max_samp 5338
+56 story-bt min_power10 22.4
+56 story-bt max_power90 57.0
+56 story-at comments CE SS  
+56 story-at missing CS
+56 story-at duration_sec 8.2
+56 story-at dc_offset 42
+56 story-at min_samp -3450
+56 story-at max_samp 3494
+56 story-at min_power10 22.2
+56 story-at max_power90 55.2
+56 gender male
+56 age adult
+56 connection average
+56 intelligibility ok

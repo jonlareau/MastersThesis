@@ -1,0 +1,26 @@
+40 nlang native yes
+40 clang instructions yes
+40 clang useful yes
+40 dowk complete yes
+40 nums complete yes
+40 htl instructions yes
+40 htl useful yes
+40 htc instructions yes
+40 htc useful yes
+40 room instructions yes
+40 room useful yes
+40 meal instructions yes
+40 meal useful yes
+40 story-bt speech_type extemp
+40 story-bt topic the three little pigs, the guy does his own version
+40 story-at speech_type extemp
+40 story-at topic talking about the pigs building their houses
+40 general native yes
+40 general dialect standard
+40 general accent none
+40 general background speech none
+40 general environmental noise none
+40 general gender male
+40 general age adult
+40 general intelligibility ok
+40 general connection average

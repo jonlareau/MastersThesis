@@ -1,0 +1,26 @@
+30 nlang native yes
+30 clang instructions yes
+30 clang useful yes
+30 dowk complete yes
+30 nums complete yes
+30 htl instructions yes
+30 htl useful yes
+30 htc instructions yes
+30 htc useful yes
+30 room instructions yes
+30 room useful yes
+30 meal instructions yes
+30 meal useful yes
+30 story-bt speech_type extemp
+30 story-bt topic Life in the U.S.
+30 story-at speech_type extemp
+30 story-at topic Life in the U.S.
+30 general native yes
+30 general dialect Argentinian
+30 general accent none
+30 general background speech none
+30 general environmental noise none
+30 general gender female
+30 general age adult
+30 general intelligibility ok
+30 general connection average

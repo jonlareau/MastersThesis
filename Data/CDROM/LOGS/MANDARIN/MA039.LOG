@@ -1,0 +1,81 @@
+39 labeler khoward
+39 label_date Fri Aug  9 14:14:37 PDT 1991
+39 nlang missing nothing
+39 nlang duration_sec 1.0
+39 nlang dc_offset 42
+39 nlang min_samp -1862
+39 nlang max_samp 1990
+39 nlang min_power10 16.9
+39 nlang max_power90 51.1
+39 clang missing nothing
+39 clang duration_sec 0.9
+39 clang dc_offset 42
+39 clang min_samp -1902
+39 clang max_samp 2214
+39 clang min_power10 17.0
+39 clang max_power90 52.8
+39 dowk missing nothing
+39 dowk duration_sec 5.8
+39 dowk dc_offset 42
+39 dowk min_samp -1370
+39 dowk max_samp 2070
+39 dowk min_power10 18.4
+39 dowk max_power90 46.3
+39 nums missing nothing
+39 nums duration_sec 7.7
+39 nums dc_offset 42
+39 nums min_samp -2434
+39 nums max_samp 2838
+39 nums min_power10 17.2
+39 nums max_power90 49.8
+39 htl comments BN CE  
+39 htl missing CS
+39 htl duration_sec 6.9
+39 htl dc_offset 42
+39 htl min_samp -3866
+39 htl max_samp 2958
+39 htl min_power10 17.7
+39 htl max_power90 49.0
+39 htc comments BN  
+39 htc missing nothing
+39 htc duration_sec 3.3
+39 htc dc_offset 42
+39 htc min_samp -2682
+39 htc max_samp 3062
+39 htc min_power10 17.3
+39 htc max_power90 53.1
+39 room missing nothing
+39 room duration_sec 10.4
+39 room dc_offset 42
+39 room min_samp -2382
+39 room max_samp 2430
+39 room min_power10 17.7
+39 room max_power90 46.8
+39 meal comments BN SNL  
+39 meal missing nothing
+39 meal duration_sec 7.4
+39 meal dc_offset 42
+39 meal min_samp -2462
+39 meal max_samp 2794
+39 meal min_power10 17.3
+39 meal max_power90 48.6
+39 story-bt comments BN CE SS  
+39 story-bt missing CS
+39 story-bt duration_sec 47.1
+39 story-bt dc_offset 42
+39 story-bt min_samp -2062
+39 story-bt max_samp 2118
+39 story-bt min_power10 17.9
+39 story-bt max_power90 46.5
+39 story-at comments BN SS  
+39 story-at missing nothing
+39 story-at duration_sec 5.0
+39 story-at dc_offset 42
+39 story-at min_samp -1294
+39 story-at max_samp 1326
+39 story-at min_power10 18.8
+39 story-at max_power90 46.9
+39 gender male
+39 age adult
+39 connection average
+39 intelligibility ok

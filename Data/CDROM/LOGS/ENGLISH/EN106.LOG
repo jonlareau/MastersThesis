@@ -1,0 +1,70 @@
+106 labeler khoward
+106 label_date Fri Dec 13 19:07:12 PST 1991
+106 dowk comments BN CE  
+106 dowk missing Sunday
+106 dowk duration_sec 6.5
+106 dowk dc_offset 42
+106 dowk min_samp -2806
+106 dowk max_samp 2298
+106 dowk min_power10 15.1
+106 dowk max_power90 51.2
+106 nums comments BN CB  
+106 nums missing 0
+106 nums duration_sec 8.5
+106 nums dc_offset 42
+106 nums min_samp -1430
+106 nums max_samp 1686
+106 nums min_power10 14.4
+106 nums max_power90 48.1
+106 htl comments BN CE EN  
+106 htl missing CS
+106 htl duration_sec 9.3
+106 htl dc_offset 42
+106 htl min_samp -2482
+106 htl max_samp 3126
+106 htl min_power10 13.8
+106 htl max_power90 49.9
+106 htc comments CE BN  
+106 htc missing CS
+106 htc duration_sec 9.3
+106 htc dc_offset 42
+106 htc min_samp -1862
+106 htc max_samp 1730
+106 htc min_power10 14.4
+106 htc max_power90 50.8
+106 room comments BN CE  
+106 room missing CS
+106 room duration_sec 11.5
+106 room dc_offset 42
+106 room min_samp -2330
+106 room max_samp 1814
+106 room min_power10 14.4
+106 room max_power90 49.4
+106 meal comments BN  
+106 meal missing nothing
+106 meal duration_sec 3.4
+106 meal dc_offset 42
+106 meal min_samp -1574
+106 meal max_samp 1210
+106 meal min_power10 13.8
+106 meal max_power90 49.5
+106 story-bt comments BN CE SS  
+106 story-bt missing CS
+106 story-bt duration_sec 48.6
+106 story-bt dc_offset 42
+106 story-bt min_samp -1910
+106 story-bt max_samp 1950
+106 story-bt min_power10 14.0
+106 story-bt max_power90 44.6
+106 story-at comments BN CE SS  
+106 story-at missing CS
+106 story-at duration_sec 9.4
+106 story-at dc_offset 42
+106 story-at min_samp -1758
+106 story-at max_samp 1542
+106 story-at min_power10 13.9
+106 story-at max_power90 47.6
+106 gender female
+106 age adult
+106 connection poor
+106 intelligibility ok

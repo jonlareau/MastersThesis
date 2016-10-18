@@ -1,0 +1,56 @@
+96 labeler khoward
+96 label_date Fri Jan  3 09:33:14 PST 1992
+96 nlang missing nothing
+96 nlang duration_sec 1.0
+96 nlang dc_offset 42
+96 nlang min_samp -3126
+96 nlang max_samp 2398
+96 nlang min_power10 15.9
+96 nlang max_power90 58.0
+96 clang comments ES  
+96 clang missing nothing
+96 clang duration_sec 1.4
+96 clang dc_offset 42
+96 clang min_samp -1922
+96 clang max_samp 2206
+96 clang min_power10 16.7
+96 clang max_power90 53.8
+96 dowk missing nothing
+96 dowk duration_sec 4.6
+96 dowk dc_offset 42
+96 dowk min_samp -2282
+96 dowk max_samp 1634
+96 dowk min_power10 17.1
+96 dowk max_power90 53.1
+96 nums missing nothing
+96 nums duration_sec 6.4
+96 nums dc_offset 42
+96 nums min_samp -3766
+96 nums max_samp 3506
+96 nums min_power10 16.1
+96 nums max_power90 51.3
+96 htl missing nothing
+96 htl duration_sec 1.3
+96 htl dc_offset 42
+96 htl min_samp -5374
+96 htl max_samp 4290
+96 htl min_power10 18.0
+96 htl max_power90 55.5
+96 htc missing nothing
+96 htc duration_sec 1.1
+96 htc dc_offset 42
+96 htc min_samp -2438
+96 htc max_samp 1622
+96 htc min_power10 16.3
+96 htc max_power90 49.2
+96 room missing nothing
+96 room duration_sec 1.0
+96 room dc_offset 42
+96 room min_samp -2050
+96 room max_samp 2294
+96 room min_power10 16.3
+96 room max_power90 51.3
+96 gender male
+96 age adult
+96 connection average
+96 intelligibility ok

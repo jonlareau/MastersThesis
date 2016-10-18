@@ -1,0 +1,82 @@
+73 labeler khoward
+73 label_date Fri Jan  3 10:27:47 PST 1992
+73 nlang missing nothing
+73 nlang duration_sec 1.2
+73 nlang dc_offset 42
+73 nlang min_samp -2118
+73 nlang max_samp 2162
+73 nlang min_power10 20.7
+73 nlang max_power90 46.5
+73 clang comments ES  
+73 clang missing nothing
+73 clang duration_sec 1.4
+73 clang dc_offset 42
+73 clang min_samp -2286
+73 clang max_samp 2070
+73 clang min_power10 20.8
+73 clang max_power90 50.2
+73 dowk comments CE  
+73 dowk missing Saturday
+73 dowk duration_sec 7.3
+73 dowk dc_offset 42
+73 dowk min_samp -1782
+73 dowk max_samp 1890
+73 dowk min_power10 20.7
+73 dowk max_power90 50.7
+73 nums comments CE  
+73 nums missing 8 9 10
+73 nums duration_sec 9.4
+73 nums dc_offset 42
+73 nums min_samp -1822
+73 nums max_samp 1874
+73 nums min_power10 20.4
+73 nums max_power90 50.1
+73 htl missing nothing
+73 htl duration_sec 8.8
+73 htl dc_offset 42
+73 htl min_samp -2382
+73 htl max_samp 1962
+73 htl min_power10 20.9
+73 htl max_power90 50.2
+73 htc missing nothing
+73 htc duration_sec 6.6
+73 htc dc_offset 42
+73 htc min_samp -1582
+73 htc max_samp 1526
+73 htc min_power10 21.0
+73 htc max_power90 51.0
+73 room comments CE  
+73 room missing CS
+73 room duration_sec 10.4
+73 room dc_offset 42
+73 room min_samp -1674
+73 room max_samp 1530
+73 room min_power10 21.0
+73 room max_power90 47.5
+73 meal missing nothing
+73 meal duration_sec 7.3
+73 meal dc_offset 42
+73 meal min_samp -1914
+73 meal max_samp 1878
+73 meal min_power10 21.0
+73 meal max_power90 49.7
+73 story-bt comments SS  
+73 story-bt missing nothing
+73 story-bt duration_sec 48.0
+73 story-bt dc_offset 42
+73 story-bt min_samp -1838
+73 story-bt max_samp 1546
+73 story-bt min_power10 21.3
+73 story-bt max_power90 46.6
+73 story-at comments CB SS  
+73 story-at missing CS
+73 story-at duration_sec 8.0
+73 story-at dc_offset 42
+73 story-at min_samp -846
+73 story-at max_samp 998
+73 story-at min_power10 20.7
+73 story-at max_power90 42.3
+73 gender male
+73 age adult
+73 connection average
+73 intelligibility ok

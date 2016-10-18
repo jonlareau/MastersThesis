@@ -1,0 +1,26 @@
+115 nlang native no
+115 nlang useful yes
+115 dowk complete yes
+115 nums complete no
+115 nums partial yes
+115 htl instructions yes
+115 htl useful yes
+115 htc instructions yes
+115 htc useful yes
+115 room instructions yes
+115 room useful yes
+115 meal instructions yes
+115 meal useful yes
+115 story-bt speech_type extemp
+115 story-bt topic his studies, what he likes to do
+115 story-at speech_type extemp
+115 story-at topic noting that he has nothing more to say
+115 general native no
+115 general dialect standard
+115 general accent American
+115 general background speech none
+115 general environmental noise none
+115 general gender male
+115 general age adult
+115 general intelligibility ok
+115 general connection average

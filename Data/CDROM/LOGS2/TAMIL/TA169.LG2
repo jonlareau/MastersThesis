@@ -1,0 +1,28 @@
+169 nlang native yes
+169 clang instructions no
+169 clang useful yes
+169 dowk complete no
+169 dowk partial yes
+169 nums complete no
+169 nums partial yes
+169 htl instructions yes
+169 htl useful yes
+169 htc instructions yes
+169 htc useful yes
+169 room instructions yes
+169 room useful yes
+169 meal instructions yes
+169 meal useful yes
+169 story-bt speech_type extemp
+169 story-bt topic The mix of people of different nationalities in Santa Clara
+169 story-at speech_type extemp
+169 story-at topic There are a lot of beaches here and he likes the place
+169 general native yes
+169 general dialect mix of spoken and written Tamil
+169 general accent none
+169 general background speech none
+169 general environmental noise line noise
+169 general gender male
+169 general age adult
+169 general intelligibility ok
+169 general connection average

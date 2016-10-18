@@ -1,0 +1,26 @@
+167 nlang native yes
+167 clang instructions yes
+167 clang useful yes
+167 dowk complete yes
+167 nums complete yes
+167 htl instructions yes
+167 htl useful yes
+167 htc instructions yes
+167 htc useful yes
+167 room instructions yes
+167 room useful yes
+167 meal instructions yes
+167 meal useful yes
+167 story-bt speech_type recite
+167 story-bt topic poem 
+167 story-at speech_type recite
+167 story-at topic coming in
+167 general native yes
+167 general dialect standard
+167 general accent british
+167 general background speech none
+167 general environmental noise none
+167 general gender male
+167 general age adult
+167 general intelligibility ok
+167 general connection average

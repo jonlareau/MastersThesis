@@ -1,0 +1,81 @@
+139 labeler khoward
+139 label_date Fri Jun 12 08:47:40 PDT 1992
+139 nlang missing nothing
+139 nlang duration_sec 1.2
+139 nlang dc_offset 42
+139 nlang min_samp -2430
+139 nlang max_samp 3134
+139 nlang min_power10 24.8
+139 nlang max_power90 53.7
+139 clang comments CE ES  
+139 clang missing CS
+139 clang duration_sec 0.9
+139 clang dc_offset 42
+139 clang min_samp -862
+139 clang max_samp 1426
+139 clang min_power10 25.5
+139 clang max_power90 48.0
+139 dowk comments CB  
+139 dowk missing Monday Tuesday Wednesday Thursday?
+139 dowk duration_sec 1.9
+139 dowk dc_offset 42
+139 dowk min_samp -1534
+139 dowk max_samp 2158
+139 dowk min_power10 24.6
+139 dowk max_power90 50.5
+139 nums missing nothing
+139 nums duration_sec 6.1
+139 nums dc_offset 42
+139 nums min_samp -1690
+139 nums max_samp 1910
+139 nums min_power10 25.3
+139 nums max_power90 51.7
+139 htl missing nothing
+139 htl duration_sec 7.3
+139 htl dc_offset 42
+139 htl min_samp -1962
+139 htl max_samp 2090
+139 htl min_power10 25.6
+139 htl max_power90 52.8
+139 htc missing nothing
+139 htc duration_sec 5.4
+139 htc dc_offset 42
+139 htc min_samp -2374
+139 htc max_samp 3494
+139 htc min_power10 26.4
+139 htc max_power90 54.0
+139 room comments CE SNL  
+139 room missing CS
+139 room duration_sec 10.0
+139 room dc_offset 42
+139 room min_samp -2030
+139 room max_samp 2438
+139 room min_power10 25.4
+139 room max_power90 47.5
+139 meal missing nothing
+139 meal duration_sec 8.5
+139 meal dc_offset 42
+139 meal min_samp -2578
+139 meal max_samp 2590
+139 meal min_power10 25.5
+139 meal max_power90 50.9
+139 story-bt comments SS
+139 story-bt missing nothing
+139 story-bt duration_sec 30.8
+139 story-bt dc_offset 42
+139 story-bt min_samp -1210
+139 story-bt max_samp 1782
+139 story-bt min_power10 25.6
+139 story-bt max_power90 44.5
+139 story-at comments CE SS  
+139 story-at missing CS
+139 story-at duration_sec 5.0
+139 story-at dc_offset 42
+139 story-at min_samp -814
+139 story-at max_samp 730
+139 story-at min_power10 24.2
+139 story-at max_power90 42.1
+139 gender male
+139 age adult
+139 connection average
+139 intelligibility ok

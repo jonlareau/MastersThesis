@@ -1,0 +1,26 @@
+177 nlang native yes
+177 clang instructions yes
+177 clang useful yes
+177 dowk complete yes
+177 nums complete yes
+177 htl instructions yes
+177 htl useful yes
+177 htc instructions yes
+177 htc useful yes
+177 room instructions yes
+177 room useful yes
+177 meal instructions yes
+177 meal useful yes
+177 story-bt speech_type read
+177 story-bt topic reads technical manual
+177 story-at speech_type read
+177 story-at topic reads technical manual
+177 general native yes
+177 general dialect standard
+177 general accent none
+177 general background speech none
+177 general environmental noise none
+177 general gender male
+177 general age adult
+177 general intelligibility ok
+177 general connection average

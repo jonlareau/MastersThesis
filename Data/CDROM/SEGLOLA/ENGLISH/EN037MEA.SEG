@@ -1,0 +1,22 @@
+# Lola file written by    ames
+#           written using Lyre Version of Tue Feb 18 14:32:10 PST 1992
+#           written on    Fri Feb 28 12:34:36 1992
+#           written as    test.lola
+#$ UNITS 3 1000 (3 millisecond frames)
+       0      93	CLOS
+      93      98	STOP
+      98     138	VOC
+     138     150	CLOS
+     150     155	STOP
+     155     202	VOC
+     202     263	CLOS
+     263     295	FRIC
+     295     301	PRVS
+     301     381	VOC
+     381     446	FRIC
+     446     649	CLOS
+     649     668	STOP
+     668     698	VOC
+     698     722	CLOS
+     722     742	STOP
+     742     829	CLOS

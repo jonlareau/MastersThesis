@@ -1,0 +1,24 @@
+65 nlang native yes
+65 dowk complete yes
+65 nums complete yes
+65 htl instructions yes
+65 htl useful yes
+65 htc instructions yes
+65 htc useful yes
+65 room instructions no
+65 room useful yes
+65 meal instructions yes
+65 meal useful yes
+65 story-bt speech_type extemp
+65 story-bt topic He found your phone number in "Social .Cluture.french"hopes to have news 
+65 story-at speech_type extemp
+65 story-at topic he wants to keep having cotacts with french or english speaking persons
+65 general native yes
+65 general dialect standard
+65 general accent canadian
+65 general background speech none
+65 general environmental noise none
+65 general gender male
+65 general age adult
+65 general intelligibility ok
+65 general connection average

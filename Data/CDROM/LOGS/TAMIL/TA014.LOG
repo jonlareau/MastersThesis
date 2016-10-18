@@ -1,0 +1,80 @@
+14 labeler yeshwant
+14 label_date Thu Jul 18 19:07:07 PDT 1991
+14 nlang comments EN  
+14 nlang missing nothing
+14 nlang duration_sec 0.9
+14 nlang dc_offset 42
+14 nlang min_samp -3210
+14 nlang max_samp 2930
+14 nlang min_power10 22.6
+14 nlang max_power90 58.7
+14 clang comments EN  
+14 clang missing nothing
+14 dowk comments EN  
+14 dowk missing nothing
+14 dowk duration_sec 5.3
+14 dowk dc_offset 42
+14 dowk min_samp -3002
+14 dowk max_samp 2322
+14 dowk min_power10 23.3
+14 dowk max_power90 54.5
+14 nums comments EN  
+14 nums missing nothing
+14 nums duration_sec 8.5
+14 nums dc_offset 42
+14 nums min_samp -2234
+14 nums max_samp 1554
+14 nums min_power10 22.5
+14 nums max_power90 48.3
+14 htl comments EN  
+14 htl missing nothing
+14 htl duration_sec 1.7
+14 htl dc_offset 42
+14 htl min_samp -2050
+14 htl max_samp 1362
+14 htl min_power10 23.4
+14 htl max_power90 47.2
+14 htc comments CE EN SNL  
+14 htc missing CS
+14 htc duration_sec 6.6
+14 htc dc_offset 42
+14 htc min_samp -2410
+14 htc max_samp 1602
+14 htc min_power10 23.1
+14 htc max_power90 49.8
+14 room comments EN SNL  
+14 room missing nothing
+14 room duration_sec 9.6
+14 room dc_offset 42
+14 room min_samp -2578
+14 room max_samp 1594
+14 room min_power10 22.6
+14 room max_power90 47.6
+14 meal comments EN SNL  
+14 meal missing nothing
+14 meal duration_sec 8.9
+14 meal dc_offset 42
+14 meal min_samp -2542
+14 meal max_samp 1614
+14 meal min_power10 22.4
+14 meal max_power90 44.8
+14 story-bt comments CE EN SNL  
+14 story-bt missing CS
+14 story-bt duration_sec 47.7
+14 story-bt dc_offset 42
+14 story-bt min_samp -3598
+14 story-bt max_samp 2782
+14 story-bt min_power10 22.7
+14 story-bt max_power90 47.5
+14 story-at comments CE EN  
+14 story-at missing CS
+14 story-at duration_sec 2.3
+14 story-at dc_offset 42
+14 story-at min_samp -1586
+14 story-at max_samp 1314
+14 story-at min_power10 22.2
+14 story-at max_power90 46.9
+14 gender male
+14 age adult
+14 connection average
+14 intelligibility ok

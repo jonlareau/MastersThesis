@@ -1,0 +1,26 @@
+51 nlang native yes
+51 clang instructions yes
+51 clang useful yes
+51 dowk complete yes
+51 nums complete yes
+51 htl instructions yes
+51 htl useful yes
+51 htc instructions yes
+51 htc useful yes
+51 room instructions yes
+51 room useful yes
+51 meal instructions yes
+51 meal useful yes
+51 story-bt speech_type extemp
+51 story-bt topic talking about her family and her dog who had surgery
+51 story-at speech_type extemp
+51 story-at topic everyone is healthy and they are having lots of fun
+51 general native yes
+51 general dialect standard
+51 general accent none
+51 general background speech none
+51 general environmental noise none
+51 general gender female
+51 general age adult
+51 general intelligibility ok
+51 general connection average

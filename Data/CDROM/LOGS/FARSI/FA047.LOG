@@ -1,0 +1,86 @@
+47 labeler yeshwant
+47 label_date Mon Aug 12 19:06:30 PDT 1991
+47 nlang comments BN  
+47 nlang missing nothing
+47 nlang duration_sec 1.1
+47 nlang dc_offset 42
+47 nlang min_samp -13802
+47 nlang max_samp 11974
+47 nlang min_power10 24.4
+47 nlang max_power90 70.9
+47 clang comments CE  
+47 clang missing cs
+47 clang duration_sec 1.4
+47 clang dc_offset 42
+47 clang min_samp -7746
+47 clang max_samp 6982
+47 clang min_power10 26.7
+47 clang max_power90 63.0
+47 dowk comments BN CB  
+47 dowk missing sunday
+47 dowk duration_sec 4.1
+47 dowk dc_offset 42
+47 dowk min_samp -2406
+47 dowk max_samp 2118
+47 dowk min_power10 29.8
+47 dowk max_power90 54.3
+47 nums comments CB  
+47 nums missing zero
+47 nums duration_sec 6.0
+47 nums dc_offset 42
+47 nums min_samp -4562
+47 nums max_samp 3674
+47 nums min_power10 29.7
+47 nums max_power90 58.9
+47 htl comments BN CE  
+47 htl missing cs
+47 htl duration_sec 9.7
+47 htl dc_offset 42
+47 htl min_samp -8582
+47 htl max_samp 9294
+47 htl min_power10 25.4
+47 htl max_power90 60.8
+47 htc comments EN  
+47 htc missing cs
+47 htc duration_sec 8.3
+47 htc dc_offset 42
+47 htc min_samp -5942
+47 htc max_samp 5470
+47 htc min_power10 25.5
+47 htc max_power90 60.6
+47 room comments CE ES SNL  
+47 room missing cs
+47 room duration_sec 8.9
+47 room dc_offset 42
+47 room min_samp -8454
+47 room max_samp 8790
+47 room min_power10 20.9
+47 room max_power90 60.3
+47 meal comments EN  
+47 meal missing nothing
+47 meal duration_sec 4.0
+47 meal dc_offset 42
+47 meal min_samp -4342
+47 meal max_samp 4362
+47 meal min_power10 20.7
+47 meal max_power90 53.9
+47 story-bt comments SS ES SNL  
+47 story-bt missing nothing
+47 story-bt duration_sec 46.0
+47 story-bt dc_offset 42
+47 story-bt min_samp -8470
+47 story-bt max_samp 7394
+47 story-bt min_power10 22.2
+47 story-bt max_power90 57.0
+47 story-at comments BN CE EN SS ES  
+47 story-at missing cs
+47 story-at duration_sec 8.1
+47 story-at dc_offset 42
+47 story-at min_samp -5586
+47 story-at max_samp 6070
+47 story-at min_power10 29.1
+47 story-at max_power90 59.2
+47 gender male
+47 age adult
+47 connection average
+47 intelligibility ok

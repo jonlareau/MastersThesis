@@ -1,0 +1,25 @@
+100 nlang native yes
+100 clang instructions yes
+100 clang useful yes
+100 nums complete yes
+100 htl instructions no
+100 htl useful yes
+100 htc instructions yes
+100 htc useful yes
+100 room instructions yes
+100 room useful yes
+100 meal instructions yes
+100 meal useful yes
+100 story-bt speech_type extemp
+100 story-bt topic Description of the environment of Dallas
+100 story-at speech_type extemp
+100 story-at topic The school is rather good for her children
+100 general native yes
+100 general dialect standard
+100 general accent Taiwan accent
+100 general background speech none
+100 general environmental noise none
+100 general gender female
+100 general age adult
+100 general intelligibility ok
+100 general connection average

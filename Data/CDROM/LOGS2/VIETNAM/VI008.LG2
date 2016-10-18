@@ -1,0 +1,25 @@
+8 nlang native yes
+8 clang instructions yes
+8 clang useful yes
+8 dowk complete no
+8 dowk partial yes
+8 nums complete yes
+8 htl instructions no
+8 htl useful yes
+8 htc instructions yes
+8 htc useful yes
+8 room instructions yes
+8 room useful yes
+8 meal instructions yes
+8 meal useful yes
+8 story-bt speech_type extemp
+8 story-bt topic swimming
+8 general native yes
+8 general dialect standard
+8 general accent none
+8 general background speech none
+8 general environmental noise none
+8 general gender female
+8 general age adult
+8 general intelligibility ok
+8 general connection average

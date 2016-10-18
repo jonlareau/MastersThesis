@@ -1,0 +1,23 @@
+73 nlang native yes
+73 clang instructions yes
+73 clang useful yes
+73 dowk complete yes
+73 nums complete no
+73 nums partial yes
+73 htc instructions yes
+73 htc useful yes
+73 room instructions yes
+73 room useful yes
+73 meal instructions yes
+73 meal useful yes
+73 story-bt speech_type extemp
+73 story-bt topic I had a stressful life, but I thank God for having a good life now.
+73 general native yes
+73 general dialect standard
+73 general accent none
+73 general background speech none
+73 general environmental noise a bad phone-line connection
+73 general gender female
+73 general age adult
+73 general intelligibility ok
+73 general connection average

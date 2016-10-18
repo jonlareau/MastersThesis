@@ -1,0 +1,84 @@
+35 labeler khoward
+35 label_date Mon Aug  5 15:07:33 PDT 1991
+35 nlang missing nothing
+35 nlang duration_sec 1.3
+35 nlang dc_offset 42
+35 nlang min_samp -858
+35 nlang max_samp 1082
+35 nlang min_power10 14.4
+35 nlang max_power90 49.9
+35 clang comments CE  
+35 clang missing CS
+35 clang duration_sec 2.0
+35 clang dc_offset 42
+35 clang min_samp -1378
+35 clang max_samp 1446
+35 clang min_power10 17.4
+35 clang max_power90 52.3
+35 dowk comments NI  
+35 dowk missing nothing
+35 dowk duration_sec 3.2
+35 dowk dc_offset 42
+35 dowk min_samp -2350
+35 dowk max_samp 2578
+35 dowk min_power10 15.8
+35 dowk max_power90 51.8
+35 nums missing nothing
+35 nums duration_sec 4.8
+35 nums dc_offset 42
+35 nums min_samp -2142
+35 nums max_samp 2834
+35 nums min_power10 15.6
+35 nums max_power90 51.7
+35 htl comments CE  
+35 htl missing CS
+35 htl duration_sec 9.0
+35 htl dc_offset 42
+35 htl min_samp -1538
+35 htl max_samp 1686
+35 htl min_power10 15.7
+35 htl max_power90 49.1
+35 htc comments CE SNL  
+35 htc missing CS
+35 htc duration_sec 9.5
+35 htc dc_offset 42
+35 htc min_samp -1410
+35 htc max_samp 2122
+35 htc min_power10 15.3
+35 htc max_power90 46.9
+35 room comments CE SNL  
+35 room missing CS
+35 room duration_sec 11.2
+35 room dc_offset 42
+35 room min_samp -1318
+35 room max_samp 1130
+35 room min_power10 14.8
+35 room max_power90 47.7
+35 meal comments EN  
+35 meal missing nothing
+35 meal duration_sec 8.8
+35 meal dc_offset 42
+35 meal min_samp -1358
+35 meal max_samp 1234
+35 meal min_power10 16.3
+35 meal max_power90 47.6
+35 story-bt comments CE EN SS SNL  
+35 story-bt missing CS
+35 story-bt duration_sec 48.7
+35 story-bt dc_offset 42
+35 story-bt min_samp -1790
+35 story-bt max_samp 1706
+35 story-bt min_power10 16.2
+35 story-bt max_power90 44.2
+35 story-at comments CB EN SS  
+35 story-at missing CS
+35 story-at duration_sec 6.2
+35 story-at dc_offset 42
+35 story-at min_samp -498
+35 story-at max_samp 442
+35 story-at min_power10 16.2
+35 story-at max_power90 39.9
+35 gender female
+35 age adult
+35 connection average
+35 intelligibility ok

@@ -1,0 +1,85 @@
+28 labeler yeshwant
+28 label_date Sun Aug  4 14:55:45 PDT 1991
+28 nlang missing nothing
+28 nlang duration_sec 1.5
+28 nlang dc_offset 42
+28 nlang min_samp -3310
+28 nlang max_samp 1810
+28 nlang min_power10 13.3
+28 nlang max_power90 57.2
+28 clang comments CE  
+28 clang missing cs
+28 clang duration_sec 2.8
+28 clang dc_offset 42
+28 clang min_samp -2586
+28 clang max_samp 1830
+28 clang min_power10 21.6
+28 clang max_power90 55.8
+28 dowk comments CE ES  
+28 dowk missing friday saturday sunday
+28 dowk duration_sec 7.4
+28 dowk dc_offset 42
+28 dowk min_samp -2466
+28 dowk max_samp 1938
+28 dowk min_power10 21.8
+28 dowk max_power90 56.2
+28 nums comments BN  
+28 nums missing nothing
+28 nums duration_sec 8.6
+28 nums dc_offset 42
+28 nums min_samp -3546
+28 nums max_samp 3318
+28 nums min_power10 12.8
+28 nums max_power90 53.9
+28 htl comments BN CE  
+28 htl missing cs
+28 htl duration_sec 9.0
+28 htl dc_offset 42
+28 htl min_samp -3610
+28 htl max_samp 1878
+28 htl min_power10 25.9
+28 htl max_power90 56.3
+28 htc comments BN CE  
+28 htc missing cs
+28 htc duration_sec 9.2
+28 htc dc_offset 42
+28 htc min_samp -3794
+28 htc max_samp 3518
+28 htc min_power10 17.4
+28 htc max_power90 56.7
+28 room comments BN CE ES SNL  
+28 room missing cs
+28 room duration_sec 11.5
+28 room dc_offset 42
+28 room min_samp -3414
+28 room max_samp 2442
+28 room min_power10 25.8
+28 room max_power90 57.6
+28 meal comments BN EN  
+28 meal missing nothing
+28 meal duration_sec 3.8
+28 meal dc_offset 42
+28 meal min_samp -1822
+28 meal max_samp 1614
+28 meal min_power10 11.7
+28 meal max_power90 54.2
+28 story-bt comments BN CE SS ES SNL  
+28 story-bt missing cs
+28 story-bt duration_sec 48.9
+28 story-bt dc_offset 42
+28 story-bt min_samp -3758
+28 story-bt max_samp 3934
+28 story-bt min_power10 16.3
+28 story-bt max_power90 54.4
+28 story-at comments BN CE SS  
+28 story-at missing cs
+28 story-at duration_sec 9.1
+28 story-at dc_offset 42
+28 story-at min_samp -2198
+28 story-at max_samp 1950
+28 story-at min_power10 16.8
+28 story-at max_power90 53.4
+28 gender female
+28 age adult
+28 connection average
+28 intelligibility ok

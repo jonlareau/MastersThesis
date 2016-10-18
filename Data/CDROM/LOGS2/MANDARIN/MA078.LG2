@@ -1,0 +1,25 @@
+78 nlang native yes
+78 clang instructions yes
+78 clang useful yes
+78 dowk complete no
+78 dowk partial yes
+78 nums complete yes
+78 htl instructions yes
+78 htl useful yes
+78 htc instructions yes
+78 htc useful yes
+78 room instructions yes
+78 room useful yes
+78 meal instructions yes
+78 meal useful yes
+78 story-bt speech_type extemp
+78 story-bt topic He is a student in PSU and his plan after the graduation.
+78 general native yes
+78 general dialect standard
+78 general accent none
+78 general background speech none
+78 general environmental noise none
+78 general gender male
+78 general age adult
+78 general intelligibility ok
+78 general connection average

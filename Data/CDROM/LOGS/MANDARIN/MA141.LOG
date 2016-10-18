@@ -1,0 +1,60 @@
+141 labeler khoward
+141 label_date Mon Mar 23 11:00:29 PST 1992
+141 clang comments CE  
+141 clang missing CS
+141 clang duration_sec 1.1
+141 clang dc_offset 42
+141 clang min_samp -4362
+141 clang max_samp 4214
+141 clang min_power10 20.2
+141 clang max_power90 57.1
+141 dowk comments CE  
+141 dowk missing Friday Saturday?
+141 dowk duration_sec 6.1
+141 dowk dc_offset 42
+141 dowk min_samp -2382
+141 dowk max_samp 2670
+141 dowk min_power10 21.2
+141 dowk max_power90 46.3
+141 nums comments CE  
+141 nums missing 8 9 1
+141 nums duration_sec 8.7
+141 nums dc_offset 42
+141 nums min_samp -2502
+141 nums max_samp 2542
+141 nums min_power10 18.4
+141 nums max_power90 48.6
+141 htl comments EN  
+141 htl missing 
+141 htl duration_sec 4.4
+141 htl dc_offset 42
+141 htl min_samp -1822
+141 htl max_samp 2370
+141 htl min_power10 20.7
+141 htl max_power90 51.5
+141 htc missing nothing
+141 htc duration_sec 6.4
+141 htc dc_offset 42
+141 htc min_samp -4078
+141 htc max_samp 5230
+141 htc min_power10 19.4
+141 htc max_power90 50.3
+141 room comments BN  
+141 room missing nothing
+141 room duration_sec 9.3
+141 room dc_offset 42
+141 room min_samp -2366
+141 room max_samp 2470
+141 room min_power10 18.9
+141 room max_power90 51.7
+141 meal missing nothing
+141 meal duration_sec 7.0
+141 meal dc_offset 42
+141 meal min_samp -2030
+141 meal max_samp 2646
+141 meal min_power10 18.7
+141 meal max_power90 50.6
+141 gender male
+141 age adult
+141 connection average
+141 intelligibility ok

@@ -1,0 +1,70 @@
+37 labeler yeshwant
+37 label_date Mon Aug 12 19:47:32 PDT 1991
+37 nlang comments EN  
+37 nlang missing nothing
+37 nlang duration_sec 1.5
+37 nlang dc_offset 42
+37 nlang min_samp -794
+37 nlang max_samp 958
+37 nlang min_power10 12.4
+37 nlang max_power90 44.4
+37 clang comments EN  
+37 clang missing nothing
+37 clang duration_sec 2.3
+37 clang dc_offset 42
+37 clang min_samp -578
+37 clang max_samp 694
+37 clang min_power10 14.0
+37 clang max_power90 43.8
+37 dowk comments EN  
+37 dowk missing sunday
+37 dowk duration_sec 4.1
+37 dowk dc_offset 42
+37 dowk min_samp -886
+37 dowk max_samp 966
+37 dowk min_power10 13.0
+37 dowk max_power90 41.0
+37 nums comments EN  
+37 nums missing nothing
+37 nums duration_sec 4.0
+37 nums dc_offset 42
+37 nums min_samp -570
+37 nums max_samp 730
+37 nums min_power10 13.3
+37 nums max_power90 39.6
+37 htl comments EN  
+37 htl missing nothing
+37 htl duration_sec 3.0
+37 htl dc_offset 42
+37 htl min_samp -1158
+37 htl max_samp 1822
+37 htl min_power10 13.5
+37 htl max_power90 47.2
+37 htc comments EN  
+37 htc missing nothing
+37 htc duration_sec 3.2
+37 htc dc_offset 42
+37 htc min_samp -1054
+37 htc max_samp 1266
+37 htc min_power10 14.1
+37 htc max_power90 44.9
+37 room comments CE EN ES SNL  
+37 room missing cs
+37 room duration_sec 9.6
+37 room dc_offset 42
+37 room min_samp -986
+37 room max_samp 1242
+37 room min_power10 13.5
+37 room max_power90 45.4
+37 meal comments CE EN ES SNL  
+37 meal missing cs
+37 meal duration_sec 8.6
+37 meal dc_offset 42
+37 meal min_samp -786
+37 meal max_samp 1106
+37 meal min_power10 12.5
+37 meal max_power90 39.5
+37 gender male
+37 age adult
+37 connection average
+37 intelligibility ok

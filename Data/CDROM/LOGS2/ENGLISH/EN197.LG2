@@ -1,0 +1,27 @@
+197 nlang native yes
+197 clang instructions yes
+197 clang useful yes
+197 dowk complete no
+197 dowk partial yes
+197 nums complete yes
+197 htl instructions yes
+197 htl useful yes
+197 htc instructions yes
+197 htc useful yes
+197 room instructions yes
+197 room useful yes
+197 meal instructions yes
+197 meal useful yes
+197 story-bt speech_type extemp
+197 story-bt topic interested in the uses of this project
+197 story-at speech_type extemp
+197 story-at topic ten seconds is up
+197 general native yes
+197 general dialect southern, North Carolina
+197 general accent none
+197 general background speech none
+197 general environmental noise none
+197 general gender male
+197 general age adult
+197 general intelligibility ok
+197 general connection average

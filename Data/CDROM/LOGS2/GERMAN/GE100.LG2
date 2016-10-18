@@ -1,0 +1,27 @@
+100 nlang native yes
+100 clang instructions yes
+100 clang useful yes
+100 dowk complete yes
+100 nums complete no
+100 nums partial yes
+100 htl instructions yes
+100 htl useful yes
+100 htc instructions yes
+100 htc useful yes
+100 room instructions yes
+100 room useful yes
+100 meal instructions yes
+100 meal useful yes
+100 story-bt speech_type extemp
+100 story-bt topic hobby:playing the flute
+100 story-at speech_type extemp
+100 story-at topic playing the flute
+100 general native yes
+100 general dialect slight swiss accent
+100 general accent none
+100 general background speech none
+100 general environmental noise none
+100 general gender female
+100 general age adult
+100 general intelligibility ok
+100 general connection average

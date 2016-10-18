@@ -1,0 +1,27 @@
+171 nlang native yes
+171 clang instructions yes
+171 clang useful yes
+171 dowk complete yes
+171 nums complete no
+171 nums partial yes
+171 htl instructions yes
+171 htl useful yes
+171 htc instructions yes
+171 htc useful yes
+171 room instructions yes
+171 room useful yes
+171 meal instructions yes
+171 meal useful yes
+171 story-bt speech_type extemp
+171 story-bt topic reads tourist guide of Lombardi
+171 story-at speech_type read
+171 story-at topic reads tourist guide
+171 general native yes
+171 general dialect standard
+171 general accent british english
+171 general background speech none
+171 general environmental noise phone ringing
+171 general gender female
+171 general age adult
+171 general intelligibility ok
+171 general connection average

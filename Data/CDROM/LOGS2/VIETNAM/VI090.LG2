@@ -1,0 +1,22 @@
+90 nlang native yes
+90 clang instructions yes
+90 clang useful yes
+90 dowk complete yes
+90 nums complete yes
+90 htl instructions yes
+90 htl useful yes
+90 htc instructions yes
+90 htc useful yes
+90 room instructions yes
+90 room useful yes
+90 meal instructions yes
+90 meal useful yes
+90 general native yes
+90 general dialect standard
+90 general accent none
+90 general background speech none
+90 general environmental noise none
+90 general gender female
+90 general age adult
+90 general intelligibility ok
+90 general connection average

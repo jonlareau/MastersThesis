@@ -1,0 +1,51 @@
+58 nlang native no
+58 nlang useful yes
+58 clang instructions yes
+58 clang useful yes
+58 hlang instructions yes
+58 hlang useful yes
+58 age instructions yes
+58 age useful yes
+58 bdate instructions yes
+58 bdate useful yes
+58 morf instructions yes
+58 morf useful yes
+58 US instructions yes
+58 US useful yes
+58 child instructions yes
+58 child useful yes
+58 zipcode instructions no
+58 zipcode useful yes
+58 day instructions yes
+58 day useful yes
+58 time instructions yes
+58 time useful yes
+58 route instructions yes
+58 route useful yes
+58 hometown instructions yes
+58 hometown useful yes
+58 climate instructions yes
+58 climate useful yes
+58 room instructions yes
+58 room useful yes
+58 meal instructions yes
+58 meal useful yes
+58 story-bt speech_type extemp
+58 story-bt topic This project 
+58 story-at speech_type extemp
+58 story-at topic He wants to find out what is going on
+58 tone instructions yes
+58 tone useful yes
+58 yorn instructions yes
+58 yorn useful yes
+58 address instructions yes
+58 address useful yes
+58 general native no
+58 general dialect standard
+58 general accent maharashtian + bombay
+58 general background speech none
+58 general environmental noise none
+58 general gender male
+58 general age adult
+58 general intelligibility ok
+58 general connection average

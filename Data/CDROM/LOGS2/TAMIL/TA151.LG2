@@ -1,0 +1,26 @@
+151 nlang native yes
+151 clang instructions yes
+151 clang useful yes
+151 dowk complete no
+151 dowk partial yes
+151 nums complete no
+151 nums partial yes
+151 htl instructions yes
+151 htl useful yes
+151 htc instructions yes
+151 htc useful yes
+151 room instructions yes
+151 room useful yes
+151 meal instructions yes
+151 meal useful yes
+151 story-bt speech_type extemp
+151 story-bt topic He is from Bangalore, where there a lot of Tamil-speaking people
+151 general native yes
+151 general dialect standard
+151 general accent none
+151 general background speech none
+151 general environmental noise music playing in the background throughout, line noise
+151 general gender male
+151 general age adult
+151 general intelligibility ok
+151 general connection poor

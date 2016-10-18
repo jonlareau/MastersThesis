@@ -1,0 +1,84 @@
+26 labeler khoward
+26 label_date Wed Aug 28 09:37:15 PDT 1991
+26 nlang missing nothing
+26 nlang duration_sec 1.4
+26 nlang dc_offset 42
+26 nlang min_samp -2902
+26 nlang max_samp 3258
+26 nlang min_power10 19.3
+26 nlang max_power90 58.2
+26 clang comments CB CE  
+26 clang missing CS
+26 clang duration_sec 1.5
+26 clang dc_offset 42
+26 clang min_samp -1958
+26 clang max_samp 2594
+26 clang min_power10 20.4
+26 clang max_power90 56.1
+26 dowk missing nothing
+26 dowk duration_sec 4.0
+26 dowk dc_offset 42
+26 dowk min_samp -4126
+26 dowk max_samp 4162
+26 dowk min_power10 20.7
+26 dowk max_power90 57.4
+26 nums missing nothing
+26 nums duration_sec 9.8
+26 nums dc_offset 42
+26 nums min_samp -3434
+26 nums max_samp 4042
+26 nums min_power10 18.2
+26 nums max_power90 55.9
+26 htl comments CE EN  
+26 htl missing CS
+26 htl duration_sec 8.1
+26 htl dc_offset 42
+26 htl min_samp -4214
+26 htl max_samp 4738
+26 htl min_power10 27.8
+26 htl max_power90 59.4
+26 htc comments CE EN  
+26 htc comments CE EN  
+26 htc missing CS
+26 htc duration_sec 8.6
+26 htc dc_offset 42
+26 htc min_samp -3046
+26 htc max_samp 3410
+26 htc min_power10 20.1
+26 htc max_power90 56.2
+26 room comments CE EN  
+26 room missing CS
+26 room duration_sec 11.5
+26 room dc_offset 42
+26 room min_samp -2550
+26 room max_samp 3098
+26 room min_power10 26.7
+26 room max_power90 57.4
+26 meal comments CE EN  
+26 meal missing CS
+26 meal duration_sec 8.2
+26 meal dc_offset 42
+26 meal min_samp -2454
+26 meal max_samp 2726
+26 meal min_power10 21.8
+26 meal max_power90 54.8
+26 story-bt comments CE EN SS  
+26 story-bt missing CS
+26 story-bt duration_sec 45.2
+26 story-bt dc_offset 42
+26 story-bt min_samp -2286
+26 story-bt max_samp 2270
+26 story-bt min_power10 23.4
+26 story-bt max_power90 54.4
+26 story-at comments EN SS  
+26 story-at missing nothing 
+26 story-at duration_sec 9.7
+26 story-at dc_offset 42
+26 story-at min_samp -3402
+26 story-at max_samp 3298
+26 story-at min_power10 20.1
+26 story-at max_power90 53.4
+26 gender male
+26 age adult
+26 connection average
+26 intelligibility ok

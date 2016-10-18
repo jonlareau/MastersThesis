@@ -1,0 +1,26 @@
+216 nlang native yes
+216 clang instructions yes
+216 clang useful yes
+216 dowk complete yes
+216 nums complete yes
+216 htl instructions yes
+216 htl useful yes
+216 htc instructions yes
+216 htc useful yes
+216 room instructions yes
+216 room useful yes
+216 meal instructions yes
+216 meal useful yes
+216 story-bt speech_type read
+216 story-bt topic the experiment advertisement
+216 story-at speech_type read
+216 story-at topic the experiment advertisement
+216 general native yes
+216 general dialect standard
+216 general accent none
+216 general background speech none
+216 general environmental noise none
+216 general gender male
+216 general age adult
+216 general intelligibility ok
+216 general connection average

@@ -1,0 +1,54 @@
+134 labeler ames
+134 label_date Fri May  8 10:13:44 PDT 1992
+134 clang comments EN  
+134 clang missing nothing
+134 clang duration_sec 1.1
+134 clang dc_offset 42
+134 clang min_samp -1530
+134 clang max_samp 1782
+134 clang min_power10 17.3
+134 clang max_power90 49.3
+134 nums comments EN  
+134 nums missing nothing
+134 nums duration_sec 6.8
+134 nums dc_offset 42
+134 nums min_samp -4986
+134 nums max_samp 6470
+134 nums min_power10 17.5
+134 nums max_power90 50.2
+134 htl comments EN  
+134 htl missing nothing
+134 htl duration_sec 1.2
+134 htl dc_offset 42
+134 htl min_samp -4002
+134 htl max_samp 6666
+134 htl min_power10 19.2
+134 htl max_power90 59.1
+134 htc comments EN  
+134 htc missing nothing
+134 htc duration_sec 5.4
+134 htc dc_offset 42
+134 htc min_samp -1818
+134 htc max_samp 2918
+134 htc min_power10 18.5
+134 htc max_power90 51.5
+134 room comments EN  
+134 room missing nothing
+134 room duration_sec 2.7
+134 room dc_offset 42
+134 room min_samp -8390
+134 room max_samp 9078
+134 room min_power10 18.9
+134 room max_power90 59.6
+134 meal comments EN  
+134 meal missing nothing
+134 meal duration_sec 9.1
+134 meal dc_offset 42
+134 meal min_samp -3430
+134 meal max_samp 4150
+134 meal min_power10 16.9
+134 meal max_power90 51.4
+134 gender male
+134 age adult
+134 connection average
+134 intelligibility ok

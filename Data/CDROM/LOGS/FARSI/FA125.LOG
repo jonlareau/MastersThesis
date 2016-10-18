@@ -1,0 +1,54 @@
+125 labeler ames
+125 label_date Wed Mar  4 11:43:38 PST 1992
+125 nlang comments EN  
+125 nlang missing nothing
+125 nlang duration_sec 0.8
+125 nlang dc_offset 42
+125 nlang min_samp -4298
+125 nlang max_samp 3870
+125 nlang min_power10 15.9
+125 nlang max_power90 60.6
+125 clang comments EN  
+125 clang missing nothing
+125 clang duration_sec 0.9
+125 clang dc_offset 42
+125 clang min_samp -2894
+125 clang max_samp 3322
+125 clang min_power10 16.0
+125 clang max_power90 55.7
+125 dowk comments CE EN  
+125 dowk missing 7th day
+125 dowk duration_sec 6.9
+125 dowk dc_offset 42
+125 dowk min_samp -4398
+125 dowk max_samp 4854
+125 dowk min_power10 16.3
+125 dowk max_power90 58.8
+125 nums comments CE EN  
+125 nums missing 9 10
+125 nums duration_sec 9.5
+125 nums dc_offset 42
+125 nums min_samp -4698
+125 nums max_samp 3842
+125 nums min_power10 16.0
+125 nums max_power90 57.2
+125 htl comments CE EN ES  
+125 htl missing cs
+125 htl duration_sec 8.3
+125 htl dc_offset 42
+125 htl min_samp -4334
+125 htl max_samp 3854
+125 htl min_power10 16.3
+125 htl max_power90 56.6
+125 htc comments EN  
+125 htc missing nothing
+125 htc duration_sec 8.0
+125 htc dc_offset 42
+125 htc min_samp -4450
+125 htc max_samp 3850
+125 htc min_power10 15.7
+125 htc max_power90 58.1
+125 gender male
+125 age adult
+125 connection average
+125 intelligibility ok

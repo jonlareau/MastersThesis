@@ -1,0 +1,68 @@
+73 labeler khoward
+73 label_date Fri Nov 29 14:01:41 PST 1991
+73 nlang missing nothing
+73 nlang duration_sec 1.3
+73 nlang dc_offset 42
+73 nlang min_samp -762
+73 nlang max_samp 622
+73 nlang min_power10 13.1
+73 nlang max_power90 44.7
+73 clang missing nothing
+73 clang duration_sec 1.5
+73 clang dc_offset 42
+73 clang min_samp -682
+73 clang max_samp 746
+73 clang min_power10 13.3
+73 clang max_power90 43.6
+73 dowk comments BN  
+73 dowk missing nothing
+73 dowk duration_sec 4.6
+73 dowk dc_offset 42
+73 dowk min_samp -2030
+73 dowk max_samp 3318
+73 dowk min_power10 13.8
+73 dowk max_power90 48.7
+73 nums comments EN  
+73 nums missing nothing
+73 nums duration_sec 5.0
+73 nums dc_offset 42
+73 nums min_samp -1466
+73 nums max_samp 1410
+73 nums min_power10 14.5
+73 nums max_power90 44.0
+73 htc comments CE  
+73 htc missing CS
+73 htc duration_sec 9.1
+73 htc dc_offset 42
+73 htc min_samp -890
+73 htc max_samp 742
+73 htc min_power10 13.0
+73 htc max_power90 38.8
+73 room comments SNL  
+73 room missing nothing
+73 room duration_sec 10.3
+73 room dc_offset 42
+73 room min_samp -930
+73 room max_samp 734
+73 room min_power10 14.0
+73 room max_power90 40.4
+73 meal comments CE  
+73 meal missing CS
+73 meal duration_sec 5.4
+73 meal dc_offset 42
+73 meal min_samp -1386
+73 meal max_samp 958
+73 meal min_power10 13.8
+73 meal max_power90 42.6
+73 story-bt comments CE EN SS  
+73 story-bt missing CS
+73 story-bt duration_sec 46.6
+73 story-bt dc_offset 42
+73 story-bt min_samp -926
+73 story-bt max_samp 562
+73 story-bt min_power10 14.0
+73 story-bt max_power90 36.8
+73 gender female
+73 age adult
+73 connection average
+73 intelligibility ok

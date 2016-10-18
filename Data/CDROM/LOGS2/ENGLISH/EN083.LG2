@@ -1,0 +1,26 @@
+83 nlang native yes
+83 clang instructions yes
+83 clang useful yes
+83 dowk complete yes
+83 nums complete yes
+83 htl instructions yes
+83 htl useful yes
+83 htc instructions yes
+83 htc useful yes
+83 room instructions yes
+83 room useful yes
+83 meal instructions yes
+83 meal useful yes
+83 story-bt speech_type read
+83 story-bt topic some weird reading about religion
+83 story-at speech_type read
+83 story-at topic reading about christ and being one body
+83 general native yes
+83 general dialect standard
+83 general accent i don't know what the accent was
+83 general background speech none
+83 general environmental noise none
+83 general gender male
+83 general age adult
+83 general intelligibility ok
+83 general connection average

@@ -1,0 +1,47 @@
+14 clang instructions yes
+14 clang useful yes
+14 hlang instructions yes
+14 hlang useful yes
+14 age instructions yes
+14 age useful yes
+14 bdate instructions yes
+14 bdate useful yes
+14 morf instructions yes
+14 morf useful yes
+14 US instructions yes
+14 US useful yes
+14 child instructions yes
+14 child useful yes
+14 zipcode instructions yes
+14 zipcode useful yes
+14 day instructions yes
+14 day useful yes
+14 time instructions yes
+14 time useful yes
+14 route instructions yes
+14 route useful yes
+14 hometown instructions yes
+14 hometown useful yes
+14 climate instructions yes
+14 climate useful yes
+14 room instructions yes
+14 room useful yes
+14 meal instructions yes
+14 meal useful yes
+14 story-bt speech_type extemp
+14 story-bt topic His trip to Seattle
+14 story-at speech_type extemp
+14 story-at topic He likes the fall colors
+14 yorn instructions yes
+14 yorn useful yes
+14 address instructions yes
+14 address useful yes
+14 general native yes
+14 general dialect standard
+14 general accent none
+14 general background speech none
+14 general environmental noise none
+14 general gender male
+14 general age adult
+14 general intelligibility ok
+14 general connection average

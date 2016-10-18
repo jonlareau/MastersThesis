@@ -1,0 +1,26 @@
+219 nlang native yes
+219 clang instructions yes
+219 clang useful yes
+219 dowk complete yes
+219 nums complete yes
+219 htl instructions yes
+219 htl useful yes
+219 htc instructions yes
+219 htc useful yes
+219 room instructions yes
+219 room useful yes
+219 meal instructions yes
+219 meal useful yes
+219 story-bt speech_type extemp
+219 story-bt topic making enchiladas
+219 story-at speech_type extemp
+219 story-at topic tell how to make nachos next time
+219 general native yes
+219 general dialect standard
+219 general accent none
+219 general background speech none
+219 general environmental noise none
+219 general gender female
+219 general age adult
+219 general intelligibility ok
+219 general connection average

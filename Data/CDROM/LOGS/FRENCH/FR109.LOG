@@ -1,0 +1,52 @@
+109 labeler khoward
+109 label_date Sat Jan 25 15:50:51 PST 1992
+109 clang comments CB ES  
+109 clang missing CS
+109 clang duration_sec 2.5
+109 clang dc_offset 43
+109 clang min_samp -2479
+109 clang max_samp 2101
+109 clang min_power10 13.4
+109 clang max_power90 47.3
+109 htl comments CE SNL  
+109 htl missing CS
+109 htl duration_sec 9.0
+109 htl dc_offset 43
+109 htl min_samp -3123
+109 htl max_samp 2665
+109 htl min_power10 18.8
+109 htl max_power90 53.8
+109 htc missing nothing
+109 htc duration_sec 6.3
+109 htc dc_offset 43
+109 htc min_samp -1451
+109 htc max_samp 1777
+109 htc min_power10 14.2
+109 htc max_power90 47.4
+109 room missing nothing
+109 room duration_sec 10.5
+109 room dc_offset 43
+109 room min_samp -1647
+109 room max_samp 1377
+109 room min_power10 15.0
+109 room max_power90 43.7
+109 meal comments CE  
+109 meal missing CS
+109 meal duration_sec 6.6
+109 meal dc_offset 43
+109 meal min_samp -1627
+109 meal max_samp 1853
+109 meal min_power10 17.2
+109 meal max_power90 48.9
+109 story-bt comments RS SS  
+109 story-bt missing nothing
+109 story-bt duration_sec 39.2
+109 story-bt dc_offset 43
+109 story-bt min_samp -4299
+109 story-bt max_samp 3949
+109 story-bt min_power10 13.5
+109 story-bt max_power90 50.1
+109 gender male
+109 age adult
+109 connection average
+109 intelligibility poor

@@ -1,0 +1,54 @@
+108 labeler ames
+108 label_date Tue Dec 31 10:35:36 PST 1991
+108 clang comments EN  
+108 clang missing nothing
+108 clang duration_sec 1.4
+108 clang dc_offset 43
+108 clang min_samp -1991
+108 clang max_samp 1437
+108 clang min_power10 11.5
+108 clang max_power90 47.4
+108 dowk comments CE EN  
+108 dowk missing Friday Saturday
+108 dowk duration_sec 5.3
+108 dowk dc_offset 43
+108 dowk min_samp -1799
+108 dowk max_samp 1357
+108 dowk min_power10 11.5
+108 dowk max_power90 50.2
+108 nums comments EN  
+108 nums missing 0
+108 nums duration_sec 5.2
+108 nums dc_offset 43
+108 nums min_samp -1655
+108 nums max_samp 1305
+108 nums min_power10 11.1
+108 nums max_power90 46.1
+108 htl comments CE EN  
+108 htl missing cs
+108 htl duration_sec 4.1
+108 htl dc_offset 43
+108 htl min_samp -2039
+108 htl max_samp 1677
+108 htl min_power10 11.8
+108 htl max_power90 51.8
+108 htc comments EN  
+108 htc missing nothing
+108 htc duration_sec 5.0
+108 htc dc_offset 43
+108 htc min_samp -1679
+108 htc max_samp 1385
+108 htc min_power10 12.4
+108 htc max_power90 48.1
+108 story-bt comments EN SS SNL  
+108 story-bt missing nothing
+108 story-bt duration_sec 29.9
+108 story-bt dc_offset 43
+108 story-bt min_samp -1379
+108 story-bt max_samp 1541
+108 story-bt min_power10 10.7
+108 story-bt max_power90 43.1
+108 gender male
+108 age adult
+108 connection average
+108 intelligibility ok

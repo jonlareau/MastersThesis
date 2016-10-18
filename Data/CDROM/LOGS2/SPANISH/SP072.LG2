@@ -1,0 +1,27 @@
+72 nlang native yes
+72 clang instructions yes
+72 clang useful yes
+72 dowk complete no
+72 dowk partial yes
+72 nums complete yes
+72 htl instructions no
+72 htl useful no
+72 htc instructions yes
+72 htc useful yes
+72 room instructions yes
+72 room useful yes
+72 meal instructions yes
+72 meal useful yes
+72 story-bt speech_type extemp
+72 story-bt topic why he lives in the U.S. and how he likes it
+72 story-at speech_type extemp
+72 story-at topic ?
+72 general native yes
+72 general dialect Mexican
+72 general accent no real accent but no fluent speech, many mistakes
+72 general background speech none
+72 general environmental noise moving papers at the beginning of the call
+72 general gender male
+72 general age child
+72 general intelligibility poor
+72 general connection average

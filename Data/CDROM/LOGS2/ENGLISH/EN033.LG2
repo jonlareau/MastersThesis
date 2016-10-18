@@ -1,0 +1,26 @@
+33 nlang native yes
+33 clang instructions yes
+33 clang useful yes
+33 dowk complete yes
+33 nums complete yes
+33 htl instructions yes
+33 htl useful yes
+33 htc instructions yes
+33 htc useful yes
+33 room instructions yes
+33 room useful yes
+33 meal instructions yes
+33 meal useful yes
+33 story-bt speech_type extemp
+33 story-bt topic talking about moving to portland and how she likes powells book store and downtown
+33 story-at speech_type extemp
+33 story-at topic taking people along the willamette river
+33 general native yes
+33 general dialect standard
+33 general accent none
+33 general background speech none
+33 general environmental noise none
+33 general gender female
+33 general age adult
+33 general intelligibility ok
+33 general connection average

@@ -1,0 +1,25 @@
+128 nlang native no
+128 nlang useful yes
+128 clang instructions yes
+128 clang useful yes
+128 dowk complete yes
+128 nums complete yes
+128 htl instructions yes
+128 htl useful yes
+128 htc instructions no
+128 htc useful no
+128 room instructions no
+128 room useful no
+128 meal instructions yes
+128 meal useful yes
+128 story-bt speech_type extemp
+128 story-bt topic her likes and dislikes at school
+128 general native no
+128 general dialect unknown
+128 general accent english
+128 general background speech none
+128 general environmental noise none
+128 general gender female
+128 general age adult
+128 general intelligibility poor
+128 general connection poor

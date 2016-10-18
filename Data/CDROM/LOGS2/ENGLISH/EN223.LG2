@@ -1,0 +1,27 @@
+223 nlang native yes
+223 clang instructions yes
+223 clang useful yes
+223 dowk complete yes
+223 nums complete no
+223 nums partial yes
+223 htl instructions yes
+223 htl useful yes
+223 htc instructions yes
+223 htc useful yes
+223 room instructions yes
+223 room useful yes
+223 meal instructions yes
+223 meal useful yes
+223 story-bt speech_type read
+223 story-bt topic computer bulletin boards
+223 story-at speech_type read
+223 story-at topic computer bulletin boards
+223 general native yes
+223 general dialect standard
+223 general accent none
+223 general background speech none
+223 general environmental noise none
+223 general gender male
+223 general age adult
+223 general intelligibility ok
+223 general connection average

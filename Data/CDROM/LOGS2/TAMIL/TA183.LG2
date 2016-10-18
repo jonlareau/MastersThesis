@@ -1,0 +1,22 @@
+183 nlang native yes
+183 clang instructions yes
+183 clang useful yes
+183 dowk complete no
+183 dowk partial yes
+183 nums complete no
+183 nums partial yes
+183 htl instructions yes
+183 htl useful yes
+183 htc instructions yes
+183 htc useful yes
+183 room instructions yes
+183 room useful yes
+183 general native yes
+183 general dialect standard
+183 general accent none
+183 general background speech none
+183 general environmental noise breath noise
+183 general gender male
+183 general age adult
+183 general intelligibility ok
+183 general connection average

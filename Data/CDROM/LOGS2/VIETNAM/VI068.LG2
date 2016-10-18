@@ -1,0 +1,27 @@
+68 nlang native yes
+68 clang instructions yes
+68 clang useful yes
+68 dowk complete yes
+68 nums complete no
+68 nums partial yes
+68 htl instructions yes
+68 htl useful yes
+68 htc instructions yes
+68 htc useful yes
+68 room instructions yes
+68 room useful yes
+68 meal instructions yes
+68 meal useful yes
+68 story-bt speech_type read
+68 story-bt topic poem
+68 story-at speech_type read
+68 story-at topic poem
+68 general native yes
+68 general dialect central of Vietnam
+68 general accent Central of Vietnam
+68 general background speech none
+68 general environmental noise none
+68 general gender female
+68 general age adult
+68 general intelligibility ok
+68 general connection average

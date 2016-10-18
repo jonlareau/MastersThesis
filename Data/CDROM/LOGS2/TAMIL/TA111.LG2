@@ -1,0 +1,27 @@
+111 nlang native yes
+111 clang instructions yes
+111 clang useful yes
+111 dowk complete no
+111 dowk partial yes
+111 nums complete yes
+111 htl instructions yes
+111 htl useful yes
+111 htc instructions yes
+111 htc useful yes
+111 room instructions yes
+111 room useful yes
+111 meal instructions yes
+111 meal useful yes
+111 story-bt speech_type extemp
+111 story-bt topic description of Vancouver, Canada and its attraction to winter sports lovers
+111 story-at speech_type extemp
+111 story-at topic Ends his description of Vancouver
+111 general native yes
+111 general dialect formal, written Tamil
+111 general accent none
+111 general background speech none
+111 general environmental noise line noise
+111 general gender male
+111 general age adult
+111 general intelligibility ok
+111 general connection average

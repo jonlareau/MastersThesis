@@ -1,0 +1,22 @@
+170 nlang native yes
+170 clang instructions yes
+170 clang useful yes
+170 dowk complete no
+170 dowk partial yes
+170 nums complete no
+170 nums partial yes
+170 htl instructions yes
+170 htl useful yes
+170 htc instructions no
+170 htc useful yes
+170 meal instructions yes
+170 meal useful yes
+170 general native yes
+170 general dialect standard
+170 general accent none
+170 general background speech none
+170 general environmental noise strong line noise
+170 general gender male
+170 general age adult
+170 general intelligibility ok
+170 general connection poor

@@ -1,0 +1,27 @@
+6 nlang native yes
+6 clang instructions yes
+6 clang useful yes
+6 dowk complete yes
+6 nums complete no
+6 nums partial yes
+6 htl instructions yes
+6 htl useful yes
+6 htc instructions yes
+6 htc useful yes
+6 room instructions yes
+6 room useful yes
+6 meal instructions yes
+6 meal useful yes
+6 story-bt speech_type read
+6 story-bt topic Tongue twisters and work
+6 story-at speech_type extemp
+6 story-at topic Work
+6 general native yes
+6 general dialect standard
+6 general accent none
+6 general background speech none
+6 general environmental noise none
+6 general gender male
+6 general age adult
+6 general intelligibility ok
+6 general connection average

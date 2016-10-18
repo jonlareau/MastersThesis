@@ -1,0 +1,50 @@
+61 labeler khoward
+61 label_date Sat Aug 31 11:20:05 PDT 1991
+61 nlang missing nothing
+61 nlang duration_sec 0.9
+61 nlang dc_offset 42
+61 nlang min_samp -4954
+61 nlang max_samp 5686
+61 nlang min_power10 24.7
+61 nlang max_power90 61.8
+61 dowk comments NI  
+61 dowk missing nothing
+61 dowk duration_sec 1.5
+61 dowk dc_offset 42
+61 dowk min_samp -6966
+61 dowk max_samp 5994
+61 dowk min_power10 25.7
+61 dowk max_power90 62.1
+61 nums missing nothing
+61 nums duration_sec 7.4
+61 nums dc_offset 42
+61 nums min_samp -9702
+61 nums max_samp 13222
+61 nums min_power10 25.8
+61 nums max_power90 63.4
+61 htl missing nothing
+61 htl duration_sec 6.6
+61 htl dc_offset 42
+61 htl min_samp -8022
+61 htl max_samp 9934
+61 htl min_power10 25.4
+61 htl max_power90 59.3
+61 htc missing nothing
+61 htc duration_sec 8.5
+61 htc dc_offset 42
+61 htc min_samp -8926
+61 htc max_samp 9094
+61 htc min_power10 25.9
+61 htc max_power90 57.6
+61 room comments CE  
+61 room missing CS
+61 room duration_sec 2.2
+61 room dc_offset 42
+61 room min_samp -7558
+61 room max_samp 9822
+61 room min_power10 24.0
+61 room max_power90 58.5
+61 gender male
+61 age adult
+61 connection good
+61 intelligibility ok

@@ -1,0 +1,70 @@
+131 labeler ames
+131 label_date Fri May  8 08:20:00 PDT 1992
+131 dowk comments CE EN  
+131 dowk missing saturday
+131 dowk duration_sec 6.5
+131 dowk dc_offset 42
+131 dowk min_samp -6042
+131 dowk max_samp 6950
+131 dowk min_power10 15.6
+131 dowk max_power90 58.3
+131 nums comments CE EN  
+131 nums missing 9 10
+131 nums duration_sec 8.8
+131 nums dc_offset 42
+131 nums min_samp -6370
+131 nums max_samp 7370
+131 nums min_power10 15.4
+131 nums max_power90 56.2
+131 htl comments CE EN  
+131 htl missing cs
+131 htl duration_sec 6.9
+131 htl dc_offset 42
+131 htl min_samp -5226
+131 htl max_samp 6498
+131 htl min_power10 18.6
+131 htl max_power90 60.8
+131 htc comments CE EN ES  
+131 htc missing cs
+131 htc duration_sec 7.8
+131 htc dc_offset 42
+131 htc min_samp -5382
+131 htc max_samp 9054
+131 htc min_power10 18.1
+131 htc max_power90 59.0
+131 room comments EN ES  
+131 room missing nothing
+131 room duration_sec 11.1
+131 room dc_offset 42
+131 room min_samp -4062
+131 room max_samp 6014
+131 room min_power10 16.4
+131 room max_power90 51.8
+131 meal comments CE EN ES  
+131 meal missing cs
+131 meal duration_sec 9.1
+131 meal dc_offset 42
+131 meal min_samp -3950
+131 meal max_samp 2694
+131 meal min_power10 15.7
+131 meal max_power90 49.7
+131 story-bt comments CE EN SS ES SNL  
+131 story-bt missing cs
+131 story-bt duration_sec 45.6
+131 story-bt dc_offset 42
+131 story-bt min_samp -7006
+131 story-bt max_samp 9894
+131 story-bt min_power10 19.4
+131 story-bt max_power90 58.5
+131 story-at comments EN SS ES SNL  
+131 story-at missing nothing
+131 story-at duration_sec 5.4
+131 story-at dc_offset 42
+131 story-at min_samp -3854
+131 story-at max_samp 6070
+131 story-at min_power10 22.3
+131 story-at max_power90 56.5
+131 gender male
+131 age adult
+131 connection average
+131 intelligibility ok

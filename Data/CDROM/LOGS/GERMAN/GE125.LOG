@@ -1,0 +1,82 @@
+125 labeler khoward
+125 label_date Fri Jan 17 21:55:44 PST 1992
+125 nlang missing nothing
+125 nlang duration_sec 1.0
+125 nlang dc_offset 43
+125 nlang min_samp -1703
+125 nlang max_samp 2593
+125 nlang min_power10 11.7
+125 nlang max_power90 56.2
+125 clang missing nothing
+125 clang duration_sec 1.8
+125 clang dc_offset 43
+125 clang min_samp -1803
+125 clang max_samp 1845
+125 clang min_power10 12.1
+125 clang max_power90 54.1
+125 dowk missing nothing
+125 dowk duration_sec 4.8
+125 dowk dc_offset 43
+125 dowk min_samp -2031
+125 dowk max_samp 2321
+125 dowk min_power10 13.7
+125 dowk max_power90 55.2
+125 nums missing nothing
+125 nums duration_sec 6.0
+125 nums dc_offset 43
+125 nums min_samp -1783
+125 nums max_samp 1993
+125 nums min_power10 13.0
+125 nums max_power90 52.3
+125 htl comments CE  
+125 htl missing CS
+125 htl duration_sec 8.0
+125 htl dc_offset 43
+125 htl min_samp -2267
+125 htl max_samp 3517
+125 htl min_power10 13.9
+125 htl max_power90 54.7
+125 htc comments BN  
+125 htc missing nothing
+125 htc duration_sec 9.2
+125 htc dc_offset 43
+125 htc min_samp -1823
+125 htc max_samp 2141
+125 htc min_power10 14.1
+125 htc max_power90 52.5
+125 room comments BN  
+125 room missing nothing
+125 room duration_sec 10.1
+125 room dc_offset 43
+125 room min_samp -2195
+125 room max_samp 3461
+125 room min_power10 14.3
+125 room max_power90 54.4
+125 meal comments SNL BN  
+125 meal missing nothing
+125 meal duration_sec 2.6
+125 meal dc_offset 43
+125 meal min_samp -1975
+125 meal max_samp 2645
+125 meal min_power10 14.9
+125 meal max_power90 50.5
+125 story-bt comments CE BN SS  
+125 story-bt missing CS
+125 story-bt duration_sec 46.9
+125 story-bt dc_offset 42
+125 story-bt min_samp -2198
+125 story-bt max_samp 3806
+125 story-bt min_power10 13.6
+125 story-bt max_power90 49.1
+125 story-at comments BN CB CE SS  
+125 story-at missing CS
+125 story-at duration_sec 4.7
+125 story-at dc_offset 43
+125 story-at min_samp -1555
+125 story-at max_samp 1613
+125 story-at min_power10 12.3
+125 story-at max_power90 49.1
+125 gender male
+125 age adult
+125 connection average
+125 intelligibility ok

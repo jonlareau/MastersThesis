@@ -1,0 +1,66 @@
+95 labeler khoward
+95 label_date Fri Dec 27 09:22:10 PST 1991
+95 clang missing nothing
+95 clang missing nothing
+95 clang duration_sec 1.4
+95 clang dc_offset 42
+95 clang min_samp -2366
+95 clang max_samp 2038
+95 clang min_power10 16.5
+95 clang max_power90 51.9
+95 dowk missing nothing
+95 dowk duration_sec 7.6
+95 dowk dc_offset 42
+95 dowk min_samp -1670
+95 dowk max_samp 1750
+95 dowk min_power10 15.7
+95 dowk max_power90 49.5
+95 nums missing nothing
+95 nums duration_sec 8.4
+95 nums dc_offset 42
+95 nums min_samp -2006
+95 nums max_samp 1746
+95 nums min_power10 14.5
+95 nums max_power90 51.1
+95 htl comments BN  
+95 htl missing nothing
+95 htl duration_sec 6.7
+95 htl dc_offset 42
+95 htl min_samp -2510
+95 htl max_samp 1774
+95 htl min_power10 17.6
+95 htl max_power90 48.9
+95 htc missing nothing
+95 htc duration_sec 1.5
+95 htc dc_offset 42
+95 htc min_samp -1122
+95 htc max_samp 1038
+95 htc min_power10 14.5
+95 htc max_power90 45.9
+95 room comments BN CE  
+95 room missing CS
+95 room duration_sec 9.9
+95 room dc_offset 42
+95 room min_samp -1986
+95 room max_samp 1966
+95 room min_power10 16.0
+95 room max_power90 49.1
+95 meal missing nothing
+95 meal duration_sec 1.4
+95 meal dc_offset 42
+95 meal min_samp -778
+95 meal max_samp 882
+95 meal min_power10 14.8
+95 meal max_power90 45.8
+95 story-bt comments BN SS  
+95 story-bt misssing nothing
+95 story-bt duration_sec 38.9
+95 story-bt dc_offset 42
+95 story-bt min_samp -1866
+95 story-bt max_samp 1550
+95 story-bt min_power10 15.9
+95 story-bt max_power90 44.9
+95 gender male
+95 age adult
+95 connection average
+95 intelligibility ok

@@ -1,0 +1,81 @@
+101 labeler khoward
+101 label_date Fri Jan 31 12:55:46 PST 1992
+101 nlang missing nothing
+101 nlang duration_sec 0.9
+101 nlang dc_offset 42
+101 nlang min_samp -1590
+101 nlang max_samp 1714
+101 nlang min_power10 14.5
+101 nlang max_power90 52.1
+101 clang comments CE ES  
+101 clang missing nothing
+101 clang duration_sec 2.2
+101 clang dc_offset 42
+101 clang min_samp -2622
+101 clang max_samp 2590
+101 clang min_power10 15.9
+101 clang max_power90 56.6
+101 dowk missing nothing
+101 dowk duration_sec 6.2
+101 dowk dc_offset 42
+101 dowk min_samp -2190
+101 dowk max_samp 1534
+101 dowk min_power10 15.7
+101 dowk max_power90 47.2
+101 nums comments BN  
+101 nums missing 0
+101 nums duration_sec 3.8
+101 nums dc_offset 42
+101 nums min_samp -1710
+101 nums max_samp 1506
+101 nums min_power10 15.2
+101 nums max_power90 50.3
+101 htl missing nothing
+101 htl duration_sec 3.3
+101 htl dc_offset 42
+101 htl min_samp -1746
+101 htl max_samp 1438
+101 htl min_power10 14.5
+101 htl max_power90 52.4
+101 htc missing nothing
+101 htc duration_sec 7.7
+101 htc dc_offset 42
+101 htc min_samp -1822
+101 htc max_samp 1598
+101 htc min_power10 14.8
+101 htc max_power90 50.4
+101 room comments CE SNL  
+101 room missing CS
+101 room duration_sec 9.6
+101 room dc_offset 42
+101 room min_samp -2118
+101 room max_samp 2078
+101 room min_power10 14.8
+101 room max_power90 53.2
+101 meal missing nothing
+101 meal duration_sec 6.0
+101 meal dc_offset 42
+101 meal min_samp -1766
+101 meal max_samp 1498
+101 meal min_power10 14.0
+101 meal max_power90 48.1
+101 story-bt comments SNL SS  
+101 story-bt missing nothing
+101 story-bt duration_sec 45.4
+101 story-bt dc_offset 42
+101 story-bt min_samp -2558
+101 story-bt max_samp 2022
+101 story-bt min_power10 14.5
+101 story-bt max_power90 49.8
+101 story-at comments CE SS  
+101 story-at missing CS
+101 story-at duration_sec 4.0
+101 story-at dc_offset 42
+101 story-at min_samp -1790
+101 story-at max_samp 1542
+101 story-at min_power10 19.5
+101 story-at max_power90 50.8
+101 gender female
+101 age adult
+101 connection average
+101 intelligibility ok

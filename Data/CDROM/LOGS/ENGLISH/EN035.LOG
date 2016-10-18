@@ -1,0 +1,88 @@
+35 labeler khoward
+35 label_date Wed Aug  7 11:06:26 PDT 1991
+35 nlang comments ES  
+35 nlang missing nothing
+35 nlang duration_sec 1.6
+35 nlang dc_offset 42
+35 nlang min_samp -6662
+35 nlang max_samp 6998
+35 nlang min_power10 26.5
+35 nlang max_power90 65.0
+35 clang missing nothing
+35 clang duration_sec 0.8
+35 clang dc_offset 42
+35 clang min_samp -7350
+35 clang max_samp 5814
+35 clang min_power10 15.6
+35 clang max_power90 63.0
+35 dowk missing nothing
+35 dowk duration_sec 5.3
+35 dowk dc_offset 42
+35 dowk min_samp -6310
+35 dowk max_samp 5510
+35 dowk min_power10 25.9
+35 dowk max_power90 60.8
+35 nums comments BN EN  
+35 nums missing nothing
+35 nums duration_sec 8.8
+35 nums dc_offset 42
+35 nums min_samp -6022
+35 nums max_samp 4398
+35 nums min_power10 25.5
+35 nums max_power90 62.0
+35 htl comments BN CE  
+35 htl missing CS
+35 htl duration_sec 8.6
+35 htl dc_offset 42
+35 htl min_samp -6238
+35 htl max_samp 5214
+35 htl min_power10 25.4
+35 htl max_power90 60.6
+35 htc comments BN CE  
+35 htc missing CS
+35 htc duration_sec 8.8
+35 htc dc_offset 42
+35 htc min_samp -5634
+35 htc max_samp 5822
+35 htc min_power10 29.9
+35 htc max_power90 60.8
+35 room comments BN CE  
+35 room missing CS
+35 room duration_sec 11.3
+35 room dc_offset 42
+35 room min_samp -7158
+35 room max_samp 4942
+35 room min_power10 23.2
+35 room max_power90 58.8
+35 meal comments CE  
+35 meal missing CS
+35 meal duration_sec 9.0
+35 meal dc_offset 42
+35 meal min_samp -4798
+35 meal max_samp 4754
+35 meal min_power10 30.4
+35 meal max_power90 58.5
+35 story-at comments BN  
+35 story-at missing nothing
+35 story-at duration_sec 7.6
+35 story-at dc_offset 42
+35 story-at min_samp -3446
+35 story-at max_samp 3658
+35 story-at min_power10 27.9
+35 story-at max_power90 58.0
+35 gender male
+35 age adult
+35 connection average
+35 intelligibility ok
+35 story-bt comments CE SS  
+35 story-bt missing CS
+35 story-bt duration_sec 48.5
+35 story-bt dc_offset 42
+35 story-bt min_samp -8010
+35 story-bt max_samp 5838
+35 story-bt min_power10 27.9
+35 story-bt max_power90 59.0
+35 gender male
+35 age adult
+35 connection average
+35 intelligibility ok

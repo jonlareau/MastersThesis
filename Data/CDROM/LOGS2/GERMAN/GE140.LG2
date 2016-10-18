@@ -1,0 +1,26 @@
+140 nlang native yes
+140 clang instructions yes
+140 clang useful yes
+140 dowk complete yes
+140 nums complete yes
+140 htl instructions yes
+140 htl useful yes
+140 htc instructions yes
+140 htc useful yes
+140 room instructions yes
+140 room useful yes
+140 meal instructions yes
+140 meal useful yes
+140 story-bt speech_type read
+140 story-bt topic article about a film
+140 story-at speech_type read
+140 story-at topic film festival
+140 general native yes
+140 general dialect standard
+140 general accent none
+140 general background speech none
+140 general environmental noise none
+140 general gender female
+140 general age adult
+140 general intelligibility ok
+140 general connection average

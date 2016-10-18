@@ -1,0 +1,81 @@
+33 labeler khoward
+33 label_date Wed Aug  7 10:54:41 PDT 1991
+33 nlang comments BN ES  
+33 nlang missing nothing
+33 nlang duration_sec 2.2
+33 nlang dc_offset 42
+33 nlang min_samp -1670
+33 nlang max_samp 1942
+33 nlang min_power10 22.7
+33 nlang max_power90 53.6
+33 clang missing nothing
+33 clang duration_sec 0.8
+33 clang dc_offset 42
+33 clang min_samp -2190
+33 clang max_samp 2414
+33 clang min_power10 27.8
+33 clang max_power90 55.7
+33 dowk missing nothing
+33 dowk duration_sec 4.2
+33 dowk dc_offset 42
+33 dowk min_samp -2718
+33 dowk max_samp 2734
+33 dowk min_power10 24.8
+33 dowk max_power90 52.9
+33 nums missing nothing
+33 nums duration_sec 6.4
+33 nums dc_offset 42
+33 nums min_samp -2674
+33 nums max_samp 2030
+33 nums min_power10 22.3
+33 nums max_power90 53.1
+33 htl comments EN  
+33 htl missing nothing
+33 htl duration_sec 9.4
+33 htl dc_offset 42
+33 htl min_samp -7438
+33 htl max_samp 4730
+33 htl min_power10 25.2
+33 htl max_power90 54.3
+33 htc missing nothing
+33 htc duration_sec 7.3
+33 htc dc_offset 42
+33 htc min_samp -3870
+33 htc max_samp 3694
+33 htc min_power10 26.9
+33 htc max_power90 55.1
+33 room comments CE  
+33 room missing CS
+33 room duration_sec 10.7
+33 room dc_offset 42
+33 room min_samp -11246
+33 room max_samp 11906
+33 room min_power10 23.7
+33 room max_power90 59.0
+33 meal missing nothing
+33 meal duration_sec 4.7
+33 meal dc_offset 42
+33 meal min_samp -5298
+33 meal max_samp 4902
+33 meal min_power10 25.3
+33 meal max_power90 58.7
+33 story-at comments CB  
+33 story-at missing CS
+33 story-at duration_sec 4.8
+33 story-at dc_offset 42
+33 story-at min_samp -2094
+33 story-at max_samp 1678
+33 story-at min_power10 25.0
+33 story-at max_power90 51.8
+33 gender female
+33 age adult
+33 connection average
+33 intelligibility ok
+33 story-bt comments CE SS  
+33 story-bt missing CS
+33 story-bt duration_sec 48.2
+33 story-bt dc_offset 42
+33 story-bt min_samp -8186
+33 story-bt max_samp 9570
+33 story-bt min_power10 24.0
+33 story-bt max_power90 52.2

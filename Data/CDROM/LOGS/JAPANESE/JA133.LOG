@@ -1,0 +1,86 @@
+133 labeler ames
+133 label_date Wed May  6 19:22:53 PDT 1992
+133 nlang comments EN  
+133 nlang missing nothing; extreme noise
+133 nlang duration_sec 1.5
+133 nlang dc_offset 42
+133 nlang min_samp -518
+133 nlang max_samp 318
+133 nlang min_power10 16.6
+133 nlang max_power90 36.4
+133 clang comments EN  
+133 clang missing nothing; extreme noise
+133 clang duration_sec 1.6
+133 clang dc_offset 42
+133 clang min_samp -834
+133 clang max_samp 554
+133 clang min_power10 15.7
+133 clang max_power90 33.7
+133 dowk comments EN  
+133 dowk missing nothing
+133 dowk duration_sec 7.1
+133 dowk dc_offset 42
+133 dowk min_samp -790
+133 dowk max_samp 574
+133 dowk min_power10 18.0
+133 dowk max_power90 40.0
+133 nums comments EN  
+133 nums missing 0
+133 nums duration_sec 6.5
+133 nums dc_offset 42
+133 nums min_samp -662
+133 nums max_samp 890
+133 nums min_power10 17.6
+133 nums max_power90 37.7
+133 htl comments EN  
+133 htl missing nothing; extreme noise
+133 htl duration_sec 4.3
+133 htl dc_offset 42
+133 htl min_samp -978
+133 htl max_samp 638
+133 htl min_power10 19.9
+133 htl max_power90 40.7
+133 htc comments CE EN  
+133 htc missing cs
+133 htc duration_sec 8.1
+133 htc dc_offset 42
+133 htc min_samp -1638
+133 htc max_samp 1658
+133 htc min_power10 17.6
+133 htc max_power90 39.4
+133 room comments EN  
+133 room missing nothing
+133 room duration_sec 11.1
+133 room dc_offset 42
+133 room min_samp -1146
+133 room max_samp 1206
+133 room min_power10 19.4
+133 room max_power90 38.7
+133 meal comments CE EN ES SNL  
+133 meal missing cs
+133 meal duration_sec 7.8
+133 meal dc_offset 42
+133 meal min_samp -1098
+133 meal max_samp 842
+133 meal min_power10 17.5
+133 meal max_power90 40.6
+133 story-bt comments CE EN SS ES  
+133 story-bt missing cs
+133 story-bt duration_sec 48.5
+133 story-bt dc_offset 42
+133 story-bt min_samp -1786
+133 story-bt max_samp 1358
+133 story-bt min_power10 19.6
+133 story-bt max_power90 42.0
+133 story-at comments CB EN SS  
+133 story-at missing cs
+133 story-at duration_sec 8.5
+133 story-at dc_offset 42
+133 story-at min_samp -1854
+133 story-at max_samp 1342
+133 story-at min_power10 20.6
+133 story-at max_power90 43.1
+133 gender male
+133 age adult
+133 connection poor
+133 intelligibility poor

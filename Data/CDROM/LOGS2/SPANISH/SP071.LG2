@@ -1,0 +1,23 @@
+71 nlang native yes
+71 clang instructions yes
+71 clang useful yes
+71 nums complete yes
+71 htl instructions yes
+71 htl useful yes
+71 htc instructions yes
+71 htc useful yes
+71 room instructions no
+71 room useful yes
+71 meal instructions yes
+71 meal useful yes
+71 story-bt speech_type extemp
+71 story-bt topic her life, where she is from, where she lives now, what she likes to do
+71 general native no
+71 general dialect standard
+71 general accent American, additionally strang pronunciation of the r at the end of a word
+71 general background speech none
+71 general environmental noise none
+71 general gender female
+71 general age adult
+71 general intelligibility ok
+71 general connection average

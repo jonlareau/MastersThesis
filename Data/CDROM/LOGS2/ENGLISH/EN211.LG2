@@ -1,0 +1,26 @@
+211 nlang native yes
+211 clang instructions yes
+211 clang useful yes
+211 dowk complete yes
+211 nums complete yes
+211 htl instructions yes
+211 htl useful yes
+211 htc instructions yes
+211 htc useful yes
+211 room instructions yes
+211 room useful yes
+211 meal instructions yes
+211 meal useful yes
+211 story-bt speech_type extemp
+211 story-bt topic shows interest in experiment, wants results
+211 story-at speech_type extemp
+211 story-at topic post goals of research
+211 general native yes
+211 general dialect standard
+211 general accent none
+211 general background speech none
+211 general environmental noise none
+211 general gender male
+211 general age adult
+211 general intelligibility ok
+211 general connection average

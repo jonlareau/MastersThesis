@@ -1,0 +1,27 @@
+126 nlang native yes
+126 clang instructions yes
+126 clang useful yes
+126 dowk complete yes
+126 nums complete no
+126 nums partial yes
+126 htl instructions yes
+126 htl useful yes
+126 htc instructions yes
+126 htc useful yes
+126 room instructions yes
+126 room useful yes
+126 meal instructions yes
+126 meal useful yes
+126 story-bt speech_type extemp
+126 story-bt topic Martial Arts
+126 story-at speech_type extemp
+126 story-at topic cont. Martial Arts
+126 general native yes
+126 general dialect Argentinian, but not strong
+126 general accent none
+126 general background speech none
+126 general environmental noise none
+126 general gender male
+126 general age adult
+126 general intelligibility ok
+126 general connection average

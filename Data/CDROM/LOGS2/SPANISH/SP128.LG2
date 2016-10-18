@@ -1,0 +1,20 @@
+128 nlang native yes
+128 clang instructions yes
+128 clang useful yes
+128 dowk complete no
+128 dowk partial no
+128 dowk useful yes
+128 nums complete yes
+128 htl instructions yes
+128 htl useful yes
+128 htc instructions yes
+128 htc useful yes
+128 general native no
+128 general dialect standard
+128 general accent American, improper usage of language
+128 general background speech none
+128 general environmental noise none
+128 general gender male
+128 general age adult
+128 general intelligibility ok
+128 general connection average

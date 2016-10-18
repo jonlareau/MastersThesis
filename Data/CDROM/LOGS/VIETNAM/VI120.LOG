@@ -1,0 +1,78 @@
+120 labeler ames
+120 label_date Sun Mar  8 10:29:56 PST 1992
+120 nlang comments EN  
+120 nlang missing nothing
+120 nlang duration_sec 0.6
+120 nlang dc_offset 42
+120 nlang min_samp -3514
+120 nlang max_samp 4162
+120 nlang min_power10 21.9
+120 nlang max_power90 61.4
+120 clang comments EN  
+120 clang missing nothing
+120 clang duration_sec 0.6
+120 clang dc_offset 42
+120 clang min_samp -3590
+120 clang max_samp 3902
+120 clang min_power10 20.1
+120 clang max_power90 57.3
+120 dowk comments EN  
+120 dowk missing nothing
+120 dowk duration_sec 3.3
+120 dowk dc_offset 42
+120 dowk min_samp -2126
+120 dowk max_samp 2342
+120 dowk min_power10 15.9
+120 dowk max_power90 55.0
+120 nums comments EN  
+120 nums missing nothing
+120 nums duration_sec 5.4
+120 nums dc_offset 42
+120 nums min_samp -4374
+120 nums max_samp 4802
+120 nums min_power10 14.3
+120 nums max_power90 45.1
+120 htl comments CE EN ES  
+120 htl missing cs
+120 htl duration_sec 9.3
+120 htl dc_offset 42
+120 htl min_samp -2906
+120 htl max_samp 3422
+120 htl min_power10 16.7
+120 htl max_power90 49.9
+120 htc comments BN EN  
+120 htc missing nothing
+120 htc duration_sec 4.5
+120 htc dc_offset 42
+120 htc min_samp -2226
+120 htc max_samp 2958
+120 htc min_power10 21.7
+120 htc max_power90 52.7
+120 room comments CE EN  
+120 room missing cs; maybe the word "shelf"
+120 room duration_sec 9.3
+120 room dc_offset 42
+120 room min_samp -2862
+120 room max_samp 2298
+120 room min_power10 20.2
+120 room max_power90 53.6
+120 meal comments EN  
+120 meal missing nothing
+120 meal duration_sec 2.7
+120 meal dc_offset 42
+120 meal min_samp -2602
+120 meal max_samp 2414
+120 meal min_power10 15.1
+120 meal max_power90 53.2
+120 story-bt comments EN SS ES  
+120 story-bt missing nothing; maybe some words in English
+120 story-bt duration_sec 33.9
+120 story-bt dc_offset 42
+120 story-bt min_samp -4394
+120 story-bt max_samp 7070
+120 story-bt min_power10 17.5
+120 story-bt max_power90 50.2
+120 gender male
+120 age adult
+120 connection average
+120 intelligibility ok

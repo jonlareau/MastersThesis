@@ -1,0 +1,81 @@
+37 labeler khoward
+37 label_date Thu Aug  8 11:07:26 PDT 1991
+37 nlang missing nothing
+37 nlang duration_sec 1.0
+37 nlang dc_offset 42
+37 nlang min_samp -6102
+37 nlang max_samp 4754
+37 nlang min_power10 22.0
+37 nlang max_power90 60.8
+37 clang missing nothing
+37 clang duration_sec 1.2
+37 clang dc_offset 42
+37 clang min_samp -2446
+37 clang max_samp 1782
+37 clang min_power10 19.2
+37 clang max_power90 49.1
+37 dowk missing nothing
+37 dowk duration_sec 5.3
+37 dowk dc_offset 42
+37 dowk min_samp -4842
+37 dowk max_samp 3818
+37 dowk min_power10 20.9
+37 dowk max_power90 50.2
+37 nums comments BN  
+37 nums missing nothing
+37 nums duration_sec 7.3
+37 nums dc_offset 42
+37 nums min_samp -5118
+37 nums max_samp 3758
+37 nums min_power10 17.4
+37 nums max_power90 51.9
+37 htl comments CE BN  
+37 htl missing CS
+37 htl duration_sec 8.3
+37 htl dc_offset 42
+37 htl min_samp -4062
+37 htl max_samp 3950
+37 htl min_power10 18.1
+37 htl max_power90 54.7
+37 htc comments CE  
+37 htc missing nothing
+37 htc duration_sec 6.3
+37 htc dc_offset 42
+37 htc min_samp -4318
+37 htc max_samp 2050
+37 htc min_power10 19.2
+37 htc max_power90 52.4
+37 room missing nothing
+37 room duration_sec 10.5
+37 room dc_offset 42
+37 room min_samp -5238
+37 room max_samp 2874
+37 room min_power10 22.1
+37 room max_power90 55.6
+37 meal missing nothing
+37 meal duration_sec 5.9
+37 meal dc_offset 42
+37 meal min_samp -3754
+37 meal max_samp 2670
+37 meal min_power10 22.3
+37 meal max_power90 55.3
+37 story-bt comments CE SS  
+37 story-bt missing CS
+37 story-bt duration_sec 47.9
+37 story-bt dc_offset 42
+37 story-bt min_samp -7222
+37 story-bt max_samp 6830
+37 story-bt min_power10 22.3
+37 story-bt max_power90 53.2
+37 story-at comments SS  
+37 story-at missing nothing
+37 story-at duration_sec 6.0
+37 story-at dc_offset 42
+37 story-at min_samp -2302
+37 story-at max_samp 1802
+37 story-at min_power10 19.1
+37 story-at max_power90 50.8
+37 gender male
+37 age adult
+37 connection average
+37 intelligibility ok

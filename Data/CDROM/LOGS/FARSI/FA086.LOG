@@ -1,0 +1,62 @@
+86 labeler ames
+86 label_date Thu Dec 26 11:40:26 PST 1991
+86 dowk comments CB EN  
+86 dowk missing 1st 2nd day
+86 dowk duration_sec 5.3
+86 dowk dc_offset 43
+86 dowk min_samp -1107
+86 dowk max_samp 1029
+86 dowk min_power10 20.9
+86 dowk max_power90 48.9
+86 nums comments CB EN  
+86 nums missing 0 1
+86 nums duration_sec 5.4
+86 nums dc_offset 43
+86 nums min_samp -843
+86 nums max_samp 893
+86 nums min_power10 10.8
+86 nums max_power90 46.9
+86 htl comments CE EN ES  
+86 htl missing cs
+86 htl duration_sec 7.6
+86 htl dc_offset 43
+86 htl min_samp -2391
+86 htl max_samp 1381
+86 htl min_power10 17.6
+86 htl max_power90 52.4
+86 htc comments EN  
+86 htc missing nothing
+86 htc duration_sec 5.1
+86 htc dc_offset 43
+86 htc min_samp -1923
+86 htc max_samp 949
+86 htc min_power10 14.4
+86 htc max_power90 47.8
+86 room comments BN CE EN  
+86 room missing cs
+86 room duration_sec 10.6
+86 room dc_offset 43
+86 room min_samp -1259
+86 room max_samp 993
+86 room min_power10 16.3
+86 room max_power90 46.9
+86 meal comments EN  
+86 meal missing nothing
+86 meal duration_sec 1.5
+86 meal dc_offset 43
+86 meal min_samp -1551
+86 meal max_samp 1109
+86 meal min_power10 11.9
+86 meal max_power90 51.9
+86 story-bt comments CE EN SS ES  
+86 story-bt missing cs
+86 story-bt duration_sec 48.7
+86 story-bt dc_offset 43
+86 story-bt min_samp -1619
+86 story-bt max_samp 1029
+86 story-bt min_power10 13.7
+86 story-bt max_power90 46.6
+86 gender male
+86 age adult
+86 connection average
+86 intelligibility ok

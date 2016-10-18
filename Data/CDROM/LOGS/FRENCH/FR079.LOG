@@ -1,0 +1,50 @@
+79 labeler khoward
+79 label_date Fri Nov 29 16:12:55 PST 1991
+79 nlang missing nothing
+79 nlang duration_sec 1.2
+79 nlang dc_offset 42
+79 nlang min_samp -5122
+79 nlang max_samp 5830
+79 nlang min_power10 20.5
+79 nlang max_power90 63.0
+79 clang missing nothing
+79 clang duration_sec 1.0
+79 clang dc_offset 42
+79 clang min_samp -7094
+79 clang max_samp 5794
+79 clang min_power10 22.4
+79 clang max_power90 66.3
+79 dowk missing nothing
+79 dowk duration_sec 6.8
+79 dowk dc_offset 42
+79 dowk min_samp -7686
+79 dowk max_samp 7086
+79 dowk min_power10 23.4
+79 dowk max_power90 60.2
+79 nums missing nothing
+79 nums duration_sec 9.3
+79 nums dc_offset 42
+79 nums min_samp -7070
+79 nums max_samp 6542
+79 nums min_power10 19.4
+79 nums max_power90 61.4
+79 htl comments CE  
+79 htl missing CS
+79 htl duration_sec 8.2
+79 htl dc_offset 42
+79 htl min_samp -8354
+79 htl max_samp 7814
+79 htl min_power10 26.6
+79 htl max_power90 63.4
+79 htc comments BN  
+79 htc missing nothing
+79 htc duration_sec 2.1
+79 htc dc_offset 42
+79 htc min_samp -8950
+79 htc max_samp 9014
+79 htc min_power10 25.0
+79 htc max_power90 64.4
+79 gender female
+79 age adult
+79 connection average
+79 intelligibility ok

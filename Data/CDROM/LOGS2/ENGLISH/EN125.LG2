@@ -1,0 +1,26 @@
+125 nlang native yes
+125 clang instructions yes
+125 clang useful yes
+125 dowk complete yes
+125 nums complete yes
+125 htl instructions yes
+125 htl useful yes
+125 htc instructions yes
+125 htc useful yes
+125 room instructions yes
+125 room useful yes
+125 meal instructions yes
+125 meal useful yes
+125 story-bt speech_type read
+125 story-bt topic reading classified articles out of computer magazines
+125 story-at speech_type read
+125 story-at topic reading really fast can't understand
+125 general native yes
+125 general dialect standard
+125 general accent none
+125 general background speech none
+125 general environmental noise none
+125 general gender male
+125 general age adult
+125 general intelligibility ok
+125 general connection average

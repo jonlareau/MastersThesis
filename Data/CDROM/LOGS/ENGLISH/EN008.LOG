@@ -1,0 +1,86 @@
+8 labeler khoward
+8 label_date Wed Jul 10 10:28:56 PDT 1991
+8 nlang comments BN  
+8 nlang missing nothing
+8 nlang duration_sec 0.7
+8 nlang dc_offset 42
+8 nlang min_samp -2638
+8 nlang max_samp 3614
+8 nlang min_power10 18.3
+8 nlang max_power90 57.9
+8 clang comments BN  
+8 clang missing nothing
+8 clang duration_sec 0.7
+8 clang dc_offset 42
+8 clang min_samp -2362
+8 clang max_samp 3234
+8 clang min_power10 19.8
+8 clang max_power90 56.0
+8 dowk comments BN CE  
+8 dowk missing Tuesday Wednesday Thursday Friday Saturday
+8 dowk duration_sec 2.1
+8 dowk dc_offset 42
+8 dowk min_samp -3702
+8 dowk max_samp 4674
+8 dowk min_power10 17.8
+8 dowk max_power90 57.3
+8 nums comments BN CB  
+8 nums missing 0 1 2 3
+8 nums duration_sec 2.5
+8 nums dc_offset 42
+8 nums min_samp -1962
+8 nums max_samp 3034
+8 nums min_power10 19.1
+8 nums max_power90 54.1
+8 htl comments BN  
+8 htl missing nothing
+8 htl duration_sec 4.4
+8 htl dc_offset 42
+8 htl min_samp -4694
+8 htl max_samp 6870
+8 htl min_power10 19.4
+8 htl max_power90 62.3
+8 htc comments BN CB  
+8 htc missing CS
+8 htc duration_sec 5.4
+8 htc dc_offset 42
+8 htc min_samp -2898
+8 htc max_samp 4798
+8 htc min_power10 16.5
+8 htc max_power90 50.3
+8 room comments BN  
+8 room missing nothing
+8 room duration_sec 18.5
+8 room dc_offset 42
+8 room min_samp -4534
+8 room max_samp 5458
+8 room min_power10 17.2
+8 room max_power90 53.0
+8 meal comments BN  
+8 meal missing nothing
+8 meal duration_sec 6.5
+8 meal dc_offset 42
+8 meal min_samp -2838
+8 meal max_samp 4518
+8 meal min_power10 16.5
+8 meal max_power90 50.2
+8 story-bt comments BN RS SS  
+8 story-bt missing nothing
+8 story-bt duration_sec 49.0
+8 story-bt dc_offset 42
+8 story-bt min_samp -6582
+8 story-bt max_samp 5578
+8 story-bt min_power10 18.4
+8 story-bt max_power90 55.8
+8 story-at comments BN CB CE  
+8 story-at missing CS
+8 story-at duration_sec 9.6
+8 story-at dc_offset 42
+8 story-at min_samp -3974
+8 story-at max_samp 5218
+8 story-at min_power10 15.9
+8 story-at max_power90 55.4
+8 gender male
+8 age adult
+8 connection poor
+8 intelligibility ok

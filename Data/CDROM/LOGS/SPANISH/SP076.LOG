@@ -1,0 +1,82 @@
+76 labeler khoward
+76 label_date Fri Jan  3 12:17:41 PST 1992
+76 nlang missing nothing
+76 nlang duration_sec 1.2
+76 nlang dc_offset 42
+76 nlang min_samp -10366
+76 nlang max_samp 7878
+76 nlang min_power10 13.9
+76 nlang max_power90 63.0
+76 clang comments BN  
+76 clang missing nothing
+76 clang duration_sec 1.3
+76 clang dc_offset 42
+76 clang min_samp -8822
+76 clang max_samp 5614
+76 clang min_power10 13.5
+76 clang max_power90 61.6
+76 dowk missing nothing
+76 dowk duration_sec 5.5
+76 dowk dc_offset 42
+76 dowk min_samp -7054
+76 dowk max_samp 5330
+76 dowk min_power10 14.0
+76 dowk max_power90 58.4
+76 nums missing nothing
+76 nums duration_sec 4.8
+76 nums dc_offset 42
+76 nums min_samp -7686
+76 nums max_samp 6374
+76 nums min_power10 17.3
+76 nums max_power90 63.2
+76 htl comments CE  
+76 htl missing CS
+76 htl duration_sec 8.6
+76 htl dc_offset 42
+76 htl min_samp -9742
+76 htl max_samp 4858
+76 htl min_power10 15.7
+76 htl max_power90 63.7
+76 htc missing nothing
+76 htc duration_sec 7.7
+76 htc dc_offset 42
+76 htc min_samp -11270
+76 htc max_samp 6630
+76 htc min_power10 18.6
+76 htc max_power90 65.1
+76 room comments CE  
+76 room missing CS
+76 room duration_sec 8.7
+76 room dc_offset 42
+76 room min_samp -10686
+76 room max_samp 8494
+76 room min_power10 15.0
+76 room max_power90 65.7
+76 meal comments SNL 
+76 meal missing nothing
+76 meal duration_sec 8.8
+76 meal dc_offset 42
+76 meal min_samp -12478
+76 meal max_samp 9358
+76 meal min_power10 14.5
+76 meal max_power90 63.7
+76 story-bt comments SNL CE SS  
+76 story-bt missing CS
+76 story-bt duration_sec 46.0
+76 story-bt dc_offset 42
+76 story-bt min_samp -9718
+76 story-bt max_samp 6698
+76 story-bt min_power10 14.2
+76 story-bt max_power90 59.7
+76 story-at comments CE SS  
+76 story-at missing CS
+76 story-at duration_sec 8.2
+76 story-at dc_offset 42
+76 story-at min_samp -12438
+76 story-at max_samp 8334
+76 story-at min_power10 18.5
+76 story-at max_power90 66.4
+76 gender male
+76 age adult
+76 connection good
+76 intelligibility ok

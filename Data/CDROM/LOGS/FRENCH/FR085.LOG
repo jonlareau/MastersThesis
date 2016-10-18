@@ -1,0 +1,83 @@
+85 labeler khoward
+85 label_date Tue Dec 24 10:11:01 PST 1991
+85 nlang missing nothing
+85 nlang duration_sec 1.2
+85 nlang dc_offset 42
+85 nlang min_samp -2862
+85 nlang max_samp 3510
+85 nlang min_power10 21.0
+85 nlang max_power90 57.3
+85 clang missing nothing
+85 clang duration_sec 1.2
+85 clang dc_offset 42
+85 clang min_samp -5558
+85 clang max_samp 7150
+85 clang min_power10 21.4
+85 clang max_power90 60.8
+85 dowk comments CE  
+85 dowk missing Sunday
+85 dowk duration_sec 7.4
+85 dowk dc_offset 42
+85 dowk min_samp -4986
+85 dowk max_samp 8798
+85 dowk min_power10 20.5
+85 dowk max_power90 60.2
+85 nums comments CE  
+85 nums missing 0 9 10
+85 nums duration_sec 8.9
+85 nums dc_offset 42
+85 nums min_samp -6690
+85 nums max_samp 8206
+85 nums min_power10 20.2
+85 nums max_power90 59.2
+85 htl missing nothing
+85 htl duration_sec 8.6
+85 htl dc_offset 42
+85 htl min_samp -4002
+85 htl max_samp 6758
+85 htl min_power10 22.7
+85 htl max_power90 59.3
+85 htc comments CE  
+85 htc missing CS
+85 htc duration_sec 9.1
+85 htc dc_offset 42
+85 htc min_samp -3874
+85 htc max_samp 4922
+85 htc min_power10 24.1
+85 htc max_power90 57.7
+85 room comments BN  
+85 room missing nothing
+85 room duration_sec 11.2
+85 room dc_offset 42
+85 room min_samp -6502
+85 room max_samp 7626
+85 room min_power10 22.7
+85 room max_power90 62.1
+85 meal comments BN CE  
+85 meal missing CS
+85 meal duration_sec 8.8
+85 meal dc_offset 42
+85 meal min_samp -7146
+85 meal max_samp 8950
+85 meal min_power10 24.4
+85 meal max_power90 64.6
+85 story-bt comments RS  
+85 story-bt missing nothing
+85 story-bt duration_sec 48.8
+85 story-bt dc_offset 42
+85 story-bt min_samp -8166
+85 story-bt max_samp 9174
+85 story-bt min_power10 24.8
+85 story-bt max_power90 62.4
+85 story-at comments CB CE RS  
+85 story-at missing CS
+85 story-at duration_sec 4.8
+85 story-at dc_offset 42
+85 story-at min_samp -5242
+85 story-at max_samp 6630
+85 story-at min_power10 25.9
+85 story-at max_power90 63.5
+85 gender male
+85 age adult
+85 connection good
+85 intelligibility ok

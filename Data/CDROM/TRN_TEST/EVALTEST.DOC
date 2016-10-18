@@ -1,0 +1,87 @@
+				FINALTEST
+				---------
+ENGLISH:
+	 62m  63m  64m  65m  66m  68f  69m  70m  71m  72m  73m  74f  76m 
+	 77f  78m  79m  80m  81f  82m  83m 
+
+	  20 calls (m 16 f 4)
+	 195 uttrs (nlg 20 clg 20 dow 20 num 20 htl 19 htc 20 roo 20 mea 19
+	            stb 19 sta 18)
+
+FRENCH:
+	 68m  69m  71m  72m  73m  74m  75m  79f  80f  81f  83m  85m  86f 
+	 87f  90m  92f  93f  94f  95m  96m 
+
+	  20 calls (m 12 f 8)
+	 188 uttrs (nlg 19 clg 20 dow 20 num 20 htl 20 htc 20 roo 19 mea 19
+	            stb 18 sta 13)
+
+FARSI:
+	 90m  93f  94m  95m  96m  99m 100m 101m 102m 103m 104m 107m 108m 
+	109m 111m 112f 113m 114m 115m 116m 
+
+	  20 calls (m 18 f 2)
+	 190 uttrs (nlg 19 clg 20 dow 20 num 20 htl 20 htc 20 roo 19 mea 20
+	            stb 20 sta 12)
+
+GERMAN:
+	 69f  70m  72m  74m  75f  77f  78m  79m  80m  81m  83m  85f  86m 
+	 87m  88m  89m  90m  91m  93m  94f 
+
+	  20 calls (m 15 f 5)
+	 188 uttrs (nlg 17 clg 17 dow 20 num 20 htl 20 htc 20 roo 20 mea 20
+	            stb 20 sta 14)
+
+JAPANESE:
+	 91f  92f  94f  96m  97f 100m 101f 102m 104m 105f 106m 107m 108u 
+	109f 110f 112m 113m 116m 117m 118m 
+
+	  20 calls (m 11 f 8 u 1 )
+	 195 uttrs (nlg 19 clg 20 dow 20 num 20 htl 20 htc 20 roo 20 mea 20
+	            stb 19 sta 17)
+
+KOREAN:
+	 73f  74m  75m  76m  79m  80m  81m  85f  90m  91m  94m  96m  97f 
+	 99f 100m 101m 103f 105m 106m 108m 
+
+	  20 calls (m 15 f 5)
+	 166 uttrs (nlg 14 clg 17 dow 20 num 20 htl 17 htc 20 roo 19 mea 18
+	            stb 17 sta 4)
+
+MANDARIN:
+	 79m  81f  83f  86f  90f  92f  93m  97f  98f  99m 100f 101f 105m 
+	106m 107m 108m 109m 113m 118f 119m 
+
+	  20 calls (m 10 f 10)
+	 182 uttrs (nlg 19 clg 18 dow 16 num 20 htl 18 htc 20 roo 19 mea 19
+	            stb 18 sta 15)
+
+SPANISH:
+	 60m  62m  63m  64f  65m  66u  67m  68m  69f  70m  71f  72f  73m 
+	 74f  75m  76m  77f  78m  79f  80f 
+
+	  20 calls (m 11 f 8 u 1 )
+	 188 uttrs (nlg 20 clg 20 dow 19 num 20 htl 20 htc 20 roo 19 mea 20
+	            stb 17 sta 13)
+
+TAMIL:
+	 75m  76m  77m  78m  79m  80m  83m  84m  85m  86m  89m  90m  91m 
+	 94f  95m  98m  99m 100m 102m 104m 
+
+	  20 calls (m 19 f 1)
+	 177 uttrs (nlg 20 clg 17 dow 19 num 20 htl 20 htc 19 roo 20 mea 19
+	            stb 14 sta 9)
+
+VIETNAMESE:
+	 77f  80f  83m  85m  86m  87m  89m  90f  92m  94m  96m  97m  98m 
+	 99m 100m 101m 102f 104f 105f 106f 
+
+	  20 calls (m 13 f 7)
+	 179 uttrs (nlg 19 clg 19 dow 20 num 20 htl 18 htc 20 roo 20 mea 19
+	            stb 16 sta 8)
+
+
+GRAND TOTAL:
+	 200 Calls (m 140 f 58 u 2)
+	1848 Uttrs (nlg 186 clg 188 dow 194 num 200 htl 192 htc 199 roo 195
+	            mea 193 stb 178 sta 123)

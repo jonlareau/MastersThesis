@@ -1,0 +1,27 @@
+21 nlang native yes
+21 clang instructions yes
+21 clang useful yes
+21 dowk complete yes
+21 nums complete no
+21 nums partial yes
+21 htl instructions yes
+21 htl useful yes
+21 htc instructions yes
+21 htc useful yes
+21 room instructions yes
+21 room useful yes
+21 meal instructions yes
+21 meal useful yes
+21 story-bt speech_type extemp
+21 story-bt topic Questions about the utility of this interesting research
+21 story-at speech_type extemp
+21 story-at topic End of the first topic "nice to have talked to you"
+21 general native yes
+21 general dialect standard
+21 general accent none
+21 general background speech none
+21 general environmental noise none
+21 general gender male
+21 general age adult
+21 general intelligibility ok
+21 general connection average

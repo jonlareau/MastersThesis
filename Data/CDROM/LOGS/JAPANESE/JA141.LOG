@@ -1,0 +1,81 @@
+141 labeler khoward
+141 label_date Fri Jun 12 11:58:49 PDT 1992
+141 nlang missing nothing
+141 nlang duration_sec 1.2
+141 nlang dc_offset 42
+141 nlang min_samp -2758
+141 nlang max_samp 1906
+141 nlang min_power10 15.4
+141 nlang max_power90 56.2
+141 clang comments ES  
+141 clang missing nothing
+141 clang duration_sec 1.9
+141 clang dc_offset 43
+141 clang min_samp -2971
+141 clang max_samp 3157
+141 clang min_power10 15.9
+141 clang max_power90 59.8
+141 dowk missing nothing
+141 dowk duration_sec 6.0
+141 dowk dc_offset 43
+141 dowk min_samp -3207
+141 dowk max_samp 4945
+141 dowk min_power10 15.3
+141 dowk max_power90 53.9
+141 nums missing nothing
+141 nums duration_sec 8.5
+141 nums dc_offset 43
+141 nums min_samp -3427
+141 nums max_samp 4557
+141 nums min_power10 15.0
+141 nums max_power90 53.9
+141 htl missing nothing
+141 htl duration_sec 9.3
+141 htl dc_offset 43
+141 htl min_samp -3155
+141 htl max_samp 3797
+141 htl min_power10 16.5
+141 htl max_power90 56.3
+141 htc comments BN  
+141 htc missing nothing
+141 htc duration_sec 2.5
+141 htc dc_offset 43
+141 htc min_samp -2783
+141 htc max_samp 4469
+141 htc min_power10 15.6
+141 htc max_power90 56.4
+141 room missing nothing
+141 room duration_sec 10.4
+141 room dc_offset 43
+141 room min_samp -3071
+141 room max_samp 5189
+141 room min_power10 16.0
+141 room max_power90 56.4
+141 meal comments BN  
+141 meal missing nothing
+141 meal duration_sec 9.7
+141 meal dc_offset 43
+141 meal min_samp -3207
+141 meal max_samp 5633
+141 meal min_power10 15.3
+141 meal max_power90 48.8
+141 story-bt comments EN SS SNL  
+141 story-bt missing nothing
+141 story-bt duration_sec 48.2
+141 story-bt dc_offset 43
+141 story-bt min_samp -3607
+141 story-bt max_samp 4149
+141 story-bt min_power10 15.5
+141 story-bt max_power90 52.7
+141 story-at comments CB SS  
+141 story-at missing CS
+141 story-at duration_sec 5.0
+141 story-at dc_offset 43
+141 story-at min_samp -2199
+141 story-at max_samp 2205
+141 story-at min_power10 14.9
+141 story-at max_power90 45.5
+141 gender male
+141 age adult
+141 connection average
+141 intelligibility ok

@@ -1,0 +1,86 @@
+80 labeler ames
+80 label_date Sun Dec 22 13:56:44 PST 1991
+80 nlang comments EN  
+80 nlang missing nothing
+80 nlang duration_sec 0.8
+80 nlang dc_offset 43
+80 nlang min_samp -8119
+80 nlang max_samp 9037
+80 nlang min_power10 23.3
+80 nlang max_power90 66.7
+80 clang comments EN  
+80 clang missing nothing
+80 clang duration_sec 0.9
+80 clang dc_offset 43
+80 clang min_samp -6631
+80 clang max_samp 6289
+80 clang min_power10 28.9
+80 clang max_power90 64.5
+80 dowk comments EN  
+80 dowk missing nothing
+80 dowk duration_sec 5.9
+80 dowk dc_offset 43
+80 dowk min_samp -12443
+80 dowk max_samp 9565
+80 dowk min_power10 31.9
+80 dowk max_power90 65.6
+80 nums comments EN  
+80 nums missing nothing
+80 nums duration_sec 8.8
+80 nums dc_offset 43
+80 nums min_samp -7271
+80 nums max_samp 7365
+80 nums min_power10 28.9
+80 nums max_power90 61.3
+80 htl comments BN CE EN SNL  
+80 htl missing cs
+80 htl duration_sec 7.9
+80 htl dc_offset 43
+80 htl min_samp -8055
+80 htl max_samp 7173
+80 htl min_power10 31.1
+80 htl max_power90 63.7
+80 htc comments EN  
+80 htc missing nothing
+80 htc duration_sec 4.2
+80 htc dc_offset 43
+80 htc min_samp -12471
+80 htc max_samp 9669
+80 htc min_power10 32.5
+80 htc max_power90 65.3
+80 room comments BN EN SNL  
+80 room missing nothing
+80 room duration_sec 9.7
+80 room dc_offset 43
+80 room min_samp -9135
+80 room max_samp 10397
+80 room min_power10 31.9
+80 room max_power90 63.8
+80 meal comments BN EN  
+80 meal missing nothing
+80 meal duration_sec 2.4
+80 meal dc_offset 43
+80 meal min_samp -8847
+80 meal max_samp 6361
+80 meal min_power10 35.3
+80 meal max_power90 63.8
+80 story-bt comments BN CE EN SS ES SNL  
+80 story-bt missing cs
+80 story-bt duration_sec 47.9
+80 story-bt dc_offset 43
+80 story-bt min_samp -10655
+80 story-bt max_samp 11669
+80 story-bt min_power10 29.3
+80 story-bt max_power90 63.4
+80 story-at comments CB EN SS ES  
+80 story-at missing cs
+80 story-at duration_sec 2.5
+80 story-at dc_offset 43
+80 story-at min_samp -6247
+80 story-at max_samp 6069
+80 story-at min_power10 28.9
+80 story-at max_power90 60.8
+80 gender male
+80 age adult
+80 connection average
+80 intelligibility ok

@@ -1,0 +1,26 @@
+210 nlang native yes
+210 clang instructions yes
+210 clang useful yes
+210 dowk complete yes
+210 nums complete yes
+210 htl instructions yes
+210 htl useful yes
+210 htc instructions yes
+210 htc useful yes
+210 room instructions yes
+210 room useful yes
+210 meal instructions yes
+210 meal useful yes
+210 story-bt speech_type extemp
+210 story-bt topic short overview of a presentation that he is giving
+210 story-at speech_type extemp
+210 story-at topic verifiable effects
+210 general native yes
+210 general dialect standard
+210 general accent none
+210 general background speech none
+210 general environmental noise none
+210 general gender male
+210 general age adult
+210 general intelligibility ok
+210 general connection average

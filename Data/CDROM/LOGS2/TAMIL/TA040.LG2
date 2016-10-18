@@ -1,0 +1,27 @@
+40 nlang native yes
+40 clang instructions no
+40 clang useful yes
+40 dowk complete no
+40 dowk partial yes
+40 nums complete yes
+40 htl instructions yes
+40 htl useful yes
+40 htc instructions yes
+40 htc useful yes
+40 room instructions yes
+40 room useful yes
+40 meal instructions no
+40 meal useful no
+40 story-bt speech_type other: singing
+40 story-bt topic song about being free as the birds and the waves.
+40 story-at speech_type extemp
+40 story-at topic not enough time to say anything
+40 general native yes
+40 general dialect standard
+40 general accent none
+40 general background speech story-bt was sung by someone else; not this guy
+40 general environmental noise none
+40 general gender male
+40 general age adult
+40 general intelligibility ok
+40 general connection average

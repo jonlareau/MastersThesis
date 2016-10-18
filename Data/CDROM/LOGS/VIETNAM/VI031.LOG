@@ -1,0 +1,51 @@
+31 labeler khoward
+31 label_date Fri Aug  2 14:24:32 PDT 1991
+31 nlang missing nothing
+31 nlang duration_sec 1.1
+31 nlang dc_offset 42
+31 nlang min_samp -2886
+31 nlang max_samp 3862
+31 nlang min_power10 21.9
+31 nlang max_power90 61.1
+31 clang missing nothing
+31 clang duration_sec 2.0
+31 clang dc_offset 42
+31 clang min_samp -8774
+31 clang max_samp 9362
+31 clang min_power10 22.8
+31 clang max_power90 66.1
+31 dowk missing nothing
+31 dowk duration_sec 6.4
+31 dowk dc_offset 42
+31 dowk min_samp -8150
+31 dowk max_samp 6522
+31 dowk min_power10 22.3
+31 dowk max_power90 62.8
+31 nums comments CE  
+31 nums missing 9 10?
+31 nums duration_sec 7.7
+31 nums dc_offset 42
+31 nums min_samp -10334
+31 nums max_samp 9270
+31 nums min_power10 22.6
+31 nums max_power90 65.4
+31 room comments SNL
+31 room missing nothing
+31 room duration_sec 7.4
+31 room dc_offset 42
+31 room min_samp -11546
+31 room max_samp 10978
+31 room min_power10 22.2
+31 room max_power90 60.6
+31 meal comments SNL  
+31 meal missing nothing
+31 meal duration_sec 8.2
+31 meal dc_offset 42
+31 meal min_samp -11854
+31 meal max_samp 14302
+31 meal min_power10 22.6
+31 meal max_power90 63.8
+31 gender male
+31 age adult
+31 connection poor
+31 intelligibility ok

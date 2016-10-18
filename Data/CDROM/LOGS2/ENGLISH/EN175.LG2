@@ -1,0 +1,24 @@
+175 nlang native yes
+175 dowk complete yes
+175 nums complete yes
+175 htl instructions yes
+175 htl useful yes
+175 htc instructions yes
+175 htc useful yes
+175 room instructions yes
+175 room useful yes
+175 meal instructions yes
+175 meal useful yes
+175 story-bt speech_type extemp
+175 story-bt topic history of her cat
+175 story-at speech_type extemp
+175 story-at topic  bought another cat at the store
+175 general native yes
+175 general dialect standard
+175 general accent none
+175 general background speech none
+175 general environmental noise none
+175 general gender female
+175 general age adult
+175 general intelligibility ok
+175 general connection average

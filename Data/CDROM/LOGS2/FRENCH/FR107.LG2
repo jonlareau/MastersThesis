@@ -1,0 +1,28 @@
+107 nlang native yes
+107 clang instructions yes
+107 clang useful yes
+107 dowk complete no
+107 dowk partial yes
+107 nums complete no
+107 nums partial yes
+107 htl instructions yes
+107 htl useful yes
+107 htc instructions yes
+107 htc useful yes
+107 room instructions yes
+107 room useful yes
+107 meal instructions yes
+107 meal useful yes
+107 story-bt speech_type extemp
+107 story-bt topic Montreal his town and his sporting activities:ski...
+107 story-at speech_type extemp
+107 story-at topic Climate of Montreal Cold but however pleasant.
+107 general native yes
+107 general dialect canadian
+107 general accent none
+107 general background speech none
+107 general environmental noise none
+107 general gender male
+107 general age adult
+107 general intelligibility ok
+107 general connection average

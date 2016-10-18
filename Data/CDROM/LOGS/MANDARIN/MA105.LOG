@@ -1,0 +1,83 @@
+105 labeler khoward
+105 label_date Sat Mar 14 13:56:11 PST 1992
+105 nlang missing nothing
+105 nlang duration_sec 1.0
+105 nlang dc_offset 42
+105 nlang min_samp -4730
+105 nlang max_samp 6522
+105 nlang min_power10 15.5
+105 nlang max_power90 65.2
+105 clang comments CB ES  
+105 clang missing CS
+105 clang duration_sec 1.7
+105 clang dc_offset 42
+105 clang min_samp -4850
+105 clang max_samp 5422
+105 clang min_power10 16.6
+105 clang max_power90 61.1
+105 dowk comments CE  
+105 dowk missing Friday Saturday?
+105 dowk duration_sec 7.5
+105 dowk dc_offset 42
+105 dowk min_samp -2882
+105 dowk max_samp 3454
+105 dowk min_power10 16.3
+105 dowk max_power90 49.2
+105 nums comments CB  
+105 nums missing 0
+105 nums duration_sec 7.0
+105 nums dc_offset 42
+105 nums min_samp -3958
+105 nums max_samp 4046
+105 nums min_power10 15.0
+105 nums max_power90 56.2
+105 htl comments CE  
+105 htl missing CS
+105 htl duration_sec 7.3
+105 htl dc_offset 42
+105 htl min_samp -3702
+105 htl max_samp 3806
+105 htl min_power10 19.4
+105 htl max_power90 54.3
+105 htc comments BN  
+105 htc missing nothing
+105 htc duration_sec 9.1
+105 htc dc_offset 42
+105 htc min_samp -2966
+105 htc max_samp 3410
+105 htc min_power10 20.1
+105 htc max_power90 49.8
+105 room missing nothing
+105 room duration_sec 5.8
+105 room dc_offset 42
+105 room min_samp -2314
+105 room max_samp 3050
+105 room min_power10 19.5
+105 room max_power90 52.4
+105 meal missing nothing
+105 meal duration_sec 2.0
+105 meal dc_offset 42
+105 meal min_samp -4590
+105 meal max_samp 5062
+105 meal min_power10 18.9
+105 meal max_power90 59.0
+105 story-bt comments BN SS  
+105 story-bt missing nothing
+105 story-bt duration_sec 48.5
+105 story-bt dc_offset 42
+105 story-bt min_samp -2630
+105 story-bt max_samp 3102
+105 story-bt min_power10 16.8
+105 story-bt max_power90 45.5
+105 story-at comments SS  
+105 story-at missing nothing
+105 story-at duration_sec 2.2
+105 story-at dc_offset 42
+105 story-at min_samp -1826
+105 story-at max_samp 1486
+105 story-at min_power10 15.6
+105 story-at max_power90 42.1
+105 gender male
+105 age adult
+105 connection average
+105 intelligibility ok

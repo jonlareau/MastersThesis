@@ -1,0 +1,24 @@
+179 nlang native yes
+179 clang instructions yes
+179 clang useful yes
+179 dowk complete yes
+179 nums complete yes
+179 htl instructions no
+179 htl useful yes
+179 htc instructions yes
+179 htc useful yes
+179 room instructions yes
+179 room useful yes
+179 meal instructions no
+179 meal useful yes
+179 story-bt speech_type extemp
+179 story-bt topic He doesn't want to do anything except eating and sleeping :-)
+179 general native yes
+179 general dialect standard
+179 general accent slight accent
+179 general background speech none
+179 general environmental noise none
+179 general gender male
+179 general age adult
+179 general intelligibility ok
+179 general connection average

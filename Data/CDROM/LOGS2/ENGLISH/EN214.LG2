@@ -1,0 +1,26 @@
+214 nlang native yes
+214 clang instructions yes
+214 clang useful yes
+214 dowk complete yes
+214 nums complete yes
+214 htl instructions yes
+214 htl useful yes
+214 htc instructions yes
+214 htc useful yes
+214 room instructions yes
+214 room useful yes
+214 meal instructions yes
+214 meal useful yes
+214 story-bt speech_type extemp
+214 story-bt topic the Boston Celtics
+214 story-at speech_type extemp
+214 story-at topic the team is one of the best
+214 general native yes
+214 general dialect standard
+214 general accent none
+214 general background speech none
+214 general environmental noise none
+214 general gender male
+214 general age adult
+214 general intelligibility ok
+214 general connection average

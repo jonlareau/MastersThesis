@@ -1,0 +1,27 @@
+122 nlang native yes
+122 clang instructions yes
+122 clang useful yes
+122 dowk complete yes
+122 nums complete no
+122 nums partial yes
+122 htl instructions yes
+122 htl useful yes
+122 htc instructions yes
+122 htc useful yes
+122 room instructions yes
+122 room useful yes
+122 meal instructions yes
+122 meal useful yes
+122 story-bt speech_type extemp
+122 story-bt topic his good education and excellent teachers in a mostly rotten school
+122 story-at speech_type extemp
+122 story-at topic his education has prepared him for life anywhere in the world
+122 general native yes
+122 general dialect formal, written Tamil
+122 general accent none
+122 general background speech none
+122 general environmental noise none
+122 general gender male
+122 general age adult
+122 general intelligibility ok
+122 general connection average

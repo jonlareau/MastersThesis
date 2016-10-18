@@ -1,0 +1,86 @@
+73 labeler ames
+73 label_date Thu Dec 26 13:09:55 PST 1991
+73 nlang comments EN  
+73 nlang missing nothing
+73 nlang duration_sec 0.6
+73 nlang dc_offset 42
+73 nlang min_samp -1654
+73 nlang max_samp 2706
+73 nlang min_power10 14.8
+73 nlang max_power90 58.4
+73 clang comments EN  
+73 clang missing nothing
+73 clang duration_sec 2.5
+73 clang dc_offset 42
+73 clang min_samp -1614
+73 clang max_samp 2638
+73 clang min_power10 18.5
+73 clang max_power90 53.2
+73 dowk comments EN  
+73 dowk missing nothing
+73 dowk duration_sec 7.3
+73 dowk dc_offset 42
+73 dowk min_samp -3674
+73 dowk max_samp 3054
+73 dowk min_power10 13.9
+73 dowk max_power90 51.1
+73 nums comments CE EN  
+73 nums missing 8 9 10
+73 nums duration_sec 9.2
+73 nums dc_offset 42
+73 nums min_samp -2742
+73 nums max_samp 2170
+73 nums min_power10 13.5
+73 nums max_power90 50.3
+73 htl comments EN  
+73 htl missing nothing
+73 htl duration_sec 8.6
+73 htl dc_offset 42
+73 htl min_samp -1622
+73 htl max_samp 2118
+73 htl min_power10 14.3
+73 htl max_power90 52.8
+73 htc comments CE EN ES  
+73 htc missing cs
+73 htc duration_sec 6.4
+73 htc dc_offset 42
+73 htc min_samp -1946
+73 htc max_samp 2138
+73 htc min_power10 17.2
+73 htc max_power90 52.5
+73 room comments CE EN SNL  
+73 room missing cs
+73 room duration_sec 11.3
+73 room dc_offset 42
+73 room min_samp -2086
+73 room max_samp 2730
+73 room min_power10 16.0
+73 room max_power90 54.4
+73 meal comments CE EN  
+73 meal missing cs
+73 meal duration_sec 7.8
+73 meal dc_offset 42
+73 meal min_samp -2638
+73 meal max_samp 3486
+73 meal min_power10 16.0
+73 meal max_power90 51.3
+73 story-bt comments CE EN SS SNL  
+73 story-bt missing cs
+73 story-bt duration_sec 49.1
+73 story-bt dc_offset 42
+73 story-bt min_samp -2870
+73 story-bt max_samp 4114
+73 story-bt min_power10 24.7
+73 story-bt max_power90 54.7
+73 story-at comments CE EN SS  
+73 story-at missing cs; extreme noise
+73 story-at duration_sec 8.1
+73 story-at dc_offset 42
+73 story-at min_samp -1830
+73 story-at max_samp 2474
+73 story-at min_power10 24.1
+73 story-at max_power90 53.9
+73 gender male
+73 age adult
+73 connection poor
+73 intelligibility ok

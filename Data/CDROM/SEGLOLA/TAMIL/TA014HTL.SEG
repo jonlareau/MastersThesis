@@ -1,0 +1,26 @@
+# Lola file written by    yeshwant
+#           written using Lyre Version of Thu Mar 28 22:31:33 PST 1991
+#           written on    Sun Jul 28 18:55:18 1991
+#           written as    test.lola
+#$ UNITS 3 1000 (3 millisecond frames)
+       0      60	CLOS
+      60      74	VOC
+      74     111	CLOS
+     111     118	STOP
+     118     127	VOC
+     127     138	CLOS
+     138     142	STOP
+     142     187	VOC
+     187     220	POVS
+     220     227	CLOS
+     227     231	STOP
+     231     247	VOC
+     247     266	INVS
+     266     300	VOC
+     300     313	INVS
+     313     343	VOC
+     343     390	INVS
+     390     406	VOC
+     406     449	INVS
+     449     484	VOC
+     484     576	CLOS

@@ -1,0 +1,23 @@
+108 nlang native yes
+108 clang instructions yes
+108 clang useful yes
+108 dowk complete yes
+108 nums complete no
+108 nums partial yes
+108 htl instructions no
+108 htl useful yes
+108 htc instructions yes
+108 htc useful yes
+108 room instructions yes
+108 room useful yes
+108 meal instructions yes
+108 meal useful yes
+108 general native yes
+108 general dialect standard
+108 general accent none
+108 general background speech none
+108 general environmental noise none
+108 general gender female
+108 general age adult
+108 general intelligibility ok
+108 general connection average

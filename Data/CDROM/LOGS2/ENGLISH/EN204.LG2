@@ -1,0 +1,24 @@
+204 nlang native yes
+204 clang instructions yes
+204 clang useful yes
+204 dowk complete yes
+204 nums complete yes
+204 htl instructions yes
+204 htl useful yes
+204 htc instructions yes
+204 htc useful yes
+204 room instructions yes
+204 room useful yes
+204 meal instructions yes
+204 meal useful yes
+204 story-bt speech_type read
+204 story-bt topic anual APL picnic
+204 general native yes
+204 general dialect standard
+204 general accent none
+204 general background speech none
+204 general environmental noise none
+204 general gender male
+204 general age adult
+204 general intelligibility ok
+204 general connection average

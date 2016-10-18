@@ -1,0 +1,26 @@
+136 nlang native yes
+136 clang instructions yes
+136 clang useful yes
+136 dowk complete yes
+136 nums complete yes
+136 htl instructions yes
+136 htl useful yes
+136 htc instructions yes
+136 htc useful yes
+136 room instructions yes
+136 room useful yes
+136 meal instructions yes
+136 meal useful yes
+136 story-bt speech_type extemp
+136 story-bt topic His accademic career and his job in american company
+136 story-at speech_type extemp
+136 story-at topic Working with american buisness man
+136 general native yes
+136 general dialect standard
+136 general accent none
+136 general background speech none
+136 general environmental noise none
+136 general gender male
+136 general age adult
+136 general intelligibility ok
+136 general connection average

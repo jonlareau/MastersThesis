@@ -1,0 +1,84 @@
+40 labeler yeshwant
+40 label_date Thu Aug 22 18:29:13 PDT 1991
+40 nlang missing nothing
+40 nlang duration_sec 1.2
+40 nlang dc_offset 42
+40 nlang min_samp -9278
+40 nlang max_samp 6238
+40 nlang min_power10 17.7
+40 nlang max_power90 59.4
+40 clang missing nothing
+40 clang duration_sec 1.8
+40 clang dc_offset 42
+40 clang min_samp -9358
+40 clang max_samp 6398
+40 clang min_power10 17.3
+40 clang max_power90 55.5
+40 dowk comments EN  
+40 dowk missing nothing
+40 dowk duration_sec 5.9
+40 dowk dc_offset 42
+40 dowk min_samp -4670
+40 dowk max_samp 3838
+40 dowk min_power10 17.5
+40 dowk max_power90 54.0
+40 nums comments EN  
+40 nums missing nothing
+40 nums duration_sec 7.5
+40 nums dc_offset 42
+40 nums min_samp -4630
+40 nums max_samp 2958
+40 nums min_power10 15.6
+40 nums max_power90 53.1
+40 htl comments BN CE EN  
+40 htl missing cs
+40 htl duration_sec 7.3
+40 htl dc_offset 42
+40 htl min_samp -4190
+40 htl max_samp 4174
+40 htl min_power10 19.4
+40 htl max_power90 55.8
+40 htc comments BN CE EN  
+40 htc missing cs
+40 htc duration_sec 8.1
+40 htc dc_offset 42
+40 htc min_samp -3558
+40 htc max_samp 2774
+40 htc min_power10 17.6
+40 htc max_power90 53.4
+40 room comments BN CE EN  
+40 room missing cs
+40 room duration_sec 9.4
+40 room dc_offset 42
+40 room min_samp -7066
+40 room max_samp 4958
+40 room min_power10 17.0
+40 room max_power90 53.8
+40 meal comments BN CE EN ES SNL  
+40 meal missing cs
+40 meal duration_sec 9.0
+40 meal dc_offset 42
+40 meal min_samp -5798
+40 meal max_samp 5290
+40 meal min_power10 16.8
+40 meal max_power90 55.5
+40 story-bt comments BN SS ES SNL  
+40 story-bt missing nothing
+40 story-bt duration_sec 43.8
+40 story-bt dc_offset 42
+40 story-bt min_samp -9390
+40 story-bt max_samp 6646
+40 story-bt min_power10 16.4
+40 story-bt max_power90 56.0
+40 story-at comments EN SS  
+40 story-at missing nothing
+40 story-at duration_sec 2.0
+40 story-at dc_offset 42
+40 story-at min_samp -398
+40 story-at max_samp 342
+40 story-at min_power10 15.9
+40 story-at max_power90 41.0
+40 gender male
+40 age adult
+40 connection good
+40 intelligibility ok

@@ -1,0 +1,26 @@
+64 nlang native yes
+64 clang instructions yes
+64 clang useful yes
+64 dowk complete yes
+64 nums complete yes
+64 htl instructions yes
+64 htl useful yes
+64 htc instructions yes
+64 htc useful yes
+64 room instructions yes
+64 room useful yes
+64 meal instructions yes
+64 meal useful yes
+64 story-bt speech_type extemp
+64 story-bt topic Recntly, he spent some time in the Rocky mountains (description)
+64 story-at speech_type extemp
+64 story-at topic "It is the end"
+64 general native yes
+64 general dialect standard
+64 general accent none
+64 general background speech none
+64 general environmental noise none
+64 general gender male
+64 general age adult
+64 general intelligibility ok
+64 general connection average

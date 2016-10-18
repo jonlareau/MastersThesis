@@ -1,0 +1,26 @@
+41 nlang native yes
+41 clang instructions yes
+41 clang useful yes
+41 dowk complete yes
+41 nums complete yes
+41 htl instructions yes
+41 htl useful yes
+41 htc instructions yes
+41 htc useful yes
+41 room instructions yes
+41 room useful yes
+41 meal instructions yes
+41 meal useful yes
+41 story-bt speech_type extemp
+41 story-bt topic My hobby, family and occupation.
+41 story-at speech_type extemp
+41 story-at topic I want to work other than pastorial work, but I'm busy.
+41 general native yes
+41 general dialect standard
+41 general accent High tones at the end of each syllable.
+41 general background speech none
+41 general environmental noise none
+41 general gender male
+41 general age adult
+41 general intelligibility ok
+41 general connection average

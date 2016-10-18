@@ -1,0 +1,75 @@
+80 labeler khoward
+80 label_date Fri Nov 29 11:10:38 PST 1991
+80 nlang missing nothing
+80 nlang duration_sec 1.3
+80 nlang dc_offset 43
+80 nlang min_samp -4063
+80 nlang max_samp 3205
+80 nlang min_power10 16.2
+80 nlang max_power90 58.3
+80 clang comments CE SNL  
+80 clang missing CS
+80 clang duration_sec 0.9
+80 clang dc_offset 43
+80 clang min_samp -4187
+80 clang max_samp 4453
+80 clang min_power10 16.9
+80 clang max_power90 57.0
+80 nums missing nothing
+80 nums duration_sec 3.9
+80 nums dc_offset 43
+80 nums min_samp -3491
+80 nums max_samp 2957
+80 nums min_power10 17.7
+80 nums max_power90 56.2
+80 htl comments BN  
+80 htl missing nothing
+80 htl duration_sec 2.4
+80 htl dc_offset 43
+80 htl min_samp -3547
+80 htl max_samp 2969
+80 htl min_power10 17.0
+80 htl max_power90 54.0
+80 htc comments CE  
+80 htc missing CS
+80 htc duration_sec 5.1
+80 htc dc_offset 43
+80 htc min_samp -3939
+80 htc max_samp 4065
+80 htc min_power10 16.2
+80 htc max_power90 53.3
+80 room comments CE  
+80 room missing CS
+80 room duration_sec 7.9
+80 room dc_offset 43
+80 room min_samp -4535
+80 room max_samp 4837
+80 room min_power10 17.8
+80 room max_power90 58.6
+80 meal missing nothing
+80 meal duration_sec 5.6
+80 meal dc_offset 43
+80 meal min_samp -3911
+80 meal max_samp 4957
+80 meal min_power10 16.6
+80 meal max_power90 57.9
+80 story-bt comments BN SS SNL  
+80 story-bt missing nothing
+80 story-bt duration_sec 48.7
+80 story-bt dc_offset 43
+80 story-bt min_samp -5623
+80 story-bt max_samp 7429
+80 story-bt min_power10 16.5
+80 story-bt max_power90 55.0
+80 story-at comments SNL BN SS  
+80 story-at missing nothing
+80 story-at duration_sec 6.9
+80 story-at dc_offset 43
+80 story-at min_samp -3823
+80 story-at max_samp 6093
+80 story-at min_power10 15.8
+80 story-at max_power90 53.7
+80 gender male
+80 age adult
+80 connection average
+80 intelligibility ok

@@ -1,0 +1,26 @@
+112 nlang native yes
+112 clang instructions yes
+112 clang useful yes
+112 dowk complete yes
+112 nums complete yes
+112 htl instructions yes
+112 htl useful yes
+112 htc instructions yes
+112 htc useful yes
+112 room instructions yes
+112 room useful yes
+112 meal instructions yes
+112 meal useful yes
+112 story-bt speech_type extemp
+112 story-bt topic His favourite city, Seatle, and its landscapes
+112 story-at speech_type extemp
+112 story-at topic His favourite city, Seatle
+112 general native yes
+112 general dialect standard
+112 general accent none
+112 general background speech none
+112 general environmental noise none
+112 general gender male
+112 general age adult
+112 general intelligibility ok
+112 general connection average

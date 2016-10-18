@@ -1,0 +1,28 @@
+180 nlang native yes
+180 clang instructions yes
+180 clang useful yes
+180 dowk complete no
+180 dowk partial yes
+180 nums complete no
+180 nums partial yes
+180 htl instructions no
+180 htl useful yes
+180 htc instructions yes
+180 htc useful yes
+180 room instructions yes
+180 room useful yes
+180 meal instructions yes
+180 meal useful yes
+180 story-bt speech_type extemp
+180 story-bt topic The climate in Chicago and something about his college
+180 story-at speech_type extemp
+180 story-at topic He is willing to render any help regarding the research of Mandarin
+180 general native yes
+180 general dialect standard
+180 general accent none
+180 general background speech none
+180 general environmental noise slight line noise
+180 general gender male
+180 general age adult
+180 general intelligibility ok
+180 general connection average

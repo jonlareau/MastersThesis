@@ -1,0 +1,26 @@
+75 nlang native yes
+75 clang instructions yes
+75 clang useful yes
+75 dowk complete yes
+75 nums complete yes
+75 htl instructions yes
+75 htl useful yes
+75 htc instructions yes
+75 htc useful yes
+75 room instructions yes
+75 room useful yes
+75 meal instructions yes
+75 meal useful yes
+75 story-bt speech_type read
+75 story-bt topic recipe (reads very fast and annoyed)
+75 story-at speech_type extemp
+75 story-at topic cont. recipy
+75 general native yes
+75 general dialect standard
+75 general accent none
+75 general background speech none
+75 general environmental noise none
+75 general gender female
+75 general age adult
+75 general intelligibility ok
+75 general connection average

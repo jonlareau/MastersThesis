@@ -1,0 +1,78 @@
+127 labeler ames
+127 label_date Thu Mar 19 11:27:32 PST 1992
+127 nlang comments EN  
+127 nlang missing nothing
+127 nlang duration_sec 1.0
+127 nlang dc_offset 42
+127 nlang min_samp -1066
+127 nlang max_samp 1158
+127 nlang min_power10 19.5
+127 nlang max_power90 49.4
+127 clang comments EN  
+127 clang missing nothing
+127 clang duration_sec 0.9
+127 clang dc_offset 42
+127 clang min_samp -1246
+127 clang max_samp 1338
+127 clang min_power10 17.5
+127 clang max_power90 52.4
+127 dowk comments EN  
+127 dowk missing nothing
+127 dowk duration_sec 6.1
+127 dowk dc_offset 42
+127 dowk min_samp -2154
+127 dowk max_samp 2274
+127 dowk min_power10 20.1
+127 dowk max_power90 45.4
+127 nums comments EN  
+127 nums missing nothing
+127 nums duration_sec 7.5
+127 nums dc_offset 42
+127 nums min_samp -2766
+127 nums max_samp 2918
+127 nums min_power10 17.1
+127 nums max_power90 48.1
+127 htl comments CE EN  
+127 htl missing cs
+127 htl duration_sec 8.8
+127 htl dc_offset 42
+127 htl min_samp -2818
+127 htl max_samp 2614
+127 htl min_power10 19.4
+127 htl max_power90 51.3
+127 htc comments EN  
+127 htc missing nothing
+127 htc duration_sec 4.3
+127 htc dc_offset 42
+127 htc min_samp -2822
+127 htc max_samp 3154
+127 htc min_power10 19.8
+127 htc max_power90 53.3
+127 room comments EN ES  
+127 room missing nothing
+127 room duration_sec 9.0
+127 room dc_offset 42
+127 room min_samp -2066
+127 room max_samp 2182
+127 room min_power10 19.4
+127 room max_power90 50.1
+127 meal comments EN ES  
+127 meal missing nothing
+127 meal duration_sec 3.3
+127 meal dc_offset 42
+127 meal min_samp -1786
+127 meal max_samp 1934
+127 meal min_power10 18.4
+127 meal max_power90 50.5
+127 story-bt comments EN SS ES  
+127 story-bt missing nothing
+127 story-bt duration_sec 31.4
+127 story-bt dc_offset 42
+127 story-bt min_samp -3118
+127 story-bt max_samp 3262
+127 story-bt min_power10 18.2
+127 story-bt max_power90 49.7
+127 gender male
+127 age adult
+127 connection average
+127 intelligibility ok

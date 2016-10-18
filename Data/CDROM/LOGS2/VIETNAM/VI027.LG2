@@ -1,0 +1,27 @@
+27 nlang native yes
+27 clang instructions yes
+27 clang useful yes
+27 dowk complete yes
+27 nums complete no
+27 nums partial yes
+27 htl instructions yes
+27 htl useful yes
+27 htc instructions yes
+27 htc useful yes
+27 room instructions yes
+27 room useful yes
+27 meal instructions yes
+27 meal useful yes
+27 story-bt speech_type read
+27 story-bt topic poem
+27 story-at speech_type extemp
+27 story-at topic don't know
+27 general native yes
+27 general dialect standard
+27 general accent none
+27 general background speech none
+27 general environmental noise none
+27 general gender male
+27 general age adult
+27 general intelligibility poor
+27 general connection average

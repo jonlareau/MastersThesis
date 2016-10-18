@@ -1,0 +1,26 @@
+222 nlang native yes
+222 clang instructions yes
+222 clang useful yes
+222 dowk complete yes
+222 nums complete yes
+222 htl instructions yes
+222 htl useful yes
+222 htc instructions yes
+222 htc useful yes
+222 room instructions yes
+222 room useful yes
+222 meal instructions yes
+222 meal useful yes
+222 story-bt speech_type recite
+222 story-bt topic a poem, the beginning of a speech, and reads a computer manual
+222 story-at speech_type read
+222 story-at topic reads from a technical manual
+222 general native yes
+222 general dialect southern
+222 general accent none
+222 general background speech none
+222 general environmental noise none
+222 general gender male
+222 general age adult
+222 general intelligibility ok
+222 general connection average

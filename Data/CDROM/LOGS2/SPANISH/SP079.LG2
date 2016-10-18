@@ -1,0 +1,28 @@
+79 nlang native no
+79 nlang useful yes
+79 clang instructions yes
+79 clang useful yes
+79 dowk complete no
+79 dowk partial yes
+79 nums complete yes
+79 htl instructions yes
+79 htl useful yes
+79 htc instructions yes
+79 htc useful yes
+79 room instructions yes
+79 room useful yes
+79 meal instructions yes
+79 meal useful yes
+79 story-bt speech_type extemp
+79 story-bt topic her hobby: track and field
+79 story-at speech_type extemp
+79 story-at topic cont. track and field
+79 general native no
+79 general dialect Spanish
+79 general accent French
+79 general background speech none
+79 general environmental noise none
+79 general gender female
+79 general age adult
+79 general intelligibility ok
+79 general connection average

@@ -1,0 +1,50 @@
+21 labeler khoward
+21 label_date Fri Jul 12 13:58:04 PDT 1991
+21 nlang missing nothing
+21 nlang duration_sec 0.8
+21 nlang dc_offset 42
+21 nlang min_samp -2878
+21 nlang max_samp 3690
+21 nlang min_power10 15.2
+21 nlang max_power90 58.8
+21 dowk missing nothing
+21 dowk duration_sec 6.3
+21 dowk dc_offset 42
+21 dowk min_samp -3490
+21 dowk max_samp 3106
+21 dowk min_power10 16.5
+21 dowk max_power90 56.2
+21 nums comments CE  
+21 nums missing 10
+21 nums duration_sec 9.2
+21 nums dc_offset 42
+21 nums min_samp -3982
+21 nums max_samp 3702
+21 nums min_power10 14.1
+21 nums max_power90 57.3
+21 htl missing nothing
+21 htl duration_sec 1.9
+21 htl dc_offset 42
+21 htl min_samp -2426
+21 htl max_samp 2914
+21 htl min_power10 15.7
+21 htl max_power90 56.6
+21 meal missing nothing
+21 meal duration_sec 7.0
+21 meal dc_offset 42
+21 meal min_samp -6078
+21 meal max_samp 4098
+21 meal min_power10 15.4
+21 meal max_power90 53.2
+21 story-at comments CB  
+21 story-at missing CS
+21 story-at duration_sec 3.2
+21 story-at dc_offset 42
+21 story-at min_samp -5254
+21 story-at max_samp 4402
+21 story-at min_power10 27.7
+21 story-at max_power90 60.9
+21 gender male
+21 age adult
+21 connection good
+21 intelligibility ok

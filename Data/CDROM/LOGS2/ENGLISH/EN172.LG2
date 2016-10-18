@@ -1,0 +1,27 @@
+172 nlang native yes
+172 clang instructions yes
+172 clang useful yes
+172 dowk complete yes
+172 nums complete no
+172 nums partial yes
+172 htl instructions yes
+172 htl useful yes
+172 htc instructions yes
+172 htc useful yes
+172 room instructions yes
+172 room useful yes
+172 meal instructions yes
+172 meal useful yes
+172 story-bt speech_type extemp
+172 story-bt topic reads technical computer manual on operan stacks
+172 story-at speech_type read
+172 story-at topic cannot finish reading
+172 general native yes
+172 general dialect standard
+172 general accent none
+172 general background speech none
+172 general environmental noise none
+172 general gender male
+172 general age adult
+172 general intelligibility ok
+172 general connection average

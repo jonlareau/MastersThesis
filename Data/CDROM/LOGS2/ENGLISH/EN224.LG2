@@ -1,0 +1,28 @@
+224 nlang native yes
+224 clang instructions yes
+224 clang useful yes
+224 dowk complete no
+224 dowk partial yes
+224 nums complete no
+224 nums partial yes
+224 htl instructions yes
+224 htl useful yes
+224 htc instructions yes
+224 htc useful yes
+224 room instructions yes
+224 room useful yes
+224 meal instructions yes
+224 meal useful yes
+224 story-bt speech_type read
+224 story-bt topic a young man who decides to become a priest
+224 story-at speech_type read
+224 story-at topic contact with other priests
+224 general native yes
+224 general dialect standard
+224 general accent none
+224 general background speech none
+224 general environmental noise none
+224 general gender female
+224 general age adult
+224 general intelligibility ok
+224 general connection average

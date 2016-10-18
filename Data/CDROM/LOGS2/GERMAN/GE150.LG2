@@ -1,0 +1,26 @@
+150 nlang native yes
+150 clang instructions yes
+150 clang useful yes
+150 dowk complete yes
+150 nums complete yes
+150 htl instructions yes
+150 htl useful yes
+150 htc instructions yes
+150 htc useful yes
+150 room instructions yes
+150 room useful yes
+150 meal instructions yes
+150 meal useful yes
+150 story-bt speech_type extemp
+150 story-bt topic introduces his family
+150 story-at speech_type extemp
+150 story-at topic 
+150 general native no
+150 general dialect standard
+150 general accent strong american accent, mostly german with some english 
+150 general background speech none
+150 general environmental noise none
+150 general gender male
+150 general age adult
+150 general intelligibility ok
+150 general connection average

@@ -1,0 +1,81 @@
+41 labeler khoward
+41 label_date Wed Aug 14 14:17:41 PDT 1991
+41 nlang missing nothing
+41 nlang duration_sec 1.0
+41 nlang dc_offset 42
+41 nlang min_samp -5362
+41 nlang max_samp 4582
+41 nlang min_power10 14.0
+41 nlang max_power90 61.4
+41 clang missing nothing
+41 clang duration_sec 1.0
+41 clang dc_offset 42
+41 clang min_samp -3706
+41 clang max_samp 4798
+41 clang min_power10 15.3
+41 clang max_power90 58.7
+41 dowk missing nothing
+41 dowk duration_sec 4.2
+41 dowk dc_offset 42
+41 dowk min_samp -3562
+41 dowk max_samp 5062
+41 dowk min_power10 22.0
+41 dowk max_power90 59.2
+41 nums missing nothing
+41 nums duration_sec 6.0
+41 nums dc_offset 42
+41 nums min_samp -3854
+41 nums max_samp 4838
+41 nums min_power10 15.4
+41 nums max_power90 58.6
+41 htl missing nothing
+41 htl duration_sec 8.4
+41 htl dc_offset 42
+41 htl min_samp -4586
+41 htl max_samp 4306
+41 htl min_power10 19.5
+41 htl max_power90 59.7
+41 htc comments CE  
+41 htc missing CS
+41 htc duration_sec 9.2
+41 htc dc_offset 42
+41 htc min_samp -4814
+41 htc max_samp 5282
+41 htc min_power10 22.1
+41 htc max_power90 60.2
+41 room comments SNL  
+41 room missing nothing
+41 room duration_sec 11.2
+41 room dc_offset 42
+41 room min_samp -4578
+41 room max_samp 4938
+41 room min_power10 19.7
+41 room max_power90 60.1
+41 meal comments CE  
+41 meal missing CS
+41 meal duration_sec 8.2
+41 meal dc_offset 42
+41 meal min_samp -4142
+41 meal max_samp 5330
+41 meal min_power10 13.5
+41 meal max_power90 58.0
+41 story-bt comments CE SS  
+41 story-bt missing nothing
+41 story-bt duration_sec 49.1
+41 story-bt dc_offset 42
+41 story-bt min_samp -6290
+41 story-bt max_samp 6178
+41 story-bt min_power10 20.2
+41 story-bt max_power90 60.8
+41 story-at comments CE SS  
+41 story-at missing CS
+41 story-at duration_sec 9.7
+41 story-at dc_offset 42
+41 story-at min_samp -5730
+41 story-at max_samp 6222
+41 story-at min_power10 23.4
+41 story-at max_power90 62.5
+41 gender male
+41 age adult
+41 connection good
+41 intelligibility ok

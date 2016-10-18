@@ -1,0 +1,26 @@
+81 nlang native yes
+81 clang instructions yes
+81 clang useful yes
+81 dowk complete yes
+81 nums complete yes
+81 htl instructions yes
+81 htl useful yes
+81 htc instructions yes
+81 htc useful yes
+81 room instructions yes
+81 room useful yes
+81 meal instructions yes
+81 meal useful yes
+81 story-bt speech_type extemp
+81 story-bt topic interested in the project, his work
+81 story-at speech_type extemp
+81 story-at topic he is looking forward to listening tomore questions
+81 general native yes
+81 general dialect Puerto Rican
+81 general accent none
+81 general background speech none
+81 general environmental noise people working in the same office
+81 general gender male
+81 general age adult
+81 general intelligibility ok
+81 general connection average

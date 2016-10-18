@@ -1,0 +1,24 @@
+2 nlang native yes
+2 clang instructions yes
+2 clang useful yes
+2 dowk complete yes
+2 nums complete yes
+2 htl instructions no
+2 htl useful no
+2 htc instructions yes
+2 htc useful yes
+2 room instructions yes
+2 room useful yes
+2 meal instructions yes
+2 meal useful yes
+2 story-bt speech_type extemp
+2 story-bt topic living in America
+2 general native yes
+2 general dialect standard
+2 general accent none
+2 general background speech none
+2 general environmental noise none
+2 general gender female
+2 general age adult
+2 general intelligibility ok
+2 general connection average

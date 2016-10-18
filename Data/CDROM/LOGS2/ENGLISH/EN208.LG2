@@ -1,0 +1,26 @@
+208 nlang native yes
+208 clang instructions yes
+208 clang useful yes
+208 dowk complete yes
+208 nums complete yes
+208 htl instructions yes
+208 htl useful yes
+208 htc instructions yes
+208 htc useful yes
+208 room instructions yes
+208 room useful yes
+208 meal instructions yes
+208 meal useful yes
+208 story-bt speech_type extemp
+208 story-bt topic saw advertisement on newsnet, works as a computer programmer
+208 story-at speech_type extemp
+208 story-at topic no more to say
+208 general native yes
+208 general dialect standard
+208 general accent none
+208 general background speech none
+208 general environmental noise none
+208 general gender male
+208 general age adult
+208 general intelligibility ok
+208 general connection average

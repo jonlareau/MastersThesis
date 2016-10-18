@@ -1,0 +1,26 @@
+71 nlang native yes
+71 clang instructions yes
+71 clang useful yes
+71 dowk complete yes
+71 nums complete yes
+71 htl instructions yes
+71 htl useful yes
+71 htc instructions yes
+71 htc useful yes
+71 room instructions yes
+71 room useful yes
+71 meal instructions yes
+71 meal useful yes
+71 story-bt speech_type extemp
+71 story-bt topic incomprehensible
+71 story-at speech_type extemp
+71 story-at topic "It's the end of my story"
+71 general native yes
+71 general dialect canadian
+71 general accent canadian
+71 general background speech none
+71 general environmental noise none
+71 general gender male
+71 general age adult
+71 general intelligibility poor
+71 general connection poor

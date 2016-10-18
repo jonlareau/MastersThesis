@@ -1,0 +1,26 @@
+164 nlang native yes
+164 clang instructions yes
+164 clang useful yes
+164 dowk complete yes
+164 nums complete yes
+164 htl instructions yes
+164 htl useful yes
+164 htc instructions yes
+164 htc useful yes
+164 room instructions yes
+164 room useful yes
+164 meal instructions yes
+164 meal useful yes
+164 story-bt speech_type extemp
+164 story-bt topic going to see a play
+164 story-at speech_type extemp
+164 story-at topic finish up have a good day
+164 general native yes
+164 general dialect standard
+164 general accent none
+164 general background speech none
+164 general environmental noise none
+164 general gender female
+164 general age adult
+164 general intelligibility ok
+164 general connection average

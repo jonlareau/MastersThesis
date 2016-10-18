@@ -1,0 +1,83 @@
+66 labeler ames
+66 label_date Sun Nov 24 14:41:18 PST 1991
+66 nlang missing nothing
+66 nlang duration_sec 2.3
+66 nlang dc_offset 43
+66 nlang min_samp -5703
+66 nlang max_samp 8961
+66 nlang min_power10 24.0
+66 nlang max_power90 61.2
+66 clang comments CE SS SNL  
+66 clang missing nothing
+66 clang duration_sec 2.4
+66 clang dc_offset 43
+66 clang min_samp -4471
+66 clang max_samp 8413
+66 clang min_power10 28.0
+66 clang max_power90 61.7
+66 dowk missing nothing
+66 dowk duration_sec 6.6
+66 dowk dc_offset 43
+66 dowk min_samp -5915
+66 dowk max_samp 10365
+66 dowk min_power10 22.7
+66 dowk max_power90 63.3
+66 nums missing nothing
+66 nums duration_sec 6.4
+66 nums dc_offset 43
+66 nums min_samp -6503
+66 nums max_samp 11873
+66 nums min_power10 22.6
+66 nums max_power90 60.5
+66 htl comments ES  
+66 htl missing nothing
+66 htl duration_sec 6.3
+66 htl dc_offset 43
+66 htl min_samp -6003
+66 htl max_samp 8661
+66 htl min_power10 23.6
+66 htl max_power90 58.1
+66 htc comments CE ES  
+66 htc missing cs
+66 htc duration_sec 9.2
+66 htc dc_offset 43
+66 htc min_samp -6303
+66 htc max_samp 10165
+66 htc min_power10 22.5
+66 htc max_power90 59.0
+66 room comments CE ES  
+66 room missing cs
+66 room duration_sec 11.2
+66 room dc_offset 43
+66 room min_samp -8479
+66 room max_samp 12101
+66 room min_power10 24.4
+66 room max_power90 62.5
+66 meal comments CE ES SNL  
+66 meal missing cs
+66 meal duration_sec 8.9
+66 meal dc_offset 43
+66 meal min_samp -5219
+66 meal max_samp 8897
+66 meal min_power10 22.8
+66 meal max_power90 60.5
+66 story-bt comments CE ES SNL  
+66 story-bt missing cs
+66 story-bt duration_sec 48.8
+66 story-bt dc_offset 43
+66 story-bt min_samp -9479
+66 story-bt max_samp 15981
+66 story-bt min_power10 23.6
+66 story-bt max_power90 62.3
+66 story-at comments SS ES  
+66 story-at missing nothing
+66 story-at duration_sec 5.0
+66 story-at dc_offset 43
+66 story-at min_samp -5623
+66 story-at max_samp 7993
+66 story-at min_power10 23.6
+66 story-at max_power90 57.3
+66 gender male
+66 age adult
+66 connection good
+66 intelligibility ok

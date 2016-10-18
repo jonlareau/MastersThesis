@@ -1,0 +1,80 @@
+128 labeler ames
+128 label_date Sun Mar  8 09:24:04 PST 1992
+128 nlang comments EN  
+128 nlang missing nothing
+128 nlang duration_sec 1.5
+128 nlang dc_offset 42
+128 nlang min_samp -1982
+128 nlang max_samp 1954
+128 nlang min_power10 22.0
+128 nlang max_power90 53.0
+128 clang comments CE EN  
+128 clang missing cs
+128 clang duration_sec 1.4
+128 clang dc_offset 42
+128 clang min_samp -2334
+128 clang max_samp 2274
+128 clang min_power10 21.8
+128 clang max_power90 53.6
+128 dowk comments EN  
+128 dowk missing nothing
+128 dowk duration_sec 5.0
+128 dowk dc_offset 42
+128 dowk min_samp -3014
+128 dowk max_samp 3878
+128 dowk min_power10 21.6
+128 dowk max_power90 51.9
+128 nums comments EN  
+128 nums missing nothing
+128 nums duration_sec 7.3
+128 nums dc_offset 42
+128 nums min_samp -1990
+128 nums max_samp 2322
+128 nums min_power10 21.5
+128 nums max_power90 50.6
+128 htl comments CE EN  
+128 htl missing cs
+128 htl duration_sec 8.4
+128 htl dc_offset 42
+128 htl min_samp -1406
+128 htl max_samp 1526
+128 htl min_power10 22.5
+128 htl max_power90 47.8
+128 htc comments CE EN ES  
+128 htc missing cs
+128 htc duration_sec 9.4
+128 htc dc_offset 42
+128 htc min_samp -1690
+128 htc max_samp 2338
+128 htc min_power10 21.8
+128 htc max_power90 46.9
+128 room comments CE EN ES SNL  
+128 room missing cs
+128 room duration_sec 10.9
+128 room dc_offset 42
+128 room min_samp -1638
+128 room max_samp 1750
+128 room min_power10 23.1
+128 room max_power90 46.6
+128 meal comments EN SNL  
+128 meal missing nothing
+128 meal duration_sec 9.1
+128 meal dc_offset 42
+128 meal min_samp -1850
+128 meal max_samp 2270
+128 meal min_power10 21.4
+128 meal max_power90 42.4
+128 story-bt comments CE EN SS ES SNL  
+128 story-bt missing cs
+128 story-at comments CB EN SS  
+128 story-at missing cs
+128 story-at duration_sec 5.1
+128 story-at dc_offset 42
+128 story-at min_samp -4070
+128 story-at max_samp 3950
+128 story-at min_power10 21.5
+128 story-at max_power90 49.0
+128 gender female
+128 age adult
+128 connection average
+128 intelligibility ok

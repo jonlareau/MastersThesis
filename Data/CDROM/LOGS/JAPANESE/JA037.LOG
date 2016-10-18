@@ -1,0 +1,51 @@
+37 labeler khoward
+37 label_date Mon Aug  5 15:41:45 PDT 1991
+37 nlang missing nothing
+37 nlang duration_sec 1.3
+37 nlang dc_offset 42
+37 nlang min_samp -1350
+37 nlang max_samp 1570
+37 nlang min_power10 17.4
+37 nlang max_power90 53.0
+37 clang comments CE  
+37 clang missing CS
+37 clang duration_sec 1.9
+37 clang dc_offset 42
+37 clang min_samp -2390
+37 clang max_samp 1798
+37 clang min_power10 17.6
+37 clang max_power90 56.4
+37 dowk comments CE  
+37 dowk missing Sunday?
+37 dowk duration_sec 6.5
+37 dowk dc_offset 42
+37 dowk min_samp -1646
+37 dowk max_samp 1670
+37 dowk min_power10 18.3
+37 dowk max_power90 54.1
+37 nums comments CE  
+37 nums missing 10
+37 nums duration_sec 8.6
+37 nums dc_offset 42
+37 nums min_samp -1470
+37 nums max_samp 1566
+37 nums min_power10 17.5
+37 nums max_power90 49.6
+37 htl missing nothing
+37 htl duration_sec 3.7
+37 htl dc_offset 42
+37 htl min_samp -1334
+37 htl max_samp 1190
+37 htl min_power10 17.2
+37 htl max_power90 51.0
+37 htc missing nothing
+37 htc duration_sec 7.6
+37 htc dc_offset 42
+37 htc min_samp -1686
+37 htc max_samp 1590
+37 htc min_power10 17.2
+37 htc max_power90 49.8
+37 gender male
+37 age adult
+37 connection poor
+37 intelligibility ok

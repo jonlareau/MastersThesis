@@ -1,0 +1,80 @@
+133 labeler khoward
+133 label_date Mon Mar 23 12:42:18 PST 1992
+133 nlang missing nothing
+133 nlang duration_sec 0.9
+133 nlang dc_offset 42
+133 nlang min_samp -4870
+133 nlang max_samp 3486
+133 nlang min_power10 14.6
+133 nlang max_power90 58.1
+133 clang missing nothing
+133 clang duration_sec 1.0
+133 clang dc_offset 42
+133 clang min_samp -9110
+133 clang max_samp 7118
+133 clang min_power10 14.6
+133 clang max_power90 63.5
+133 dowk missing nothing
+133 dowk duration_sec 3.9
+133 dowk dc_offset 42
+133 dowk min_samp -7718
+133 dowk max_samp 4278
+133 dowk min_power10 15.4
+133 dowk max_power90 63.0
+133 nums missing nothing
+133 nums duration_sec 5.4
+133 nums dc_offset 42
+133 nums min_samp -3698
+133 nums max_samp 3202
+133 nums min_power10 17.6
+133 nums max_power90 59.1
+133 htl comments CE  
+133 htl missing CS
+133 htl duration_sec 8.6
+133 htl dc_offset 42
+133 htl min_samp -6458
+133 htl max_samp 5550
+133 htl min_power10 15.0
+133 htl max_power90 61.3
+133 htc missing nothing
+133 htc duration_sec 6.6
+133 htc dc_offset 42
+133 htc min_samp -6518
+133 htc max_samp 5614
+133 htc min_power10 15.2
+133 htc max_power90 59.2
+133 room missing nothing
+133 room duration_sec 9.1
+133 room dc_offset 42
+133 room min_samp -5942
+133 room max_samp 3890
+133 room min_power10 14.9
+133 room max_power90 57.8
+133 meal comments SNL  
+133 meal missing nothing
+133 meal duration_sec 8.7
+133 meal dc_offset 42
+133 meal min_samp -3942
+133 meal max_samp 2746
+133 meal min_power10 14.8
+133 meal max_power90 55.5
+133 story-bt comments CE SNL SS  
+133 story-bt missing CS
+133 story-bt duration_sec 48.4
+133 story-bt dc_offset 42
+133 story-bt min_samp -9958
+133 story-bt max_samp 8942
+133 story-bt min_power10 16.5
+133 story-bt max_power90 59.0
+133 story-at comments CB SS  
+133 story-at missing CS
+133 story-at duration_sec 7.5
+133 story-at dc_offset 42
+133 story-at min_samp -8182
+133 story-at max_samp 4222
+133 story-at min_power10 15.9
+133 story-at max_power90 54.3
+133 gender female
+133 age adult
+133 connection good
+133 intelligibility ok

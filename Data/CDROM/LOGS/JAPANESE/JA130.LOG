@@ -1,0 +1,70 @@
+130 labeler ames
+130 label_date Wed May  6 19:02:51 PDT 1992
+130 nlang comments EN  
+130 nlang missing nothing
+130 nlang duration_sec 1.1
+130 nlang dc_offset 42
+130 nlang min_samp -1106
+130 nlang max_samp 1318
+130 nlang min_power10 17.8
+130 nlang max_power90 50.4
+130 clang comments EN  
+130 clang missing nothing
+130 clang duration_sec 1.0
+130 clang dc_offset 42
+130 clang min_samp -1578
+130 clang max_samp 1522
+130 clang min_power10 18.0
+130 clang max_power90 54.1
+130 dowk comments CE EN  
+130 dowk missing 6th 7th days
+130 dowk duration_sec 1.6
+130 dowk dc_offset 42
+130 dowk min_samp -466
+130 dowk max_samp 402
+130 dowk min_power10 19.5
+130 dowk max_power90 39.6
+130 nums comments EN  
+130 nums missing nothing
+130 nums duration_sec 6.0
+130 nums dc_offset 42
+130 nums min_samp -1754
+130 nums max_samp 2078
+130 nums min_power10 19.3
+130 nums max_power90 47.4
+130 htl comments EN  
+130 htl missing nothing
+130 htl duration_sec 1.4
+130 htl dc_offset 42
+130 htl min_samp -1982
+130 htl max_samp 1282
+130 htl min_power10 17.8
+130 htl max_power90 45.4
+130 htc comments EN  
+130 htc missing nothing
+130 htc duration_sec 5.1
+130 htc dc_offset 42
+130 htc min_samp -1494
+130 htc max_samp 1718
+130 htc min_power10 19.5
+130 htc max_power90 44.8
+130 room comments EN  
+130 room missing nothing
+130 room duration_sec 1.8
+130 room dc_offset 42
+130 room min_samp -1602
+130 room max_samp 1738
+130 room min_power10 18.5
+130 room max_power90 52.8
+130 meal comments EN SNL  
+130 meal missing nothing
+130 meal duration_sec 6.7
+130 meal dc_offset 42
+130 meal min_samp -1758
+130 meal max_samp 1074
+130 meal min_power10 18.2
+130 meal max_power90 45.4
+130 gender male
+130 age adult
+130 connection poor
+130 intelligibility ok

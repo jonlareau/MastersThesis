@@ -1,0 +1,27 @@
+109 nlang native yes
+109 clang instructions yes
+109 clang useful yes
+109 dowk complete yes
+109 nums complete no
+109 nums partial yes
+109 htl instructions yes
+109 htl useful yes
+109 htc instructions yes
+109 htc useful yes
+109 room instructions yes
+109 room useful yes
+109 meal instructions yes
+109 meal useful yes
+109 story-bt speech_type extemp
+109 story-bt topic I have nothing to say, so I will keep silence.
+109 story-at speech_type extemp
+109 story-at topic That's it.
+109 general native yes
+109 general dialect standard
+109 general accent none
+109 general background speech none
+109 general environmental noise none
+109 general gender male
+109 general age adult
+109 general intelligibility ok
+109 general connection average

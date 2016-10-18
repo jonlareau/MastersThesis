@@ -1,0 +1,64 @@
+99 labeler khoward
+99 label_date Fri Jan 31 12:25:44 PST 1992
+99 nlang missing nothing
+99 nlang duration_sec 1.0
+99 nlang dc_offset 42
+99 nlang min_samp -886
+99 nlang max_samp 1102
+99 nlang min_power10 13.6
+99 nlang max_power90 48.0
+99 clang missing nothing
+99 clang duration_sec 1.0
+99 clang dc_offset 42
+99 clang min_samp -750
+99 clang max_samp 702
+99 clang min_power10 14.4
+99 clang max_power90 47.4
+99 dowk comments CE  
+99 dowk missing Saturday Sunday?
+99 dowk duration_sec 7.0
+99 dowk dc_offset 42
+99 dowk min_samp -626
+99 dowk max_samp 694
+99 dowk min_power10 14.2
+99 dowk max_power90 38.9
+99 nums missing nothing
+99 nums duration_sec 8.0
+99 nums dc_offset 42
+99 nums min_samp -990
+99 nums max_samp 942
+99 nums min_power10 14.3
+99 nums max_power90 43.1
+99 htl missing nothing
+99 htl duration_sec 8.7
+99 htl dc_offset 42
+99 htl min_samp -862
+99 htl max_samp 958
+99 htl min_power10 14.4
+99 htl max_power90 44.1
+99 htc comments BN  
+99 htc missing nothing
+99 htc duration_sec 4.2
+99 htc dc_offset 42
+99 htc min_samp -746
+99 htc max_samp 714
+99 htc min_power10 14.0
+99 htc max_power90 42.3
+99 room missing nothing
+99 room duration_sec 2.6
+99 room dc_offset 42
+99 room min_samp -846
+99 room max_samp 770
+99 room min_power10 15.2
+99 room max_power90 44.0
+99 meal missing nothing
+99 meal duration_sec 2.7
+99 meal dc_offset 42
+99 meal min_samp -1170
+99 meal max_samp 1222
+99 meal min_power10 14.8
+99 meal max_power90 45.2
+99 gender male
+99 age adult
+99 connection average
+99 intelligibility ok

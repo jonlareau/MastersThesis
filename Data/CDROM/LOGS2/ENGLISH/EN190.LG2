@@ -1,0 +1,27 @@
+190 nlang native yes
+190 clang instructions yes
+190 clang useful yes
+190 dowk complete yes
+190 nums complete no
+190 nums partial yes
+190 htl instructions yes
+190 htl useful yes
+190 htc instructions yes
+190 htc useful yes
+190 room instructions yes
+190 room useful yes
+190 meal instructions yes
+190 meal useful yes
+190 story-bt speech_type read
+190 story-bt topic reads the expriment advertisement
+190 story-at speech_type read
+190 story-at topic thanks for help
+190 general native yes
+190 general dialect standard
+190 general accent none
+190 general background speech none
+190 general environmental noise none
+190 general gender male
+190 general age adult
+190 general intelligibility ok
+190 general connection average

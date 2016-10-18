@@ -1,0 +1,83 @@
+76 labeler khoward
+76 label_date Wed Jul  3 09:34:26 PDT 1991
+76 nlang comments ES  
+76 nlang missing nothing
+76 nlang duration_sec 1.3
+76 nlang dc_offset 42
+76 nlang min_samp -1450
+76 nlang max_samp 1086
+76 nlang min_power10 14.4
+76 nlang max_power90 49.4
+76 clang comments ES  
+76 clang missing nothing
+76 clang duration_sec 1.5
+76 clang dc_offset 42
+76 clang min_samp -1910
+76 clang max_samp 1190
+76 clang min_power10 15.3
+76 clang max_power90 48.9
+76 dowk comments CE  
+76 dowk missing Sunday
+76 dowk duration_sec 7.4
+76 dowk dc_offset 42
+76 dowk min_samp -1766
+76 dowk max_samp 1906
+76 dowk min_power10 13.7
+76 dowk max_power90 44.5
+76 nums comments CE  
+76 nums missing Nine Ten
+76 nums duration_sec 9.1
+76 nums dc_offset 42
+76 nums min_samp -1670
+76 nums max_samp 2182
+76 nums min_power10 13.1
+76 nums max_power90 45.9
+76 htl comments BN  
+76 htl missing nothing
+76 htl duration_sec 2.4
+76 htl dc_offset 42
+76 htl min_samp -2086
+76 htl max_samp 2746
+76 htl min_power10 16.3
+76 htl max_power90 53.0
+76 htc missing nothing
+76 htc duration_sec 8.7
+76 htc dc_offset 42
+76 htc min_samp -2110
+76 htc max_samp 2314
+76 htc min_power10 14.8
+76 htc max_power90 52.1
+76 room missing nothing
+76 room duration_sec 10.2
+76 room dc_offset 42
+76 room min_samp -2350
+76 room max_samp 2630
+76 room min_power10 18.6
+76 room max_power90 51.3
+76 meal missing nothing
+76 meal duration_sec 2.3
+76 meal dc_offset 42
+76 meal min_samp -2266
+76 meal max_samp 2558
+76 meal min_power10 15.1
+76 meal max_power90 54.3
+76 story-bt comments CE SS ES  
+76 story-bt missing CS
+76 story-bt duration_sec 48.8
+76 story-bt dc_offset 42
+76 story-bt min_samp -2990
+76 story-bt max_samp 3270
+76 story-bt min_power10 16.3
+76 story-bt max_power90 53.3
+76 story-at comments BN CB SS  
+76 story-at missing CS
+76 story-at duration_sec 7.1
+76 story-at dc_offset 42
+76 story-at min_samp -2746
+76 story-at max_samp 3294
+76 story-at min_power10 17.9
+76 story-at max_power90 54.5
+76 gender male
+76 age adult
+76 connection good
+76 intelligibility ok

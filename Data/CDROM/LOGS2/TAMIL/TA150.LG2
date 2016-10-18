@@ -1,0 +1,26 @@
+150 nlang native yes
+150 clang instructions yes
+150 clang useful yes
+150 dowk complete yes
+150 nums complete yes
+150 htl instructions yes
+150 htl useful yes
+150 htc instructions yes
+150 htc useful yes
+150 room instructions yes
+150 room useful yes
+150 meal instructions yes
+150 meal useful yes
+150 story-bt speech_type extemp
+150 story-bt topic description of Austin, Texas
+150 story-at speech_type extemp
+150 story-at topic Says he will end his little story since he has heard the tone.
+150 general native yes
+150 general dialect mix of spoken and written Tamil
+150 general accent none
+150 general background speech none
+150 general environmental noise rustling noise with the cord, breath noise
+150 general gender male
+150 general age adult
+150 general intelligibility ok
+150 general connection average

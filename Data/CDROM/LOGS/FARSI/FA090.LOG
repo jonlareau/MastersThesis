@@ -1,0 +1,82 @@
+90 labeler khoward
+90 label_date Thu Dec 26 15:27:50 PST 1991
+90 nlang missing nothing
+90 nlang duration_sec 1.0
+90 nlang dc_offset 43
+90 nlang min_samp -7063
+90 nlang max_samp 9917
+90 nlang min_power10 24.1
+90 nlang max_power90 64.0
+90 clang comments CE ES  
+90 clang missing CS
+90 clang duration_sec 1.7
+90 clang dc_offset 43
+90 clang min_samp -2699
+90 clang max_samp 2509
+90 clang min_power10 18.5
+90 clang max_power90 56.2
+90 dowk missing nothing
+90 dowk duration_sec 6.9
+90 dowk dc_offset 43
+90 dowk min_samp -2623
+90 dowk max_samp 2317
+90 dowk min_power10 14.0
+90 dowk max_power90 50.1
+90 nums missing nothing
+90 nums duration_sec 9.6
+90 nums dc_offset 43
+90 nums min_samp -6127
+90 nums max_samp 5121
+90 nums min_power10 13.3
+90 nums max_power90 53.7
+90 htl comments CE  
+90 htl missing CS
+90 htl duration_sec 8.7
+90 htl dc_offset 43
+90 htl min_samp -3075
+90 htl max_samp 3285
+90 htl min_power10 14.1
+90 htl max_power90 52.2
+90 htc missing nothing
+90 htc duration_sec 8.7
+90 htc dc_offset 43
+90 htc min_samp -4419
+90 htc max_samp 3289
+90 htc min_power10 15.8
+90 htc max_power90 55.0
+90 room comments CE  
+90 room missing CS
+90 room duration_sec 10.6
+90 room dc_offset 43
+90 room min_samp -4059
+90 room max_samp 4821
+90 room min_power10 16.8
+90 room max_power90 57.3
+90 meal comments CE  
+90 meal missing CS
+90 meal duration_sec 9.2
+90 meal dc_offset 43
+90 meal min_samp -2411
+90 meal max_samp 2857
+90 meal min_power10 13.6
+90 meal max_power90 56.0
+90 story-bt comments CE SS  
+90 story-bt missing CS
+90 story-bt duration_sec 46.9
+90 story-bt dc_offset 43
+90 story-bt min_samp -8647
+90 story-bt max_samp 7621
+90 story-bt min_power10 18.0
+90 story-bt max_power90 56.7
+90 story-at comments SS  
+90 story-at missing 
+90 story-at duration_sec 4.6
+90 story-at dc_offset 43
+90 story-at min_samp -4063
+90 story-at max_samp 4837
+90 story-at min_power10 21.0
+90 story-at max_power90 57.3
+90 gender male
+90 age adult
+90 connection average
+90 intelligibility ok

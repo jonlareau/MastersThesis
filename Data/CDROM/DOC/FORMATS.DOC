@@ -1,0 +1,106 @@
+********************************************************************
+
+FORMATS.DOC
+
+********************************************************************
+
+WAV
+===
+
+.wav files are speech sample files.  They have an uncompressed ascii
+header followed by linear, 2 byte, signed integer samples that have
+been compressed using the "shorten" speech compression method
+developed by Tony Robinson at Cambridge University.  The headers
+follow the NIST SPHERE header format (the document header.doc contains
+a more detailed explanation of this format).  The first line specifies
+the header type and the second line specifies the header length.  All
+of the files in this distribution have a header length of 1024 bytes.
+Below is a sample header:
+
+NIST_1A
+   1024
+sample_byte_format -s2 10
+channel_count -i 1
+sample_count -i 60111
+sample_rate -i 8000
+sample_n_bytes -i 2
+sample_sig_bits -i 16
+sample_max -i 2688
+sample_min -i -3248
+sample_coding -s26 pcm,embedded-shorten-v1.09
+sample_checksum -i 65264
+end_head
+
+As per the NIST format definition, the bytes between the "end_head"
+line and the 1024th byte are undefined. 
+
+The "sphere" directory contains the latest release (v2.0Beta2.1) of
+the NIST SPHERE software package, which includes programs to read,
+modify and remove the SPHERE headers, and to uncompress the waveform
+data.  These programs are supplied in the form of C source code,
+together with a UNIX shell script and "makefiles" to compile and
+install the programs.  Please note that a more recent version of this
+package may be available via anonymous ftp directly from NIST.  To
+obtain the package from NIST:
+
+	ftp jaguar.ncsl.nist.gov
+	Name: anonymous
+	Password: <your.email@address>
+	cd pub
+	dir sphere*
+	binary
+	get <latest_sphere_version.tar.Z>
+	bye
+
+The ftp command "dir sphere*" will list the lastest release available;
+supply this file name for the following "get" command.  (MS-DOS users
+should note that the Free Software Foundation (FSF/GNU) provides DOS
+versions for the necessary UNIX environment utilities -- make, cc,
+tar, uncompress, etc -- to extract and compile the NIST sources on
+80386 and 80486 machines.)
+
+
+SEG
+===
+
+The .seg files are ascii "location and label" files.  They are similar
+to the ".phn" files of the TIMIT database except
+
+1) the locations are given in a unit of time other than the sample.  
+2) there is a short header saying what this unit is
+
+Each file in this distribution has the header
+
+	MillisecondsPerFrame: 3.0
+	END OF HEADER
+
+After that are a series of lines, one per segment, of the form
+
+	<begin frame> <end frame + 1>  label
+
+For example
+
+	200  237   ah
+	237  289   m
+
+The [ah] segment extends from frame 200 to frame 236 inclusive.  The
+end label is 237 for "historical" reasons.
+
+
+All the .seg files are in the "seglola" directory within the
+respective language directories. The total across all languages is
+504. The breakup by language is:
+
+English         55
+Farsi           48  
+French          52    
+German          53
+Japanese        47
+Korean          47 
+Mandarin        51
+Spanish         53 
+Tamil           46 
+Vietnamese      52
+
+TOTAL          504
+

@@ -1,0 +1,25 @@
+17 nlang native no
+17 nlang useful yes
+17 clang instructions yes
+17 clang useful yes
+17 dowk complete no
+17 dowk partial yes
+17 nums complete no
+17 nums partial yes
+17 htl instructions yes
+17 htl useful yes
+17 htc instructions no
+17 htc useful yes
+17 room instructions no
+17 room useful yes
+17 meal instructions yes
+17 meal useful yes
+17 general native yes
+17 general dialect standard
+17 general accent none
+17 general background speech none
+17 general environmental noise line noise
+17 general gender male
+17 general age adult
+17 general intelligibility ok
+17 general connection average

@@ -1,0 +1,86 @@
+11 labeler khoward
+11 label_date Thu Jul 11 10:48:02 PDT 1991
+11 nlang comments CE ES  
+11 nlang missing CS
+11 nlang duration_sec 3.0
+11 nlang dc_offset 42
+11 nlang min_samp -2454
+11 nlang max_samp 2282
+11 nlang min_power10 15.5
+11 nlang max_power90 48.8
+11 clang comments ES  
+11 clang missing nothing
+11 clang duration_sec 2.3
+11 clang dc_offset 42
+11 clang min_samp -1482
+11 clang max_samp 1570
+11 clang min_power10 15.6
+11 clang max_power90 46.0
+11 dowk comments ES  
+11 dowk missing Sonnerdenn?? Said 8 days. Sonnerdenn is not a day.
+11 dowk duration_sec 7.2
+11 dowk dc_offset 42
+11 dowk min_samp -3406
+11 dowk max_samp 3306
+11 dowk min_power10 15.4
+11 dowk max_power90 54.3
+11 nums comments CE NI ES  
+11 nums missing 10
+11 nums duration_sec 9.9
+11 nums dc_offset 42
+11 nums min_samp -3646
+11 nums max_samp 3478
+11 nums min_power10 14.8
+11 nums max_power90 49.7
+11 htl comments CE EN  
+11 htl missing CS
+11 htl duration_sec 8.1
+11 htl dc_offset 42
+11 htl min_samp -3338
+11 htl max_samp 3074
+11 htl min_power10 17.4
+11 htl max_power90 53.8
+11 htc comments BN  
+11 htc missing nothing
+11 htc duration_sec 3.5
+11 htc dc_offset 42
+11 htc min_samp -2270
+11 htc max_samp 2106
+11 htc min_power10 16.3
+11 htc max_power90 51.9
+11 room comments BN  
+11 room missing nothing
+11 room duration_sec 9.3
+11 room dc_offset 42
+11 room min_samp -3194
+11 room max_samp 3062
+11 room min_power10 15.2
+11 room max_power90 51.2
+11 meal comments BN EN  
+11 meal missing nothing
+11 meal duration_sec 5.3
+11 meal dc_offset 42
+11 meal min_samp -3774
+11 meal max_samp 3198
+11 meal min_power10 16.1
+11 meal max_power90 51.6
+11 story-bt comments BN CE EN SS  
+11 story-bt missing CS
+11 story-bt duration_sec 48.7
+11 story-bt dc_offset 42
+11 story-bt min_samp -4866
+11 story-bt max_samp 4294
+11 story-bt min_power10 17.8
+11 story-bt max_power90 51.7
+11 story-at comments SNL  
+11 story-at missing SNL?
+11 story-at duration_sec 6.7
+11 story-at dc_offset 42
+11 story-at min_samp -2934
+11 story-at max_samp 2306
+11 story-at min_power10 16.5
+11 story-at max_power90 51.8
+11 gender female
+11 age adult
+11 connection average
+11 intelligibility ok

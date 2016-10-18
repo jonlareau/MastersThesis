@@ -1,0 +1,136 @@
+#!/bin/sh
+
+#### Define the echo command
+if test "`echo -n foobar | egrep -e -n`" = "" ; then
+	ECHO_NNL="echo -n"
+else
+	ECHO_NNL="echo"
+fi
+
+VERSION=1.01
+echo "Installation Script Version $VERSION for the NIST Speech utilities"
+echo ""
+$ECHO_NNL "Searching for packages . . . "
+packages=`(cd lib/packages; ls *.pkg)|sed 's/.pkg//'`
+numpackages=`echo $packages| tr ' ' '\012'|sed '/^$/d' |wc -l|awk '{print $1}'`
+echo "Done"
+echo ""
+echo "Currently, there are $numpackages loaded and ready to install"
+for pkg in $packages ; do
+    echo "    `head -1 lib/packages/$pkg.pkg`"
+done
+echo ""
+
+echo "Before Installation, this program needs some information"
+echo "concerning the computer compiling the programs"
+echo ""
+
+echo "This package has been tested on the following platforms."
+echo "You may choose to install this package using defaults for"
+echo "these systems, or customize the installation:"
+
+format="ID,OS,Compiler,Install,Ranlib,Archive,Architecture"
+defs='1:Sun OS-4.1.[12]:cc:install -c -s -m 755:ranlib:ar ru:SUN,2:Next OS:cc:install -c -s -m 755:ranlib -s:ar ru:NEXT,3:Dec Ultrix:cc:cp:ranlib:ar ru:ULTRIX,4:SGI IRIX:cc -cckr:cp:ar -rs:ar ru:SGI,5:Custom:cc:install -s -m 755:ranlib:ar ru:SUN'
+
+get_field(){
+    # $1 the definition string
+    # $2 is the identifier
+    # $3 is the field number
+    echo "$1" | tr ',' '\012' | egrep "^$2:" | awk -F: "{print $"$3"}"
+}
+ 
+get_field_keys(){
+    echo "$1" | tr ',' '\012' | awk -F: '{print $1}'
+}
+
+ans='n'
+while test "$ans" = "n" ; do
+    for num in `get_field_keys "$defs"` ; do
+	id=`get_field "$defs" $num 2`
+        echo "$num:$id"  | awk -F: '{printf("   %6s:  %s\n",$1,$2)}'
+    done
+    echo ""
+    echo "Please Choose one:  "
+    $ECHO_NNL "   "
+    read system
+    id=`get_field "$defs" $system 1`
+    if test "$id" != "" ; then
+	echo ""
+	echo "Using the `get_field "$defs" $system 2` Defaults"
+	echo ""
+	ans="y"
+    else
+        echo "Invalid Answer.  Choose one of the following"
+	echo ""
+    fi
+done
+
+if test "$system" = "5" ; then
+    number=3;
+    field_values="Custom:"
+    for topic in `echo $format | sed 's/^[^,]*,[^,]*,//' | tr ',' ' '` ; do
+	ans="n"
+        command=`get_field "$defs" $system $number`
+	while test "$ans" = "n" ; do
+            echo "What is the $topic command ? [$command]"
+            read query
+	    if test "$query" = "" ; then
+                ans="y"
+                field_values="${field_values}${command}:"
+            else
+		command="$query"
+                echo "OK, The $topic command is '$command'.  Is this OK? [yes]"
+                read qu
+                if test "$qu" = "" -o "$qu" = "yes" -o "$qu" = "Y" -o "$qu" = "y" ; then
+                    ans="y"
+                    field_values="${field_values}${command}:"
+                fi
+            fi
+        done
+	number=`echo "$number + 1" | bc`
+    done
+else
+    field_values=`echo "$defs" | tr ',' '\012' | egrep "^$system:" | sed 's/^[^:]*://'`
+fi
+
+COMPILER_COMMAND=`echo "$field_values" | awk -F: '{print $2}'` ; export COMPILER_COMMAND
+INSTALL_COMMAND=`echo "$field_values" | awk -F: '{print $3}'` ; export INSTALL_COMMAND
+RANLIB_COMMAND=`echo "$field_values" | awk -F: '{print $4}'` ; export RANLIB_COMMAND
+ARCHIVER_COMMAND=`echo "$field_values" | awk -F: '{print $5}'` ; export ARCHIVER_COMMAND
+LOCAL_CC_DEFINES=-DNARCH_`echo "$field_values" | awk -F: '{print $6}'` ; export LOCAL_CC_DEFINES
+
+install_package(){
+    pkg=$1
+    pkg_id="$2"
+    echo "Running Installation for $pkg_id"
+    sh src/scripts/$pkg.ins
+    if test "$?" != "0" ; then
+         echo "    Install script for $pkg_id failed, Call NIST"
+         exit 1
+    else
+         cp lib/packages/$pkg.pkg lib/packages/$pkg.pas
+    fi
+   
+    
+}
+
+# run each installation script for the packages"
+for pkg in $packages ; do
+    pkg_id=`head -1 lib/packages/$pkg.pkg`
+    if test -f lib/packages/$pkg.pas ; then
+        if test "`diff lib/packages/$pkg.pas lib/packages/$pkg.pkg`" = "" ; then
+            echo "Package $pkg_id Already installed"
+        else
+            install_package $pkg "$pkg_id"
+        fi
+    else
+        install_package $pkg "$pkg_id"
+    fi
+done
+echo ""
+
+echo "Creating Makefiles . . . "
+sh src/scripts/gen_make
+
+echo "Creating executables . . . "
+make install

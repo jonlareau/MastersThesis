@@ -1,0 +1,78 @@
+59 labeler yeshwant
+59 label_date Mon Nov 18 00:59:52 PST 1991
+59 nlang comments EN  
+59 nlang missing nothing
+59 nlang duration_sec 1.0
+59 nlang dc_offset 43
+59 nlang min_samp -2235
+59 nlang max_samp 2949
+59 nlang min_power10 19.6
+59 nlang max_power90 51.4
+59 clang comments EN  
+59 clang missing nothing
+59 clang duration_sec 1.4
+59 clang dc_offset 43
+59 clang min_samp -1211
+59 clang max_samp 1261
+59 clang min_power10 19.2
+59 clang max_power90 50.7
+59 dowk comments CE EN  
+59 dowk missing last 2 days
+59 dowk duration_sec 6.7
+59 dowk dc_offset 43
+59 dowk min_samp -2019
+59 dowk max_samp 2501
+59 dowk min_power10 19.8
+59 dowk max_power90 52.8
+59 nums comments EN  
+59 nums missing 10
+59 nums duration_sec 9.7
+59 nums dc_offset 43
+59 nums min_samp -1855
+59 nums max_samp 2117
+59 nums min_power10 19.0
+59 nums max_power90 50.3
+59 htl comments BN CE EN  
+59 htl missing CS
+59 htl duration_sec 7.7
+59 htl dc_offset 43
+59 htl min_samp -2527
+59 htl max_samp 2329
+59 htl min_power10 20.8
+59 htl max_power90 51.0
+59 htc comments EN  
+59 htc missing nothing
+59 htc duration_sec 1.9
+59 htc dc_offset 43
+59 htc min_samp -1603
+59 htc max_samp 1613
+59 htc min_power10 19.9
+59 htc max_power90 51.0
+59 room comments CB CE EN ES  
+59 room missing CS
+59 room duration_sec 10.1
+59 room dc_offset 43
+59 room min_samp -2055
+59 room max_samp 3077
+59 room min_power10 19.7
+59 room max_power90 49.2
+59 meal comments EN  
+59 meal missing nothing
+59 meal duration_sec 1.5
+59 meal dc_offset 43
+59 meal min_samp -1403
+59 meal max_samp 1561
+59 meal min_power10 19.6
+59 meal max_power90 47.5
+59 story-bt comments BN EN  
+59 story-bt missing nothing
+59 story-bt duration_sec 32.6
+59 story-bt dc_offset 43
+59 story-bt min_samp -2047
+59 story-bt max_samp 2633
+59 story-bt min_power10 20.2
+59 story-bt max_power90 49.0
+59 gender male
+59 age adult
+59 connection average
+59 intelligibility ok

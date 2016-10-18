@@ -1,0 +1,84 @@
+93 labeler khoward
+93 label_date Fri Jan  3 13:01:11 PST 1992
+93 nlang missing nothing
+93 nlang duration_sec 1.0
+93 nlang dc_offset 42
+93 nlang min_samp -4726
+93 nlang max_samp 5166
+93 nlang min_power10 26.1
+93 nlang max_power90 59.7
+93 clang comments ES  
+93 clang missing nothing
+93 clang duration_sec 2.0
+93 clang dc_offset 42
+93 clang min_samp -3606
+93 clang max_samp 5442
+93 clang min_power10 28.1
+93 clang max_power90 56.1
+93 dowk comments ES BN  
+93 dowk missing nothing
+93 dowk duration_sec 7.4
+93 dowk dc_offset 42
+93 dowk min_samp -3514
+93 dowk max_samp 4534
+93 dowk min_power10 35.2
+93 dowk max_power90 57.6
+93 nums missing nothing
+93 nums duration_sec 5.8
+93 nums dc_offset 42
+93 nums min_samp -3266
+93 nums max_samp 4382
+93 nums min_power10 27.9
+93 nums max_power90 58.1
+93 htl comments BN CE  
+93 htl missing CS
+93 htl duration_sec 4.4
+93 htl dc_offset 42
+93 htl min_samp -3014
+93 htl max_samp 2834
+93 htl min_power10 27.8
+93 htl max_power90 52.0
+93 htc comments BN CE  
+93 htc missing CS
+93 htc duration_sec 8.0
+93 htc dc_offset 42
+93 htc min_samp -3222
+93 htc max_samp 2806
+93 htc min_power10 26.5
+93 htc max_power90 51.9
+93 room comments BN  
+93 room missing nothing
+93 room duration_sec 9.3
+93 room dc_offset 42
+93 room min_samp -4526
+93 room max_samp 5374
+93 room min_power10 28.5
+93 room max_power90 53.4
+93 meal comments BN  
+93 meal missing nothing
+93 meal duration_sec 2.4
+93 meal dc_offset 42
+93 meal min_samp -6542
+93 meal max_samp 6882
+93 meal min_power10 28.1
+93 meal max_power90 63.4
+93 story-bt comments BN CE SS  
+93 story-bt missing CS
+93 story-bt duration_sec 49.0
+93 story-bt dc_offset 42
+93 story-bt min_samp -5422
+93 story-bt max_samp 5650
+93 story-bt min_power10 28.0
+93 story-bt max_power90 56.3
+93 story-at comments CB SS  
+93 story-at missing CS
+93 story-at duration_sec 3.1
+93 story-at dc_offset 42
+93 story-at min_samp -3402
+93 story-at max_samp 3478
+93 story-at min_power10 27.6
+93 story-at max_power90 48.9
+93 gender male
+93 age adult
+93 connection average
+93 intelligibility ok

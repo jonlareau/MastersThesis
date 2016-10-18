@@ -1,0 +1,53 @@
+16 labeler yeshwant
+16 label_date Sat Jul 27 15:03:47 PDT 1991
+16 clang missing nothing
+16 clang duration_sec 1.1
+16 clang dc_offset 42
+16 clang min_samp -4138
+16 clang max_samp 3670
+16 clang min_power10 12.8
+16 clang max_power90 49.2
+16 dowk comments CB  
+16 dowk missing days
+16 dowk duration_sec 4.3
+16 dowk dc_offset 42
+16 dowk min_samp -1338
+16 dowk max_samp 1386
+16 dowk min_power10 17.0
+16 dowk max_power90 46.8
+16 nums comments NI  
+16 nums missing 0
+16 nums duration_sec 4.8
+16 nums dc_offset 42
+16 nums min_samp -2174
+16 nums max_samp 1782
+16 nums min_power10 15.1
+16 nums max_power90 52.0
+16 htl comments EN  
+16 htl missing nothing
+16 htl duration_sec 5.3
+16 htl dc_offset 42
+16 htl min_samp -1934
+16 htl max_samp 2050
+16 htl min_power10 21.0
+16 htl max_power90 50.7
+16 room comments CB  
+16 room missing CS
+16 room duration_sec 8.6
+16 room dc_offset 42
+16 room min_samp -2378
+16 room max_samp 2470
+16 room min_power10 15.0
+16 room max_power90 50.2
+16 story-bt comments EN SS  
+16 story-bt missing nothing
+16 story-bt duration_sec 23.4
+16 story-bt dc_offset 42
+16 story-bt min_samp -2710
+16 story-bt max_samp 2830
+16 story-bt min_power10 14.4
+16 story-bt max_power90 46.3
+16 gender male
+16 age adult
+16 connection average
+16 intelligibility ok

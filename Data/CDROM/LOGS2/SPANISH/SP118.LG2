@@ -1,0 +1,26 @@
+118 nlang native yes
+118 clang instructions yes
+118 clang useful yes
+118 dowk complete yes
+118 nums complete yes
+118 htl instructions yes
+118 htl useful yes
+118 htc instructions yes
+118 htc useful yes
+118 room instructions yes
+118 room useful yes
+118 meal instructions yes
+118 meal useful yes
+118 story-bt speech_type extemp
+118 story-bt topic herself, everything she would like to do and be
+118 story-at speech_type extemp
+118 story-at topic noting that that's all she has to say
+118 general native no
+118 general dialect standard
+118 general accent none
+118 general background speech none
+118 general environmental noise none
+118 general gender female
+118 general age adult
+118 general intelligibility ok
+118 general connection average

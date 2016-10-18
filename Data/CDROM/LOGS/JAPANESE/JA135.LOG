@@ -1,0 +1,86 @@
+135 labeler ames
+135 label_date Fri May  8 10:37:17 PDT 1992
+135 nlang comments CE EN  
+135 nlang missing cs; may be non-native speaker
+135 nlang duration_sec 2.8
+135 nlang dc_offset 42
+135 nlang min_samp -5610
+135 nlang max_samp 6914
+135 nlang min_power10 20.4
+135 nlang max_power90 62.3
+135 clang comments EN  
+135 clang missing nothing
+135 clang duration_sec 1.8
+135 clang dc_offset 42
+135 clang min_samp -3358
+135 clang max_samp 3806
+135 clang min_power10 19.5
+135 clang max_power90 59.0
+135 dowk comments EN  
+135 dowk missing nothing
+135 dowk duration_sec 6.5
+135 dowk dc_offset 42
+135 dowk min_samp -3338
+135 dowk max_samp 4214
+135 dowk min_power10 19.8
+135 dowk max_power90 60.4
+135 nums comments EN  
+135 nums missing nothing
+135 nums duration_sec 5.2
+135 nums dc_offset 42
+135 nums min_samp -6486
+135 nums max_samp 6494
+135 nums min_power10 20.0
+135 nums max_power90 60.8
+135 htl comments EN  
+135 htl missing nothing
+135 htl duration_sec 3.9
+135 htl dc_offset 42
+135 htl min_samp -3942
+135 htl max_samp 4546
+135 htl min_power10 19.0
+135 htl max_power90 57.8
+135 htc comments EN ES  
+135 htc missing nothing
+135 htc duration_sec 7.5
+135 htc dc_offset 42
+135 htc min_samp -3954
+135 htc max_samp 5826
+135 htc min_power10 18.7
+135 htc max_power90 55.9
+135 room comments EN ES SNL  
+135 room missing nothing; may not have followed instructions
+135 room duration_sec 10.0
+135 room dc_offset 42
+135 room min_samp -6490
+135 room max_samp 6966
+135 room min_power10 20.4
+135 room max_power90 59.9
+135 meal comments EN  
+135 meal missing nothing
+135 meal duration_sec 6.9
+135 meal dc_offset 42
+135 meal min_samp -5926
+135 meal max_samp 7682
+135 meal min_power10 20.3
+135 meal max_power90 60.8
+135 story-bt comments CE EN RS SS ES SNL  
+135 story-bt missing cs; guessing on the read speech
+135 story-bt duration_sec 49.4
+135 story-bt dc_offset 42
+135 story-bt min_samp -6022
+135 story-bt max_samp 6134
+135 story-bt min_power10 19.5
+135 story-bt max_power90 57.7
+135 story-at comments CB CE EN RS  
+135 story-at missing cs
+135 story-at duration_sec 9.4
+135 story-at dc_offset 42
+135 story-at min_samp -4630
+135 story-at max_samp 5522
+135 story-at min_power10 20.6
+135 story-at max_power90 59.2
+135 gender male
+135 age adult
+135 connection average
+135 intelligibility ok

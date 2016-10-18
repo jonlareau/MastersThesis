@@ -1,0 +1,59 @@
+*************************************************************************
+Multi-Language Telephone Speech Corpus Distribution
+
+DATA.DOC
+
+release January, 1994
+
+Copyright 1994
+Center for Spoken Language Understanding
+Oregon Graduate Institute
+
+*************************************************************************
+
+The speech and transcription filenames are of the form:
+
+<langcode><callnumber><type>.wav - compressed waveform data, with 1024
+				byte uncompressed SPHERE header
+
+<langcode><callnumber><type>.seg - time-aligned broad phonetic 
+                                transcriptions
+
+<langcode><callnumber>.log  - information file containing results of
+                                preliminary verification and evaluation 
+                                of each call
+
+where:
+
+<langcode> consists of the first two letters of the ten language
+	names. E.g. fa (Farsi), vi (Vietnamese), etc.
+
+<callnumber>  positive 3-digit integer (with leading zeros as needed)
+
+<type> any one of:
+	nlg - native language 
+	clg - common language 
+	dow - days of the week
+	num - number 0 thru 10
+	htl - hometown likes 
+	htc - hometown climate 
+	roo - room description
+	mea - description of most recent meal
+	stb - free speech before the tone
+	sta - free speech after the tone
+
+The stb (max. duration 50 seconds) and sta (max. 10 seconds)
+utterances together form the 1-minute free speech portion of each
+call. The explanation below clarifies the reasons for this breakup
+into two files.
+
+  Instead of abruptly cutting off the caller at the end of 1 minute,
+  it was decided, based on trial runs of the recording protocol, to
+  play a "time is up" tone after the first 50 seconds, to inform the 
+  caller that (s)he had only 10 seconds left to bring his/her free 
+  speech response to a coherent end. Callers were explained the purpose 
+  of this tone and were played a sample tone before the actual 1-minute
+  recording began. The software of the Gradient Desklab dictated that 
+  the response before and after the tone be recorded in separate files.
+
+

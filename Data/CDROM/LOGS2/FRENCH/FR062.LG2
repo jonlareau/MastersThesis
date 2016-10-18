@@ -1,0 +1,26 @@
+62 nlang native yes
+62 clang instructions yes
+62 clang useful yes
+62 dowk complete yes
+62 nums complete yes
+62 htl instructions yes
+62 htl useful yes
+62 htc instructions yes
+62 htc useful yes
+62 room instructions yes
+62 room useful yes
+62 meal instructions yes
+62 meal useful yes
+62 story-bt speech_type extemp
+62 story-bt topic his profession:International library consultant and interpreter
+62 story-at speech_type extemp
+62 story-at topic I come from Moscow after attending lot of events.I
+62 general native yes
+62 general dialect standard
+62 general accent none
+62 general background speech none
+62 general environmental noise none
+62 general gender male
+62 general age adult
+62 general intelligibility ok
+62 general connection average

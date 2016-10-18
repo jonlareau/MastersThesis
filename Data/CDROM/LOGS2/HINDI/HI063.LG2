@@ -1,0 +1,49 @@
+63 nlang native no
+63 nlang useful yes
+63 clang instructions yes
+63 clang useful yes
+63 hlang instructions yes
+63 hlang useful yes
+63 age instructions no
+63 age useful yes
+63 bdate instructions yes
+63 bdate useful yes
+63 morf instructions yes
+63 morf useful yes
+63 US instructions yes
+63 US useful yes
+63 child instructions yes
+63 child useful yes
+63 zipcode instructions no
+63 zipcode useful yes
+63 day instructions no
+63 day useful yes
+63 time instructions yes
+63 time useful yes
+63 route instructions yes
+63 route useful yes
+63 hometown instructions yes
+63 hometown useful yes
+63 climate instructions yes
+63 climate useful yes
+63 room instructions yes
+63 room useful yes
+63 meal instructions yes
+63 meal useful yes
+63 story-bt speech_type extemp
+63 story-bt topic She has met a lot of nice people here
+63 story-at speech_type extemp
+63 story-at topic She finds the professors very helpful
+63 yorn instructions yes
+63 yorn useful yes
+63 address instructions yes
+63 address useful yes
+63 general native no
+63 general dialect standard
+63 general accent slightly south indian
+63 general background speech none
+63 general environmental noise none
+63 general gender female
+63 general age adult
+63 general intelligibility ok
+63 general connection average

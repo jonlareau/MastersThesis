@@ -1,0 +1,26 @@
+13 nlang native yes
+13 clang instructions yes
+13 clang useful yes
+13 dowk complete yes
+13 nums complete yes
+13 htl instructions yes
+13 htl useful yes
+13 htc instructions yes
+13 htc useful yes
+13 room instructions yes
+13 room useful yes
+13 meal instructions yes
+13 meal useful yes
+13 story-bt speech_type extemp
+13 story-bt topic The people in his office in Texas
+13 story-at speech_type extemp
+13 story-at topic His company in Texas
+13 general native yes
+13 general dialect standard
+13 general accent none
+13 general background speech none
+13 general environmental noise none
+13 general gender male
+13 general age adult
+13 general intelligibility ok
+13 general connection average

@@ -1,0 +1,23 @@
+110 nlang native yes
+110 clang instructions yes
+110 clang useful yes
+110 dowk complete yes
+110 nums complete no
+110 nums partial yes
+110 htl instructions yes
+110 htl useful yes
+110 htc instructions yes
+110 htc useful yes
+110 room instructions yes
+110 room useful yes
+110 meal instructions yes
+110 meal useful yes
+110 general native yes
+110 general dialect standard
+110 general accent none
+110 general background speech none
+110 general environmental noise none
+110 general gender male
+110 general age adult
+110 general intelligibility ok
+110 general connection average

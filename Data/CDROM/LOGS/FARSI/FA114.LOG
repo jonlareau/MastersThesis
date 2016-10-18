@@ -1,0 +1,70 @@
+114 labeler ames
+114 label_date Mon Mar  2 11:35:03 PST 1992
+114 nlang comments EN  
+114 nlang missing nothing
+114 nlang duration_sec 0.9
+114 nlang dc_offset 42
+114 nlang min_samp -10474
+114 nlang max_samp 7742
+114 nlang min_power10 17.1
+114 nlang max_power90 65.0
+114 clang comments EN  
+114 clang missing nothing
+114 clang duration_sec 1.3
+114 clang dc_offset 42
+114 clang min_samp -4854
+114 clang max_samp 4358
+114 clang min_power10 17.5
+114 clang max_power90 60.6
+114 dowk comments CE EN  
+114 dowk missing saturday sunday
+114 dowk duration_sec 6.6
+114 dowk dc_offset 42
+114 dowk min_samp -3262
+114 dowk max_samp 2950
+114 dowk min_power10 17.2
+114 dowk max_power90 53.9
+114 nums comments EN  
+114 nums missing nothing
+114 nums duration_sec 5.5
+114 nums dc_offset 42
+114 nums min_samp -2102
+114 nums max_samp 1962
+114 nums min_power10 17.5
+114 nums max_power90 52.8
+114 htl comments EN  
+114 htl missing nothing
+114 htl duration_sec 4.1
+114 htl dc_offset 42
+114 htl min_samp -4734
+114 htl max_samp 3518
+114 htl min_power10 22.6
+114 htl max_power90 56.8
+114 htc comments EN  
+114 htc missing nothing
+114 htc duration_sec 6.7
+114 htc dc_offset 42
+114 htc min_samp -5746
+114 htc max_samp 5418
+114 htc min_power10 18.9
+114 htc max_power90 55.3
+114 meal comments EN  
+114 meal missing nothing
+114 meal duration_sec 1.6
+114 meal dc_offset 42
+114 meal min_samp -8670
+114 meal max_samp 7698
+114 meal min_power10 21.0
+114 meal max_power90 65.3
+114 story-bt comments EN  
+114 story-bt missing nothing
+114 story-bt duration_sec 4.0
+114 story-bt dc_offset 42
+114 story-bt min_samp -1762
+114 story-bt max_samp 1546
+114 story-bt min_power10 20.3
+114 story-bt max_power90 51.1
+114 gender male
+114 age adult
+114 connection average
+114 intelligibility ok

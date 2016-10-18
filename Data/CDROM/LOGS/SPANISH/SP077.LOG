@@ -1,0 +1,83 @@
+77 labeler khoward
+77 label_date Fri Jan  3 12:36:32 PST 1992
+77 nlang missing nothing
+77 nlang duration_sec 1.2
+77 nlang dc_offset 42
+77 nlang min_samp -5470
+77 nlang max_samp 5142
+77 nlang min_power10 21.0
+77 nlang max_power90 62.9
+77 clang comments BN CE ES  
+77 clang missing CS
+77 clang duration_sec 2.0
+77 clang dc_offset 42
+77 clang min_samp -7190
+77 clang max_samp 6482
+77 clang min_power10 24.7
+77 clang max_power90 66.5
+77 dowk missing nothing
+77 dowk duration_sec 4.8
+77 dowk dc_offset 42
+77 dowk min_samp -5526
+77 dowk max_samp 5454
+77 dowk min_power10 25.0
+77 dowk max_power90 65.2
+77 nums missing nothing
+77 nums duration_sec 7.7
+77 nums dc_offset 42
+77 nums min_samp -8246
+77 nums max_samp 5522
+77 nums min_power10 24.3
+77 nums max_power90 62.9
+77 htl comments CE  
+77 htl missing CS
+77 htl duration_sec 7.2
+77 htl dc_offset 42
+77 htl min_samp -9966
+77 htl max_samp 9398
+77 htl min_power10 25.5
+77 htl max_power90 66.5
+77 htc comments EN  
+77 htc missing nothing
+77 htc duration_sec 6.9
+77 htc dc_offset 42
+77 htc min_samp -6838
+77 htc max_samp 7862
+77 htc min_power10 21.5
+77 htc max_power90 62.9
+77 room comments SNL  
+77 room missing nothing
+77 room duration_sec 8.0
+77 room dc_offset 42
+77 room min_samp -7898
+77 room max_samp 7454
+77 room min_power10 22.2
+77 room max_power90 63.5
+77 meal comments CE  
+77 meal missing CS
+77 meal duration_sec 7.0
+77 meal dc_offset 42
+77 meal min_samp -6774
+77 meal max_samp 6242
+77 meal min_power10 24.3
+77 meal max_power90 62.5
+77 story-bt comments CE SS  
+77 story-bt missing CS
+77 story-bt duration_sec 49.0
+77 story-bt dc_offset 42
+77 story-bt min_samp -12702
+77 story-bt max_samp 11694
+77 story-bt min_power10 27.5
+77 story-bt max_power90 66.2
+77 story-at comments EN BN SS  
+77 story-at missing nothing
+77 story-at duration_sec 5.1
+77 story-at dc_offset 42
+77 story-at min_samp -7838
+77 story-at max_samp 10742
+77 story-at min_power10 21.9
+77 story-at max_power90 66.1
+77 gender female
+77 age adult
+77 connection average
+77 intelligibility ok

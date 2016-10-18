@@ -1,0 +1,84 @@
+49 labeler khoward
+49 label_date Thu Aug 29 09:44:23 PDT 1991
+49 nlang missing nothing
+49 nlang duration_sec 0.9
+49 nlang dc_offset 42
+49 nlang min_samp -698
+49 nlang max_samp 734
+49 nlang min_power10 14.0
+49 nlang max_power90 41.9
+49 clang missing nothing
+49 clang duration_sec 1.1
+49 clang dc_offset 42
+49 clang min_samp -1010
+49 clang max_samp 902
+49 clang min_power10 13.5
+49 clang max_power90 43.3
+49 dowk comments EN  
+49 dowk missing nothing
+49 dowk duration_sec 4.2
+49 dowk dc_offset 42
+49 dowk min_samp -390
+49 dowk max_samp 310
+49 dowk min_power10 14.2
+49 dowk max_power90 37.6
+49 nums comments EN  
+49 nums missing nothing
+49 nums duration_sec 6.5
+49 nums dc_offset 42
+49 nums min_samp -742
+49 nums max_samp 502
+49 nums min_power10 13.8
+49 nums max_power90 36.3
+49 htl comments CE EN  
+49 htl missing CS
+49 htl duration_sec 6.7
+49 htl dc_offset 42
+49 htl min_samp -822
+49 htl max_samp 754
+49 htl min_power10 14.4
+49 htl max_power90 39.3
+49 htc comments CE EN  
+49 htc missing CS
+49 htc duration_sec 9.5
+49 htc dc_offset 42
+49 htc min_samp -322
+49 htc max_samp 274
+49 htc min_power10 14.3
+49 htc max_power90 34.6
+49 room comments EN  
+49 room missing nothing
+49 room duration_sec 10.6
+49 room dc_offset 42
+49 room min_samp -930
+49 room max_samp 698
+49 room min_power10 14.6
+49 room max_power90 36.2
+49 meal comments EN  
+49 meal missing nothing
+49 meal duration_sec 7.8
+49 meal dc_offset 42
+49 meal min_samp -462
+49 meal max_samp 342
+49 meal min_power10 14.1
+49 meal max_power90 35.0
+49 story-bt comments EN SS BN  
+49 story-bt missing nothing
+49 story-bt duration_sec 47.8
+49 story-bt dc_offset 42
+49 story-bt min_samp -1250
+49 story-bt max_samp 1206
+49 story-bt min_power10 14.4
+49 story-bt max_power90 36.6
+49 story-at comments EN SS  
+49 story-at missing nothing
+49 story-at duration_sec 6.2
+49 story-at dc_offset 42
+49 story-at min_samp -618
+49 story-at max_samp 566
+49 story-at min_power10 15.0
+49 story-at max_power90 40.0
+49 gender male
+49 age adult
+49 connection poor
+49 intelligibility ok

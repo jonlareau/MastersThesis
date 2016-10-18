@@ -1,0 +1,82 @@
+64 labeler khoward
+64 label_date Tue Aug 27 11:17:58 PDT 1991
+64 nlang missing nothing
+64 nlang duration_sec 0.7
+64 nlang dc_offset 42
+64 nlang min_samp -950
+64 nlang max_samp 1146
+64 nlang min_power10 18.8
+64 nlang max_power90 48.8
+64 clang missing nothing
+64 clang duration_sec 0.8
+64 clang dc_offset 42
+64 clang min_samp -1134
+64 clang max_samp 1134
+64 clang min_power10 18.0
+64 clang max_power90 52.2
+64 dowk missing nothing
+64 dowk duration_sec 7.1
+64 dowk dc_offset 42
+64 dowk min_samp -1238
+64 dowk max_samp 1406
+64 dowk min_power10 17.9
+64 dowk max_power90 49.0
+64 nums comments CE  
+64 nums missing 8 9 10
+64 nums duration_sec 9.3
+64 nums dc_offset 42
+64 nums min_samp -1954
+64 nums max_samp 1366
+64 nums min_power10 17.9
+64 nums max_power90 48.5
+64 htl comments BN  
+64 htl missing nothing
+64 htl duration_sec 3.6
+64 htl dc_offset 42
+64 htl min_samp -2238
+64 htl max_samp 1838
+64 htl min_power10 20.3
+64 htl max_power90 51.8
+64 htc missing nothing
+64 htc duration_sec 6.0
+64 htc dc_offset 42
+64 htc min_samp -2202
+64 htc max_samp 1562
+64 htc min_power10 18.6
+64 htc max_power90 48.3
+64 room comments BN  
+64 room missing nothing
+64 room duration_sec 10.2
+64 room dc_offset 42
+64 room min_samp -1390
+64 room max_samp 1454
+64 room min_power10 18.1
+64 room max_power90 46.3
+64 meal comments BN CE 
+64 meal missing CS
+64 meal duration_sec 6.7
+64 meal dc_offset 42
+64 meal min_samp -2302
+64 meal max_samp 1606
+64 meal min_power10 18.3
+64 meal max_power90 48.0
+64 story-bt comments CE SS  
+64 story-bt missing CS
+64 story-bt duration_sec 47.2
+64 story-bt dc_offset 42
+64 story-bt min_samp -2054
+64 story-bt max_samp 1718
+64 story-bt min_power10 20.4
+64 story-bt max_power90 48.5
+64 story-at comments BN SS  
+64 story-at missing nothing
+64 story-at duration_sec 4.7
+64 story-at dc_offset 42
+64 story-at min_samp -1406
+64 story-at max_samp 1430
+64 story-at min_power10 21.5
+64 story-at max_power90 46.0
+64 gender male
+64 age adult
+64 connection average
+64 intelligibility ok

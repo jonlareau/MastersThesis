@@ -1,0 +1,83 @@
+63 labeler khoward
+63 label_date Sat Dec 14 08:42:26 PST 1991
+63 nlang comments ES  
+63 nlang missing nothing
+63 nlang duration_sec 2.1
+63 nlang dc_offset 42
+63 nlang min_samp -1678
+63 nlang max_samp 1426
+63 nlang min_power10 22.4
+63 nlang max_power90 55.4
+63 clang comments CE ES  
+63 clang missing CS
+63 clang duration_sec 1.6
+63 clang dc_offset 42
+63 clang min_samp -1570
+63 clang max_samp 1634
+63 clang min_power10 21.9
+63 clang max_power90 54.9
+63 dowk missing nothing
+63 dowk duration_sec 6.0
+63 dowk dc_offset 42
+63 dowk min_samp -2334
+63 dowk max_samp 1882
+63 dowk min_power10 20.5
+63 dowk max_power90 54.2
+63 nums missing nothing
+63 nums duration_sec 7.9
+63 nums dc_offset 42
+63 nums min_samp -1398
+63 nums max_samp 1802
+63 nums min_power10 20.9
+63 nums max_power90 52.6
+63 htl comments CE  
+63 htl missing CS
+63 htl duration_sec 9.1
+63 htl dc_offset 42
+63 htl min_samp -2002
+63 htl max_samp 1902
+63 htl min_power10 22.3
+63 htl max_power90 56.0
+63 htc missing nothing
+63 htc duration_sec 7.5
+63 htc dc_offset 42
+63 htc min_samp -2306
+63 htc max_samp 3178
+63 htc min_power10 23.6
+63 htc max_power90 56.8
+63 room comments SNL  
+63 room missing nothing
+63 room duration_sec 11.4
+63 room dc_offset 42
+63 room min_samp -2010
+63 room max_samp 1722
+63 room min_power10 20.6
+63 room max_power90 53.6
+63 meal comments CE  
+63 meal missing CS
+63 meal duration_sec 8.9
+63 meal dc_offset 42
+63 meal min_samp -2482
+63 meal max_samp 2126
+63 meal min_power10 22.0
+63 meal max_power90 56.8
+63 story-bt comments SS  
+63 story-bt missing nothing
+63 story-bt duration_sec 48.2
+63 story-bt dc_offset 42
+63 story-bt min_samp -1302
+63 story-bt max_samp 1206
+63 story-bt min_power10 20.4
+63 story-bt max_power90 45.8
+63 story-at comments CE SS  
+63 story-at missing CS
+63 story-at duration_sec 8.8
+63 story-at dc_offset 42
+63 story-at min_samp -1342
+63 story-at max_samp 1234
+63 story-at min_power10 21.9
+63 story-at max_power90 50.1
+63 gender male
+63 age adult
+63 connection poor
+63 intelligibility ok

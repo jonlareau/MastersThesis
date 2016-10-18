@@ -1,0 +1,24 @@
+82 nlang native yes
+82 clang instructions yes
+82 clang useful yes
+82 dowk complete yes
+82 nums complete yes
+82 htl instructions yes
+82 htl useful yes
+82 htc instructions yes
+82 htc useful yes
+82 room instructions yes
+82 room useful yes
+82 story-bt speech_type extemp
+82 story-bt topic The future of Iran
+82 story-at speech_type extemp
+82 story-at topic The future of Iran, cont'd
+82 general native yes
+82 general dialect standard
+82 general accent none
+82 general background speech none
+82 general environmental noise none
+82 general gender male
+82 general age adult
+82 general intelligibility ok
+82 general connection average

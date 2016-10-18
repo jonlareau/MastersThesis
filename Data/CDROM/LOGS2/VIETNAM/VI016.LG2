@@ -1,0 +1,19 @@
+16 nlang native yes
+16 clang instructions yes
+16 clang useful yes
+16 dowk complete yes
+16 nums complete no
+16 nums partial yes
+16 htl instructions yes
+16 htl useful yes
+16 htc instructions yes
+16 htc useful yes
+16 general native yes
+16 general dialect standard
+16 general accent none
+16 general background speech none
+16 general environmental noise none
+16 general gender male
+16 general age adult
+16 general intelligibility ok
+16 general connection average

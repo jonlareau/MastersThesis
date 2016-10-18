@@ -1,0 +1,24 @@
+103 nlang native yes
+103 clang instructions yes
+103 clang useful yes
+103 dowk complete yes
+103 nums complete yes
+103 htl instructions yes
+103 htl useful yes
+103 htc instructions yes
+103 htc useful yes
+103 room instructions yes
+103 room useful yes
+103 meal instructions yes
+103 meal useful yes
+103 story-bt speech_type extemp
+103 story-bt topic I'm a computer engineer, and I'm learning Taekwondo in Otawa, Canada.
+103 general native yes
+103 general dialect standard
+103 general accent English accent
+103 general background speech a speech of a male person
+103 general environmental noise none
+103 general gender female
+103 general age adult
+103 general intelligibility ok
+103 general connection average

@@ -1,0 +1,27 @@
+29 nlang native yes
+29 clang instructions yes
+29 clang useful yes
+29 dowk complete yes
+29 nums complete no
+29 nums partial yes
+29 htl instructions yes
+29 htl useful yes
+29 htc instructions yes
+29 htc useful yes
+29 room instructions yes
+29 room useful yes
+29 meal instructions no
+29 meal useful yes
+29 story-bt speech_type extemp
+29 story-bt topic The interesting OGI's research and his suggestion
+29 story-at speech_type extemp
+29 story-at topic His interest thing
+29 general native yes
+29 general dialect outside of Kanto area
+29 general accent none
+29 general background speech none
+29 general environmental noise none
+29 general gender male
+29 general age adult
+29 general intelligibility ok
+29 general connection average

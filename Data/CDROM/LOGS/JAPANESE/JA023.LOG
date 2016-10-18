@@ -1,0 +1,82 @@
+23 labeler khoward
+23 label_date Mon Jul 29 15:01:05 PDT 1991
+23 nlang missing nothing
+23 nlang duration_sec 1.1
+23 nlang dc_offset 42
+23 nlang min_samp -766
+23 nlang max_samp 1222
+23 nlang min_power10 10.7
+23 nlang max_power90 44.0
+23 clang comments ES  
+23 clang missing nothing
+23 clang duration_sec 1.5
+23 clang dc_offset 42
+23 clang min_samp -2070
+23 clang max_samp 2718
+23 clang min_power10 10.9
+23 clang max_power90 47.9
+23 dowk comments CE  
+23 dowk missing Sunday?
+23 dowk duration_sec 7.3
+23 dowk dc_offset 42
+23 dowk min_samp -1114
+23 dowk max_samp 2090
+23 dowk min_power10 10.9
+23 dowk max_power90 46.6
+23 nums comments CE  
+23 nums missing 0 10
+23 nums duration_sec 9.5
+23 nums dc_offset 42
+23 nums min_samp -1942
+23 nums max_samp 3006
+23 nums min_power10 11.0
+23 nums max_power90 37.6
+23 htl comments CE  
+23 htl missing CS
+23 htl duration_sec 8.5
+23 htl dc_offset 42
+23 htl min_samp -2694
+23 htl max_samp 3042
+23 htl min_power10 11.8
+23 htl max_power90 46.5
+23 htc missing nothing
+23 htc duration_sec 5.6
+23 htc dc_offset 42
+23 htc min_samp -2142
+23 htc max_samp 2562
+23 htc min_power10 11.4
+23 htc max_power90 40.7
+23 room missing nothing
+23 room duration_sec 10.7
+23 room dc_offset 42
+23 room min_samp -834
+23 room max_samp 1054
+23 room min_power10 11.9
+23 room max_power90 39.5
+23 meal comments BN CE SNL  
+23 meal missing CS
+23 meal duration_sec 8.7
+23 meal dc_offset 42
+23 meal min_samp -1598
+23 meal max_samp 1578
+23 meal min_power10 12.2
+23 meal max_power90 42.5
+23 story-bt comments BN EN SS CE  
+23 story-bt missing CS
+23 story-bt duration_sec 48.9
+23 story-bt dc_offset 42
+23 story-bt min_samp -1602
+23 story-bt max_samp 1990
+23 story-bt min_power10 11.9
+23 story-bt max_power90 40.0
+23 story-at missing nothing
+23 story-at duration_sec 5.3
+23 story-at dc_offset 43
+23 story-at min_samp -1575
+23 story-at max_samp 1561
+23 story-at min_power10 12.0
+23 story-at max_power90 40.9
+23 gender male
+23 age adult
+23 connection average
+23 intelligibility ok

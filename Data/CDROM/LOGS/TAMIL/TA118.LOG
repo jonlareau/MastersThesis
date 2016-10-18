@@ -1,0 +1,79 @@
+118 labeler ames
+118 label_date Fri Mar 20 09:35:40 PST 1992
+118 nlang comments EN  
+118 nlang missing nothing
+118 nlang duration_sec 0.6
+118 nlang dc_offset 42
+118 nlang min_samp -5566
+118 nlang max_samp 3890
+118 nlang min_power10 17.3
+118 nlang max_power90 63.0
+118 clang comments EN  
+118 clang missing nothing
+118 clang duration_sec 0.7
+118 clang dc_offset 42
+118 clang min_samp -7894
+118 clang max_samp 5282
+118 clang min_power10 19.2
+118 clang max_power90 63.8
+118 dowk comments EN  
+118 dowk missing nothing
+118 dowk duration_sec 7.0
+118 dowk dc_offset 42
+118 dowk min_samp -5582
+118 dowk max_samp 4218
+118 dowk min_power10 19.4
+118 dowk max_power90 61.2
+118 nums comments CE EN  
+118 nums missing 9 10
+118 nums duration_sec 8.2
+118 nums dc_offset 42
+118 nums min_samp -7018
+118 nums max_samp 4602
+118 nums min_power10 19.3
+118 nums max_power90 59.5
+118 htl comments CE EN  
+118 htl missing cs
+118 htl duration_sec 8.4
+118 htl dc_offset 42
+118 htl min_samp -5406
+118 htl max_samp 4162
+118 htl min_power10 20.9
+118 htl max_power90 59.6
+118 htc comments EN  
+118 htc missing nothing
+118 htc duration_sec 7.7
+118 htc dc_offset 42
+118 htc min_samp -4870
+118 htc max_samp 3114
+118 htc min_power10 20.8
+118 htc max_power90 58.8
+118 room comments CE EN  
+118 room missing cs
+118 room duration_sec 10.3
+118 room dc_offset 42
+118 room min_samp -4402
+118 room max_samp 3618
+118 room min_power10 20.3
+118 room max_power90 55.7
+118 meal comments EN  
+118 meal missing nothing
+118 meal duration_sec 8.2
+118 meal dc_offset 42
+118 meal min_samp -5354
+118 meal max_samp 3818
+118 meal min_power10 18.5
+118 meal max_power90 57.7
+118 story-bt comments EN SS SNL  
+118 story-bt missing nothing
+118 story-bt duration_sec 14.7
+118 story-bt dc_offset 42
+118 story-bt min_samp -15514
+118 story-bt max_samp 13334
+118 story-bt min_power10 19.8
+118 story-bt max_power90 60.2
+118 story-at missing nothing
+118 gender female
+118 age adult
+118 connection average
+118 intelligibility ok/good

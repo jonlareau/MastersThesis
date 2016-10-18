@@ -1,0 +1,81 @@
+56 labeler khoward
+56 label_date Thu Nov 21 18:23:20 PST 1991
+56 nlang missing nothing
+56 nlang duration_sec 0.9
+56 nlang dc_offset 43
+56 nlang min_samp -3015
+56 nlang max_samp 2705
+56 nlang min_power10 24.2
+56 nlang max_power90 54.2
+56 clang comments EN  
+56 clang missing nothing
+56 clang duration_sec 0.9
+56 clang dc_offset 43
+56 clang min_samp -667
+56 clang max_samp 745
+56 clang min_power10 24.3
+56 clang max_power90 41.9
+56 dowk missing nothing
+56 dowk duration_sec 5.7
+56 dowk dc_offset 43
+56 dowk min_samp -3239
+56 dowk max_samp 4069
+56 dowk min_power10 24.6
+56 dowk max_power90 56.5
+56 nums comments CE  
+56 nums missing 8 9 10
+56 nums duration_sec 8.7
+56 nums dc_offset 43
+56 nums min_samp -4151
+56 nums max_samp 3865
+56 nums min_power10 24.2
+56 nums max_power90 54.0
+56 htl comments EN  
+56 htl missing nothing
+56 htl duration_sec 3.1
+56 htl dc_offset 43
+56 htl min_samp -2751
+56 htl max_samp 2189
+56 htl min_power10 24.6
+56 htl max_power90 54.0
+56 htc missing nothing
+56 htc duration_sec 6.8
+56 htc dc_offset 43
+56 htc min_samp -2551
+56 htc max_samp 2465
+56 htc min_power10 24.4
+56 htc max_power90 48.4
+56 room missing nothing
+56 room duration_sec 11.0
+56 room dc_offset 43
+56 room min_samp -2163
+56 room max_samp 2781
+56 room min_power10 24.5
+56 room max_power90 46.8
+56 meal missing nothing
+56 meal duration_sec 8.5
+56 meal dc_offset 43
+56 meal min_samp -3223
+56 meal max_samp 2669
+56 meal min_power10 24.5
+56 meal max_power90 45.2
+56 story-bt comments EN SS SNL  
+56 story-bt missing nothing
+56 story-bt duration_sec 48.0
+56 story-bt dc_offset 43
+56 story-bt min_samp -1543
+56 story-bt max_samp 1673
+56 story-bt min_power10 24.4
+56 story-bt max_power90 43.1
+56 story-at comments EN SS  
+56 story-at missing nothing
+56 story-at duration_sec 9.5
+56 story-at dc_offset 43
+56 story-at min_samp -1079
+56 story-at max_samp 753
+56 story-at min_power10 24.4
+56 story-at max_power90 40.4
+56 gender male
+56 age adult
+56 connection poor
+56 intelligibility ok

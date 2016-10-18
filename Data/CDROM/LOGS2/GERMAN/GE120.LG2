@@ -1,0 +1,26 @@
+120 nlang native yes
+120 clang instructions yes
+120 clang useful yes
+120 dowk complete yes
+120 nums complete yes
+120 htl instructions yes
+120 htl useful yes
+120 htc instructions yes
+120 htc useful yes
+120 room instructions yes
+120 room useful yes
+120 meal instructions yes
+120 meal useful yes
+120 story-bt speech_type extemp
+120 story-bt topic how she came to Seattle
+120 story-at speech_type extemp
+120 story-at topic Seattle
+120 general native yes
+120 general dialect standard
+120 general accent just some grammatical errors
+120 general background speech none
+120 general environmental noise phone rings in room
+120 general gender female
+120 general age adult
+120 general intelligibility ok
+120 general connection average

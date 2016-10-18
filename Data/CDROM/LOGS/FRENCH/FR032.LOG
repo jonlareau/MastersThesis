@@ -1,0 +1,84 @@
+32 labeler khoward
+32 label_date Mon Aug  5 09:31:55 PDT 1991
+32 nlang missing nothing
+32 nlang duration_sec 1.0
+32 nlang dc_offset 42
+32 nlang min_samp -1474
+32 nlang max_samp 1354
+32 nlang min_power10 17.4
+32 nlang max_power90 44.4
+32 clang comments CE  
+32 clang missing CS
+32 clang duration_sec 1.8
+32 clang dc_offset 42
+32 clang min_samp -1486
+32 clang max_samp 1470
+32 clang min_power10 17.6
+32 clang max_power90 53.7
+32 dowk missing nothing
+32 dowk duration_sec 3.9
+32 dowk dc_offset 42
+32 dowk min_samp -2370
+32 dowk max_samp 1962
+32 dowk min_power10 20.6
+32 dowk max_power90 44.9
+32 nums comments EN  
+32 nums missing nothing
+32 nums duration_sec 5.9
+32 nums dc_offset 42
+32 nums min_samp -1670
+32 nums max_samp 1474
+32 nums min_power10 18.1
+32 nums max_power90 44.5
+32 htl comments CE EN  
+32 htl missing CS
+32 htl duration_sec 9.8
+32 htl dc_offset 42
+32 htl min_samp -1122
+32 htl max_samp 1050
+32 htl min_power10 20.5
+32 htl max_power90 45.6
+32 htc comments CE EN  
+32 htc missing CS
+32 htc duration_sec 9.0
+32 htc dc_offset 42
+32 htc min_samp -818
+32 htc max_samp 802
+32 htc min_power10 18.6
+32 htc max_power90 41.5
+32 room comments CE EN  
+32 room missing CS
+32 room duration_sec 11.9
+32 room dc_offset 42
+32 room min_samp -1854
+32 room max_samp 1594
+32 room min_power10 21.6
+32 room max_power90 43.0
+32 meal comments CE EN  
+32 meal missing CS
+32 meal duration_sec 8.5
+32 meal dc_offset 42
+32 meal min_samp -666
+32 meal max_samp 706
+32 meal min_power10 21.0
+32 meal max_power90 39.4
+32 story-bt comments CE EN RS  
+32 story-bt missing CS
+32 story-bt duration_sec 49.4
+32 story-bt dc_offset 42
+32 story-bt min_samp -4862
+32 story-bt max_samp 5638
+32 story-bt min_power10 21.4
+32 story-bt max_power90 50.2
+32 story-at comments SS  
+32 story-at missing nothing
+32 story-at duration_sec 2.0
+32 story-at dc_offset 42
+32 story-at min_samp -2102
+32 story-at max_samp 1286
+32 story-at min_power10 16.8
+32 story-at max_power90 46.6
+32 gender male
+32 age adult
+32 connection poor
+32 intelligibility ok

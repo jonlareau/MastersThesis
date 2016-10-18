@@ -1,0 +1,26 @@
+123 nlang native yes
+123 clang instructions yes
+123 clang useful yes
+123 dowk complete yes
+123 nums complete yes
+123 htl instructions yes
+123 htl useful yes
+123 htc instructions yes
+123 htc useful yes
+123 room instructions yes
+123 room useful yes
+123 meal instructions yes
+123 meal useful yes
+123 story-bt speech_type extemp
+123 story-bt topic My life in USA
+123 story-at speech_type extemp
+123 story-at topic That's all, goodby
+123 general native yes
+123 general dialect standard
+123 general accent none
+123 general background speech none
+123 general environmental noise none
+123 general gender male
+123 general age adult
+123 general intelligibility ok
+123 general connection average

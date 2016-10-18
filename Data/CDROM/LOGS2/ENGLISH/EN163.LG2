@@ -1,0 +1,26 @@
+163 nlang native yes
+163 clang instructions yes
+163 clang useful yes
+163 dowk complete yes
+163 nums complete yes
+163 htl instructions yes
+163 htl useful yes
+163 htc instructions yes
+163 htc useful yes
+163 room instructions yes
+163 room useful yes
+163 meal instructions yes
+163 meal useful yes
+163 story-bt speech_type extemp
+163 story-bt topic sign language
+163 story-at speech_type extemp
+163 story-at topic lip reading
+163 general native yes
+163 general dialect standard
+163 general accent none
+163 general background speech none
+163 general environmental noise computer
+163 general gender female
+163 general age adult
+163 general intelligibility ok
+163 general connection average

@@ -1,0 +1,24 @@
+102 nlang native yes
+102 dowk complete yes
+102 nums complete yes
+102 htl instructions yes
+102 htl useful yes
+102 htc instructions no
+102 htc useful yes
+102 room instructions no
+102 room useful no
+102 meal instructions no
+102 meal useful no
+102 story-bt speech_type read
+102 story-bt topic about players of a sports team
+102 story-at speech_type read
+102 story-at topic "It was the beginning of this newspaper"(Editorial of .../
+102 general native yes
+102 general dialect standard
+102 general accent none
+102 general background speech none
+102 general environmental noise none
+102 general gender male
+102 general age adult
+102 general intelligibility ok
+102 general connection average

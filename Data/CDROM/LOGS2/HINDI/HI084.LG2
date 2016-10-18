@@ -1,0 +1,45 @@
+84 nlang native no
+84 nlang useful yes
+84 clang instructions no
+84 clang useful yes
+84 hlang instructions no
+84 hlang useful yes
+84 bdate instructions yes
+84 bdate useful yes
+84 US instructions yes
+84 US useful yes
+84 child instructions yes
+84 child useful yes
+84 zipcode instructions yes
+84 zipcode useful yes
+84 day instructions yes
+84 day useful yes
+84 time instructions yes
+84 time useful yes
+84 hometown instructions yes
+84 hometown useful yes
+84 climate instructions yes
+84 climate useful yes
+84 room instructions yes
+84 room useful yes
+84 meal instructions yes
+84 meal useful yes
+84 story-bt speech_type extemp
+84 story-bt topic his philosophy
+84 story-at speech_type extemp
+84 story-at topic his story is endless like life is
+84 tone instructions yes
+84 tone useful yes
+84 yorn instructions yes
+84 yorn useful yes
+84 address instructions yes
+84 address useful yes
+84 general native no
+84 general dialect standard
+84 general accent none
+84 general background speech none
+84 general environmental noise none
+84 general gender male
+84 general age adult
+84 general intelligibility ok
+84 general connection average

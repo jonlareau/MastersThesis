@@ -1,0 +1,82 @@
+54 labeler khoward
+54 label_date Thu Aug 29 15:01:10 PDT 1991
+54 nlang missing nothing
+54 nlang duration_sec 1.2
+54 nlang dc_offset 43
+54 nlang min_samp -1351
+54 nlang max_samp 1109
+54 nlang min_power10 19.7
+54 nlang max_power90 47.3
+54 clang missing nothing
+54 clang duration_sec 1.3
+54 clang dc_offset 43
+54 clang min_samp -1999
+54 clang max_samp 1413
+54 clang min_power10 20.2
+54 clang max_power90 46.3
+54 dowk missing nothing
+54 dowk duration_sec 7.7
+54 dowk dc_offset 43
+54 dowk min_samp -2375
+54 dowk max_samp 2229
+54 dowk min_power10 19.9
+54 dowk max_power90 48.8
+54 nums comments CE  
+54 nums missing 10
+54 nums duration_sec 9.7
+54 nums dc_offset 43
+54 nums min_samp -1779
+54 nums max_samp 1769
+54 nums min_power10 19.8
+54 nums max_power90 48.8
+54 htl missing nothing
+54 htl duration_sec 9.0
+54 htl dc_offset 43
+54 htl min_samp -2711
+54 htl max_samp 2645
+54 htl min_power10 20.3
+54 htl max_power90 50.7
+54 htc comments CE  
+54 htc missing CS
+54 htc duration_sec 8.6
+54 htc dc_offset 43
+54 htc min_samp -2083
+54 htc max_samp 1893
+54 htc min_power10 20.2
+54 htc max_power90 49.3
+54 room comments CE  
+54 room missing CS
+54 room duration_sec 11.4
+54 room dc_offset 43
+54 room min_samp -2427
+54 room max_samp 2005
+54 room min_power10 19.7
+54 room max_power90 51.0
+54 meal comments SNL EN  
+54 meal missing nothing
+54 meal duration_sec 8.5
+54 meal dc_offset 43
+54 meal min_samp -3699
+54 meal max_samp 3189
+54 meal min_power10 20.3
+54 meal max_power90 51.1
+54 story-bt comments CE SS  
+54 story-bt missing CS
+54 story-bt duration_sec 49.3
+54 story-bt dc_offset 43
+54 story-bt min_samp -3291
+54 story-bt max_samp 3201
+54 story-bt min_power10 20.7
+54 story-bt max_power90 52.9
+54 story-at comments CB SS 
+54 story-at missing CS
+54 story-at duration_sec 9.1
+54 story-at dc_offset 43
+54 story-at min_samp -2403
+54 story-at max_samp 2165
+54 story-at min_power10 20.7
+54 story-at max_power90 53.9
+54 gender male
+54 age adult
+54 connection average
+54 intelligibility ok

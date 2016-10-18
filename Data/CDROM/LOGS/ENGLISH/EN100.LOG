@@ -1,0 +1,79 @@
+100 labeler khoward
+100 label_date Fri Aug 30 14:20:32 PDT 1991
+100 nlang missing nothing
+100 nlang duration_sec 1.1
+100 nlang dc_offset 42
+100 nlang min_samp -3770
+100 nlang max_samp 2146
+100 nlang min_power10 22.9
+100 nlang max_power90 57.0
+100 clang comments ES  
+100 clang missing nothing
+100 clang duration_sec 1.3
+100 clang dc_offset 42
+100 clang min_samp -2690
+100 clang max_samp 2302
+100 clang min_power10 23.7
+100 clang max_power90 56.1
+100 dowk missing nothing
+100 dowk duration_sec 5.7
+100 dowk dc_offset 42
+100 dowk min_samp -2894
+100 dowk max_samp 2466
+100 dowk min_power10 24.4
+100 dowk max_power90 58.0
+100 nums missing nothing
+100 nums duration_sec 8.7
+100 nums dc_offset 42
+100 nums min_samp -2898
+100 nums max_samp 2562
+100 nums min_power10 23.9
+100 nums max_power90 56.6
+100 htl missing nothing
+100 htl duration_sec 3.1
+100 htl dc_offset 42
+100 htl min_samp -3830
+100 htl max_samp 2962
+100 htl min_power10 24.8
+100 htl max_power90 57.3
+100 htc missing nothing
+100 htc duration_sec 6.4
+100 htc dc_offset 42
+100 htc min_samp -3442
+100 htc max_samp 2658
+100 htc min_power10 28.8
+100 htc max_power90 57.6
+100 room missing nothing
+100 room duration_sec 4.5
+100 room dc_offset 42
+100 room min_samp -3054
+100 room max_samp 2410
+100 room min_power10 23.7
+100 room max_power90 54.2
+100 meal missing nothing
+100 meal duration_sec 7.8
+100 meal dc_offset 42
+100 meal min_samp -2686
+100 meal max_samp 2142
+100 meal min_power10 23.5
+100 meal max_power90 51.8
+100 story-bt comments CE SS  
+100 story-bt missing CS
+100 story-bt duration_sec 49.1
+100 story-bt dc_offset 42
+100 story-bt min_samp -4582
+100 story-bt max_samp 3774
+100 story-bt min_power10 26.3
+100 story-bt max_power90 58.3
+100 story-at comments CB SS  
+100 story-at missing CS
+100 story-at duration_sec 2.1
+100 story-at dc_offset 42
+100 story-at min_samp -3574
+100 story-at max_samp 3190
+100 story-at min_power10 24.8
+100 story-at max_power90 58.4
+100 gender male
+100 age adult
+100 connection average
+100 intelligibility ok

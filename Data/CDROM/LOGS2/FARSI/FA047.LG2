@@ -1,0 +1,27 @@
+47 nlang native yes
+47 clang instructions yes
+47 clang useful yes
+47 dowk complete yes
+47 nums complete no
+47 nums partial yes
+47 htl instructions yes
+47 htl useful yes
+47 htc instructions yes
+47 htc useful yes
+47 room instructions yes
+47 room useful yes
+47 meal instructions yes
+47 meal useful yes
+47 story-bt speech_type extemp
+47 story-bt topic If I were rich; weather
+47 story-at speech_type extemp
+47 story-at topic ?
+47 general native yes
+47 general dialect standard
+47 general accent none
+47 general background speech a little during (story-bt) & (story-at)
+47 general environmental noise some static
+47 general gender male
+47 general age adult
+47 general intelligibility ok
+47 general connection average

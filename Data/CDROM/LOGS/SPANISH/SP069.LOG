@@ -1,0 +1,82 @@
+69 labeler khoward
+69 label_date Tue Dec 24 13:29:02 PST 1991
+69 nlang comments EN  
+69 nlang missing nothing
+69 nlang duration_sec 0.7
+69 nlang dc_offset 42
+69 nlang min_samp -918
+69 nlang max_samp 562
+69 nlang min_power10 16.0
+69 nlang max_power90 41.2
+69 clang missing nothing
+69 clang duration_sec 1.0
+69 clang dc_offset 42
+69 clang min_samp -2346
+69 clang max_samp 1386
+69 clang min_power10 15.9
+69 clang max_power90 45.5
+69 dowk missing nothing
+69 dowk duration_sec 5.1
+69 dowk dc_offset 42
+69 dowk min_samp -2510
+69 dowk max_samp 1330
+69 dowk min_power10 16.3
+69 dowk max_power90 42.8
+69 nums comments EN  
+69 nums missing nothing
+69 nums duration_sec 9.7
+69 nums dc_offset 42
+69 nums min_samp -3142
+69 nums max_samp 2106
+69 nums min_power10 16.1
+69 nums max_power90 44.3
+69 htl missing nothing
+69 htl duration_sec 7.3
+69 htl dc_offset 42
+69 htl min_samp -2074
+69 htl max_samp 1246
+69 htl min_power10 15.8
+69 htl max_power90 42.6
+69 htc missing nothing
+69 htc duration_sec 4.6
+69 htc dc_offset 42
+69 htc min_samp -2194
+69 htc max_samp 1506
+69 htc min_power10 17.1
+69 htc max_power90 45.6
+69 room comments EN  
+69 room missing nothing
+69 room duration_sec 9.1
+69 room dc_offset 42
+69 room min_samp -1862
+69 room max_samp 1582
+69 room min_power10 16.3
+69 room max_power90 42.1
+69 meal comments CE  
+69 meal missing CS
+69 meal duration_sec 5.7
+69 meal dc_offset 42
+69 meal min_samp -2050
+69 meal max_samp 1370
+69 meal min_power10 15.9
+69 meal max_power90 42.3
+69 story-bt comments EN SS  
+69 story-bt missing nothing
+69 story-bt duration_sec 44.7
+69 story-bt dc_offset 42
+69 story-bt min_samp -3142
+69 story-bt max_samp 2346
+69 story-bt min_power10 16.3
+69 story-bt max_power90 42.3
+69 story-at comments CB CE SS  
+69 story-at missing CS
+69 story-at duration_sec 9.1
+69 story-at dc_offset 42
+69 story-at min_samp -1470
+69 story-at max_samp 878
+69 story-at min_power10 16.7
+69 story-at max_power90 44.0
+69 gender female
+69 age adult
+69 connection poor
+69 intelligibility ok

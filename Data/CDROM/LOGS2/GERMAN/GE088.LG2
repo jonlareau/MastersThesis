@@ -1,0 +1,26 @@
+88 nlang native yes
+88 clang instructions yes
+88 clang useful yes
+88 dowk complete yes
+88 nums complete yes
+88 htl instructions yes
+88 htl useful yes
+88 htc instructions yes
+88 htc useful yes
+88 room instructions yes
+88 room useful yes
+88 meal instructions yes
+88 meal useful yes
+88 story-bt speech_type recite
+88 story-bt topic poem
+88 story-at speech_type extemp
+88 story-at topic by Heinz Erhart
+88 general native yes
+88 general dialect standard
+88 general accent none
+88 general background speech none
+88 general environmental noise none
+88 general gender male
+88 general age adult
+88 general intelligibility ok
+88 general connection average

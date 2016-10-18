@@ -1,0 +1,26 @@
+152 nlang native yes
+152 clang instructions yes
+152 clang useful yes
+152 dowk complete yes
+152 nums complete yes
+152 htl instructions yes
+152 htl useful yes
+152 htc instructions yes
+152 htc useful yes
+152 room instructions yes
+152 room useful yes
+152 meal instructions yes
+152 meal useful yes
+152 story-bt speech_type extemp
+152 story-bt topic Describing where he live
+152 story-at speech_type extemp
+152 story-at topic Describing where he live
+152 general native yes
+152 general dialect standard
+152 general accent none
+152 general background speech none
+152 general environmental noise none
+152 general gender male
+152 general age adult
+152 general intelligibility ok
+152 general connection average

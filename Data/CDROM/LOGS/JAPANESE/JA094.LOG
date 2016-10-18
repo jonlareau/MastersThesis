@@ -1,0 +1,84 @@
+94 labeler khoward
+94 label_date Fri Dec 27 14:52:40 PST 1991
+94 nlang missing nothing
+94 nlang duration_sec 1.4
+94 nlang dc_offset 43
+94 nlang min_samp -1231
+94 nlang max_samp 925
+94 nlang min_power10 10.9
+94 nlang max_power90 50.5
+94 clang missing nothing
+94 clang duration_sec 1.1
+94 clang dc_offset 43
+94 clang min_samp -1279
+94 clang max_samp 1281
+94 clang min_power10 11.0
+94 clang max_power90 52.7
+94 dowk comments CE  
+94 dowk missing Friday Saturday?
+94 dowk duration_sec 6.4
+94 dowk dc_offset 43
+94 dowk min_samp -1399
+94 dowk max_samp 1105
+94 dowk min_power10 11.0
+94 dowk max_power90 50.6
+94 nums comments CE  
+94 nums missing 10
+94 nums duration_sec 9.3
+94 nums dc_offset 43
+94 nums min_samp -1483
+94 nums max_samp 1165
+94 nums min_power10 10.6
+94 nums max_power90 46.3
+94 htl comments CE  
+94 htl missing CS
+94 htl duration_sec 7.2
+94 htl dc_offset 43
+94 htl min_samp -1507
+94 htl max_samp 1113
+94 htl min_power10 11.8
+94 htl max_power90 49.4
+94 htc comments CE  
+94 htc missing CS
+94 htc duration_sec 8.1
+94 htc dc_offset 43
+94 htc min_samp -2891
+94 htc max_samp 1921
+94 htc min_power10 12.3
+94 htc max_power90 49.8
+94 room comments CE  
+94 room missing CS
+94 room duration_sec 9.9
+94 room dc_offset 43
+94 room min_samp -2199
+94 room max_samp 2057
+94 room min_power10 13.6
+94 room max_power90 52.9
+94 meal comments SNL  
+94 meal missing nothing
+94 meal duration_sec 6.8
+94 meal dc_offset 43
+94 meal min_samp -2263
+94 meal max_samp 1341
+94 meal min_power10 11.1
+94 meal max_power90 51.8
+94 story-bt comments CE SNL SS  
+94 story-bt missing CS
+94 story-bt duration_sec 47.2
+94 story-bt dc_offset 43
+94 story-bt min_samp -2079
+94 story-bt max_samp 1557
+94 story-bt min_power10 14.3
+94 story-bt max_power90 47.1
+94 story-at comments CB CE SS  
+94 story-at missing CS
+94 story-at duration_sec 8.4
+94 story-at dc_offset 43
+94 story-at min_samp -2183
+94 story-at max_samp 1225
+94 story-at min_power10 14.1
+94 story-at max_power90 50.8
+94 gender female
+94 age adult
+94 connection average
+94 intelligibility ok

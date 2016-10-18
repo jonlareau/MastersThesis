@@ -1,0 +1,50 @@
+55 nlang native yes
+55 clang instructions yes
+55 clang useful yes
+55 hlang instructions yes
+55 hlang useful yes
+55 age instructions yes
+55 age useful yes
+55 bdate instructions yes
+55 bdate useful yes
+55 morf instructions no
+55 morf useful yes
+55 US instructions yes
+55 US useful yes
+55 child instructions yes
+55 child useful yes
+55 zipcode instructions no
+55 zipcode useful yes
+55 day instructions no
+55 day useful yes
+55 time instructions yes
+55 time useful yes
+55 route instructions yes
+55 route useful yes
+55 hometown instructions no
+55 hometown useful yes
+55 climate instructions yes
+55 climate useful yes
+55 room instructions yes
+55 room useful yes
+55 meal instructions yes
+55 meal useful yes
+55 story-bt speech_type extemp
+55 story-bt topic His hindi and also the state of students who come from India
+55 story-at speech_type extemp
+55 story-at topic He hadn't begun any story
+55 tone instructions yes
+55 tone useful yes
+55 yorn instructions yes
+55 yorn useful yes
+55 address instructions yes
+55 address useful yes
+55 general native yes
+55 general dialect standard
+55 general accent slightly punjabi
+55 general background speech none
+55 general environmental noise none
+55 general gender male
+55 general age adult
+55 general intelligibility ok
+55 general connection average

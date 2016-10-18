@@ -1,0 +1,28 @@
+34 nlang native yes
+34 clang instructions yes
+34 clang useful yes
+34 dowk complete no
+34 dowk partial no
+34 dowk useful yes
+34 nums complete no
+34 nums partial no
+34 nums useful no
+34 htl instructions yes
+34 htl useful yes
+34 htc instructions yes
+34 htc useful yes
+34 room instructions yes
+34 room useful yes
+34 meal instructions no
+34 meal useful yes
+34 story-bt speech_type extemp
+34 story-bt topic Don't know what to talk.
+34 general native yes
+34 general dialect Guang Dong
+34 general accent none
+34 general background speech none
+34 general environmental noise none
+34 general gender male
+34 general age adult
+34 general intelligibility ok
+34 general connection average

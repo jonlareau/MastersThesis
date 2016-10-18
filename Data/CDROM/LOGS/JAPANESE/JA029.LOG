@@ -1,0 +1,83 @@
+29 labeler khoward
+29 label_date Fri Aug  2 16:17:18 PDT 1991
+29 nlang missing nothing
+29 nlang duration_sec 1.5
+29 nlang dc_offset 42
+29 nlang min_samp -1678
+29 nlang max_samp 2030
+29 nlang min_power10 17.8
+29 nlang max_power90 51.0
+29 clang comments CB CE  
+29 clang missing CS
+29 clang duration_sec 2.2
+29 clang dc_offset 42
+29 clang min_samp -1934
+29 clang max_samp 2126
+29 clang min_power10 16.8
+29 clang max_power90 53.7
+29 dowk missing nothing
+29 dowk duration_sec 4.0
+29 dowk dc_offset 42
+29 dowk min_samp -2110
+29 dowk max_samp 2034
+29 dowk min_power10 21.2
+29 dowk max_power90 53.9
+29 nums comments CB  
+29 nums missing 0?
+29 nums duration_sec 2.9
+29 nums dc_offset 42
+29 nums min_samp -2146
+29 nums max_samp 2518
+29 nums min_power10 19.9
+29 nums max_power90 53.6
+29 htl comments CE
+29 htl missing CS
+29 htl duration_sec 7.5
+29 htl dc_offset 42
+29 htl min_samp -1930
+29 htl max_samp 1446
+29 htl min_power10 19.9
+29 htl max_power90 49.0
+29 htc comments CE  
+29 htc missing CS
+29 htc duration_sec 9.2
+29 htc dc_offset 42
+29 htc min_samp -2178
+29 htc max_samp 2134
+29 htc min_power10 20.0
+29 htc max_power90 48.8
+29 room comments CE  
+29 room missing CS
+29 room duration_sec 10.9
+29 room dc_offset 42
+29 room min_samp -1630
+29 room max_samp 1590
+29 room min_power10 21.0
+29 room max_power90 48.0
+29 meal missing nothing
+29 meal duration_sec 5.1
+29 meal dc_offset 42
+29 meal min_samp -1294
+29 meal max_samp 942
+29 meal min_power10 19.2
+29 meal max_power90 44.7
+29 story-bt comments CE SS  
+29 story-bt missing CS
+29 story-bt duration_sec 49.1
+29 story-bt dc_offset 42
+29 story-bt min_samp -2394
+29 story-bt max_samp 1954
+29 story-bt min_power10 19.1
+29 story-bt max_power90 48.7
+29 story-at comments CE SS  
+29 story-at missing CS
+29 story-at duration_sec 8.7
+29 story-at dc_offset 42
+29 story-at min_samp -1690
+29 story-at max_samp 1698
+29 story-at min_power10 19.0
+29 story-at max_power90 47.8
+29 gender male
+29 age adult
+29 connection average
+29 intelligibility ok

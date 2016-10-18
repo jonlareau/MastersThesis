@@ -1,0 +1,160 @@
+
+		  Overview of the OGI Multi-language
+		    Telephone Speech Corpus (MLTS)
+
+The OGI Multi-language Telephone Speech Corpus consists of telephone
+speech from 11 languages.  The initial collection, collected by
+Yeshwant Muthusamy for his Ph.D. thesis research, included 900
+calls--- 90 calls each in 10 languages.  The languages are: English,
+Farsi, French, German, Japanese, Korean, Mandarin, Spanish, Tamil and
+Vietnamese.  It is from this initial set that Yeshwant established
+training (50), development (20) and test (20) sets for his work.  The
+National Institute of Standards and Technology (NIST) uses the same 50
+- 20 - 20 set that Yeshwant established.  The corpus is used by NIST
+for evaluation of automatic language identification.  For official
+traiing and test sets contact alvin@jaguar.nist.gov.
+
+For more information on the original collection, there are the
+following two papers:
+
+Y. K. Muthusamy, "A Segmental Approach to Automatic Language
+Identification," Ph.D. Thesis, OGI Technical Report No. CSLU 93-002,
+Nov.  24, 1993.
+
+Y. K. Muthusamy, R.  A. Cole and B. T. Oshika, "The OGI Multi-language
+Telephone Speech Corpus," Proceedings of the International Conference
+on Spoken Language Processing, Banff, Alberta, Canada, October 1992.
+
+
+	IMPORTANT NOTE: The statistics described in the paper are
+	based on *all* the calls verified and evaluated to the date of
+	its pubication, i.e. 1345 total; 246 in English, average of
+	122 in the remaining nine languages. However, some of these
+	calls were incomplete: they did not contain all 10 utterances.
+	Placing the restriction that each call have at least 6
+	utterances gives us 90 calls in some of the languages. To
+	ensure that the data from each language was of comparable
+	size, 90 was the number of choice.
+	
+	Thus, the first release of the corpus contains 90 calls from
+	each language, with a 50-20-20 division into training,
+	development and final-test sets. This is consistent with the
+	training and test sets used at OGI. Currently, our language
+	identification research does NOT use the 4 fixed-vocabulary
+	utterances from these calls.
+
+
+Broad phonetic labels accompany the initial speech data.  There are
+500 utterances labeled for each of the ten languages (two utterances
+per call for 25 calls per language).  The seven broad phonetic classes
+are vowel, fricative, silence or closure, stops, pre-vocalic sonorant,
+inter-vocalic sonorant, post-vocalic sonorant.
+
+Later the corpus was extended with additional recordings for each of
+the ten above, plus 200 Hindi calls were added, making a total of 11
+languages collected.
+
+Also added to the initial corpus were new log files which used native
+speakers to verify calls.
+
+
+For the initial data collection by Yeshwant Muthusamy, each caller was
+asked a series of questions designed to elicit:
+	- fixed, useful vocabulary speech
+	- domain-specific vocabulary speech
+	- unrestricted vocabulary speech.
+
+Fixed vocabularies were collected in response to the following prompts
+(the number in parentheses equals the seconds of recording after the
+prompt):
+	-  What is you native language? (3 s)
+	-  What language do you speak most of the time? (3 s)
+	-  Please recite the seven days of the week. (8 s)
+	-  Please say the numbers zero through ten.  (10 s)
+
+Topic-specific descriptions were obtained in response to the following 
+prompts:
+	-  Tell us something that you like about your hometown.  (10 s)
+	-  Tell us about the climate in your hometown.  (10 s)
+	-  Describe the room that you are calling from.  (12 s)
+	-  Describe your most recent meal.  (10 s)
+
+Elicited free speech was obtained by asking callers to speak for one
+minute on any topic of their choice. (60 s)
+
+For the extended data, a different protocol was used, as follows:
+
+Thank you for calling the Oregon Graduate Institute language database.
+We are currently recording speech in Hindi.  We are studying the
+different languages of the world.  To do this, we need to record
+Samples of speech from fluent speakers of Hindi.  Please respond to
+the following questions and instructions in Hindi only. Please wait
+for the beep before speaking. This will take about 5 minutes. Please
+wait for the beep before speaking.
+
+1. What is your native language?
+
+2. What language do you speak most of the time?
+
+3. What language do you speak at home?
+
+4. How old are you?
+
+5. What is your date of birth?
+
+6. Are you male or female?
+
+7. Were you born and raised in the United States?
+
+8. What city and state did you spend most of your childhood?
+
+9. What is your zipcode?
+
+10. What area code are you calling from?
+
+11. What day is today?
+
+12. What time is it?
+
+13. For each of the following descriptions, we will record the first
+ten seconds of your answer.  Begin speaking at the beep. A second beep
+will indicate when we have finished recording your answer to each
+question.
+
+(pause)
+
+14. Describe the route you take to work or to the store.
+
+15. Tell us something that you like about your hometown.
+
+16. Tell us about the climate in your hometown.
+
+17. Describe the room you are calling from.
+
+18. Describe your most recent meal.
+
+19. We now want you to talk for a longer period of time.  We do not
+care what you say as long as you keep talking.  You can tell us
+anything about yourself, your hobbies and interests, the city that you
+live in, and the sports that you like.  Or you can make up a story,
+tell a fairy-tale or recite a poem.  You will have 1 minute to speak.
+We will now give you 10 seconds to think about what to say. Please do
+not read anything, we would prefer you make something up.
+
+(pause)
+
+20. Please begin talking at the beep.  You will hear a second beep
+when you have 10 seconds left.
+
+21. You have 10 seconds to complete your story.
+
+22. If you are calling from a touch tone phone, please push the number
+2 button.
+    
+23. Would you like to receive a gift certificate for MacDonalds or for
+TCBY frozen yogurt?
+
+24. Thank you for your participation.If you would like a gift
+certificate please leave your name, address, and gift certificate
+selection.  Your name and address will be kept confidential.
+

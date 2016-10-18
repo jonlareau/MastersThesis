@@ -1,0 +1,27 @@
+89 nlang native yes
+89 clang instructions yes
+89 clang useful yes
+89 dowk complete no
+89 dowk partial yes
+89 nums complete yes
+89 htl instructions yes
+89 htl useful yes
+89 htc instructions yes
+89 htc useful yes
+89 room instructions yes
+89 room useful yes
+89 meal instructions yes
+89 meal useful yes
+89 story-bt speech_type recite
+89 story-bt topic recites a love poem
+89 story-at speech_type recite
+89 story-at topic continuation of the love poem
+89 general native yes
+89 general dialect mix of spoken and written Tamil
+89 general accent none
+89 general background speech none
+89 general environmental noise none
+89 general gender male
+89 general age adult
+89 general intelligibility ok
+89 general connection average

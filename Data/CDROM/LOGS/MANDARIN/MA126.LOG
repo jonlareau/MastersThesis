@@ -1,0 +1,78 @@
+126 labeler ames
+126 label_date Thu Mar 19 11:17:29 PST 1992
+126 nlang comments EN  NN
+126 nlang missing nothing
+126 nlang duration_sec 2.1
+126 nlang dc_offset 42
+126 nlang min_samp -5206
+126 nlang max_samp 5710
+126 nlang min_power10 18.4
+126 nlang max_power90 59.9
+126 clang comments EN NN  
+126 clang missing nothing
+126 clang duration_sec 2.1
+126 clang dc_offset 42
+126 clang min_samp -4150
+126 clang max_samp 5430
+126 clang min_power10 22.2
+126 clang max_power90 59.9
+126 dowk comments EN NN ES  
+126 dowk missing nothing
+126 dowk duration_sec 5.4
+126 dowk dc_offset 42
+126 dowk min_samp -4526
+126 dowk max_samp 5038
+126 dowk min_power10 23.8
+126 dowk max_power90 50.9
+126 nums comments EN NN  
+126 nums missing nothing
+126 nums duration_sec 4.7
+126 nums dc_offset 42
+126 nums min_samp -3486
+126 nums max_samp 3590
+126 nums min_power10 19.6
+126 nums max_power90 50.8
+126 htl comments CE EN NN ES SNL 
+126 htl missing cs
+126 htl duration_sec 6.9
+126 htl dc_offset 42
+126 htl min_samp -4390
+126 htl max_samp 4370
+126 htl min_power10 19.1
+126 htl max_power90 54.0
+126 htc comments EN NN  
+126 htc missing nothing; extreme noise
+126 htc duration_sec 6.1
+126 htc dc_offset 42
+126 htc min_samp -3222
+126 htc max_samp 3446
+126 htc min_power10 17.8
+126 htc max_power90 50.9
+126 room comments CE EN NN ES SNL  
+126 room missing cs; extreme noise
+126 room duration_sec 10.3
+126 room dc_offset 42
+126 room min_samp -3622
+126 room max_samp 3890
+126 room min_power10 18.8
+126 room max_power90 53.0
+126 meal comments EN NN ES  
+126 meal missing nothing
+126 meal duration_sec 6.9
+126 meal dc_offset 42
+126 meal min_samp -3414
+126 meal max_samp 3586
+126 meal min_power10 17.5
+126 meal max_power90 49.4
+126 story-bt comments EN NN ES SNL  
+126 story-bt missing nothing; extreme noise!
+126 story-bt duration_sec 36.7
+126 story-bt dc_offset 42
+126 story-bt min_samp -4534
+126 story-bt max_samp 4962
+126 story-bt min_power10 19.6
+126 story-bt max_power90 52.9
+126 gender male
+126 age adult
+126 connection poor
+126 intelligibility ok

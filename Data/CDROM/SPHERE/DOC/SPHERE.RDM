@@ -1,0 +1,47 @@
+                                   SPHERE
+                        NIST SPeech HEader REsources
+
+                             Release 2.0 (beta)
+                                 July 1993
+
+0. Introduction:
+
+SPeech HEader REsources (SPHERE) is a set of library functions and
+command-level programs which can be used to read and modify
+NIST-formatted speech waveform files.  The documentation for SPHERE
+is located in the file, 'doc/sphere.doc'.  The SPHERE directory
+hierarchy is organized as follows:
+
+	bin                  - final destination of command line 
+                               executables and UNIX shell scripts
+	doc                  - SPHERE documentation
+	doc/man/man1         - UNIX style manual pages for command
+                               line executables
+	doc/man/man3         - SPHERE function library UNIX style
+                               manual pages 
+	doc/man/man5         - SPHERE file formats
+	include              - SPHERE include files
+	include/sp           - SPHERE library include files
+	include/shorten      - SHORTEN library include files
+	include/wavpack      - WAVPACK library include files
+	include/util         - internal function include files
+	lib                  - compiled link libraries
+	lib/data             - Example/test waveform files
+	src                  - SPHERE source code
+	src/progs            - source code for SPHERE command line 
+                               programs
+	src/progs/h_edit     - source code for h_edit
+	src/progs/h_delete   - source code for h_delete
+	src/progs/h_nlrm     - source code for h_nlrm
+	src/lib_fcns         - SPHERE library source code
+	src/lib_fcns/sp      - SPHERE functions source code
+	src/lib_fcns/shorten - SHORTEN library source code
+	src/lib_fcns/wavpack - WAVPACK library source code
+	src/lib_fcns/util    - SPHERE internal functions source
+                               code
+	src/scripts          - SPHERE command line scripts
+	
+
+
+
+

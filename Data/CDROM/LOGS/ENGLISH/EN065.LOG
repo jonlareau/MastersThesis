@@ -1,0 +1,69 @@
+65 labeler khoward
+65 label_date Tue Aug 27 11:25:06 PDT 1991
+65 nlang missing nothing
+65 nlang duration_sec 0.7
+65 nlang dc_offset 42
+65 nlang min_samp -4358
+65 nlang max_samp 3278
+65 nlang min_power10 16.8
+65 nlang max_power90 56.0
+65 clang comments BN  
+65 clang missing nothing
+65 clang duration_sec 0.7
+65 clang dc_offset 42
+65 clang min_samp -4470
+65 clang max_samp 3110
+65 clang min_power10 17.2
+65 clang max_power90 57.1
+65 dowk comments CB EN  
+65 dowk missing Monday
+65 dowk duration_sec 5.6
+65 dowk dc_offset 42
+65 dowk min_samp -4286
+65 dowk max_samp 3298
+65 dowk min_power10 17.5
+65 dowk max_power90 55.9
+65 nums comments EN  
+65 nums missing nothing
+65 nums duration_sec 9.5
+65 nums dc_offset 42
+65 nums min_samp -3318
+65 nums max_samp 3846
+65 nums min_power10 16.6
+65 nums max_power90 54.1
+65 htc comments EN  
+65 htc missing nothing
+65 htc duration_sec 1.3
+65 htc dc_offset 42
+65 htc min_samp -5602
+65 htc max_samp 4630
+65 htc min_power10 32.0
+65 htc max_power90 60.8
+65 room comments EN  
+65 room missing nothing
+65 room duration_sec 6.9
+65 room dc_offset 42
+65 room min_samp -7302
+65 room max_samp 6058
+65 room min_power10 21.4
+65 room max_power90 58.6
+65 story-bt comments CE EN RS  
+65 story-bt missing CS
+65 story-bt duration_sec 48.6
+65 story-bt dc_offset 42
+65 story-bt min_samp -11390
+65 story-bt max_samp 9774
+65 story-bt min_power10 25.9
+65 story-bt max_power90 61.2
+65 story-at comments CB RS EN  
+65 story-at missing CS
+65 story-at duration_sec 5.8
+65 story-at dc_offset 42
+65 story-at min_samp -10846
+65 story-at max_samp 7546
+65 story-at min_power10 25.4
+65 story-at max_power90 63.4
+65 gender male
+65 age adult
+65 connection average
+65 intelligibility ok

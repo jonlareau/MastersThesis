@@ -1,0 +1,81 @@
+83 labeler khoward
+83 label_date Mon Jul  1 14:31:57 PDT 1991
+83 nlang missing nothing
+83 nlang duration_ms 0.8
+83 nlang dc_offset 42
+83 nlang min_samp -7662
+83 nlang max_samp 7062
+83 nlang min_power10 28.5
+83 nlang max_power90 64.2
+83 clang missing nothing
+83 clang duration_ms 0.7
+83 clang dc_offset 42
+83 clang min_samp -6582
+83 clang max_samp 6702
+83 clang min_power10 28.1
+83 clang max_power90 58.3
+83 dowk missing nothing
+83 dowk duration_ms 5.9
+83 dowk dc_offset 42
+83 dowk min_samp -5370
+83 dowk max_samp 4950
+83 dowk min_power10 29.4
+83 dowk max_power90 57.1
+83 nums missing nothing
+83 nums duration_ms 6.8
+83 nums dc_offset 42
+83 nums min_samp -2802
+83 nums max_samp 3054
+83 nums min_power10 29.4
+83 nums max_power90 53.6
+83 htl comments BN EN  
+83 htl missing nothing
+83 htl duration_ms 5.0
+83 htl dc_offset 42
+83 htl min_samp -3610
+83 htl max_samp 3770
+83 htl min_power10 27.8
+83 htl max_power90 56.0
+83 htc missing nothing
+83 htc duration_ms 8.0
+83 htc dc_offset 42
+83 htc min_samp -5234
+83 htc max_samp 4638
+83 htc min_power10 26.7
+83 htc max_power90 46.1
+83 room comments EN  
+83 room missing nothing
+83 room duration_ms 10.8
+83 room dc_offset 42
+83 room min_samp -3454
+83 room max_samp 4222
+83 room min_power10 29.0
+83 room max_power90 55.5
+83 meal comments EN  
+83 meal missing CS
+83 meal duration_ms 9.0
+83 meal dc_offset 42
+83 meal min_samp -3974
+83 meal max_samp 4142
+83 meal min_power10 27.2
+83 meal max_power90 53.5
+83 story-bt comments CE EN RS SS  
+83 story-bt missing CS
+83 story-bt duration_ms 48.9
+83 story-bt dc_offset 42
+83 story-bt min_samp -10558
+83 story-bt max_samp 7598
+83 story-bt min_power10 29.7
+83 story-bt max_power90 56.5
+83 story-at comments EN RS  
+83 story-at missing nothing
+83 story-at duration_ms 9.1
+83 story-at dc_offset 42
+83 story-at min_samp -4438
+83 story-at max_samp 4254
+83 story-at min_power10 30.2
+83 story-at max_power90 54.0
+83 gender male
+83 age adult
+83 connection poor
+83 intelligibility ok

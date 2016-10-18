@@ -1,0 +1,83 @@
+19 labeler yeshwant
+19 label_date Sun Jul 28 11:16:25 PDT 1991
+19 nlang missing nothing
+19 nlang duration_sec 1.3
+19 nlang dc_offset 42
+19 nlang min_samp -5278
+19 nlang max_samp 4190
+19 nlang min_power10 18.4
+19 nlang max_power90 63.8
+19 clang comments CB  
+19 clang missing CS (not sure)
+19 clang duration_sec 1.8
+19 clang dc_offset 42
+19 clang min_samp -7706
+19 clang max_samp 5746
+19 clang min_power10 25.2
+19 clang max_power90 64.5
+19 dowk missing nothing
+19 dowk duration_sec 6.7
+19 dowk dc_offset 42
+19 dowk min_samp -7162
+19 dowk max_samp 5402
+19 dowk min_power10 19.7
+19 dowk max_power90 66.2
+19 nums missing nothing
+19 nums duration_sec 5.2
+19 nums dc_offset 42
+19 nums min_samp -9318
+19 nums max_samp 7050
+19 nums min_power10 18.9
+19 nums max_power90 65.7
+19 htl comments CE  
+19 htl missing CS
+19 htl duration_sec 8.7
+19 htl dc_offset 42
+19 htl min_samp -9062
+19 htl max_samp 8890
+19 htl min_power10 22.5
+19 htl max_power90 65.7
+19 htc comments CE  
+19 htc missing CS
+19 htc duration_sec 6.9
+19 htc dc_offset 42
+19 htc min_samp -8618
+19 htc max_samp 7774
+19 htc min_power10 22.2
+19 htc max_power90 64.3
+19 room comments CE SNL 
+19 room missing CS
+19 room duration_sec 11.4
+19 room dc_offset 42
+19 room min_samp -8058
+19 room max_samp 6318
+19 room min_power10 23.9
+19 room max_power90 64.0
+19 meal comments SNL  
+19 meal missing nothing
+19 meal duration_sec 4.5
+19 meal dc_offset 42
+19 meal min_samp -7942
+19 meal max_samp 5894
+19 meal min_power10 19.6
+19 meal max_power90 65.2
+19 story-bt comments CE SS SNL  
+19 story-bt missing CS
+19 story-bt duration_sec 48.8
+19 story-bt dc_offset 42
+19 story-bt min_samp -8582
+19 story-bt max_samp 7450
+19 story-bt min_power10 23.5
+19 story-bt max_power90 63.4
+19 story-at comments CE SS SNL  
+19 story-at missing CS
+19 story-at duration_sec 9.3
+19 story-at dc_offset 42
+19 story-at min_samp -7610
+19 story-at max_samp 6082
+19 story-at min_power10 26.3
+19 story-at max_power90 64.2
+19 gender female
+19 age adult
+19 connection good
+19 intelligibility ok

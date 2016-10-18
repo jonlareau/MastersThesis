@@ -1,0 +1,24 @@
+101 nlang native yes
+101 clang instructions yes
+101 clang useful yes
+101 dowk complete yes
+101 nums complete yes
+101 htl instructions yes
+101 htl useful yes
+101 htc instructions yes
+101 htc useful yes
+101 room instructions yes
+101 room useful yes
+101 meal instructions yes
+101 meal useful yes
+101 story-bt speech_type extemp
+101 story-bt topic There are a lot of exchange students and Korean-americans.
+101 general native yes
+101 general dialect standard
+101 general accent none
+101 general background speech none
+101 general environmental noise none
+101 general gender male
+101 general age adult
+101 general intelligibility ok
+101 general connection average

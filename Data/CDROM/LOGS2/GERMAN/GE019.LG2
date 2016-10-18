@@ -1,0 +1,28 @@
+19 nlang native yes
+19 clang instructions yes
+19 clang useful yes
+19 dowk complete no
+19 dowk partial yes
+19 nums complete no
+19 nums partial yes
+19 htl instructions yes
+19 htl useful yes
+19 htc instructions yes
+19 htc useful yes
+19 room instructions yes
+19 room useful yes
+19 meal instructions yes
+19 meal useful yes
+19 story-bt speech_type extemp
+19 story-bt topic imigrated in '50 as wife of american soldier. Changing america.
+19 story-at speech_type extemp
+19 story-at topic Take the good with the bad. Life in Oregon is good.
+19 general native yes
+19 general dialect standard
+19 general accent none
+19 general background speech none
+19 general environmental noise none
+19 general gender female
+19 general age adult
+19 general intelligibility ok
+19 general connection average

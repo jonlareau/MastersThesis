@@ -1,0 +1,86 @@
+129 labeler ames
+129 label_date Wed Mar 11 12:01:58 PST 1992
+129 nlang comments EN  
+129 nlang missing nothing; extreme noise
+129 nlang duration_sec 0.7
+129 nlang dc_offset 42
+129 nlang min_samp -1342
+129 nlang max_samp 1642
+129 nlang min_power10 21.1
+129 nlang max_power90 50.3
+129 clang comments CE EN  
+129 clang missing cs
+129 clang duration_sec 1.9
+129 clang dc_offset 42
+129 clang min_samp -2474
+129 clang max_samp 2298
+129 clang min_power10 22.2
+129 clang max_power90 53.0
+129 dowk comments EN  
+129 dowk missing nothing
+129 dowk duration_sec 5.3
+129 dowk dc_offset 42
+129 dowk min_samp -2686
+129 dowk max_samp 3670
+129 dowk min_power10 22.3
+129 dowk max_power90 53.6
+129 nums comments EN  
+129 nums missing nothing; extreme noise
+129 nums duration_sec 7.5
+129 nums dc_offset 42
+129 nums min_samp -1526
+129 nums max_samp 1570
+129 nums min_power10 18.3
+129 nums max_power90 47.8
+129 htl comments CE EN  
+129 htl missing cs
+129 htl duration_sec 8.4
+129 htl dc_offset 42
+129 htl min_samp -1486
+129 htl max_samp 2122
+129 htl min_power10 22.0
+129 htl max_power90 48.2
+129 htc comments EN  
+129 htc missing nothing; extreme noise
+129 htc duration_sec 6.3
+129 htc dc_offset 42
+129 htc min_samp -1790
+129 htc max_samp 3110
+129 htc min_power10 23.3
+129 htc max_power90 48.2
+129 room comments EN  
+129 room missing nothing
+129 room duration_sec 8.4
+129 room dc_offset 42
+129 room min_samp -1930
+129 room max_samp 2630
+129 room min_power10 17.5
+129 room max_power90 47.9
+129 meal comments EN  
+129 meal missing nothing
+129 meal duration_sec 4.8
+129 meal dc_offset 42
+129 meal min_samp -1686
+129 meal max_samp 1826
+129 meal min_power10 17.0
+129 meal max_power90 47.2
+129 story-bt comments EN SS ES SNL  
+129 story-bt missing nothing
+129 story-bt duration_sec 44.5
+129 story-bt dc_offset 42
+129 story-bt min_samp -1606
+129 story-bt max_samp 2862
+129 story-bt min_power10 16.0
+129 story-bt max_power90 43.0
+129 story-at comments EN SS  
+129 story-at missing nothing
+129 story-at duration_sec 3.2
+129 story-at dc_offset 42
+129 story-at min_samp -1686
+129 story-at max_samp 2766
+129 story-at min_power10 15.7
+129 story-at max_power90 45.8
+129 gender female
+129 age adult
+129 connection poor
+129 intelligibility ok

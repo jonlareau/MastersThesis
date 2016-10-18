@@ -1,0 +1,26 @@
+238 nlang native yes
+238 clang instructions yes
+238 clang useful yes
+238 dowk complete yes
+238 nums complete yes
+238 htl instructions yes
+238 htl useful yes
+238 htc instructions yes
+238 htc useful yes
+238 room instructions yes
+238 room useful yes
+238 meal instructions yes
+238 meal useful yes
+238 story-bt speech_type extemp
+238 story-bt topic interested in experiment because of previous work
+238 story-at speech_type extemp
+238 story-at topic learn other languages
+238 general native yes
+238 general dialect standard
+238 general accent none
+238 general background speech none
+238 general environmental noise none
+238 general gender female
+238 general age adult
+238 general intelligibility ok
+238 general connection average

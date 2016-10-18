@@ -1,0 +1,28 @@
+132 nlang native yes
+132 clang instructions yes
+132 clang useful yes
+132 dowk complete no
+132 dowk partial yes
+132 nums complete no
+132 nums partial yes
+132 htl instructions yes
+132 htl useful yes
+132 htc instructions yes
+132 htc useful yes
+132 room instructions yes
+132 room useful yes
+132 meal instructions yes
+132 meal useful yes
+132 story-bt speech_type extemp
+132 story-bt topic line in Canada, trips to USA, weatehr
+132 story-at speech_type extemp
+132 story-at topic Iranians here
+132 general native yes
+132 general dialect standard
+132 general accent none
+132 general background speech none
+132 general environmental noise none
+132 general gender male
+132 general age adult
+132 general intelligibility ok
+132 general connection average

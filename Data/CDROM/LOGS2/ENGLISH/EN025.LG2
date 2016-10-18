@@ -1,0 +1,24 @@
+25 nlang native yes
+25 dowk complete no
+25 dowk partial yes
+25 nums complete no
+25 nums partial yes
+25 htl instructions yes
+25 htl useful yes
+25 htc instructions yes
+25 htc useful yes
+25 room instructions yes
+25 room useful yes
+25 meal instructions yes
+25 meal useful yes
+25 story-at speech_type extemp
+25 story-at topic hobbies of cross country skiing and hiking
+25 general native yes
+25 general dialect standard
+25 general accent none
+25 general background speech none
+25 general environmental noise none
+25 general gender male
+25 general age adult
+25 general intelligibility ok
+25 general connection average

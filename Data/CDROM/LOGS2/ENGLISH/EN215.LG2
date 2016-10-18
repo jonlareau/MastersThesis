@@ -1,0 +1,26 @@
+215 nlang native yes
+215 clang instructions yes
+215 clang useful yes
+215 dowk complete yes
+215 nums complete yes
+215 htl instructions yes
+215 htl useful yes
+215 htc instructions yes
+215 htc useful yes
+215 room instructions yes
+215 room useful yes
+215 meal instructions yes
+215 meal useful yes
+215 story-bt speech_type extemp
+215 story-bt topic keeping the weeds down in his garden
+215 story-at speech_type extemp
+215 story-at topic hedgehog eats his garden
+215 general native yes
+215 general dialect standard
+215 general accent none
+215 general background speech none
+215 general environmental noise none
+215 general gender male
+215 general age adult
+215 general intelligibility ok
+215 general connection average

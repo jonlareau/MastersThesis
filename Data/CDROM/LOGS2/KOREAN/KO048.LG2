@@ -1,0 +1,25 @@
+48 nlang native yes
+48 clang instructions yes
+48 clang useful yes
+48 dowk complete no
+48 dowk partial yes
+48 nums complete yes
+48 htl instructions yes
+48 htl useful yes
+48 htc instructions yes
+48 htc useful yes
+48 room instructions yes
+48 room useful yes
+48 meal instructions yes
+48 meal useful yes
+48 story-bt speech_type extemp
+48 story-bt topic My occupation and hobby.
+48 general native yes
+48 general dialect standard
+48 general accent none
+48 general background speech none
+48 general environmental noise none
+48 general gender female
+48 general age adult
+48 general intelligibility ok
+48 general connection average

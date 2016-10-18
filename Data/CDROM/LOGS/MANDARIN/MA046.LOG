@@ -1,0 +1,82 @@
+46 labeler khoward
+46 label_date Tue Aug 13 16:34:54 PDT 1991
+46 nlang comments  
+46 nlang missing nothing
+46 nlang duration_sec 1.0
+46 nlang dc_offset 42
+46 nlang min_samp -2726
+46 nlang max_samp 2342
+46 nlang min_power10 18.9
+46 nlang max_power90 54.3
+46 clang missing nothing
+46 clang duration_sec 1.1
+46 clang dc_offset 42
+46 clang min_samp -1414
+46 clang max_samp 1430
+46 clang min_power10 12.2
+46 clang max_power90 49.1
+46 dowk missing nothing
+46 dowk duration_sec 5.1
+46 dowk dc_offset 42
+46 dowk min_samp -1218
+46 dowk max_samp 942
+46 dowk min_power10 13.0
+46 dowk max_power90 47.8
+46 nums comments BN  
+46 nums missing nothing
+46 nums duration_sec 4.1
+46 nums dc_offset 42
+46 nums min_samp -1750
+46 nums max_samp 1434
+46 nums min_power10 13.5
+46 nums max_power90 46.7
+46 htl comments CE  
+46 htl missing CS
+46 htl duration_sec 8.6
+46 htl dc_offset 42
+46 htl min_samp -1634
+46 htl max_samp 1202
+46 htl min_power10 15.4
+46 htl max_power90 50.6
+46 htc missing nothing
+46 htc duration_sec 9.1
+46 htc dc_offset 42
+46 htc min_samp -1922
+46 htc max_samp 1642
+46 htc min_power10 18.2
+46 htc max_power90 48.9
+46 room comments BN CE  
+46 room missing CS
+46 room duration_sec 10.1
+46 room dc_offset 42
+46 room min_samp -1686
+46 room max_samp 1574
+46 room min_power10 16.2
+46 room max_power90 48.7
+46 meal missing nothing
+46 meal duration_sec 7.8
+46 meal dc_offset 42
+46 meal min_samp -1806
+46 meal max_samp 1418
+46 meal min_power10 12.7
+46 meal max_power90 44.9
+46 story-bt comments BN SS SNL  
+46 story-bt missing nothing
+46 story-bt duration_sec 48.5
+46 story-bt dc_offset 42
+46 story-bt min_samp -1658
+46 story-bt max_samp 1470
+46 story-bt min_power10 15.0
+46 story-bt max_power90 44.4
+46 story-at comments CB SS
+46 story-at missing CS
+46 story-at duration_sec 6.6
+46 story-at dc_offset 42
+46 story-at min_samp -662
+46 story-at max_samp 626
+46 story-at min_power10 11.7
+46 story-at max_power90 41.2
+46 gender male
+46 age adult
+46 connection average
+46 intelligibility ok

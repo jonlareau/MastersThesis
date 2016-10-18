@@ -1,0 +1,82 @@
+51 labeler khoward
+51 label_date Tue Aug 27 12:50:57 PDT 1991
+51 nlang comments ES  
+51 nlang missing nothing
+51 nlang duration_sec 1.4
+51 nlang dc_offset 42
+51 nlang min_samp -4798
+51 nlang max_samp 5838
+51 nlang min_power10 21.3
+51 nlang max_power90 56.5
+51 clang comments ES  
+51 clang missing nothing
+51 clang duration_sec 2.6
+51 clang dc_offset 42
+51 clang min_samp -6670
+51 clang max_samp 6194
+51 clang min_power10 21.3
+51 clang max_power90 60.2
+51 dowk missing nothing
+51 dowk duration_sec 6.7
+51 dowk dc_offset 42
+51 dowk min_samp -5206
+51 dowk max_samp 5962
+51 dowk min_power10 22.2
+51 dowk max_power90 60.0
+51 nums missing nothing
+51 nums duration_sec 4.8
+51 nums dc_offset 42
+51 nums min_samp -2646
+51 nums max_samp 2398
+51 nums min_power10 22.9
+51 nums max_power90 56.7
+51 htl missing nothing
+51 htl duration_sec 6.7
+51 htl dc_offset 42
+51 htl min_samp -4538
+51 htl max_samp 4434
+51 htl min_power10 22.2
+51 htl max_power90 62.2
+51 htc comments CB SNL  
+51 htc missing CS
+51 htc duration_sec 5.2
+51 htc dc_offset 42
+51 htc min_samp -3478
+51 htc max_samp 3122
+51 htc min_power10 22.9
+51 htc max_power90 55.9
+51 room comments CE SNL  
+51 room missing 
+51 room duration_sec 9.9
+51 room dc_offset 42
+51 room min_samp -2114
+51 room max_samp 2058
+51 room min_power10 22.5
+51 room max_power90 54.5
+51 meal missing nothing
+51 meal duration_sec 5.3
+51 meal dc_offset 42
+51 meal min_samp -2998
+51 meal max_samp 2790
+51 meal min_power10 23.2
+51 meal max_power90 58.0
+51 story-bt comments CE SS  
+51 story-bt missing CS
+51 story-bt duration_sec 48.1
+51 story-bt dc_offset 42
+51 story-bt min_samp -7954
+51 story-bt max_samp 9046
+51 story-bt min_power10 23.9
+51 story-bt max_power90 63.0
+51 story-at comments CE SS SNL  
+51 story-at missing CS
+51 story-at duration_sec 8.4
+51 story-at dc_offset 42
+51 story-at min_samp -5730
+51 story-at max_samp 5858
+51 story-at min_power10 23.4
+51 story-at max_power90 60.6
+51 gender male
+51 age adult
+51 connection good
+51 intelligibility ok

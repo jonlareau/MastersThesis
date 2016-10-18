@@ -1,0 +1,82 @@
+142 labeler khoward
+142 label_date Fri Jun 12 12:58:03 PDT 1992
+142 nlang missing nothing
+142 nlang duration_sec 1.2
+142 nlang dc_offset 43
+142 nlang min_samp -951
+142 nlang max_samp 737
+142 nlang min_power10 18.3
+142 nlang max_power90 43.7
+142 clang comments ES  
+142 clang missing nothing
+142 clang duration_sec 1.6
+142 clang dc_offset 43
+142 clang min_samp -2067
+142 clang max_samp 1329
+142 clang min_power10 17.6
+142 clang max_power90 44.0
+142 dowk comments CE  
+142 dowk missing Saturday?
+142 dowk duration_sec 7.2
+142 dowk dc_offset 43
+142 dowk min_samp -2063
+142 dowk max_samp 1645
+142 dowk min_power10 17.9
+142 dowk max_power90 45.8
+142 nums missing nothing
+142 nums duration_sec 9.2
+142 nums dc_offset 43
+142 nums min_samp -2123
+142 nums max_samp 1341
+142 nums min_power10 17.7
+142 nums max_power90 41.1
+142 htl missing nothing
+142 htl duration_sec 6.0
+142 htl dc_offset 43
+142 htl min_samp -2111
+142 htl max_samp 1465
+142 htl min_power10 18.7
+142 htl max_power90 44.0
+142 htc missing nothing
+142 htc duration_sec 7.6
+142 htc dc_offset 43
+142 htc min_samp -2347
+142 htc max_samp 2305
+142 htc min_power10 19.5
+142 htc max_power90 46.6
+142 room comments SNL CE  
+142 room missing CS
+142 room duration_sec 10.5
+142 room dc_offset 43
+142 room min_samp -3003
+142 room max_samp 1321
+142 room min_power10 19.3
+142 room max_power90 46.0
+142 meal comments CE  
+142 meal missing CS
+142 meal duration_sec 8.7
+142 meal dc_offset 43
+142 meal min_samp -2099
+142 meal max_samp 1285
+142 meal min_power10 18.4
+142 meal max_power90 44.0
+142 story-bt comments CE SS SNL  
+142 story-bt missing CS
+142 story-bt duration_sec 47.5
+142 story-bt dc_offset 43
+142 story-bt min_samp -2967
+142 story-bt max_samp 2381
+142 story-bt min_power10 20.6
+142 story-bt max_power90 46.3
+142 story-at comments CB SS  
+142 story-at missing CS
+142 story-at duration_sec 2.9
+142 story-at dc_offset 43
+142 story-at min_samp -1155
+142 story-at max_samp 885
+142 story-at min_power10 19.8
+142 story-at max_power90 39.7
+142 gender male
+142 age adult
+142 connection average
+142 intelligibility ok

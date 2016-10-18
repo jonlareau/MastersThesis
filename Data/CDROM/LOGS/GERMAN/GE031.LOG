@@ -1,0 +1,82 @@
+31 labeler khoward
+31 label_date Wed Aug  7 14:58:14 PDT 1991
+31 nlang missing nothing
+31 nlang duration_sec 1.0
+31 nlang dc_offset 42
+31 nlang min_samp -3946
+31 nlang max_samp 3370
+31 nlang min_power10 23.3
+31 nlang max_power90 59.4
+31 clang comments ES  
+31 clang missing nothing
+31 clang duration_sec 2.7
+31 clang dc_offset 42
+31 clang min_samp -2118
+31 clang max_samp 2578
+31 clang min_power10 24.4
+31 clang max_power90 52.4
+31 dowk missing nothing
+31 dowk duration_sec 5.4
+31 dowk dc_offset 42
+31 dowk min_samp -3206
+31 dowk max_samp 3438
+31 dowk min_power10 24.2
+31 dowk max_power90 51.7
+31 nums missing nothing
+31 nums duration_sec 6.9
+31 nums dc_offset 42
+31 nums min_samp -2250
+31 nums max_samp 2258
+31 nums min_power10 23.9
+31 nums max_power90 49.7
+31 htl comments CE  
+31 htl missing CS
+31 htl duration_sec 9.0
+31 htl dc_offset 42
+31 htl min_samp -2470
+31 htl max_samp 2986
+31 htl min_power10 25.3
+31 htl max_power90 54.1
+31 htc missing nothing
+31 htc duration_sec 8.3
+31 htc dc_offset 42
+31 htc min_samp -2558
+31 htc max_samp 3034
+31 htc min_power10 25.3
+31 htc max_power90 52.8
+31 room comments CE  
+31 room missing CS
+31 room duration_sec 11.2
+31 room dc_offset 42
+31 room min_samp -2974
+31 room max_samp 2598
+31 room min_power10 25.5
+31 room max_power90 51.7
+31 meal comments CE  
+31 meal missing CS
+31 meal duration_sec 8.5
+31 meal dc_offset 42
+31 meal min_samp -2314
+31 meal max_samp 2338
+31 meal min_power10 24.7
+31 meal max_power90 50.8
+31 story-bt comments CE SS  
+31 story-bt missing CS
+31 story-bt duration_sec 48.1
+31 story-bt dc_offset 42
+31 story-bt min_samp -2566
+31 story-bt max_samp 3282
+31 story-bt min_power10 26.1
+31 story-bt max_power90 51.1
+31 story-at comments CB CE SS  
+31 story-at missing CS
+31 story-at duration_sec 7.1
+31 story-at dc_offset 42
+31 story-at min_samp -1674
+31 story-at max_samp 1714
+31 story-at min_power10 25.0
+31 story-at max_power90 47.7
+31 gender male
+31 age adult
+31 connection average
+31 intelligibility ok

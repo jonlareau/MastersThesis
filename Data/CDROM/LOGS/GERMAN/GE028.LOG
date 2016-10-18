@@ -1,0 +1,85 @@
+28 labeler khoward
+28 label_date Fri Aug  2 09:36:52 PDT 1991
+28 nlang comments EN  
+28 nlang missing nothing
+28 nlang duration_sec 1.0
+28 nlang dc_offset 43
+28 nlang min_samp -1223
+28 nlang max_samp 1657
+28 nlang min_power10 22.9
+28 nlang max_power90 49.9
+28 clang comments EN  
+28 clang missing nothing
+28 clang duration_sec 2.3
+28 clang dc_offset 42
+28 clang min_samp -1374
+28 clang max_samp 1438
+28 clang min_power10 23.1
+28 clang max_power90 47.0
+28 dowk comments CE  
+28 dowk missing Saturday Sunday
+28 dowk duration_sec 6.4
+28 dowk dc_offset 42
+28 dowk min_samp -2510
+28 dowk max_samp 2242
+28 dowk min_power10 23.4
+28 dowk max_power90 51.2
+28 nums comments CE  
+28 nums missing 10
+28 nums duration_sec 8.2
+28 nums dc_offset 43
+28 nums min_samp -2063
+28 nums max_samp 2665
+28 nums min_power10 23.3
+28 nums max_power90 50.1
+28 htl comments CE  
+28 htl missing CS
+28 htl duration_sec 8.3
+28 htl dc_offset 43
+28 htl min_samp -2279
+28 htl max_samp 2565
+28 htl min_power10 23.5
+28 htl max_power90 52.9
+28 htc missing nothing
+28 htc duration_sec 7.3
+28 htc dc_offset 43
+28 htc min_samp -3643
+28 htc max_samp 2721
+28 htc min_power10 24.4
+28 htc max_power90 51.7
+28 room comments CE  
+28 room missing CS
+28 room duration_sec 9.1
+28 room dc_offset 43
+28 room min_samp -3647
+28 room max_samp 3385
+28 room min_power10 23.5
+28 room max_power90 54.7
+28 meal comments CE  
+28 meal missing CS
+28 meal duration_sec 8.1
+28 meal dc_offset 43
+28 meal min_samp -2763
+28 meal max_samp 2461
+28 meal min_power10 24.6
+28 meal max_power90 52.5
+28 story-bt comments CE SS  
+28 story-bt missing CS
+28 story-bt duration_sec 48.8
+28 story-bt dc_offset 43
+28 story-bt min_samp -3163
+28 story-bt max_samp 3101
+28 story-bt min_power10 24.8
+28 story-bt max_power90 53.5
+28 story-at comments SS  
+28 story-at missing nothing
+28 story-at duration_sec 6.9
+28 story-at dc_offset 43
+28 story-at min_samp -2643
+28 story-at max_samp 2173
+28 story-at min_power10 23.7
+28 story-at max_power90 51.3
+28 gender male
+28 age adult
+28 connection average
+28 intelligibility ok

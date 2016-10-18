@@ -1,0 +1,82 @@
+26 labeler khoward
+26 label_date Thu Aug  1 10:52:44 PDT 1991
+26 nlang missing nothing
+26 nlang duration_sec 1.0
+26 nlang dc_offset 42
+26 nlang min_samp -5358
+26 nlang max_samp 5554
+26 nlang min_power10 12.4
+26 nlang max_power90 48.8
+26 clang missing nothing
+26 clang duration_sec 1.1
+26 clang dc_offset 42
+26 clang min_samp -2162
+26 clang max_samp 2562
+26 clang min_power10 10.1
+26 clang max_power90 49.2
+26 dowk missing nothing
+26 dowk duration_sec 6.1
+26 dowk dc_offset 42
+26 dowk min_samp -2446
+26 dowk max_samp 3378
+26 dowk min_power10 10.7
+26 dowk max_power90 52.3
+26 nums missing nothing
+26 nums duration_sec 8.4
+26 nums dc_offset 42
+26 nums min_samp -2862
+26 nums max_samp 2910
+26 nums min_power10 10.6
+26 nums max_power90 51.9
+26 htl comments BN  
+26 htl missing nothing
+26 htl duration_sec 8.4
+26 htl dc_offset 42
+26 htl min_samp -1942
+26 htl max_samp 1906
+26 htl min_power10 15.6
+26 htl max_power90 52.9
+26 htc comments BN CE  
+26 htc missing CS
+26 htc duration_sec 7.2
+26 htc dc_offset 42
+26 htc min_samp -2470
+26 htc max_samp 4046
+26 htc min_power10 15.3
+26 htc max_power90 54.1
+26 room comments BN CE  
+26 room missing CS
+26 room duration_sec 9.0
+26 room dc_offset 42
+26 room min_samp -2006
+26 room max_samp 2082
+26 room min_power10 13.0
+26 room max_power90 51.2
+26 meal comments CE  
+26 meal missing CS
+26 meal duration_sec 7.3
+26 meal dc_offset 42
+26 meal min_samp -2086
+26 meal max_samp 2590
+26 meal min_power10 11.3
+26 meal max_power90 52.5
+26 story-bt comments BN CE SS  
+26 story-bt missing CS
+26 story-bt duration_sec 46.3
+26 story-bt dc_offset 42
+26 story-bt min_samp -2430
+26 story-bt max_samp 2338
+26 story-bt min_power10 11.2
+26 story-bt max_power90 49.9
+26 story-at comments BN SS  
+26 story-at missing nothing
+26 story-at duration_sec 4.7
+26 story-at dc_offset 42
+26 story-at min_samp -2006
+26 story-at max_samp 2302
+26 story-at min_power10 18.0
+26 story-at max_power90 55.5
+26 gender male
+26 age adult
+26 connection average
+26 intelligibility ok

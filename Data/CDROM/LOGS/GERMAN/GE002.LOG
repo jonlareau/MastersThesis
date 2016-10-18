@@ -1,0 +1,86 @@
+2 labeler khoward
+2 label_date Wed Jul  3 11:20:29 PDT 1991
+2 nlang comments ES  
+2 nlang missing nothing
+2 nlang duration_sec 1.7
+2 nlang dc_offset 42
+2 nlang min_samp -898
+2 nlang max_samp 1082
+2 nlang min_power10 20.8
+2 nlang max_power90 47.5
+2 clang comments ES  
+2 clang missing nothing
+2 clang duration_sec 1.9
+2 clang dc_offset 42
+2 clang min_samp -1382
+2 clang max_samp 1982
+2 clang min_power10 20.4
+2 clang max_power90 44.8
+2 dowk comments BN  
+2 dowk missing nothing
+2 dowk duration_sec 4.8
+2 dowk dc_offset 42
+2 dowk min_samp -826
+2 dowk max_samp 1038
+2 dowk min_power10 20.1
+2 dowk max_power90 45.2
+2 nums comments EN  
+2 nums missing nothing
+2 nums duration_sec 6.6
+2 nums dc_offset 42
+2 nums min_samp -658
+2 nums max_samp 974
+2 nums min_power10 20.0
+2 nums max_power90 44.1
+2 htl comments BN CE  
+2 htl missing CS
+2 htl duration_sec 9.1
+2 htl dc_offset 42
+2 htl min_samp -1158
+2 htl max_samp 1650
+2 htl min_power10 20.9
+2 htl max_power90 45.9
+2 htc comments BN CE  
+2 htc missing CS
+2 htc duration_sec 9.6
+2 htc dc_offset 42
+2 htc min_samp -1138
+2 htc max_samp 1566
+2 htc min_power10 20.9
+2 htc max_power90 45.4
+2 room comments BN  
+2 room missing nothing
+2 room duration_sec 8.1
+2 room dc_offset 42
+2 room min_samp -1306
+2 room max_samp 1562
+2 room min_power10 20.1
+2 room max_power90 46.6
+2 meal comments BN  
+2 meal missing nothing
+2 meal duration_sec 3.4
+2 meal dc_offset 42
+2 meal min_samp -994
+2 meal max_samp 1078
+2 meal min_power10 20.5
+2 meal max_power90 41.7
+2 story-bt comments BN CE SS  
+2 story-bt missing CS
+2 story-bt duration_sec 48.3
+2 story-bt dc_offset 42
+2 story-bt min_samp -1318
+2 story-bt max_samp 1790
+2 story-bt min_power10 20.4
+2 story-bt max_power90 45.4
+2 story-at comments BN SS  
+2 story-at missing nothing
+2 story-at duration_sec 3.5
+2 story-at dc_offset 42
+2 story-at min_samp -1386
+2 story-at max_samp 1750
+2 story-at min_power10 20.5
+2 story-at max_power90 43.8
+2 gender male
+2 age adult
+2 connection average
+2 intelligibility ok
